@@ -18,9 +18,8 @@ jobs:
         uses: actions/checkout@v2
       # Fetch the dataset, write the data to json files and push the files to the repo
       - name: Fetch and write data
-        uses: treecg/LDES-Action@main
+        uses: treecg/LDES-Action@feat-33
         with:
-          gh_pages_url: 'pieter.pm/coghent-substrings'
           datasource_strategy: 'ldes-client'
           # url you want to fetch
           url: 'https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus'
@@ -28,5 +27,6 @@ jobs:
           storage: 'thesaurus'
           fragmentation_strategy: 'substring'
           fragmentation_page_size: 20
+          timeout: 1000 * 60
           property_path: '<http://www.w3.org/2004/02/skos/core#prefLabel>'
           stream_data: "true"
