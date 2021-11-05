@@ -906,3 +906,244 @@ _:df_1_841 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/plu.ttl>;
     <https://w3id.org/tree#value> "plu".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pl.ttl>.
+<https://stad.gent/id/concept/570022945/2021-10-28T13:19:37.051Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022945>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:19:37.051Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1884039>;
+    <http://www.w3.org/ns/adms#identifier> _:df_352_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plaatmetaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl, "metaal"@nl.
+_:df_352_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022945"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022945/2021-10-28T13:19:37.051Z>.
+<https://stad.gent/id/concept/570022789/2021-10-28T13:13:55.811Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022789>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:13:55.811Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011301>;
+    <http://www.w3.org/ns/adms#identifier> _:df_391_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Plymouth"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_391_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022789"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022789/2021-10-28T13:13:55.811Z>.
+<https://stad.gent/id/concept/570022729/2021-10-28T13:10:42.712Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022729>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:10:42.712Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300221579>;
+    <http://www.w3.org/ns/adms#identifier> _:df_412_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders die rollen plakband afgeven, gewoonlijk drukgevoelig. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plakbandhouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_412_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022729"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022729/2021-10-28T13:10:42.712Z>.
+<https://stad.gent/id/concept/570019675/2021-10-28T12:41:47.017Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019675>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:41:47.017Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_610_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "platenrek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_610_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019675"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019675/2021-10-28T12:41:47.017Z>.
+<https://stad.gent/id/concept/570018982/2021-10-28T12:12:22.664Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018982>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:12:22.664Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014616>;
+    <http://www.w3.org/ns/adms#identifier> _:df_817_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_817_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018982"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018982/2021-10-28T12:12:22.664Z>.
+<https://stad.gent/id/concept/570017648/2021-10-28T11:47:35.521Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017648>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:47:35.521Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300310108>;
+    <http://www.w3.org/ns/adms#identifier> _:df_991_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "pparaten die men gebruikt om geluid te reproduceren dat is opgenomen op langspeelplaten, die meestal van vinyl zijn. De term gebruikt men gewoonlijk voor de moderne hifi-versie van de grammofoon, waarbij het geluid elektronisch wordt versterkt en de draaitafel door een elektromotor wordt aangedreven. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "platenspeler"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_991_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017648"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017648/2021-10-28T11:47:35.521Z>.
+<https://stad.gent/id/concept/570017454/2021-10-28T11:40:20.314Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017454>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:40:20.314Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1042_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plooitang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1042_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017454"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017454/2021-10-28T11:40:20.314Z>.
+<https://stad.gent/id/concept/570016688/2021-10-28T11:13:55.827Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016688>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:13:55.827Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1225_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plafondkap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1225_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016688"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016688/2021-10-28T11:13:55.827Z>.
+<https://stad.gent/id/concept/570016098/2021-10-28T10:56:40.014Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016098>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:56:40.014Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247625>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1345_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1345_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016098"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016098/2021-10-28T10:56:40.014Z>.
+<https://stad.gent/id/concept/570015443/2021-10-28T10:43:26.652Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015443>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:43:26.652Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q188613>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1438_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plechtige communie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1438_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015443"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015443/2021-10-28T10:43:26.652Z>.
+<https://stad.gent/id/concept/570015073/2021-10-28T10:35:05.920Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015073>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:35:05.920Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006316>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1495_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pletterij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1495_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015073"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015073/2021-10-28T10:35:05.920Z>.
+<https://stad.gent/id/concept/570014950/2021-10-28T10:32:35.654Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014950>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:32:35.654Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300000240>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1513_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plantage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1513_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014950"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014950/2021-10-28T10:32:35.654Z>.
+<https://stad.gent/id/concept/570014703/2021-10-28T10:25:22.120Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014703>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:25:22.120Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014436>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1564_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plexiglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1564_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014703"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014703/2021-10-28T10:25:22.120Z>.
+<https://stad.gent/id/concept/570012715/2021-10-28T09:42:04.190Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012715>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:42:04.190Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1884039>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1861_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plaatstaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_1861_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012715"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012715/2021-10-28T09:42:04.190Z>.
+<https://stad.gent/id/concept/570011647/2021-10-28T09:26:51.497Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011647>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:26:51.497Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1037492>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1966_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Plauen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1966_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011647"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011647/2021-10-28T09:26:51.497Z>.
+<https://stad.gent/id/concept/570011543/2021-10-28T09:24:55.587Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011543>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:24:55.587Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233317>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1978_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ploeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1978_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011543"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011543/2021-10-28T09:24:55.587Z>.
+<https://stad.gent/id/concept/570011197/2021-10-28T09:21:23.209Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011197>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:21:23.209Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q178559>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2002_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pluimvee"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2002_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011197"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011197/2021-10-28T09:21:23.209Z>.
+<https://stad.gent/id/concept/570009730/2021-10-28T08:56:12.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009730>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:56:12.052Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1312705>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2173_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plaatijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_2173_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009730"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009730/2021-10-28T08:56:12.052Z>.
+<https://stad.gent/id/concept/570009215/2021-10-28T08:40:28.938Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009215>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:40:28.938Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q175185>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2281_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "platteland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2281_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009215"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009215/2021-10-28T08:40:28.938Z>.
+<https://stad.gent/id/concept/570009096/2021-10-28T08:35:57.754Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009096>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:35:57.754Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014570>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2314_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570014353>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570014353> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststof"@nl.
+_:df_2314_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009096"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009096/2021-10-28T08:35:57.754Z>.
+<https://KasperZutterman.github.io///thesaurus/pl.ttl> <https://w3id.org/tree#relation> _:df_1_830.
+_:df_1_830 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pla.ttl>;
+    <https://w3id.org/tree#value> "pla".
+<https://KasperZutterman.github.io///thesaurus/pl.ttl> <https://w3id.org/tree#relation> _:df_1_831.
+_:df_1_831 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ple.ttl>;
+    <https://w3id.org/tree#value> "ple".
+<https://KasperZutterman.github.io///thesaurus/pl.ttl> <https://w3id.org/tree#relation> _:df_1_832.
+_:df_1_832 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/plu.ttl>;
+    <https://w3id.org/tree#value> "plu".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pl.ttl>.

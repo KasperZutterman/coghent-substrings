@@ -35,3 +35,33 @@ _:df_4360_19 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024399"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024399/2021-10-28T14:29:22.306Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/schoo.ttl>.
+<https://stad.gent/id/concept/550009111/2021-10-28T07:25:12.904Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009111>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:25:12.904Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052347>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2791_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoorsteenmantel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008133>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008133> <http://www.w3.org/2004/02/skos/core#prefLabel> "haardstedeonderdelen"@nl.
+_:df_2791_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009111"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009111/2021-10-28T07:25:12.904Z>.
+<https://stad.gent/id/concept/550008034/2021-10-28T06:24:46.229Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008034>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:24:46.229Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028004>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3199_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schooldocument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008035>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003286>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003286> <http://www.w3.org/2004/02/skos/core#prefLabel> "diploma"@nl.
+<https://stad.gent/id/concept/550008035> <http://www.w3.org/2004/02/skos/core#prefLabel> "registratie naar afkomst"@nl, "registratie naar afkomst"@nl.
+_:df_3199_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008034"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008034> <http://www.w3.org/2004/02/skos/core#prefLabel> "schooldocument"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008034/2021-10-28T06:24:46.229Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/schoo.ttl>.

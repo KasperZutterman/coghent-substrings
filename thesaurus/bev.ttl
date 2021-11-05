@@ -130,3 +130,70 @@ _:df_4102_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000078"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000078/2021-10-28T15:06:31.983Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bev.ttl>.
+<https://stad.gent/id/concept/570014851/2021-10-28T10:29:08.572Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014851>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:29:08.572Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026330>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1537_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Beveren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_1537_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014851"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014851/2021-10-28T10:29:08.572Z>.
+<https://stad.gent/id/concept/550008327/2021-10-28T06:50:26.890Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008327>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:50:26.890Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024695>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3028_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bevestigings-en versteluitrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007772>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005893>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005893> <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutel (afsteluitrusting)"@nl.
+<https://stad.gent/id/concept/550007772> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar proces"@nl, "uitrusting naar proces"@nl.
+_:df_3028_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008327"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008327/2021-10-28T06:50:26.890Z>.
+<https://stad.gent/id/concept/550008073/2021-10-28T06:28:17.869Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008073>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:28:17.869Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036363>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3175_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Middelen waarmee losse delen aan elkaar worden vastgemaakt of samengehouden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bevestigingsmiddel (onderdeel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007907>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008258>, <https://stad.gent/id/concept/550003138>, <https://stad.gent/id/concept/550005756>, <https://stad.gent/id/concept/550005503>, <https://stad.gent/id/concept/550005338>, <https://stad.gent/id/concept/550005658>, <https://stad.gent/id/concept/550008072>, <https://stad.gent/id/concept/550005632>, <https://stad.gent/id/concept/550002022>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002022> <http://www.w3.org/2004/02/skos/core#prefLabel> "spijker"@nl.
+<https://stad.gent/id/concept/550005632> <http://www.w3.org/2004/02/skos/core#prefLabel> "sluithaak (bevestigingsmiddel)"@nl.
+<https://stad.gent/id/concept/550008072> <http://www.w3.org/2004/02/skos/core#prefLabel> "pen (bevestigingsmiddel)"@nl.
+<https://stad.gent/id/concept/550005658> <http://www.w3.org/2004/02/skos/core#prefLabel> "nagel (bevestigingsmiddel)"@nl.
+<https://stad.gent/id/concept/550005338> <http://www.w3.org/2004/02/skos/core#prefLabel> "kous (bevestigingsmiddel)"@nl.
+<https://stad.gent/id/concept/550005503> <http://www.w3.org/2004/02/skos/core#prefLabel> "knoop (bevestigingsmiddel)"@nl.
+<https://stad.gent/id/concept/550005756> <http://www.w3.org/2004/02/skos/core#prefLabel> "haak (bevestigingsmiddel)"@nl.
+<https://stad.gent/id/concept/550003138> <http://www.w3.org/2004/02/skos/core#prefLabel> "gesp (bevestingsmiddel)"@nl.
+<https://stad.gent/id/concept/550008258> <http://www.w3.org/2004/02/skos/core#prefLabel> "anker (bevestigingsmiddel)"@nl.
+<https://stad.gent/id/concept/550007907> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdelen naar algemene context"@nl.
+_:df_3175_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008073"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008073> <http://www.w3.org/2004/02/skos/core#prefLabel> "bevestigingsmiddel (onderdeel)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008073/2021-10-28T06:28:17.869Z>.
+<https://stad.gent/id/concept/550006790/2021-10-28T05:48:52.894Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006790>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:48:52.894Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026330>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3439_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Beveren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_3439_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006790"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006790/2021-10-28T05:48:52.894Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bev.ttl>.

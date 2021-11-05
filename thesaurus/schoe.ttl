@@ -32,3 +32,51 @@ _:df_4309_36 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024530"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024530/2021-10-28T14:36:52.049Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/schoe.ttl>.
+<https://stad.gent/id/concept/550008651/2021-10-28T07:05:14.563Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008651>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:05:14.563Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400785>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2926_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bodemstuk van een schoen dat direct contact met de grond verhindert. Meestal gemaakt uit stevige maar flexibele materialen zoals leer of rubber en aan de schoen vastgelijmd, -gespijkerd of -genaaid.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoenzool"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008221>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008221> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledingonderdelen"@nl.
+_:df_2926_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008651"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008651/2021-10-28T07:05:14.563Z>.
+<https://stad.gent/id/concept/550008317/2021-10-28T06:49:32.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008317>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:49:32.997Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300252212>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3034_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoeisel naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006224>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003117>, <https://stad.gent/id/concept/550008584>, <https://stad.gent/id/concept/550005314>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005314> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoen"@nl.
+<https://stad.gent/id/concept/550008584> <http://www.w3.org/2004/02/skos/core#prefLabel> "sandaal"@nl.
+<https://stad.gent/id/concept/550003117> <http://www.w3.org/2004/02/skos/core#prefLabel> "laars"@nl.
+<https://stad.gent/id/concept/550006224> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoeisel"@nl.
+_:df_3034_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008317"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008317/2021-10-28T06:49:32.997Z>.
+<https://stad.gent/id/concept/550006224/2021-10-28T05:30:05.919Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006224>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:30:05.919Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209280>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3565_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bedekkingen voor de voeten die soms tot boven de enkel lopen en over het algemeen van duurzaam materiaal zijn gemaakt. Wordt onderscheiden van `kousen en sokken' die primair beenbedekkingen zijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoeisel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008213>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008317>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008317> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoeisel naar vorm"@nl.
+<https://stad.gent/id/concept/550008213> <http://www.w3.org/2004/02/skos/core#prefLabel> "been- of voetaccessoires"@nl.
+_:df_3565_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006224"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006224/2021-10-28T05:30:05.919Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/schoe.ttl>.

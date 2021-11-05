@@ -471,3 +471,183 @@ _:df_4474_24 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024112"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024112/2021-10-28T14:12:34.509Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kan.ttl>.
+<https://stad.gent/id/concept/570019040/2021-10-28T12:15:09.144Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019040>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:15:09.144Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7244196>;
+    <http://www.w3.org/ns/adms#identifier> _:df_796_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kanegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_796_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019040"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019040/2021-10-28T12:15:09.144Z>.
+<https://stad.gent/id/concept/570018956/2021-10-28T12:10:31.886Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018956>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:10:31.886Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q64407093>;
+    <http://www.w3.org/ns/adms#identifier> _:df_829_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kantklossen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_829_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018956"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018956/2021-10-28T12:10:31.886Z>.
+<https://stad.gent/id/concept/570017657/2021-10-28T11:48:00.528Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017657>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:48:00.528Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037588>;
+    <http://www.w3.org/ns/adms#identifier> _:df_988_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kandelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_988_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017657"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017657/2021-10-28T11:48:00.528Z>.
+<https://stad.gent/id/concept/570016827/2021-10-28T11:20:00.039Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016827>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:20:00.039Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1183_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kanaalzoeker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1183_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016827"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016827/2021-10-28T11:20:00.039Z>.
+<https://stad.gent/id/concept/570015675/2021-10-28T10:47:43.823Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015675>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:47:43.823Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300444056>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1408_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kanalisatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1408_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015675"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015675/2021-10-28T10:47:43.823Z>.
+<https://stad.gent/id/concept/570015364/2021-10-28T10:42:19.823Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015364>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:42:19.823Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036936>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1447_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kanon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1447_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015364"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015364/2021-10-28T10:42:19.823Z>.
+<https://stad.gent/id/concept/570014737/2021-10-28T10:26:19.390Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014737>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:26:19.390Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1558_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kantoormeubilair"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1558_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014737"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014737/2021-10-28T10:26:19.390Z>.
+<https://stad.gent/id/concept/570014590/2021-10-28T10:20:59.339Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014590>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:20:59.339Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045666>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1594_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hoge vaten met een wijde mond en meestal een schenktuit, met een diepe kom op een voet en één verticaal handvat. De beker is meestal cilindrisch, balustervormig of helmvormig.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1594_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014590"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014590/2021-10-28T10:20:59.339Z>.
+<https://stad.gent/id/concept/570010777/2021-10-28T09:17:31.801Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010777>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:17:31.801Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300007043>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2029_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebouwen waar in algemene zin kantoor gehouden wordt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kantoorgebouwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2029_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010777"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010777/2021-10-28T09:17:31.801Z>.
+<https://stad.gent/id/concept/570010414/2021-10-28T09:12:48.447Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010414>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:12:48.447Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q28165>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2062_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaneel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2062_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010414"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010414/2021-10-28T09:12:48.447Z>.
+<https://stad.gent/id/concept/570010105/2021-10-28T09:05:35.379Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010105>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:05:35.379Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/q12078>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2110_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kanker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2110_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010105"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010105/2021-10-28T09:05:35.379Z>.
+<https://stad.gent/id/concept/570008511/2021-10-28T08:15:22.189Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008511>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:15:22.189Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132861>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2452_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en, "techniek"@nl, "technique"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2452_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008511"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008511/2021-10-28T08:15:22.189Z>.
+<https://stad.gent/id/concept/570002213/2021-10-28T07:45:59.966Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002213>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:45:59.966Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2653_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kantoormachines"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectcategorie"@nl, "object category"@en, "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2653_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002213"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002213/2021-10-28T07:45:59.966Z>.
+<https://stad.gent/id/concept/570001995/2021-10-28T07:44:45.204Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001995>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:44:45.204Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2662_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kantoorinrichting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2662_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001995"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001995/2021-10-28T07:44:45.204Z>.
+<https://stad.gent/id/concept/550006471/2021-10-28T05:39:48.918Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:39:48.918Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004554>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3499_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kanazawa"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005009>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Japan"@nl.
+_:df_3499_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006471/2021-10-28T05:39:48.918Z>.
+<https://stad.gent/id/concept/550006155/2021-10-28T05:27:02.155Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006155>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:27:02.155Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201708>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3586_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bolvormige, massieve projectielen van steen of ijzer die zijn bedoeld om met voorlaadkanonnen te worden afgevuurd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kanonskogel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008188>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008188> <http://www.w3.org/2004/02/skos/core#prefLabel> "artilleriemunitie"@nl.
+_:df_3586_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006155"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006155/2021-10-28T05:27:02.155Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kan.ttl>.

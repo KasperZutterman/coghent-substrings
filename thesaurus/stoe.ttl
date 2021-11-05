@@ -21,3 +21,45 @@ _:df_3406_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470006990"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470006990/2021-10-31T07:20:10.480Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/stoe.ttl>.
+<https://stad.gent/id/concept/570008659/2021-10-28T08:19:53.288Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008659>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:19:53.288Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q657449>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2422_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stoet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2422_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008659"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008659/2021-10-28T08:19:53.288Z>.
+<https://stad.gent/id/concept/550007915/2021-10-28T06:14:16.789Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007915>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:14:16.789Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038131>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3268_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelen naar functie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002357>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006214>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006214> <http://www.w3.org/2004/02/skos/core#prefLabel> "bidstoel"@nl.
+<https://stad.gent/id/concept/550002357> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoel"@nl.
+_:df_3268_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007915"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007915/2021-10-28T06:14:16.789Z>.
+<https://stad.gent/id/concept/550007834/2021-10-28T06:06:57.797Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007834>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:06:57.797Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037775>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3316_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelen naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002357>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007833>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007833> <http://www.w3.org/2004/02/skos/core#prefLabel> "leunstoel"@nl.
+<https://stad.gent/id/concept/550002357> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoel"@nl, "stoel"@nl.
+_:df_3316_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007834"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007834/2021-10-28T06:06:57.797Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/stoe.ttl>.

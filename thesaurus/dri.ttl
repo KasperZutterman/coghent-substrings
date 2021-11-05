@@ -90,3 +90,56 @@ _:df_3856_30 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000521"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000521/2021-10-28T15:42:53.149Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/dri.ttl>.
+<https://stad.gent/id/concept/570011064/2021-10-28T09:19:54.540Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011064>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:19:54.540Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011778>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2014_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Water dat veilig of geschikt is om te drinken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkwater"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2014_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011064"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011064/2021-10-28T09:19:54.540Z>.
+<https://stad.gent/id/concept/550006133/2021-10-28T05:25:49.963Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006133>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:25:49.963Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043230>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3595_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drinkvaatwerk van glas bedoeld voor één enkel persoon.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005555>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008111>, <https://stad.gent/id/concept/550006137>, <https://stad.gent/id/concept/550002174>, <https://stad.gent/id/concept/550002254>, <https://stad.gent/id/concept/550000868>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000868> <http://www.w3.org/2004/02/skos/core#prefLabel> "wijnglas"@nl.
+<https://stad.gent/id/concept/550002254> <http://www.w3.org/2004/02/skos/core#prefLabel> "likeurglas"@nl.
+<https://stad.gent/id/concept/550002174> <http://www.w3.org/2004/02/skos/core#prefLabel> "kelkglas"@nl.
+<https://stad.gent/id/concept/550006137> <http://www.w3.org/2004/02/skos/core#prefLabel> "bokaal"@nl.
+<https://stad.gent/id/concept/550008111> <http://www.w3.org/2004/02/skos/core#prefLabel> "bierglas"@nl.
+<https://stad.gent/id/concept/550005555> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkgerei"@nl.
+_:df_3595_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006133"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006133/2021-10-28T05:25:49.963Z>.
+<https://stad.gent/id/concept/550005555/2021-10-28T05:07:04.901Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005555>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:07:04.901Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194567>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3721_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders gebruikt om vloeistoffen uit te drinken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkgerei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007897>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005739>, <https://stad.gent/id/concept/550005212>, <https://stad.gent/id/concept/550006133>, <https://stad.gent/id/concept/550005887>, <https://stad.gent/id/concept/550007967>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007967> <http://www.w3.org/2004/02/skos/core#prefLabel> "schertsdrinkgerei"@nl.
+<https://stad.gent/id/concept/550005887> <http://www.w3.org/2004/02/skos/core#prefLabel> "kop (drinkgerei)"@nl.
+<https://stad.gent/id/concept/550006133> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkglas"@nl.
+<https://stad.gent/id/concept/550005212> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkbeker"@nl.
+<https://stad.gent/id/concept/550005739> <http://www.w3.org/2004/02/skos/core#prefLabel> "bierpul"@nl.
+<https://stad.gent/id/concept/550007897> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk voor het opdienen en consumeren van voedsel"@nl.
+_:df_3721_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005555"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005555/2021-10-28T05:07:04.901Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/dri.ttl>.

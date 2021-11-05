@@ -39,3 +39,17 @@ _:df_2392_23 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530000650"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000650/2021-10-31T09:43:15.415Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ton.ttl>.
+<https://stad.gent/id/concept/570000386/2021-10-28T07:34:00.585Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:34:00.585Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008015>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2734_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tongeren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_2734_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000386"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000386/2021-10-28T07:34:00.585Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ton.ttl>.

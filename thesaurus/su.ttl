@@ -646,3 +646,141 @@ _:df_1_1095 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/sui.ttl>;
     <https://w3id.org/tree#value> "sui".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/su.ttl>.
+<https://stad.gent/id/concept/570023674/2021-10-28T13:50:33.640Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023674>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:50:33.640Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7008133>;
+    <http://www.w3.org/ns/adms#identifier> _:df_142_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sussex"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570023675>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023675> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crawley"@nl.
+_:df_142_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023674"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570023674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sussex"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023674/2021-10-28T13:50:33.640Z>.
+<https://stad.gent/id/concept/570023629/2021-10-28T13:48:57.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023629>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:48:57.557Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1040985>;
+    <http://www.w3.org/ns/adms#identifier> _:df_154_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Süchteln"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_154_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023629"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023629/2021-10-28T13:48:57.557Z>.
+<https://stad.gent/id/concept/570023089/2021-10-28T13:26:27.693Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023089>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:26:27.693Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_304_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suikerbreektang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_304_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023089"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023089/2021-10-28T13:26:27.693Z>.
+<https://stad.gent/id/concept/570019215/2021-10-28T12:21:52.324Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019215>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:21:52.324Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043069>;
+    <http://www.w3.org/ns/adms#identifier> _:df_751_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Potten met deksels voor het bewaren en serveren van suiker; worden vaak gemaakt als set met één of twee theebusjes. Soms bevatten ze een suikerschep voor het opdienen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suikerpot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_751_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019215"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019215/2021-10-28T12:21:52.324Z>.
+<https://stad.gent/id/concept/570019033/2021-10-28T12:14:54.139Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019033>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:14:54.139Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q151964>;
+    <http://www.w3.org/ns/adms#identifier> _:df_799_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suikerbieten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_799_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019033"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019033/2021-10-28T12:14:54.139Z>.
+<https://stad.gent/id/concept/570018975/2021-10-28T12:11:52.330Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018975>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:11:52.330Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300193368>;
+    <http://www.w3.org/ns/adms#identifier> _:df_820_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suede"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_820_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018975"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018975/2021-10-28T12:11:52.330Z>.
+<https://stad.gent/id/concept/570016977/2021-10-28T11:26:18.958Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016977>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:26:18.958Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199831>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1138_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suikertang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1138_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016977"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016977/2021-10-28T11:26:18.958Z>.
+<https://stad.gent/id/concept/570016909/2021-10-28T11:22:41.603Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016909>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:22:41.603Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1165_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suikerbus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1165_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016909"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016909/2021-10-28T11:22:41.603Z>.
+<https://stad.gent/id/concept/570013858/2021-10-28T10:04:57.219Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:04:57.219Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008185>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1702_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Suffolk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_1702_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013858/2021-10-28T10:04:57.219Z>.
+<https://stad.gent/id/concept/570013021/2021-10-28T09:47:23.256Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013021>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:47:23.256Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q227857>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1825_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suikerfabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1825_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013021"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013021/2021-10-28T09:47:23.256Z>.
+<https://stad.gent/id/concept/570009635/2021-10-28T08:53:03.908Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009635>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:53:03.908Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006358>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2194_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suikerraffinaderij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2194_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009635"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009635/2021-10-28T08:53:03.908Z>.
+<https://stad.gent/id/concept/570000449/2021-10-28T07:34:18.471Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000449>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:34:18.471Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300183931>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2731_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "suiker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2731_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000449"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000449/2021-10-28T07:34:18.471Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/su.ttl>.

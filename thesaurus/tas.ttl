@@ -9,3 +9,38 @@ _:df_3808_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000603"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000603/2021-10-28T15:49:36.985Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/tas.ttl>.
+<https://stad.gent/id/concept/550008144/2021-10-28T06:34:31.788Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008144>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:34:31.788Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198926>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3133_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zachte of onbuigzame accessoires voor het dragen van persoonlijke artikelen, vaak met een trekkoordsluiting. Gebruik 'handtassen' voor tassen met een vast frame en knipsluiting.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tas (kledingaccessoire)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008145>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005318>, <https://stad.gent/id/concept/550005320>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005320> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoudertas"@nl.
+<https://stad.gent/id/concept/550005318> <http://www.w3.org/2004/02/skos/core#prefLabel> "handtas"@nl.
+<https://stad.gent/id/concept/550008145> <http://www.w3.org/2004/02/skos/core#prefLabel> "meegedragen kledingaccessoires"@nl.
+_:df_3133_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008144"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008144> <http://www.w3.org/2004/02/skos/core#prefLabel> "tas (kledingaccessoire)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008144/2021-10-28T06:34:31.788Z>.
+<https://stad.gent/id/concept/550006009/2021-10-28T05:21:22.967Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:21:22.967Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194509>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3625_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders of verpakkingen van leer, stof, papier of ander flexibel materialen die bij de opening kunnen worden gesloten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tas (houder)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007776>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003170>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003170> <http://www.w3.org/2004/02/skos/core#prefLabel> "zak (houder)"@nl.
+<https://stad.gent/id/concept/550007776> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders naar vorm"@nl.
+_:df_3625_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006009/2021-10-28T05:21:22.967Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/tas.ttl>.

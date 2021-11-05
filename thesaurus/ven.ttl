@@ -212,3 +212,143 @@ _:df_2965_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470009342"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009342/2021-10-31T08:22:11.673Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ven.ttl>.
+<https://stad.gent/id/concept/570016713/2021-10-28T11:14:52.497Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016713>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:14:52.497Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209970>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1219_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Apparaten en toestellen die een kunstmatige luchtstroom produceren. Worden gebruikt voor het afkoelen van personen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ventilator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1219_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016713"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016713/2021-10-28T11:14:52.497Z>.
+<https://stad.gent/id/concept/570013442/2021-10-28T09:57:27.046Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013442>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:57:27.046Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300051541>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1756_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ventilatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1756_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013442"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013442/2021-10-28T09:57:27.046Z>.
+<https://stad.gent/id/concept/570009128/2021-10-28T08:37:13.703Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009128>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:37:13.703Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055586>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2305_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vennootschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2305_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009128"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009128/2021-10-28T08:37:13.703Z>.
+<https://stad.gent/id/concept/570000041/2021-10-28T07:29:29.272Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000041>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:29:29.272Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7018159>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2764_42;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Venetië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_2764_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000041"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000041/2021-10-28T07:29:29.272Z>.
+<https://stad.gent/id/concept/550008318/2021-10-28T06:49:41.877Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008318>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:49:41.877Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045475>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3031_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metalen beschemroosters, vaak gedetailleerd en decoratief.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "venstertralie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008373>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008373> <http://www.w3.org/2004/02/skos/core#prefLabel> "rasterwerk (hekwerkelement)"@nl.
+_:df_3031_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008318"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008318/2021-10-28T06:49:41.877Z>.
+<https://stad.gent/id/concept/550008305/2021-10-28T06:48:29.319Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008305>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:48:29.319Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003087>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3040_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vensteronderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007950>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003843>, <https://stad.gent/id/concept/550008306>, <https://stad.gent/id/concept/550005224>, <https://stad.gent/id/concept/550001910>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001910> <http://www.w3.org/2004/02/skos/core#prefLabel> "vensterkorf"@nl.
+<https://stad.gent/id/concept/550005224> <http://www.w3.org/2004/02/skos/core#prefLabel> "vensterhekje"@nl.
+<https://stad.gent/id/concept/550008306> <http://www.w3.org/2004/02/skos/core#prefLabel> "raamkozijnen en raamkozijnonderdelen"@nl.
+<https://stad.gent/id/concept/550003843> <http://www.w3.org/2004/02/skos/core#prefLabel> "raam"@nl.
+<https://stad.gent/id/concept/550007950> <http://www.w3.org/2004/02/skos/core#prefLabel> "vensters en vensteronderdelen"@nl.
+_:df_3040_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008305"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008305> <http://www.w3.org/2004/02/skos/core#prefLabel> "vensteronderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008305/2021-10-28T06:48:29.319Z>.
+<https://stad.gent/id/concept/550008013/2021-10-28T06:22:54.775Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008013>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:22:54.775Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033510>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3211_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor allerlei bevestigingsmiddelen waarmee twee delen van een raam bijeen worden gehouden om te voorkomen dat ze open gaan of gaan klapperen. Raamsluitingen worden meestal bevestigd aan de sluitrail van een dubbel gehangen raam.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "venstersluiting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008014>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008014> <http://www.w3.org/2004/02/skos/core#prefLabel> "sloten naar locatie of context"@nl.
+_:df_3211_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008013"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008013> <http://www.w3.org/2004/02/skos/core#prefLabel> "venstersluiting"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008013/2021-10-28T06:22:54.775Z>.
+<https://stad.gent/id/concept/550007950/2021-10-28T06:17:24.603Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007950>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:17:24.603Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052375>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3247_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vensters en vensteronderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007951>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002537>, <https://stad.gent/id/concept/550008305>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008305> <http://www.w3.org/2004/02/skos/core#prefLabel> "vensteronderdelen"@nl.
+<https://stad.gent/id/concept/550002537> <http://www.w3.org/2004/02/skos/core#prefLabel> "venster"@nl.
+<https://stad.gent/id/concept/550007951> <http://www.w3.org/2004/02/skos/core#prefLabel> "openingen naar vorm"@nl, "openingen naar vorm"@nl.
+_:df_3247_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007950"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007950> <http://www.w3.org/2004/02/skos/core#prefLabel> "vensters en vensteronderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007950/2021-10-28T06:17:24.603Z>.
+<https://stad.gent/id/concept/550007949/2021-10-28T06:17:14.755Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007949>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:17:14.755Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069355>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3250_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vensters naar locatie of context"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002537>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005576>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005576> <http://www.w3.org/2004/02/skos/core#prefLabel> "bovenlicht"@nl.
+<https://stad.gent/id/concept/550002537> <http://www.w3.org/2004/02/skos/core#prefLabel> "venster"@nl.
+_:df_3250_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007949"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007949/2021-10-28T06:17:14.755Z>.
+<https://stad.gent/id/concept/550006135/2021-10-28T05:25:59.967Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:25:59.967Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7018159>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3592_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Venetië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000038>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_3592_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006135/2021-10-28T05:25:59.967Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ven.ttl>.

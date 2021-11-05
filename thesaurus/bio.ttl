@@ -10,3 +10,31 @@ _:df_4357_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024401"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024401/2021-10-28T14:29:32.308Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bio.ttl>.
+<https://stad.gent/id/concept/570008153/2021-10-28T08:10:59.133Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008153>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:10:59.133Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055908>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2482_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "biografie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2482_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008153"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008153/2021-10-28T08:10:59.133Z>.
+<https://stad.gent/id/concept/550008760/2021-10-28T07:10:19.993Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008760>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:10:19.993Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265629>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2893_39;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "biologische materialen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008761>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008759>, <https://stad.gent/id/concept/550008437>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008437> <http://www.w3.org/2004/02/skos/core#prefLabel> "plantaardig materiaal"@nl.
+<https://stad.gent/id/concept/550008759> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierlijk materiaal"@nl, "dierlijk materiaal"@nl.
+<https://stad.gent/id/concept/550008761> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar herkomst"@nl.
+_:df_2893_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008760"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008760/2021-10-28T07:10:19.993Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bio.ttl>.

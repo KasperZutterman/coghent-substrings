@@ -40,3 +40,32 @@ _:df_4471_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024114"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024114/2021-10-28T14:12:44.512Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/stal.ttl>.
+<https://stad.gent/id/concept/570008526/2021-10-28T08:15:32.193Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008526>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:15:32.193Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010544>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2452_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stalybridge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_2452_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008526"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008526/2021-10-28T08:15:32.193Z>.
+<https://stad.gent/id/concept/550008585/2021-10-28T07:00:00.691Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:00:00.691Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026131>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2962_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Boeken met ontwerpen of tekeningen die zijn verspreid of uitgegeven om wijdverspreide reproductie mogelijk te maken. Ze kunnen worden gebruikt voor tekening- of prentverzamelingen die dienen als modellen voor kunstenaars.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stalenboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008586>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008586> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwijsbron"@nl.
+_:df_2962_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008585> <http://www.w3.org/2004/02/skos/core#prefLabel> "stalenboek"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008585/2021-10-28T07:00:00.691Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/stal.ttl>.

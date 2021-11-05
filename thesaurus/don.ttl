@@ -20,3 +20,17 @@ _:df_4090_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000099"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000099/2021-10-28T15:08:15.957Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/don.ttl>.
+<https://stad.gent/id/concept/570009845/2021-10-28T08:57:48.141Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:57:48.141Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7246782>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2161_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dongelberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020489>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant (provincie)"@nl.
+_:df_2161_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009845/2021-10-28T08:57:48.141Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/don.ttl>.

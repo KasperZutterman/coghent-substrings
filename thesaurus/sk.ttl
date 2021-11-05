@@ -215,3 +215,47 @@ _:df_3214_19 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008052"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008052/2021-10-31T07:47:26.455Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sk.ttl>.
+<https://stad.gent/id/concept/570019284/2021-10-28T12:24:56.948Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019284>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:24:56.948Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q29655766>;
+    <http://www.w3.org/ns/adms#identifier> _:df_727_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "skibroek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_727_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019284"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019284/2021-10-28T12:24:56.948Z>.
+<https://stad.gent/id/concept/550008852/2021-10-28T07:16:16.750Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008852>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:16:16.750Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191781>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2851_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "skeletonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008853>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001478>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001478> <http://www.w3.org/2004/02/skos/core#prefLabel> "schedel"@nl.
+<https://stad.gent/id/concept/550008853> <http://www.w3.org/2004/02/skos/core#prefLabel> "skelet en skeletdelen"@nl, "skelet en skeletdelen"@nl.
+_:df_2851_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008852"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008852> <http://www.w3.org/2004/02/skos/core#prefLabel> "skeletonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008852/2021-10-28T07:16:16.750Z>.
+<https://stad.gent/id/concept/550008853/2021-10-28T07:16:21.752Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:16:21.752Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191777>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2851_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "skelet en skeletdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008854>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008852>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008852> <http://www.w3.org/2004/02/skos/core#prefLabel> "skeletonderdelen"@nl.
+<https://stad.gent/id/concept/550008854> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierlijk materiaal naar vorm of functie"@nl.
+_:df_2851_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008853> <http://www.w3.org/2004/02/skos/core#prefLabel> "skelet en skeletdelen"@nl, "skelet en skeletdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008853/2021-10-28T07:16:21.752Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sk.ttl>.

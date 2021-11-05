@@ -61,3 +61,43 @@ _:df_4396_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024310"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024310/2021-10-28T14:23:53.209Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/cal.ttl>.
+<https://stad.gent/id/concept/570009013/2021-10-28T08:32:53.248Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009013>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:32:53.248Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006159>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2335_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Calenzano"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_2335_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009013"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009013/2021-10-28T08:32:53.248Z>.
+<https://stad.gent/id/concept/550005799/2021-10-28T05:14:17.454Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005799>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:14:17.454Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3673_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "calques"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001526>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001526> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekeningen en prenten"@nl.
+_:df_3673_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005799"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005799/2021-10-28T05:14:17.454Z>.
+<https://stad.gent/id/concept/550005800/2021-10-28T05:14:22.457Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005800>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:14:22.457Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300034736>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3673_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Afbeeldingen gemaakt door middel van calqueren, het kopiëren van een origineel door hiervan een overtrek te maken op een transparant of doorschijnend stuk papier, textiel of ander materiaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "calque"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007970>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007970> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekeningen naar materiaal of techniek"@nl.
+_:df_3673_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005800"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005800/2021-10-28T05:14:22.457Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/cal.ttl>.

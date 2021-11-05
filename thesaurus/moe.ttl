@@ -100,3 +100,16 @@ _:df_4030_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000199"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000199/2021-10-28T15:17:01.920Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/moe.ttl>.
+<https://stad.gent/id/concept/570009261/2021-10-28T08:42:35.601Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:42:35.601Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024714>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2266_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Handgereedschap dat bestaat uit een handvat met aan één kant een bek, dat wordt gebruikt voor het draaien of vasthouden van bouten, moeren, buizen of fittingen. De bek kan verstelbaar zijn of voorgevormd voor een object van een bepaalde grootte, .";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "moersleutel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2266_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009261"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009261/2021-10-28T08:42:35.601Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/moe.ttl>.

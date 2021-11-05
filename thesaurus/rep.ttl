@@ -39,3 +39,30 @@ _:df_3319_5 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470007366"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007366/2021-10-31T07:32:29.720Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/rep.ttl>.
+<https://stad.gent/id/concept/570011557/2021-10-28T09:25:18.514Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011557>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:25:18.514Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015643>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1975_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor kopieën van kunstafbeeldingen, kunstobjecten of andere gewaardeerde afbeeldingen of objecten, die zijn gemaakt zonder de bedoeling te misleiden; heeft betrekking op kunstafbeeldingen, ook fotografische reproducties.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reproductie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1975_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011557"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011557/2021-10-28T09:25:18.514Z>.
+<https://stad.gent/id/concept/550006141/2021-10-28T05:26:22.143Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006141>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:26:22.143Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015643>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3589_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor kopieën van kunstafbeeldingen, kunstobjecten of andere gewaardeerde afbeeldingen of objecten, die zijn gemaakt zonder de bedoeling te misleiden; heeft betrekking op kunstafbeeldingen, ook fotografische reproducties; duidt op een meer precieze en getrouwe imitatie dan de term 'kopiedn (afgeleide objecten)'. Gebruik de term 'vervalsingen (1)' of 'vervalsingen (2)' als er sprake is van misleiding.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reproductie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008289>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008289> <http://www.w3.org/2004/02/skos/core#prefLabel> "kopie (afgeleid object)"@nl.
+_:df_3589_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006141"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006141/2021-10-28T05:26:22.143Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/rep.ttl>.

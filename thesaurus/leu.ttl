@@ -93,3 +93,61 @@ _:df_4138_24 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570025123"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025123/2021-10-28T15:01:35.690Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/leu.ttl>.
+<https://stad.gent/id/concept/570009718/2021-10-28T08:55:44.676Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009718>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:55:44.676Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007949>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2176_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_2176_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009718"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009718/2021-10-28T08:55:44.676Z>.
+<https://stad.gent/id/concept/570008793/2021-10-28T08:24:40.192Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008793>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:24:40.192Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1136645>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2389_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuze"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_2389_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008793"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008793/2021-10-28T08:24:40.192Z>.
+<https://stad.gent/id/concept/550007833/2021-10-28T06:06:52.796Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007833>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:06:52.796Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037776>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3319_51;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Term die wordt gebruikt voor een groot assortiment stoelen met armleuningen om ze te onderscheiden van 'stoelen zonder armleuningen' die geen armleuningen hebben.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leunstoel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007834>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005254>, <https://stad.gent/id/concept/550008596>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008596> <http://www.w3.org/2004/02/skos/core#prefLabel> "bergère (stoel)"@nl.
+<https://stad.gent/id/concept/550005254> <http://www.w3.org/2004/02/skos/core#prefLabel> "armstoel"@nl.
+<https://stad.gent/id/concept/550007834> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelen naar vorm"@nl.
+_:df_3319_51 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007833"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007833/2021-10-28T06:06:52.796Z>.
+<https://stad.gent/id/concept/550005585/2021-10-28T05:07:48.566Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:07:48.566Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002018>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3715_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kapmuurtjes of balustrades met een gedeeltelijk opengewerkte, lichtgewicht, houten of metalen constructie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leuning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007863>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007863> <http://www.w3.org/2004/02/skos/core#prefLabel> "balustrades, leuningen en hun onderdelen"@nl.
+_:df_3715_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005585/2021-10-28T05:07:48.566Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/leu.ttl>.

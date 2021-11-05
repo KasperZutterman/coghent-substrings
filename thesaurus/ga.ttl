@@ -869,3 +869,260 @@ _:df_1_1143 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gar.ttl>;
     <https://w3id.org/tree#value> "gar".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ga.ttl>.
+<https://stad.gent/id/concept/570023294/2021-10-28T13:37:52.080Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023294>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:37:52.080Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037637>;
+    <http://www.w3.org/ns/adms#identifier> _:df_229_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lampen die branden door het vergassen van een vluchtige vloeistof.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasontladingslamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_229_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023294"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023294/2021-10-28T13:37:52.080Z>.
+<https://stad.gent/id/concept/570023205/2021-10-28T13:32:44.675Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023205>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:32:44.675Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008823>;
+    <http://www.w3.org/ns/adms#identifier> _:df_262_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ganshoren (Brussel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023204>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel Hoofdstedelijk Gewest"@nl, "Brussel Hoofdstedelijk Gewest"@nl, "Brussel Hoofdstedelijk Gewest"@nl, "Brussel Hoofdstedelijk Gewest"@nl.
+_:df_262_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023205"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570023205> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ganshoren (Brussel)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023205/2021-10-28T13:32:44.675Z>.
+<https://stad.gent/id/concept/570023072/2021-10-28T13:26:02.687Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023072>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:26:02.687Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_307_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gaufreerijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_307_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023072"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023072/2021-10-28T13:26:02.687Z>.
+<https://stad.gent/id/concept/570022240/2021-10-28T13:07:07.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022240>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:07:07.950Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055567>;
+    <http://www.w3.org/ns/adms#identifier> _:df_436_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garantie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_436_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022240"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022240/2021-10-28T13:07:07.950Z>.
+<https://stad.gent/id/concept/570020664/2021-10-28T13:02:40.134Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:02:40.134Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014252>;
+    <http://www.w3.org/ns/adms#identifier> _:df_469_37;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570019538>, <https://stad.gent/id/concept/570019412>, <https://stad.gent/id/concept/570010147>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570010147> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlasgaren"@nl.
+<https://stad.gent/id/concept/570019412> <http://www.w3.org/2004/02/skos/core#prefLabel> "terlenka"@nl.
+<https://stad.gent/id/concept/570019538> <http://www.w3.org/2004/02/skos/core#prefLabel> "enkalon"@nl.
+_:df_469_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020664/2021-10-28T13:02:40.134Z>.
+<https://stad.gent/id/concept/570020584/2021-10-28T13:00:40.996Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020584>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:00:40.996Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037639>;
+    <http://www.w3.org/ns/adms#identifier> _:df_481_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lampen met gasbranders.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gaslamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_481_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020584"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020584/2021-10-28T13:00:40.996Z>.
+<https://stad.gent/id/concept/570020586/2021-10-28T13:00:50.999Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:00:50.999Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q62026>;
+    <http://www.w3.org/ns/adms#identifier> _:df_481_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gailingen am Hochrhein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_481_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020586/2021-10-28T13:00:50.999Z>.
+<https://stad.gent/id/concept/570019855/2021-10-28T12:48:17.381Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019855>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:48:17.381Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7238736>;
+    <http://www.w3.org/ns/adms#identifier> _:df_565_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gavere"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020489>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant (provincie)"@nl.
+_:df_565_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019855"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019855/2021-10-28T12:48:17.381Z>.
+<https://stad.gent/id/concept/570019766/2021-10-28T12:45:01.340Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019766>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:45:01.340Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008880>;
+    <http://www.w3.org/ns/adms#identifier> _:df_589_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gaasbeek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019573>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570019573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant (provincie)"@nl.
+_:df_589_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019766"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019766/2021-10-28T12:45:01.340Z>.
+<https://stad.gent/id/concept/570019413/2021-10-28T12:31:23.036Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019413>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:31:23.036Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300424836>;
+    <http://www.w3.org/ns/adms#identifier> _:df_682_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gaswasfles"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_682_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019413"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019413/2021-10-28T12:31:23.036Z>.
+<https://stad.gent/id/concept/570019327/2021-10-28T12:26:50.476Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019327>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:26:50.476Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300008607>;
+    <http://www.w3.org/ns/adms#identifier> _:df_715_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasleiding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_715_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019327"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019327/2021-10-28T12:26:50.476Z>.
+<https://stad.gent/id/concept/570018881/2021-10-28T12:06:19.150Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018881>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:06:19.150Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009195>;
+    <http://www.w3.org/ns/adms#identifier> _:df_859_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Garches"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000082>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_859_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018881"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018881/2021-10-28T12:06:19.150Z>.
+<https://stad.gent/id/concept/570018829/2021-10-28T12:03:47.447Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018829>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:03:47.447Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7238749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_877_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gastuche (Graven)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020489>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant (provincie)"@nl.
+_:df_877_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018829"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018829/2021-10-28T12:03:47.447Z>.
+<https://stad.gent/id/concept/570017387/2021-10-28T11:37:25.683Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017387>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:37:25.683Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201092>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1060_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1060_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017387"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017387/2021-10-28T11:37:25.683Z>.
+<https://stad.gent/id/concept/570017339/2021-10-28T11:35:31.976Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017339>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:35:31.976Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1075_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasmonsternamefles"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1075_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017339"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017339/2021-10-28T11:35:31.976Z>.
+<https://stad.gent/id/concept/570017340/2021-10-28T11:35:36.977Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017340>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:35:36.977Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1075_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasdroogproefbuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1075_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017340"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017340/2021-10-28T11:35:36.977Z>.
+<https://stad.gent/id/concept/570017316/2021-10-28T11:34:46.644Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:34:46.644Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014083>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1081_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gaas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1081_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017316"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017316/2021-10-28T11:34:46.644Z>.
+<https://stad.gent/id/concept/570017264/2021-10-28T11:33:10.567Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017264>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:33:10.567Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266430>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1090_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote cilindrische of bolvormige tanks met gas dat men als brandstof gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gashouders"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1090_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017264"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017264/2021-10-28T11:33:10.567Z>.
+<https://stad.gent/id/concept/570017238/2021-10-28T11:32:19.568Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017238>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:32:19.568Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1096_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galon passement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1096_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017238"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017238/2021-10-28T11:32:19.568Z>.
+<https://stad.gent/id/concept/570017092/2021-10-28T11:30:42.281Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017092>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:30:42.281Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197519>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1108_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galvanometer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1108_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017092"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017092/2021-10-28T11:30:42.281Z>.
+<https://KasperZutterman.github.io///thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_446.
+_:df_1_446 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gal.ttl>;
+    <https://w3id.org/tree#value> "gal".
+<https://KasperZutterman.github.io///thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_447.
+_:df_1_447 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gas.ttl>;
+    <https://w3id.org/tree#value> "gas".
+<https://KasperZutterman.github.io///thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_448.
+_:df_1_448 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gar.ttl>;
+    <https://w3id.org/tree#value> "gar".
+<https://KasperZutterman.github.io///thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_449.
+_:df_1_449 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gag.ttl>;
+    <https://w3id.org/tree#value> "gag".
+<https://KasperZutterman.github.io///thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_450.
+_:df_1_450 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gan.ttl>;
+    <https://w3id.org/tree#value> "gan".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ga.ttl>.

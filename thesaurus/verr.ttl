@@ -12,3 +12,20 @@ _:df_4345_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024441"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024441/2021-10-28T14:31:34.020Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/verr.ttl>.
+<https://stad.gent/id/concept/550005775/2021-10-28T05:13:39.802Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005775>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:13:39.802Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024587>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3676_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Optische apparaten die voor beide ogen worden gehouden en bestaan uit twee smalle telescopen die door middel van een frame aan elkaar vastzitten en voorzien zijn van een systeem waarmee meestal beide kijkglazen tegelijk kunnen worden scherpgesteld door middel van een schroef.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verrekijker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007960>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004243>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004243> <http://www.w3.org/2004/02/skos/core#prefLabel> "toneelkijker"@nl.
+<https://stad.gent/id/concept/550007960> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting voor persoonlijk gebruik: visie"@nl.
+_:df_3676_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005775"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005775/2021-10-28T05:13:39.802Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/verr.ttl>.

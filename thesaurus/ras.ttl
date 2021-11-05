@@ -42,3 +42,20 @@ _:df_3733_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000734"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000734/2021-10-28T16:00:34.513Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ras.ttl>.
+<https://stad.gent/id/concept/550008373/2021-10-28T06:54:17.237Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008373>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:54:17.237Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002015>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3001_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Roosters of opengewerkte afsluitingen, meestal van metaal, om een opening af te sluiten, te verhullen, te decoreren of te beschermen. Wordt ook gebruikt in meubillair.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rasterwerk (hekwerkelement)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007864>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008318>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008318> <http://www.w3.org/2004/02/skos/core#prefLabel> "venstertralie"@nl.
+<https://stad.gent/id/concept/550007864> <http://www.w3.org/2004/02/skos/core#prefLabel> "hekwerkelementen"@nl.
+_:df_3001_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008373"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008373/2021-10-28T06:54:17.237Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ras.ttl>.

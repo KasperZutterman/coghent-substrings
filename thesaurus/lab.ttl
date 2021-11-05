@@ -78,3 +78,44 @@ _:df_4294_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024649"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024649/2021-10-28T14:38:42.410Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/lab.ttl>.
+<https://stad.gent/id/concept/570000064/2021-10-28T07:30:10.306Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000064>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:30:10.306Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028730>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2758_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "label"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "soort opschrift"@nl, "inscription type"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2758_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000064"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000064/2021-10-28T07:30:10.306Z>.
+<https://stad.gent/id/concept/550008064/2021-10-28T06:27:28.654Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008064>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:27:28.654Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028730>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3181_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stukken papier, leer, stof of kleine tabletten waarop is geschreven en die ergens aan zijn bevestigd ter identificatie of beschrijving. Verwijst in de context van boekbinden specifiek naar papier of ander materiaal, anders dan de kaft van een boek, waarop de naam van de auteur en de titel zijn afgedrukt, die zijn vastgelijmd aan de rug of voorkaft. Voor grotere, meer algemeen identificerende aankondigingen wordt 'herkenningsborden' gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "label (identificatiedrager)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008050>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000235>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000235> <http://www.w3.org/2004/02/skos/core#prefLabel> "ex-libris"@nl.
+<https://stad.gent/id/concept/550008050> <http://www.w3.org/2004/02/skos/core#prefLabel> "identificatiedrager"@nl.
+_:df_3181_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008064"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008064/2021-10-28T06:27:28.654Z>.
+<https://stad.gent/id/concept/550006881/2021-10-28T05:53:51.716Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006881>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:53:51.716Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7640445>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3403_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lablachère"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_3403_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006881"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006881/2021-10-28T05:53:51.716Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/lab.ttl>.

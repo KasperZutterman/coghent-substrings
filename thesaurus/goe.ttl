@@ -10,3 +10,18 @@ _:df_3664_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000853"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000853/2021-10-28T16:10:49.247Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/goe.ttl>.
+<https://stad.gent/id/concept/550005638/2021-10-28T05:09:40.359Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005638>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:09:40.359Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037214>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3703_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Knuppels die voornamelijk van de 11e tot de 17e eeuw in heel Europa werden gebruikt en ofwel helemaal van metaal zijn, of een houten schacht hebben met een metalen kop, waarbij de kop groeven of flenzen in de lengte heeft en soms bovenop een punt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "goedendag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007556>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007556> <http://www.w3.org/2004/02/skos/core#prefLabel> "knuppel"@nl.
+_:df_3703_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005638"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005638/2021-10-28T05:09:40.359Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/goe.ttl>.

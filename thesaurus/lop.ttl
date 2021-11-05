@@ -10,3 +10,17 @@ _:df_2665_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470010628"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010628/2021-10-31T09:04:35.819Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/lop.ttl>.
+<https://stad.gent/id/concept/550009247/2021-10-28T07:27:32.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009247>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:27:32.850Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300079089>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2776_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005627>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005627> <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutel (ijzerwaar)"@nl.
+_:df_2776_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009247"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009247/2021-10-28T07:27:32.850Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/lop.ttl>.

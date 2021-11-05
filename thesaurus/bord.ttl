@@ -32,3 +32,51 @@ _:df_4366_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024383"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024383/2021-10-28T14:28:13.590Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bord.ttl>.
+<https://stad.gent/id/concept/550005933/2021-10-28T05:19:03.254Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005933>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:19:03.254Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3640_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borduurwerk (collectie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008627>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008627> <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel (collectie)"@nl.
+_:df_3640_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005933"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005933/2021-10-28T05:19:03.254Z>.
+<https://stad.gent/id/concept/550005910/2021-10-28T05:18:20.034Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005910>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:18:20.034Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300123013>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3646_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor beletterde aankondigingen of andere aanduidingen waarop een naam, instructie, waarschuwing of advertentie staat, en die worden uitgestald of aangeplakt. Voor kleinere, minder openbare identificerende aanduidingen wordt 'labels (identificatiedragers)' gebruikt. Voor systemen van borden die zijn opgesteld om richtingen aan te geven of essentiële informatie kenbaar te maken wordt 'wegbebakening' gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bord (informatie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005746>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007762>, <https://stad.gent/id/concept/550008371>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008371> <http://www.w3.org/2004/02/skos/core#prefLabel> "borden naar vorm"@nl.
+<https://stad.gent/id/concept/550007762> <http://www.w3.org/2004/02/skos/core#prefLabel> "borden naar functie"@nl.
+<https://stad.gent/id/concept/550005746> <http://www.w3.org/2004/02/skos/core#prefLabel> "aankondigings- en reclamedragers"@nl.
+_:df_3646_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005910"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005910/2021-10-28T05:18:20.034Z>.
+<https://stad.gent/id/concept/550005525/2021-10-28T05:06:25.743Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005525>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:06:25.743Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042991>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3724_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ondiepe, meestal ronde schalen waarvan wordt gegeten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bord (vaatwerk)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005467>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005400>, <https://stad.gent/id/concept/550002578>, <https://stad.gent/id/concept/550004193>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004193> <http://www.w3.org/2004/02/skos/core#prefLabel> "sierbord (vaatwerk)"@nl.
+<https://stad.gent/id/concept/550002578> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoteltje"@nl.
+<https://stad.gent/id/concept/550005400> <http://www.w3.org/2004/02/skos/core#prefLabel> "plat bord"@nl.
+<https://stad.gent/id/concept/550005467> <http://www.w3.org/2004/02/skos/core#prefLabel> "schaal"@nl.
+_:df_3724_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005525"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005525/2021-10-28T05:06:25.743Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bord.ttl>.

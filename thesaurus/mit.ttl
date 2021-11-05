@@ -10,3 +10,18 @@ _:df_3130_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008426"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008426/2021-10-31T07:58:59.186Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mit.ttl>.
+<https://stad.gent/id/concept/550007788/2021-10-28T06:02:58.717Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007788>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:02:58.717Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210013>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3343_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bedekkingen voor de hand die de vingers onbedekt laten; vooral die doorlopen tot de elleboog of erboven en die zijn gemaakt van kant, net of iets dergelijks.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mitaine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008142>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008142> <http://www.w3.org/2004/02/skos/core#prefLabel> "handbedekking"@nl.
+_:df_3343_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007788"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007788/2021-10-28T06:02:58.717Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mit.ttl>.

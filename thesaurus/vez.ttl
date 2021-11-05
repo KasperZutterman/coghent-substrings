@@ -14,3 +14,40 @@ _:df_1444_25 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530005299"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005299/2021-10-31T11:56:48.419Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/vez.ttl>.
+<https://stad.gent/id/concept/550008561/2021-10-28T06:58:27.947Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008561>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:58:27.947Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014062>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2971_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vezelproducten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008562>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001923>, <https://stad.gent/id/concept/550008568>, <https://stad.gent/id/concept/550008403>, <https://stad.gent/id/concept/550004829>, <https://stad.gent/id/concept/550008560>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008560> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielmaterialen"@nl.
+<https://stad.gent/id/concept/550004829> <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel (materiaal)"@nl.
+<https://stad.gent/id/concept/550008403> <http://www.w3.org/2004/02/skos/core#prefLabel> "papier (vezelproduct)"@nl.
+<https://stad.gent/id/concept/550008568> <http://www.w3.org/2004/02/skos/core#prefLabel> "papier-maché"@nl.
+<https://stad.gent/id/concept/550001923> <http://www.w3.org/2004/02/skos/core#prefLabel> "koord (vezelproduct)"@nl.
+<https://stad.gent/id/concept/550008562> <http://www.w3.org/2004/02/skos/core#prefLabel> "vezel en vezelproducten"@nl, "vezel en vezelproducten"@nl.
+_:df_2971_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008561"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008561> <http://www.w3.org/2004/02/skos/core#prefLabel> "vezelproducten"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008561/2021-10-28T06:58:27.947Z>.
+<https://stad.gent/id/concept/550008562/2021-10-28T06:58:32.949Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:58:32.949Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014023>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2971_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vezel en vezelproducten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008563>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008561>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008561> <http://www.w3.org/2004/02/skos/core#prefLabel> "vezelproducten"@nl.
+<https://stad.gent/id/concept/550008563> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar fysieke vorm"@nl, "materialen naar fysieke vorm"@nl.
+_:df_2971_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008562> <http://www.w3.org/2004/02/skos/core#prefLabel> "vezel en vezelproducten"@nl, "vezel en vezelproducten"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008562/2021-10-28T06:58:32.949Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/vez.ttl>.

@@ -118,3 +118,63 @@ _:df_4360_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024398"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024398/2021-10-28T14:29:17.303Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/cor.ttl>.
+<https://stad.gent/id/concept/570010195/2021-10-28T09:08:49.454Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:08:49.454Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2089_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cordelière passement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2089_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010195/2021-10-28T09:08:49.454Z>.
+<https://stad.gent/id/concept/550007957/2021-10-28T06:17:59.611Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007957>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:17:59.611Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026878>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3244_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "correspondentie naar inhoud"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007958>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005020>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005020> <http://www.w3.org/2004/02/skos/core#prefLabel> "brief"@nl.
+<https://stad.gent/id/concept/550007958> <http://www.w3.org/2004/02/skos/core#prefLabel> "correspondentie"@nl.
+_:df_3244_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007957"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007957> <http://www.w3.org/2004/02/skos/core#prefLabel> "correspondentie naar inhoud"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007957/2021-10-28T06:17:59.611Z>.
+<https://stad.gent/id/concept/550007958/2021-10-28T06:18:04.612Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007958>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:18:04.612Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026877>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3244_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geheel der verstuurde en ontvangen, geadresseerde, geschreven berichten, zoals brieven, ansichtkaarten, memo's, nota's of telegrammen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "correspondentie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007877>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007957>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007957> <http://www.w3.org/2004/02/skos/core#prefLabel> "correspondentie naar inhoud"@nl.
+<https://stad.gent/id/concept/550007877> <http://www.w3.org/2004/02/skos/core#prefLabel> "soorten documenten naar functie"@nl.
+_:df_3244_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007958"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007958> <http://www.w3.org/2004/02/skos/core#prefLabel> "correspondentie"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007958/2021-10-28T06:18:04.612Z>.
+<https://stad.gent/id/concept/550005722/2021-10-28T05:12:21.630Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005722>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:12:21.630Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207872>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3685_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "correspondentiedragers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007763>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005721>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005721> <http://www.w3.org/2004/02/skos/core#prefLabel> "briefkaart"@nl.
+<https://stad.gent/id/concept/550007763> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers naar functie"@nl.
+_:df_3685_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005722"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550005722> <http://www.w3.org/2004/02/skos/core#prefLabel> "correspondentiedragers"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005722/2021-10-28T05:12:21.630Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/cor.ttl>.

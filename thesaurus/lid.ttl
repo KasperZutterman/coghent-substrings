@@ -10,3 +10,39 @@ _:df_1405_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009066"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009066/2021-10-31T21:10:56.599Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/lid.ttl>.
+<https://stad.gent/id/concept/570013315/2021-10-28T09:54:26.018Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:54:26.018Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1774_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lidboekje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1774_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013315/2021-10-28T09:54:26.018Z>.
+<https://stad.gent/id/concept/570009066/2021-10-28T08:34:34.087Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009066>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:34:34.087Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q60844538>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2323_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lidmaatschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2323_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009066"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009066/2021-10-28T08:34:34.087Z>.
+<https://stad.gent/id/concept/550008636/2021-10-28T07:03:56.886Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:03:56.886Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300255378>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2935_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "\t\r\nKaarten die aan de leden van een organisatie worden verstrekt als bewijs van hun lidmaatschap. Het is gebruikelijk dat de kaarten op portefeuille-formaat worden gemaakt en dat de naam van de houder plus het logo van de organisatie erop afgedrukt staat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lidmaatschapskaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005463>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005463> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaart (informatiedrager)"@nl.
+_:df_2935_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008636/2021-10-28T07:03:56.886Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/lid.ttl>.

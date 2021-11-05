@@ -73,3 +73,111 @@ _:df_3910_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000427"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000427/2021-10-28T15:34:52.883Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/slo.ttl>.
+<https://stad.gent/id/concept/570006072/2021-10-28T07:59:06.791Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006072>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:59:06.791Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025336>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2563_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "slotenmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2563_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006072"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006072/2021-10-28T07:59:06.791Z>.
+<https://stad.gent/id/concept/550008146/2021-10-28T06:34:41.792Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008146>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:34:41.792Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300048656>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3133_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sloten naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005148>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001707>, <https://stad.gent/id/concept/550003214>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003214> <http://www.w3.org/2004/02/skos/core#prefLabel> "knip"@nl.
+<https://stad.gent/id/concept/550001707> <http://www.w3.org/2004/02/skos/core#prefLabel> "hangslot"@nl.
+<https://stad.gent/id/concept/550005148> <http://www.w3.org/2004/02/skos/core#prefLabel> "slot (afsluitingsmiddel)"@nl.
+_:df_3133_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008146"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008146/2021-10-28T06:34:41.792Z>.
+<https://stad.gent/id/concept/550008128/2021-10-28T06:33:05.170Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008128>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:33:05.170Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300214819>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3142_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "slotonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008129>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000086>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000086> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuursteen (slot)"@nl.
+<https://stad.gent/id/concept/550008129> <http://www.w3.org/2004/02/skos/core#prefLabel> "sloten en slotonderdelen"@nl, "sloten en slotonderdelen"@nl.
+_:df_3142_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008128"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008128> <http://www.w3.org/2004/02/skos/core#prefLabel> "slotonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008128/2021-10-28T06:33:05.170Z>.
+<https://stad.gent/id/concept/550008129/2021-10-28T06:33:10.171Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:33:10.171Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300214817>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3142_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sloten en slotonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007792>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008131>, <https://stad.gent/id/concept/550008128>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008128> <http://www.w3.org/2004/02/skos/core#prefLabel> "slotonderdelen"@nl.
+<https://stad.gent/id/concept/550008131> <http://www.w3.org/2004/02/skos/core#prefLabel> "slot (vuurwapenonderdeel)"@nl, "slot (vuurwapenonderdeel)"@nl.
+<https://stad.gent/id/concept/550007792> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurwapenonderdelen"@nl.
+_:df_3142_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008129> <http://www.w3.org/2004/02/skos/core#prefLabel> "sloten en slotonderdelen"@nl, "sloten en slotonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008129/2021-10-28T06:33:10.171Z>.
+<https://stad.gent/id/concept/550008131/2021-10-28T06:33:20.174Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008131>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:33:20.174Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037189>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3142_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Mechanieken voor het ontsteken van ladingen in vuurwapens.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "slot (vuurwapenonderdeel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008129>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001649>, <https://stad.gent/id/concept/550008132>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008132> <http://www.w3.org/2004/02/skos/core#prefLabel> "snaphaanslot"@nl, "snaphaanslot"@nl.
+<https://stad.gent/id/concept/550001649> <http://www.w3.org/2004/02/skos/core#prefLabel> "percussieslot"@nl.
+<https://stad.gent/id/concept/550008129> <http://www.w3.org/2004/02/skos/core#prefLabel> "sloten en slotonderdelen"@nl, "sloten en slotonderdelen"@nl.
+_:df_3142_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008131"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008131> <http://www.w3.org/2004/02/skos/core#prefLabel> "slot (vuurwapenonderdeel)"@nl, "slot (vuurwapenonderdeel)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008131/2021-10-28T06:33:20.174Z>.
+<https://stad.gent/id/concept/550008014/2021-10-28T06:22:59.777Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008014>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:22:59.777Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300048657>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3211_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sloten naar locatie of context"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005148>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008013>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008013> <http://www.w3.org/2004/02/skos/core#prefLabel> "venstersluiting"@nl.
+<https://stad.gent/id/concept/550005148> <http://www.w3.org/2004/02/skos/core#prefLabel> "slot (afsluitingsmiddel)"@nl.
+_:df_3211_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008014"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008014> <http://www.w3.org/2004/02/skos/core#prefLabel> "sloten naar locatie of context"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008014/2021-10-28T06:22:59.777Z>.
+<https://stad.gent/id/concept/550006050/2021-10-28T05:22:40.096Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006050>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:22:40.096Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006670>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3616_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Slovenië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_3616_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006050"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006050/2021-10-28T05:22:40.096Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/slo.ttl>.

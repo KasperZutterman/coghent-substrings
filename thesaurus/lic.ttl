@@ -117,3 +117,52 @@ _:df_4171_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570025024"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025024/2021-10-28T14:56:36.906Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/lic.ttl>.
+<https://stad.gent/id/concept/570015794/2021-10-28T10:49:43.832Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015794>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:49:43.832Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027759>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1393_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "licenties"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1393_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015794"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015794/2021-10-28T10:49:43.832Z>.
+<https://stad.gent/id/concept/570010672/2021-10-28T09:16:12.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010672>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:16:12.079Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026563>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2038_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lichtervelde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl, "West-Vlaanderen (provincie)"@nl, "West-Vlaanderen (provincie)"@nl.
+_:df_2038_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010672"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010672/2021-10-28T09:16:12.079Z>.
+<https://stad.gent/id/concept/570006733/2021-10-28T08:03:24.664Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006733>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:03:24.664Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q9292190>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2536_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lichaamsverzorging"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2536_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006733"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006733/2021-10-28T08:03:24.664Z>.
+<https://stad.gent/id/concept/550008323/2021-10-28T06:50:06.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008323>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:50:06.885Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300257169>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3028_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lanceerinrichtingen waarmee signaallichten worden ontstoken en afgeschoten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lichtpistool"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007772>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007772> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar proces"@nl, "uitrusting naar proces"@nl.
+_:df_3028_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008323"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008323/2021-10-28T06:50:06.885Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/lic.ttl>.

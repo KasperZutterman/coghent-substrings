@@ -131,3 +131,18 @@ _:df_3991_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000270"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000270/2021-10-28T15:22:55.006Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/can.ttl>.
+<https://stad.gent/id/concept/550008566/2021-10-28T06:58:52.955Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008566>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:58:52.955Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014078>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2968_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dichtgeweven stof in effenbinding; wordt meestal gemaakt van plantaardige vezels en vooral gebruikt voor zeilen, dekkleden en stoffering en als ondergrond voor olieverfschilderijen en borduurwerk.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "canvas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008559>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008559> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielmaterialen naar procedé of techniek"@nl.
+_:df_2968_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008566"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008566/2021-10-28T06:58:52.955Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/can.ttl>.

@@ -62,3 +62,28 @@ _:df_2779_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470010060"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010060/2021-10-31T08:48:39.953Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bos.ttl>.
+<https://stad.gent/id/concept/570015950/2021-10-28T10:53:31.086Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015950>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:53:31.086Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013445>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1369_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Boston"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_1369_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015950"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015950/2021-10-28T10:53:31.086Z>.
+<https://stad.gent/id/concept/570007867/2021-10-28T08:09:27.966Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:09:27.966Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132451>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2494_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bossen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2494_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007867/2021-10-28T08:09:27.966Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bos.ttl>.

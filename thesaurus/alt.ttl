@@ -42,3 +42,50 @@ _:df_3175_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008220"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008220/2021-10-31T07:52:40.061Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/alt.ttl>.
+<https://stad.gent/id/concept/550007807/2021-10-28T06:04:27.869Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007807>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:04:27.869Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052391>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3334_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "altaren en altaaronderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007808>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007632>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007632> <http://www.w3.org/2004/02/skos/core#prefLabel> "altaar"@nl.
+<https://stad.gent/id/concept/550007808> <http://www.w3.org/2004/02/skos/core#prefLabel> "religieus roerend goed"@nl.
+_:df_3334_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007807"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007807> <http://www.w3.org/2004/02/skos/core#prefLabel> "altaren en altaaronderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007807/2021-10-28T06:04:27.869Z>.
+<https://stad.gent/id/concept/550007632/2021-10-28T05:58:35.271Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007632>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:58:35.271Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003725>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3373_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor constructies waarop religieuze offerandes worden gedaan. Omvat zowel kleine, tafelachtige bouwsels als grotere, vrijstaande constructies die zich buiten bevinden. Voor het oppervlak waaraan communie wordt gevierd in protestantse kerken wordt 'Avondmaalstafels' gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "altaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007807>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002480>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002480> <http://www.w3.org/2004/02/skos/core#prefLabel> "huisaltaar"@nl.
+<https://stad.gent/id/concept/550007807> <http://www.w3.org/2004/02/skos/core#prefLabel> "altaren en altaaronderdelen"@nl.
+_:df_3373_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007632"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007632/2021-10-28T05:58:35.271Z>.
+<https://stad.gent/id/concept/550005832/2021-10-28T05:15:36.002Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005832>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:15:36.002Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031697>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3664_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Op een altaar geplaatst kruis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "altaarkruis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007811>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007811> <http://www.w3.org/2004/02/skos/core#prefLabel> "kruis (beeldend werk)"@nl.
+_:df_3664_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005832"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005832/2021-10-28T05:15:36.002Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/alt.ttl>.

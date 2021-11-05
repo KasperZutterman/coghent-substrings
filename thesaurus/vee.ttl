@@ -115,3 +115,48 @@ _:df_3697_23 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000797"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000797/2021-10-28T16:06:03.582Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/vee.ttl>.
+<https://stad.gent/id/concept/570006122/2021-10-28T07:59:46.806Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006122>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:59:46.806Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q80962>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2560_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "veehouderij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2560_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006122"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006122/2021-10-28T07:59:46.806Z>.
+<https://stad.gent/id/concept/550008399/2021-10-28T06:55:44.176Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008399>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:55:44.176Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011809>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2992_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een van de lichte, hoornachtige uitgroeiïngen van de opperhuid, die de buitenste bedekking van een vogellichaam vormen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "veer (materiaal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008758>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006196>, <https://stad.gent/id/concept/550005031>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005031> <http://www.w3.org/2004/02/skos/core#prefLabel> "struisvogelveer"@nl.
+<https://stad.gent/id/concept/550006196> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijsvogelveer"@nl.
+<https://stad.gent/id/concept/550008758> <http://www.w3.org/2004/02/skos/core#prefLabel> "keratinisch materiaal"@nl.
+_:df_2992_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008399"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008399/2021-10-28T06:55:44.176Z>.
+<https://stad.gent/id/concept/550008385/2021-10-28T06:55:19.167Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008385>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:55:19.167Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900027590>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2995_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Objecten die worden gebruikt bij het fokken, verzorgen en bestuderen van dieren. Waaronder: instrumenten voor diergeneeskunde en gereedschap van de hoefsmederij.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "veeteeltuitrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007772>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001979>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001979> <http://www.w3.org/2004/02/skos/core#prefLabel> "schapenschaar"@nl.
+<https://stad.gent/id/concept/550007772> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar proces"@nl.
+_:df_2995_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008385"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008385/2021-10-28T06:55:19.167Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/vee.ttl>.

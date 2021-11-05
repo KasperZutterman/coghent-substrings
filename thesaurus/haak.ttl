@@ -10,3 +10,22 @@ _:df_4363_25 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024394"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024394/2021-10-28T14:28:58.604Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/haak.ttl>.
+<https://stad.gent/id/concept/550005756/2021-10-28T05:13:19.796Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005756>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:13:19.796Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033537>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3679_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebogen of gekromde instrumenten die worden gebruikt voor het ophouden of vastmaken van objecten aan een oppervlak.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haak (bevestigingsmiddel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008073>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001984>, <https://stad.gent/id/concept/550001892>, <https://stad.gent/id/concept/550001909>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001909> <http://www.w3.org/2004/02/skos/core#prefLabel> "vleeskroon"@nl.
+<https://stad.gent/id/concept/550001892> <http://www.w3.org/2004/02/skos/core#prefLabel> "haal"@nl.
+<https://stad.gent/id/concept/550001984> <http://www.w3.org/2004/02/skos/core#prefLabel> "gordelhaak"@nl.
+<https://stad.gent/id/concept/550008073> <http://www.w3.org/2004/02/skos/core#prefLabel> "bevestigingsmiddel (onderdeel)"@nl.
+_:df_3679_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005756"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005756/2021-10-28T05:13:19.796Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/haak.ttl>.

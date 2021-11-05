@@ -27,3 +27,36 @@ _:df_4444_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024185"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024185/2021-10-28T14:16:49.889Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/verf.ttl>.
+<https://stad.gent/id/concept/550008867/2021-10-28T07:17:35.299Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:17:35.299Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300183946>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2842_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verf op waterbasis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008830>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003880>, <https://stad.gent/id/concept/550000205>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000205> <http://www.w3.org/2004/02/skos/core#prefLabel> "waterverf"@nl.
+<https://stad.gent/id/concept/550003880> <http://www.w3.org/2004/02/skos/core#prefLabel> "tempera"@nl.
+<https://stad.gent/id/concept/550008830> <http://www.w3.org/2004/02/skos/core#prefLabel> "verf naar samenstelling of herkomst"@nl.
+_:df_2842_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008867/2021-10-28T07:17:35.299Z>.
+<https://stad.gent/id/concept/550008830/2021-10-28T07:14:35.681Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008830>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:14:35.681Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015030>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2863_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verf naar samenstelling of herkomst"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002877>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004519>, <https://stad.gent/id/concept/550008867>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008867> <http://www.w3.org/2004/02/skos/core#prefLabel> "verf op waterbasis"@nl.
+<https://stad.gent/id/concept/550004519> <http://www.w3.org/2004/02/skos/core#prefLabel> "olieverf"@nl.
+<https://stad.gent/id/concept/550002877> <http://www.w3.org/2004/02/skos/core#prefLabel> "verf"@nl.
+_:df_2863_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008830"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008830/2021-10-28T07:14:35.681Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/verf.ttl>.
