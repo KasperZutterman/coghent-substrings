@@ -34,3 +34,39 @@ _:df_1792_20 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570019170"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019170/2021-11-01T00:51:05.336Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/wal.ttl>.
+<https://stad.gent/id/concept/570009930/2021-10-31T21:35:06.208Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009930>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:35:06.208Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7002443>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1234_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wales"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570023261>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "land"@nl, "country"@en, "trefwoord"@nl, "keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023261> <http://www.w3.org/2004/02/skos/core#prefLabel> "Denbigh"@nl.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_1234_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009930"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009930/2021-10-31T21:35:06.208Z>.
+<https://stad.gent/id/concept/570007402/2021-10-31T20:44:28.458Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570007402>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T20:44:28.458Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4012014>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1591_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallonië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012468>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570012866>, <https://stad.gent/id/concept/570023203>, <https://stad.gent/id/concept/570023213>, <https://stad.gent/id/concept/570001129>, <https://stad.gent/id/concept/570020489>, <https://stad.gent/id/concept/570024159>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+<https://stad.gent/id/concept/570020489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant (provincie)"@nl.
+<https://stad.gent/id/concept/570001129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl.
+<https://stad.gent/id/concept/570023213> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg (provincie)"@nl.
+<https://stad.gent/id/concept/570023203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+<https://stad.gent/id/concept/570012468> <http://www.w3.org/2004/02/skos/core#prefLabel> "België"@nl.
+_:df_1591_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570007402"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570007402/2021-10-31T20:44:28.458Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/wal.ttl>.

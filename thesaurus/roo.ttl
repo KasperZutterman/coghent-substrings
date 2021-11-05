@@ -12,3 +12,18 @@ _:df_1867_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570018934"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018934/2021-11-01T00:40:16.601Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/roo.ttl>.
+<https://stad.gent/id/concept/550009254/2021-10-31T20:07:24.949Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009254>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T20:07:24.949Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300014897>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1855_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "roofing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550009255>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009255> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerking (materiaal)"@nl.
+_:df_1855_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009254"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550009254> <http://www.w3.org/2004/02/skos/core#prefLabel> "roofing"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009254/2021-10-31T20:07:24.949Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/roo.ttl>.

@@ -254,3 +254,276 @@ _:df_1_305 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/bam.ttl>;
     <https://w3id.org/tree#value> "bam".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/ba.ttl>.
+<https://stad.gent/id/concept/570017025/2021-11-01T00:00:27.856Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017025>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T00:00:27.856Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300079037>;
+    <http://www.w3.org/ns/adms#identifier> _:df_205_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badkraan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_205_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017025"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017025/2021-11-01T00:00:27.856Z>.
+<https://stad.gent/id/concept/570016911/2021-10-31T23:54:43.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016911>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:54:43.363Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300226883>;
+    <http://www.w3.org/ns/adms#identifier> _:df_244_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Blikken die voornamelijk bedoeld zijn voor bakken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bakvorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_244_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016911"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016911/2021-10-31T23:54:43.363Z>.
+<https://stad.gent/id/concept/570016743/2021-10-31T23:47:57.233Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:47:57.233Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1038365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_292_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bad Rappenau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_292_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016743"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016743/2021-10-31T23:47:57.233Z>.
+<https://stad.gent/id/concept/570016638/2021-10-31T23:44:28.441Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016638>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:44:28.441Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195511>;
+    <http://www.w3.org/ns/adms#identifier> _:df_316_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ruimten omringd door dikke, vuurvaste muren die zijn gemaakt van klei, baksteen of steen en worden gebruikt voor het bakken van brood en andere voedingswaren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bakoven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_316_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016638"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016638/2021-10-31T23:44:28.441Z>.
+<https://stad.gent/id/concept/570016394/2021-10-31T23:36:27.116Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016394>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:36:27.116Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024751>;
+    <http://www.w3.org/ns/adms#identifier> _:df_373_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bankschroef"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_373_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016394"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016394/2021-10-31T23:36:27.116Z>.
+<https://stad.gent/id/concept/570016416/2021-10-31T23:36:42.121Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016416>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:36:42.121Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014544>;
+    <http://www.w3.org/ns/adms#identifier> _:df_373_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De oorspronkelijke benaming voor fenolplastic, die tegenwoordig wordt gebruikt voor een aantal verschillende soorten plastic.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bakeliet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570014353>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570014353> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststof"@nl.
+_:df_373_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016416"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016416/2021-10-31T23:36:42.121Z>.
+<https://stad.gent/id/concept/570015481/2021-10-31T23:16:33.895Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015481>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:16:33.895Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236029>;
+    <http://www.w3.org/ns/adms#identifier> _:df_514_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "baron"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_514_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015481"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015481/2021-10-31T23:16:33.895Z>.
+<https://stad.gent/id/concept/570015482/2021-10-31T23:16:39.486Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015482>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:16:39.486Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265444>;
+    <http://www.w3.org/ns/adms#identifier> _:df_514_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "barones"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_514_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015482"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015482/2021-10-31T23:16:39.486Z>.
+<https://stad.gent/id/concept/570015170/2021-10-31T23:10:18.968Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015170>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:10:18.968Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004197>;
+    <http://www.w3.org/ns/adms#identifier> _:df_559_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor kamers waarin zich een badkuip of douche bevindt, en meestal een toilet of wastafel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "badkamer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_559_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015170"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015170/2021-10-31T23:10:18.968Z>.
+<https://stad.gent/id/concept/570014998/2021-10-31T23:06:20.477Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014998>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:06:20.477Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_589_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bakkerijgrondstoffen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_589_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014998"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014998/2021-10-31T23:06:20.477Z>.
+<https://stad.gent/id/concept/570014942/2021-10-31T23:04:44.062Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014942>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:04:44.062Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300136385>;
+    <http://www.w3.org/ns/adms#identifier> _:df_598_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Personen die gespecialiseerd zijn in het bereiden van voedsel door middel van geleiding van droge warmte (dus niet via straling), in een oven of een andere gesloten ruimte, of op een verhit oppervlak, en dus niet op een warmtebron. Brood, taarten, koekjes en gebakjes zijn bekende voorbeelden van producten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bakker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_598_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014942"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014942/2021-10-31T23:04:44.062Z>.
+<https://stad.gent/id/concept/570014826/2021-10-31T23:01:26.436Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014826>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:01:26.436Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025209>;
+    <http://www.w3.org/ns/adms#identifier> _:df_622_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bankier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_622_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014826"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014826/2021-10-31T23:01:26.436Z>.
+<https://stad.gent/id/concept/570014529/2021-10-31T22:51:57.670Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014529>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:51:57.670Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195805>;
+    <http://www.w3.org/ns/adms#identifier> _:df_691_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Weegschalen met een horizontale balk die draait rond een centraal steunpunt, waardoor er twee armen van gelijke lengte ontstaan; aan de uiteindes van de armen hangen schalen of manden, waarbij in de ene schaal het te wegen voorwerp wordt geplaatst en in de andere standaardgewichten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "balans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_691_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014529"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014529/2021-10-31T22:51:57.670Z>.
+<https://stad.gent/id/concept/570014435/2021-10-31T22:50:47.040Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014435>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:50:47.040Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2898431>;
+    <http://www.w3.org/ns/adms#identifier> _:df_697_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Baltimore, 1904"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_697_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014435"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014435/2021-10-31T22:50:47.040Z>.
+<https://stad.gent/id/concept/570014434/2021-10-31T22:50:42.038Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014434>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:50:42.038Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013352>;
+    <http://www.w3.org/ns/adms#identifier> _:df_700_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Baltimore (Maryland)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006041>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten van Amerika"@nl.
+_:df_700_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014434"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014434/2021-10-31T22:50:42.038Z>.
+<https://stad.gent/id/concept/570014278/2021-10-31T22:46:33.552Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014278>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:46:33.552Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010695>;
+    <http://www.w3.org/ns/adms#identifier> _:df_727_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Barnsley"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groot-Brittannië"@nl.
+_:df_727_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014278"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014278/2021-10-31T22:46:33.552Z>.
+<https://stad.gent/id/concept/570014124/2021-10-31T22:44:06.503Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014124>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:44:06.503Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300222189>;
+    <http://www.w3.org/ns/adms#identifier> _:df_745_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor niet-poreuze, flexibele, ronde zakken die zijn gemaakt van een lichtgewicht materiaal die worden opgevuld met verhitte lucht of een gas dat lichter is dan lucht en ontworpen zijn om op te stijgen en in de dampkring te blijven drijven, waarbij meestal passagiers of wetenschappelijke instrumenten mee naar boven worden genomen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ballon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_745_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014124"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014124/2021-10-31T22:44:06.503Z>.
+<https://stad.gent/id/concept/570014058/2021-10-31T22:42:25.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014058>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:42:25.355Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300183634>;
+    <http://www.w3.org/ns/adms#identifier> _:df_757_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "batist"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_757_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014058"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014058/2021-10-31T22:42:25.355Z>.
+<https://stad.gent/id/concept/570014045/2021-10-31T22:42:00.348Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:42:00.348Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_760_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bakelietpoeder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_760_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014045"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014045/2021-10-31T22:42:00.348Z>.
+<https://stad.gent/id/concept/570013801/2021-10-31T22:37:51.819Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013801>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:37:51.819Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_790_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "balenopener"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_790_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013801"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013801/2021-10-31T22:37:51.819Z>.
+<https://KasperZutterman.github.io/coghent-substrings//thesaurus/ba.ttl> <https://w3id.org/tree#relation> _:df_1_286.
+_:df_1_286 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/bal.ttl>;
+    <https://w3id.org/tree#value> "bal".
+<https://KasperZutterman.github.io/coghent-substrings//thesaurus/ba.ttl> <https://w3id.org/tree#relation> _:df_1_287.
+_:df_1_287 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/bad.ttl>;
+    <https://w3id.org/tree#value> "bad".
+<https://KasperZutterman.github.io/coghent-substrings//thesaurus/ba.ttl> <https://w3id.org/tree#relation> _:df_1_288.
+_:df_1_288 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/ban.ttl>;
+    <https://w3id.org/tree#value> "ban".
+<https://KasperZutterman.github.io/coghent-substrings//thesaurus/ba.ttl> <https://w3id.org/tree#relation> _:df_1_289.
+_:df_1_289 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/baa.ttl>;
+    <https://w3id.org/tree#value> "baa".
+<https://KasperZutterman.github.io/coghent-substrings//thesaurus/ba.ttl> <https://w3id.org/tree#relation> _:df_1_290.
+_:df_1_290 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/bar.ttl>;
+    <https://w3id.org/tree#value> "bar".
+<https://KasperZutterman.github.io/coghent-substrings//thesaurus/ba.ttl> <https://w3id.org/tree#relation> _:df_1_291.
+_:df_1_291 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/bam.ttl>;
+    <https://w3id.org/tree#value> "bam".
+<https://KasperZutterman.github.io/coghent-substrings//thesaurus/ba.ttl> <https://w3id.org/tree#relation> _:df_1_292.
+_:df_1_292 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/bab.ttl>;
+    <https://w3id.org/tree#value> "bab".
+<https://KasperZutterman.github.io/coghent-substrings//thesaurus/ba.ttl> <https://w3id.org/tree#relation> _:df_1_293.
+_:df_1_293 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/bau.ttl>;
+    <https://w3id.org/tree#value> "bau".
+<https://KasperZutterman.github.io/coghent-substrings//thesaurus/ba.ttl> <https://w3id.org/tree#relation> _:df_1_294.
+_:df_1_294 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/bak.ttl>;
+    <https://w3id.org/tree#value> "bak".
+<https://KasperZutterman.github.io/coghent-substrings//thesaurus/ba.ttl> <https://w3id.org/tree#relation> _:df_1_295.
+_:df_1_295 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/bae.ttl>;
+    <https://w3id.org/tree#value> "bae".
+<https://KasperZutterman.github.io/coghent-substrings//thesaurus/ba.ttl> <https://w3id.org/tree#relation> _:df_1_296.
+_:df_1_296 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/bac.ttl>;
+    <https://w3id.org/tree#value> "bac".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/ba.ttl>.

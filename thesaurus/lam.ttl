@@ -24,3 +24,42 @@ _:df_1423_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570022777"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022777/2021-11-01T01:42:51.184Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/lam.ttl>.
+<https://stad.gent/id/concept/570006899/2021-10-31T20:41:40.551Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006899>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T20:41:40.551Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037592>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1612_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verlichtingsmiddelen met een houder voor de brandstof voor de verlichting, meestal vet of olie. De benaming wordt ook gebruikt voor lampen die met een aparte energiebron zijn verbonden, zoals gas of elektriciteit.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1612_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006899"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006899/2021-10-31T20:41:40.551Z>.
+<https://stad.gent/id/concept/570002202/2021-10-31T20:24:22.075Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570002202>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T20:24:22.075Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1735_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lampenradio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1735_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570002202"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002202/2021-10-31T20:24:22.075Z>.
+<https://stad.gent/id/concept/550009059/2021-10-31T20:02:24.626Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009059>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T20:02:24.626Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037615>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1891_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lampen naar functie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001174>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009058>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009058> <http://www.w3.org/2004/02/skos/core#prefLabel> "sabbatslamp"@nl.
+<https://stad.gent/id/concept/550001174> <http://www.w3.org/2004/02/skos/core#prefLabel> "lamp (verlichtingsmiddel)"@nl.
+_:df_1891_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009059"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550009059> <http://www.w3.org/2004/02/skos/core#prefLabel> "lampen naar functie"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009059/2021-10-31T20:02:24.626Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/lam.ttl>.

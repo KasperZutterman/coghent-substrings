@@ -91,3 +91,104 @@ _:df_1924_26 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570018169"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018169/2021-11-01T00:32:30.350Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/op.ttl>.
+<https://stad.gent/id/concept/570014333/2021-10-31T22:47:44.303Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014333>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:47:44.303Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_721_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "opener"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_721_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014333"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014333/2021-10-31T22:47:44.303Z>.
+<https://stad.gent/id/concept/570013198/2021-10-31T22:25:40.562Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013198>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:25:40.562Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300056390>;
+    <http://www.w3.org/ns/adms#identifier> _:df_874_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "opslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_874_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013198"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013198/2021-10-31T22:25:40.562Z>.
+<https://stad.gent/id/concept/570012913/2021-10-31T22:18:49.223Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012913>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:18:49.223Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210311>;
+    <http://www.w3.org/ns/adms#identifier> _:df_922_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oplossing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_922_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012913"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012913/2021-10-31T22:18:49.223Z>.
+<https://stad.gent/id/concept/570011271/2021-10-31T21:57:30.137Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011271>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:57:30.137Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300155835>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1075_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "openbaar vervoer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570006204>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570006205>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006205> <http://www.w3.org/2004/02/skos/core#prefLabel> "tram"@nl.
+<https://stad.gent/id/concept/570006204> <http://www.w3.org/2004/02/skos/core#prefLabel> "transport"@nl.
+_:df_1075_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011271"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011271/2021-10-31T21:57:30.137Z>.
+<https://stad.gent/id/concept/570008842/2021-10-31T21:03:30.562Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008842>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:03:30.562Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300007714>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1456_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "opslagtanks"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1456_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008842"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008842/2021-10-31T21:03:30.562Z>.
+<https://stad.gent/id/concept/570008803/2021-10-31T21:02:04.938Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008803>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:02:04.938Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069283>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1468_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optochten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1468_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008803"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008803/2021-10-31T21:02:04.938Z>.
+<https://stad.gent/id/concept/570008679/2021-10-31T20:58:05.978Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008679>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T20:58:05.978Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054147>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1495_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "opera"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1495_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008679"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008679/2021-10-31T20:58:05.978Z>.
+<https://stad.gent/id/concept/570003534/2021-10-31T20:28:31.362Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003534>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T20:28:31.362Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300008554>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1705_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "openbare werken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1705_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003534"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003534/2021-10-31T20:28:31.362Z>.
+<https://stad.gent/id/concept/570000905/2021-10-31T20:16:03.511Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570000905>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T20:16:03.511Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265641>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1792_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "openluchtmusea"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1792_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570000905"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000905/2021-10-31T20:16:03.511Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/op.ttl>.
