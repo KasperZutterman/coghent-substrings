@@ -75,3 +75,17 @@ _:df_4117_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000051"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000051/2021-10-28T15:04:16.796Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sup.ttl>.
+<https://stad.gent/id/concept/470010599/2021-10-27T19:45:40.242Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010599>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:45:40.242Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1412320>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3766_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "super8 film"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470007024>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470007024> <http://www.w3.org/2004/02/skos/core#prefLabel> "film"@nl.
+_:df_3766_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010599"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010599/2021-10-27T19:45:40.242Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sup.ttl>.

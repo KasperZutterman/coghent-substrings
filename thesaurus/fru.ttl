@@ -59,3 +59,89 @@ _:df_3334_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470007270"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007270/2021-10-31T07:30:23.465Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/fru.ttl>.
+<https://stad.gent/id/concept/530001971/2021-10-27T21:12:58.509Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001971>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:12:58.509Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3169_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitmand"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3169_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001971"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001971/2021-10-27T21:12:58.509Z>.
+<https://stad.gent/id/concept/530001538/2021-10-27T20:56:07.451Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001538>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:56:07.451Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043155>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3283_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Populaire benaming voor lepels met een diepe kom die soms van zilver zijn gemaakt en kunnen zijn doorboord of versierd met fruitmotieven. Worden gebruikt voor het opdienen van bessen en andere saprijk voedsel. Vaak gemaakt door gewone opscheplepels aan te passen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitschepper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002872>, <https://stad.gent/id/concept/530006105>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006105> <http://www.w3.org/2004/02/skos/core#prefLabel> "schep (serveermateriaal)"@nl.
+<https://stad.gent/id/concept/530002872> <http://www.w3.org/2004/02/skos/core#prefLabel> "opscheplepel"@nl.
+_:df_3283_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001538"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001538/2021-10-27T20:56:07.451Z>.
+<https://stad.gent/id/concept/530000503/2021-10-27T20:18:38.375Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000503>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:18:38.375Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043127>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3538_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine messen met een scherp, soms getand lemmet die aan tafel worden gebruikt voor het schillen en snijden van fruit. Hebben vaak een versierd handvat en soms een inklapbaar lemmet zoals bij een zakmes. Gebruik 'dessertmessen' voor andere kleine messen met een kort handvat en soms een gebogen en gepunt lemmet.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitmes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009484>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000489>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000489> <http://www.w3.org/2004/02/skos/core#prefLabel> "sinaasappelmes"@nl.
+<https://stad.gent/id/concept/530009484> <http://www.w3.org/2004/02/skos/core#prefLabel> "mes behorend bij een couvert"@nl.
+_:df_3538_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000503"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000503/2021-10-27T20:18:38.375Z>.
+<https://stad.gent/id/concept/530000469/2021-10-27T20:16:33.148Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000469>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:16:33.148Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207613>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3553_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "en kleine vork, meestal met drie tanden, die wordt gebruikt voor het vasthouden van een stuk fruit terwijl het met een fruitmes wordt geschild of gesneden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitvork"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002989>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002989> <http://www.w3.org/2004/02/skos/core#prefLabel> "vork behorend bij een couvert"@nl.
+_:df_3553_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000469"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000469/2021-10-27T20:16:33.148Z>.
+<https://stad.gent/id/concept/530000298/2021-10-27T20:07:45.994Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000298>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:07:45.994Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3613_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitlepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530007905>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530007905> <http://www.w3.org/2004/02/skos/core#prefLabel> "lepel"@nl, "lepel"@nl.
+_:df_3613_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000298"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000298/2021-10-27T20:07:45.994Z>.
+<https://stad.gent/id/concept/470007270/2021-10-27T18:12:22.131Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007270>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:12:22.131Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011868>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4426_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het gedeelte van een plant dat bestaat uit het zaad met bijbehorend omhulsel, in het bijzonder wanneer dat omhulsel sappig en moesachtig is. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fruit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470002001>, <https://stad.gent/id/concept/470002632>, <https://stad.gent/id/concept/470002434>, <https://stad.gent/id/concept/470002458>, <https://stad.gent/id/concept/470000620>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470000620> <http://www.w3.org/2004/02/skos/core#prefLabel> "sinaasappel"@nl.
+<https://stad.gent/id/concept/470002458> <http://www.w3.org/2004/02/skos/core#prefLabel> "perzik"@nl.
+<https://stad.gent/id/concept/470002434> <http://www.w3.org/2004/02/skos/core#prefLabel> "grapefruit"@nl.
+<https://stad.gent/id/concept/470002632> <http://www.w3.org/2004/02/skos/core#prefLabel> "druif"@nl.
+<https://stad.gent/id/concept/470002001> <http://www.w3.org/2004/02/skos/core#prefLabel> "appel"@nl.
+_:df_4426_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007270"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007270/2021-10-27T18:12:22.131Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/fru.ttl>.

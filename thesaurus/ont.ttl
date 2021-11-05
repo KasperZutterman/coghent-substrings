@@ -306,3 +306,100 @@ _:df_3196_31 a <http://www.w3.org/ns/adms#Identifier>;
 <https://stad.gent/id/concept/550008041> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontspanningsmiddelen (topterm)"@nl.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008041/2021-10-28T06:25:21.239Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ont.ttl>.
+<https://stad.gent/id/concept/530005563/2021-10-27T22:56:48.314Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005563>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:56:48.314Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2464_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ontwerp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005471>, <https://stad.gent/id/concept/530004475>, <https://stad.gent/id/concept/530008240>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008240> <http://www.w3.org/2004/02/skos/core#prefLabel> "patroonstuk"@nl.
+<https://stad.gent/id/concept/530004475> <http://www.w3.org/2004/02/skos/core#prefLabel> "patroon (model)"@nl.
+<https://stad.gent/id/concept/530005471> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontwerptekening"@nl.
+_:df_2464_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005563"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005563/2021-10-27T22:56:48.314Z>.
+<https://stad.gent/id/concept/530005471/2021-10-27T22:53:37.851Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:53:37.851Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069413>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2485_33;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor tekeningen waarin de opzet van een project wordt uitgewerkt, ongeacht of het ook daadwerkelijk wordt uitgevoerd; ze zijn gedetailleerder dan schetsen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ontwerptekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005563>, <https://stad.gent/id/concept/530000703>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000593>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000593> <http://www.w3.org/2004/02/skos/core#prefLabel> "behangontwerp"@nl.
+<https://stad.gent/id/concept/530000703> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekening"@nl.
+<https://stad.gent/id/concept/530005563> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontwerp"@nl.
+_:df_2485_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005471/2021-10-27T22:53:37.851Z>.
+<https://stad.gent/id/concept/530005347/2021-10-27T22:48:11.269Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005347>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:48:11.269Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1062310>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2521_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontinyent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005644>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005644> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanje"@nl.
+_:df_2521_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005347"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005347/2021-10-27T22:48:11.269Z>.
+<https://stad.gent/id/concept/530004702/2021-10-27T22:30:08.381Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:30:08.381Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227291>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2644_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Groepen van bij elkaar passend serviesgoed in verschillende maten, voor het gebruiken van een ontbijt (theepot, koffiepot, chocolademelkkan, roomkan, suikerpot, kop en schotels, borden, rekje voor geroosterd brood, soms ook tafelgerei en bestek).";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ontbijtservies"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005735>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000467>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000467> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontbijtkop"@nl.
+<https://stad.gent/id/concept/530005735> <http://www.w3.org/2004/02/skos/core#prefLabel> "servies"@nl.
+_:df_2644_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004702/2021-10-27T22:30:08.381Z>.
+<https://stad.gent/id/concept/530000467/2021-10-27T20:16:20.108Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000467>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:16:20.108Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3556_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ontbijtkop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006312>, <https://stad.gent/id/concept/530004702>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004702> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontbijtservies"@nl.
+<https://stad.gent/id/concept/530006312> <http://www.w3.org/2004/02/skos/core#prefLabel> "kop (drinkgerei)"@nl.
+_:df_3556_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000467"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000467/2021-10-27T20:16:20.108Z>.
+<https://stad.gent/id/concept/470010510/2021-10-27T19:43:49.238Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010510>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:43:49.238Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024770>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3781_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gereedschap dat bestaat uit een grote rubberen zuignap aan een houten handvat. Worden gebruikt om kleine verstoppingen uit stankafsluiters te verwijderen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ontstopper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3781_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010510"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010510/2021-10-27T19:43:49.238Z>.
+<https://stad.gent/id/concept/470008621/2021-10-27T18:46:33.295Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008621>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:46:33.295Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q5322166>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4186_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ontwerper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4186_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008621"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008621/2021-10-27T18:46:33.295Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ont.ttl>.

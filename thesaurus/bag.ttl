@@ -10,3 +10,35 @@ _:df_3655_30 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000875"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000875/2021-10-28T16:12:17.511Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bag.ttl>.
+<https://stad.gent/id/concept/530009820/2021-10-28T02:05:43.508Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009820>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:05:43.508Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7002482>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1204_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Baghdad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003090>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Irak"@nl.
+_:df_1204_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009820"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009820/2021-10-28T02:05:43.508Z>.
+<https://stad.gent/id/concept/530008756/2021-10-28T00:56:42.838Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008756>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:56:42.838Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300225937>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1666_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders van verschillende vorm en afmeting primair bedoeld voor de bezittingen van een reiziger.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bagage"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006466>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530002906>, <https://stad.gent/id/concept/530004346>, <https://stad.gent/id/concept/530001583>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001583> <http://www.w3.org/2004/02/skos/core#prefLabel> "koffer (bagage)"@nl.
+<https://stad.gent/id/concept/530004346> <http://www.w3.org/2004/02/skos/core#prefLabel> "flightcase"@nl.
+<https://stad.gent/id/concept/530002906> <http://www.w3.org/2004/02/skos/core#prefLabel> "dakkoffer"@nl.
+<https://stad.gent/id/concept/530006466> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder"@nl, "houder"@nl.
+_:df_1666_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008756"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008756/2021-10-28T00:56:42.838Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bag.ttl>.

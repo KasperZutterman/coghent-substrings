@@ -51,3 +51,30 @@ _:df_3565_21 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550006232"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006232/2021-10-28T05:30:10.920Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/veu.ttl>.
+<https://stad.gent/id/concept/530006996/2021-10-27T23:57:53.003Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006996>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:57:53.003Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008852>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2056_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Veurne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530007350>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530004660>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004660> <http://www.w3.org/2004/02/skos/core#prefLabel> "Avekapelle"@nl.
+<https://stad.gent/id/concept/530007350> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_2056_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006996"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006996/2021-10-27T23:57:53.003Z>.
+<https://stad.gent/id/concept/470009817/2021-10-27T19:20:40.383Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009817>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:20:40.383Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008852>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3943_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Veurne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3943_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009817"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009817/2021-10-27T19:20:40.383Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/veu.ttl>.

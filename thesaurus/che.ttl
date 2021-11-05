@@ -83,3 +83,80 @@ _:df_3505_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550006442"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006442/2021-10-28T05:38:55.254Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/che.ttl>.
+<https://stad.gent/id/concept/530008898/2021-10-28T01:05:40.217Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008898>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:05:40.217Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227801>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1606_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Garen met franje, doorgaans vervaardigd door een slingerdraadweefsel te maken met de scheringdraden in gescheiden groepjes bij elkaar, waarna de stof in de lengte tot dunne repen wordt geknipt tussen de groepjes.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chenille"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008538>, <https://stad.gent/id/concept/530008453>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008453> <http://www.w3.org/2004/02/skos/core#prefLabel> "garen"@nl.
+<https://stad.gent/id/concept/530008538> <http://www.w3.org/2004/02/skos/core#prefLabel> "draad"@nl.
+_:df_1606_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008898"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008898/2021-10-28T01:05:40.217Z>.
+<https://stad.gent/id/concept/530006045/2021-10-27T23:18:42.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:18:42.245Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4012680>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2317_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chelsea"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006107>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006107> <http://www.w3.org/2004/02/skos/core#prefLabel> "Londen"@nl.
+_:df_2317_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006045"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006045/2021-10-27T23:18:42.245Z>.
+<https://stad.gent/id/concept/530004829/2021-10-27T22:36:20.234Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004829>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:36:20.234Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005951>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2602_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chemnitz"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl, "Duitsland"@nl.
+_:df_2602_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004829"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004829/2021-10-27T22:36:20.234Z>.
+<https://stad.gent/id/concept/530001775/2021-10-27T21:05:12.633Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001775>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:05:12.633Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300253763>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3220_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Accessoires of basiskledingstukken die worden gebruikt om de open of laag-uitgesneden lijfjes van jurken te vullen of die onder een jasje worden gedragen. Ze zijn gemaakt van fijne materialen, al dan niet met mouwen, en werden gedragen van de 18e tot begin 20 eeuw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chemisette"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001547>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001547> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledingaccessoire"@nl, "kledingaccessoire"@nl.
+_:df_3220_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001775"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001775/2021-10-27T21:05:12.633Z>.
+<https://stad.gent/id/concept/470008071/2021-10-27T18:30:39.911Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008071>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:30:39.911Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q29570>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4297_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chevrolet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4297_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008071"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008071/2021-10-27T18:30:39.911Z>.
+<https://stad.gent/id/concept/470007634/2021-10-27T18:20:18.618Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007634>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:20:18.618Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054537>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4372_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "chemie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4372_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007634"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007634/2021-10-27T18:20:18.618Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/che.ttl>.

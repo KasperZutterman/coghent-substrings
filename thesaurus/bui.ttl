@@ -118,3 +118,81 @@ _:df_3004_25 a <http://www.w3.org/ns/adms#Identifier>;
 <https://stad.gent/id/concept/550008369> <http://www.w3.org/2004/02/skos/core#prefLabel> "buitenhuismeubilair"@nl.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008369/2021-10-28T06:53:54.822Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bui.ttl>.
+<https://stad.gent/id/concept/530003225/2021-10-27T21:44:49.755Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:44:49.755Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014687>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2950_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Holle, meestal cilindervorige voorwerpen die lang zijn in verhouding tot de doorsnede en soms buigzaam zijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "buis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008736>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003215>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003215> <http://www.w3.org/2004/02/skos/core#prefLabel> "buisje"@nl.
+<https://stad.gent/id/concept/530008736> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenre"@nl.
+_:df_2950_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003225"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003225/2021-10-27T21:44:49.755Z>.
+<https://stad.gent/id/concept/530003215/2021-10-27T21:44:19.746Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003215>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:44:19.746Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2953_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "buisje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003225>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003225> <http://www.w3.org/2004/02/skos/core#prefLabel> "buis"@nl.
+_:df_2953_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003215"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003215/2021-10-27T21:44:19.746Z>.
+<https://stad.gent/id/concept/530001815/2021-10-27T21:06:28.843Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001815>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:06:28.843Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3211_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "buikband"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001547>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001547> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledingaccessoire"@nl.
+_:df_3211_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001815"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001815/2021-10-27T21:06:28.843Z>.
+<https://stad.gent/id/concept/530000947/2021-10-27T20:37:03.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000947>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:37:03.355Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3415_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "18e-eeuws kabinet met een gechantourneerde onderkant die aan de basis een naar voren springende ronding vertoont. Specifiek Nederlands meubel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "buikkabinet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004029>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004029> <http://www.w3.org/2004/02/skos/core#prefLabel> "kabinet"@nl.
+_:df_3415_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000947"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000947/2021-10-27T20:37:03.355Z>.
+<https://stad.gent/id/concept/530000796/2021-10-27T20:31:54.634Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000796>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:31:54.634Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3448_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Fles met wijde buik.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "buikfles"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002994>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002994> <http://www.w3.org/2004/02/skos/core#prefLabel> "fles"@nl.
+_:df_3448_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000796"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000796/2021-10-27T20:31:54.634Z>.
+<https://stad.gent/id/concept/470008075/2021-10-27T18:30:54.916Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008075>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:30:54.916Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q27415>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4297_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Buick"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4297_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008075"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008075/2021-10-27T18:30:54.916Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bui.ttl>.

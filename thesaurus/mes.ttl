@@ -312,3 +312,189 @@ _:df_2806_21 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550009076"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009076/2021-10-28T07:23:10.994Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mes.ttl>.
+<https://stad.gent/id/concept/530009484/2021-10-28T01:38:12.469Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:38:12.469Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207614>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1390_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Messen die een persoon tijdens het eten gebruikt om te snijden en te smeren; wordt soms als synoniem gebruikt voor dessertmessen. De term kan ook verwijzen naar alle messen die deel uitmaken van een couvert, of eigenlijk naar alle messen die bedoeld zijn om mee te eten, en dus niet om eten mee op te dienen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mes behorend bij een couvert"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005082>, <https://stad.gent/id/concept/530000132>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530002981>, <https://stad.gent/id/concept/530006171>, <https://stad.gent/id/concept/530000503>, <https://stad.gent/id/concept/530009048>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009048> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafelmes"@nl.
+<https://stad.gent/id/concept/530000503> <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitmes"@nl.
+<https://stad.gent/id/concept/530006171> <http://www.w3.org/2004/02/skos/core#prefLabel> "dessertmes"@nl.
+<https://stad.gent/id/concept/530002981> <http://www.w3.org/2004/02/skos/core#prefLabel> "botermes"@nl.
+<https://stad.gent/id/concept/530000132> <http://www.w3.org/2004/02/skos/core#prefLabel> "mes (culinair gereedschap)"@nl.
+<https://stad.gent/id/concept/530005082> <http://www.w3.org/2004/02/skos/core#prefLabel> "couvert"@nl.
+_:df_1390_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009484/2021-10-28T01:38:12.469Z>.
+<https://stad.gent/id/concept/530008723/2021-10-28T00:54:06.567Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008723>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:54:06.567Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024668>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1684_36;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Snijgereedschap een eensnijdende kling om mee te snijden en vastgezet in een greep, ook wel 'heft' genoemd. Het gebruik varieert van het snijden van voedsel en andere materialen tot het gebruik als een wapen. de kling kan van diverse soorten metaal of andere materialen als ivoor of steen zijn gemaakt. de term verwijst ook naar gereedschap dat wel als mes gevormd is maar waarvan de kling niet scherp is, of voor snijden wordt gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mes (snijgereedschap)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009046>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006547>, <https://stad.gent/id/concept/530000132>, <https://stad.gent/id/concept/530000442>, <https://stad.gent/id/concept/530009047>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009047> <http://www.w3.org/2004/02/skos/core#prefLabel> "vouwmes"@nl.
+<https://stad.gent/id/concept/530000442> <http://www.w3.org/2004/02/skos/core#prefLabel> "nagelmes"@nl.
+<https://stad.gent/id/concept/530000132> <http://www.w3.org/2004/02/skos/core#prefLabel> "mes (culinair gereedschap)"@nl.
+<https://stad.gent/id/concept/530006547> <http://www.w3.org/2004/02/skos/core#prefLabel> "briefopener"@nl.
+<https://stad.gent/id/concept/530009046> <http://www.w3.org/2004/02/skos/core#prefLabel> "snijgereedschap"@nl.
+_:df_1684_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008723"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008723/2021-10-28T00:54:06.567Z>.
+<https://stad.gent/id/concept/530005367/2021-10-27T22:49:31.248Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005367>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:49:31.248Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2005082>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2512_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "messenblok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2512_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005367"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005367/2021-10-27T22:49:31.248Z>.
+<https://stad.gent/id/concept/530005081/2021-10-27T22:38:55.189Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005081>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:38:55.189Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010946>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2584_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een legering van koper en zink, meestal met koper als het voornaamste element en met zink als maximaal 40% van het gewicht.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "messing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000666>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008553>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008553> <http://www.w3.org/2004/02/skos/core#prefLabel> "tombak"@nl.
+<https://stad.gent/id/concept/530000666> <http://www.w3.org/2004/02/skos/core#prefLabel> "koperlegering"@nl.
+_:df_2584_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005081"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005081/2021-10-27T22:38:55.189Z>.
+<https://stad.gent/id/concept/530000271/2021-10-27T20:05:53.773Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000271>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:05:53.773Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043083>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3625_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tafelgerei waar messen met het lemmet op worden gelegd, om het tafellaken niet vuil te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "messenlegger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008614>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008614> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire uitrusting"@nl.
+_:df_3625_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000271"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000271/2021-10-27T20:05:53.773Z>.
+<https://stad.gent/id/concept/530000132/2021-10-27T19:59:35.443Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000132>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:59:35.443Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266867>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3670_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metalen, bij voorkeur scherp geslepen, keukengerei voor het bereiden of nuttigen van voedsel; bestaat uit een lemmet en een handvat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mes (culinair gereedschap)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003859>, <https://stad.gent/id/concept/530001486>, <https://stad.gent/id/concept/530008723>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530002021>, <https://stad.gent/id/concept/530002984>, <https://stad.gent/id/concept/530006551>, <https://stad.gent/id/concept/530002743>, <https://stad.gent/id/concept/530010465>, <https://stad.gent/id/concept/530000501>, <https://stad.gent/id/concept/530000318>, <https://stad.gent/id/concept/530000485>, <https://stad.gent/id/concept/530010630>, <https://stad.gent/id/concept/530000508>, <https://stad.gent/id/concept/530009484>, <https://stad.gent/id/concept/530005671>, <https://stad.gent/id/concept/530000517>, <https://stad.gent/id/concept/530000510>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000510> <http://www.w3.org/2004/02/skos/core#prefLabel> "voorsnijmes"@nl.
+<https://stad.gent/id/concept/530000517> <http://www.w3.org/2004/02/skos/core#prefLabel> "vleesmes"@nl.
+<https://stad.gent/id/concept/530005671> <http://www.w3.org/2004/02/skos/core#prefLabel> "serveermes"@nl.
+<https://stad.gent/id/concept/530009484> <http://www.w3.org/2004/02/skos/core#prefLabel> "mes behorend bij een couvert"@nl.
+<https://stad.gent/id/concept/530000508> <http://www.w3.org/2004/02/skos/core#prefLabel> "confituurmes"@nl.
+<https://stad.gent/id/concept/530010630> <http://www.w3.org/2004/02/skos/core#prefLabel> "kruidenmes"@nl.
+<https://stad.gent/id/concept/530000485> <http://www.w3.org/2004/02/skos/core#prefLabel> "kindermes"@nl.
+<https://stad.gent/id/concept/530000318> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaasmes"@nl.
+<https://stad.gent/id/concept/530000501> <http://www.w3.org/2004/02/skos/core#prefLabel> "hors-d'oeuvre mes"@nl.
+<https://stad.gent/id/concept/530010465> <http://www.w3.org/2004/02/skos/core#prefLabel> "hakmes"@nl.
+<https://stad.gent/id/concept/530002743> <http://www.w3.org/2004/02/skos/core#prefLabel> "dunschiller"@nl.
+<https://stad.gent/id/concept/530006551> <http://www.w3.org/2004/02/skos/core#prefLabel> "spork"@nl.
+<https://stad.gent/id/concept/530002984> <http://www.w3.org/2004/02/skos/core#prefLabel> "broodmes"@nl.
+<https://stad.gent/id/concept/530002021> <http://www.w3.org/2004/02/skos/core#prefLabel> "botermesje"@nl.
+<https://stad.gent/id/concept/530008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "mes (snijgereedschap)"@nl.
+<https://stad.gent/id/concept/530001486> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei (objectnaam)"@nl.
+<https://stad.gent/id/concept/530003859> <http://www.w3.org/2004/02/skos/core#prefLabel> "bestek"@nl.
+_:df_3670_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000132"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000132/2021-10-27T19:59:35.443Z>.
+<https://stad.gent/id/concept/530000093/2021-10-27T19:57:57.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000093>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:57:57.783Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7623099>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3682_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dorpje ten zuiden van Chartres.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meslay-le-Vidame"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_3682_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000093"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000093/2021-10-27T19:57:57.783Z>.
+<https://stad.gent/id/concept/470008719/2021-10-27T18:49:22.884Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008719>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:49:22.884Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266867>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4165_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mes (culinair gereedschap)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003102>, <https://stad.gent/id/concept/470003869>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470003600>, <https://stad.gent/id/concept/470003860>, <https://stad.gent/id/concept/470003583>, <https://stad.gent/id/concept/470003577>, <https://stad.gent/id/concept/470003574>, <https://stad.gent/id/concept/470003598>, <https://stad.gent/id/concept/470003578>, <https://stad.gent/id/concept/470003573>, <https://stad.gent/id/concept/470003588>, <https://stad.gent/id/concept/470003586>, <https://stad.gent/id/concept/470003587>, <https://stad.gent/id/concept/470003561>, <https://stad.gent/id/concept/470003523>, <https://stad.gent/id/concept/470003773>, <https://stad.gent/id/concept/470003565>, <https://stad.gent/id/concept/470003589>, <https://stad.gent/id/concept/470003593>, <https://stad.gent/id/concept/470000782>, <https://stad.gent/id/concept/470001621>, <https://stad.gent/id/concept/470003594>, <https://stad.gent/id/concept/470003569>, <https://stad.gent/id/concept/470003595>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003595> <http://www.w3.org/2004/02/skos/core#prefLabel> "wrongelmes"@nl.
+<https://stad.gent/id/concept/470003569> <http://www.w3.org/2004/02/skos/core#prefLabel> "voorsnijmes"@nl.
+<https://stad.gent/id/concept/470003594> <http://www.w3.org/2004/02/skos/core#prefLabel> "vilmes"@nl.
+<https://stad.gent/id/concept/470001621> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitbeenmes"@nl.
+<https://stad.gent/id/concept/470000782> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafelmes"@nl.
+<https://stad.gent/id/concept/470003593> <http://www.w3.org/2004/02/skos/core#prefLabel> "slagersmes"@nl.
+<https://stad.gent/id/concept/470003589> <http://www.w3.org/2004/02/skos/core#prefLabel> "oestermes"@nl.
+<https://stad.gent/id/concept/470003565> <http://www.w3.org/2004/02/skos/core#prefLabel> "mosselmes"@nl.
+<https://stad.gent/id/concept/470003773> <http://www.w3.org/2004/02/skos/core#prefLabel> "mes (elektrisch)"@nl.
+<https://stad.gent/id/concept/470003523> <http://www.w3.org/2004/02/skos/core#prefLabel> "koksmes"@nl.
+<https://stad.gent/id/concept/470003561> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaassnijmes (serveergerei)"@nl.
+<https://stad.gent/id/concept/470003587> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaasschaaf"@nl.
+<https://stad.gent/id/concept/470003586> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaasmes (voedselbereidingsgereedschap)"@nl.
+<https://stad.gent/id/concept/470003588> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaasmes (serveergerei)"@nl.
+<https://stad.gent/id/concept/470003573> <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitmes"@nl.
+<https://stad.gent/id/concept/470003578> <http://www.w3.org/2004/02/skos/core#prefLabel> "eiersnijder"@nl.
+<https://stad.gent/id/concept/470003598> <http://www.w3.org/2004/02/skos/core#prefLabel> "dunschiller"@nl.
+<https://stad.gent/id/concept/470003574> <http://www.w3.org/2004/02/skos/core#prefLabel> "dessertmes"@nl.
+<https://stad.gent/id/concept/470003577> <http://www.w3.org/2004/02/skos/core#prefLabel> "citrusschiller"@nl.
+<https://stad.gent/id/concept/470003583> <http://www.w3.org/2004/02/skos/core#prefLabel> "broodmes"@nl.
+<https://stad.gent/id/concept/470003860> <http://www.w3.org/2004/02/skos/core#prefLabel> "botertrekker"@nl.
+<https://stad.gent/id/concept/470003600> <http://www.w3.org/2004/02/skos/core#prefLabel> "botermes"@nl.
+<https://stad.gent/id/concept/470003869> <http://www.w3.org/2004/02/skos/core#prefLabel> "meswerk"@nl.
+<https://stad.gent/id/concept/470003102> <http://www.w3.org/2004/02/skos/core#prefLabel> "bestek"@nl.
+_:df_4165_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008719"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008719/2021-10-27T18:49:22.884Z>.
+<https://stad.gent/id/concept/470008448/2021-10-27T18:42:00.995Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008448>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:42:00.995Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q20726620>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4219_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "messenwerper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4219_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008448"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008448/2021-10-27T18:42:00.995Z>.
+<https://stad.gent/id/concept/470007292/2021-10-27T18:12:57.699Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007292>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:12:57.699Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043083>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4423_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tafelgerei waar messen met het lemmet op worden gelegd, om het tafellaken niet vuil te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "messenlegger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4423_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007292"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007292/2021-10-27T18:12:57.699Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mes.ttl>.

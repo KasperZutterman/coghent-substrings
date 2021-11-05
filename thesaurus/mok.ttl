@@ -122,3 +122,106 @@ _:df_2788_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550009117"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009117/2021-10-28T07:25:37.911Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mok.ttl>.
+<https://stad.gent/id/concept/530006292/2021-10-27T23:30:55.022Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006292>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:30:55.022Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043248>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2236_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drinkgerei, vaak cilindrisch van vorm, met een vlakke bodem, met één handvat en soms met een deksel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006475>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006475> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkgerei"@nl.
+_:df_2236_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006292"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006292/2021-10-27T23:30:55.022Z>.
+<https://stad.gent/id/concept/530003298/2021-10-27T21:47:24.292Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003298>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:47:24.292Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2932_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mokkaservies"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006169>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000267>, <https://stad.gent/id/concept/530002025>, <https://stad.gent/id/concept/530000206>, <https://stad.gent/id/concept/530000516>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000516> <http://www.w3.org/2004/02/skos/core#prefLabel> "mokkakan"@nl.
+<https://stad.gent/id/concept/530000206> <http://www.w3.org/2004/02/skos/core#prefLabel> "mokkakop"@nl.
+<https://stad.gent/id/concept/530002025> <http://www.w3.org/2004/02/skos/core#prefLabel> "mokkaschoteltje"@nl.
+<https://stad.gent/id/concept/530000267> <http://www.w3.org/2004/02/skos/core#prefLabel> "mokkalepel"@nl.
+<https://stad.gent/id/concept/530006169> <http://www.w3.org/2004/02/skos/core#prefLabel> "koffieservies"@nl.
+_:df_2932_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003298"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003298/2021-10-27T21:47:24.292Z>.
+<https://stad.gent/id/concept/530003232/2021-10-27T21:44:59.758Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003232>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:44:59.758Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031225>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2950_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een zware hamer met een vierkante hamerkop van 1000-1500 gram op een steel van 30 cm lang, voor zwaar werk. Met een rubberen opzetstuk wordt een vuisthamer gebruikt om tegels of straatstenen in het zand te leggen voor het maken van bestrating.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "moker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008630>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008630> <http://www.w3.org/2004/02/skos/core#prefLabel> "hamer"@nl.
+_:df_2950_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003232"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003232/2021-10-27T21:44:59.758Z>.
+<https://stad.gent/id/concept/530002025/2021-10-27T21:15:26.307Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002025>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:15:26.307Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900022188>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3151_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mokkaschoteltje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002026>, <https://stad.gent/id/concept/530003298>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003298> <http://www.w3.org/2004/02/skos/core#prefLabel> "mokkaservies"@nl.
+<https://stad.gent/id/concept/530002026> <http://www.w3.org/2004/02/skos/core#prefLabel> "koffieschoteltje"@nl.
+_:df_3151_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002025"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530002025> <http://www.w3.org/2004/02/skos/core#prefLabel> "mokkaschoteltje"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002025/2021-10-27T21:15:26.307Z>.
+<https://stad.gent/id/concept/530000516/2021-10-27T20:19:26.147Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000516>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:19:26.147Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900022351>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3535_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mokkakan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006160>, <https://stad.gent/id/concept/530003298>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003298> <http://www.w3.org/2004/02/skos/core#prefLabel> "mokkaservies"@nl.
+<https://stad.gent/id/concept/530006160> <http://www.w3.org/2004/02/skos/core#prefLabel> "kan"@nl.
+_:df_3535_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000516"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000516/2021-10-27T20:19:26.147Z>.
+<https://stad.gent/id/concept/530000267/2021-10-27T20:05:40.582Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:05:40.582Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3628_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een mokkalepel wordt gebruikt om suiker door de mokkakoffie te roeren.\r\nDe mokkakoffie is een sterkere koffiesoort en wordt in kleinere kopjes gepresenteerd, vandaar ook dat de mokkalepel een kleinere versie is van de koffielepel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mokkalepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003003>, <https://stad.gent/id/concept/530003298>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003298> <http://www.w3.org/2004/02/skos/core#prefLabel> "mokkaservies"@nl.
+<https://stad.gent/id/concept/530003003> <http://www.w3.org/2004/02/skos/core#prefLabel> "koffielepel"@nl.
+_:df_3628_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000267/2021-10-27T20:05:40.582Z>.
+<https://stad.gent/id/concept/530000206/2021-10-27T20:02:28.324Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000206>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:02:28.324Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900022592>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3649_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mokkakop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005152>, <https://stad.gent/id/concept/530003298>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003298> <http://www.w3.org/2004/02/skos/core#prefLabel> "mokkaservies"@nl.
+<https://stad.gent/id/concept/530005152> <http://www.w3.org/2004/02/skos/core#prefLabel> "koffiekop"@nl.
+_:df_3649_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000206"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000206/2021-10-27T20:02:28.324Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mok.ttl>.

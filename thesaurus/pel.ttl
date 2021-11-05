@@ -73,3 +73,49 @@ _:df_3634_16 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550005964"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005964/2021-10-28T05:19:56.722Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pel.ttl>.
+<https://stad.gent/id/concept/530009368/2021-10-28T01:28:27.970Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009368>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:28:27.970Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q42878311>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1453_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pelt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009328>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530002757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Overpelt"@nl.
+<https://stad.gent/id/concept/530009328> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie, België)"@nl, "Limburg (provincie, België)"@nl, "Limburg (provincie, België)"@nl, "Limburg (provincie, België)"@nl.
+_:df_1453_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009368"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009368/2021-10-28T01:28:27.970Z>.
+<https://stad.gent/id/concept/530004600/2021-10-27T22:25:38.356Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004600>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:25:38.356Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300221437>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2674_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sjaalachtige capes van bont of stof die om de hals worden vastgemaakt en aan de voorkant naar beneden afhangen. Gebruik 'stolen (liturgische kleding)' voor de bandstroken die over liturgische gewaden van geestelijken worden gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pelerine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001363>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001363> <http://www.w3.org/2004/02/skos/core#prefLabel> "cape"@nl.
+_:df_2674_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004600"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004600/2021-10-27T22:25:38.356Z>.
+<https://stad.gent/id/concept/530003143/2021-10-27T21:40:58.409Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003143>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:40:58.409Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300193371>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2977_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een huid of vel waarvan het haar niet is verwijderd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008443>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008413>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008413> <http://www.w3.org/2004/02/skos/core#prefLabel> "koeienhuid"@nl.
+<https://stad.gent/id/concept/530008443> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierlijk materiaal"@nl.
+_:df_2977_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003143"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003143/2021-10-27T21:40:58.409Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pel.ttl>.

@@ -653,3 +653,157 @@ _:df_3442_13 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550006753"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006753/2021-10-28T05:48:15.238Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pro.ttl>.
+<https://stad.gent/id/concept/530008420/2021-10-28T00:30:18.924Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008420>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:30:18.924Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055100>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1840_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebruik voor materialen voor verpakking of de bescherming van producten die informatie bevatten, of een boodschap over het product overbrengen. Voor materiaal dat wordt gebruikt om objecten te beschermen, stoten op te vangen of vast te zetten voor veilige verzending of opslag, gebruik \"verpakkingsmateriaal.\"";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productverpakking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008574>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010466>, <https://stad.gent/id/concept/530010399>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010399> <http://www.w3.org/2004/02/skos/core#prefLabel> "luciferboekje"@nl.
+<https://stad.gent/id/concept/530010466> <http://www.w3.org/2004/02/skos/core#prefLabel> "beschermhoes"@nl.
+<https://stad.gent/id/concept/530008574> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedrager"@nl.
+_:df_1840_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008420"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008420/2021-10-28T00:30:18.924Z>.
+<https://stad.gent/id/concept/530006016/2021-10-27T23:17:05.120Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006016>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:17:05.120Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2329_67;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "producent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "onderwerp"@nl, "subject"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2329_67 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006016"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006016/2021-10-27T23:17:05.120Z>.
+<https://stad.gent/id/concept/530005988/2021-10-27T23:15:42.398Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005988>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:15:42.398Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2338_83;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "producentenmerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010482>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010482> <http://www.w3.org/2004/02/skos/core#prefLabel> "merkteken (symbool)"@nl.
+_:df_2338_83 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005988"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005988/2021-10-27T23:15:42.398Z>.
+<https://stad.gent/id/concept/530003411/2021-10-27T21:51:11.216Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003411>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:51:11.216Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7250384>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2908_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Proven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009385>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009385> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poperinge"@nl.
+_:df_2908_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003411"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003411/2021-10-27T21:51:11.216Z>.
+<https://stad.gent/id/concept/530003173/2021-10-27T21:42:18.810Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003173>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:42:18.810Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031105>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2968_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vervanging van verloren gegane lichaamsdelen door kunstleden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prothese"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008780>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008780> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting (objectnaam)"@nl.
+_:df_2968_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003173"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003173/2021-10-27T21:42:18.810Z>.
+<https://stad.gent/id/concept/530001662/2021-10-27T21:01:23.503Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001662>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:01:23.503Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3247_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een pronkbeker is een rijkversierde beker die vaak rijkelijk voorzien is van zilveren ornamenten. Veel beroemde pronkbekers stammen uit de 16e eeuw.\r\nEen bekend type pronkbeker maakt gebruik van de fraai gevormde parelmoeren schelp van de Nautilus, die geplaatst is op een zilveren voetstuk en ook rijkelijk met zilverwerk is bekleed. Een bekend voorbeeld van een pronkbeker is het exemplaar dat zich bevindt in het Westfries Museum. Dit was een tijdens de Slag op de Zuiderzee op de Spanjaarden buitgemaakte beker. In het stadhuis te Veere bevindt zich een pronkbeker die Maximiliaan van Egmont, graaf van Buren, in 1547 van keizer Karel V ten geschenke kreeg.\r\nOok pronkbekers in de vorm van een dier kwamen veel voor, zoals de uilenbeker.\r\nHet gebruik van de pronkbeker kan worden geassocieerd met overwinning, jacht, schutterij en dergelijke. Ook bij speciale gebeurtenissen, zoals een rijk huwelijk, werd soms een pronkbeker ten geschenke gegeven.\r\nHet gebruik van de wedstrijdbeker in de sport is een huidige variant op deze vroegere gewoonte.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pronkbeker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006118>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006118> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkbeker"@nl.
+_:df_3247_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001662"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001662/2021-10-27T21:01:23.503Z>.
+<https://stad.gent/id/concept/530001151/2021-10-27T20:44:10.689Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001151>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:44:10.689Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3364_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productienummer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3364_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001151"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001151/2021-10-27T20:44:10.689Z>.
+<https://stad.gent/id/concept/530000280/2021-10-27T20:06:33.784Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:06:33.784Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3622_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productnummer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000043>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000043> <http://www.w3.org/2004/02/skos/core#prefLabel> "opschrift"@nl.
+_:df_3622_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000280/2021-10-27T20:06:33.784Z>.
+<https://stad.gent/id/concept/470009702/2021-10-27T19:17:47.404Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:17:47.404Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069290>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3964_5;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor gelegenheden waarbij een groep mensen ordelijk achter elkaar loopt in formeel, ceremonieel verband. Gebruik 'optochten' voor grote openbare processies met een feestelijk karakter, vaak met wagens en fanfare en gehouden ter ere van een gedenkdag, persoon of gebeurtenis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "processie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008889>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470002299>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002299> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heilig-Bloedprocessie"@nl.
+<https://stad.gent/id/concept/470008889> <http://www.w3.org/2004/02/skos/core#prefLabel> "optocht"@nl.
+_:df_3964_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009702/2021-10-27T19:17:47.404Z>.
+<https://stad.gent/id/concept/470009565/2021-10-27T19:12:46.185Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009565>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:12:46.185Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7250384>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4000_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Proven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4000_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009565"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009565/2021-10-27T19:12:46.185Z>.
+<https://stad.gent/id/concept/470008429/2021-10-27T18:41:20.335Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008429>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:41:20.335Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027240>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4222_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Korte uiteenzettingen of verklaringen omtrent een te volgen procedure, over deelnamecriteria of over de onderwerpen die bij een bepaald evenement of een bepaalde onderneming aan de orde komen. Hieronder vallen onder meer opsommingen van de werkzaamheden die een (toneel)uitvoering met zich meebrengt, inclusief de namen van de uitvoerenden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "programma"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470004542>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaalsoort"@nl, "document type"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004542> <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwprogramma"@nl.
+_:df_4222_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008429"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008429/2021-10-27T18:41:20.335Z>.
+<https://stad.gent/id/concept/470007808/2021-10-27T18:23:16.127Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007808>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:23:16.127Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132472>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4351_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het openlijk uiten van bezwaar, afkeuring of een afwijkende mening.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "protesteren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4351_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007808"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007808/2021-10-27T18:23:16.127Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pro.ttl>.

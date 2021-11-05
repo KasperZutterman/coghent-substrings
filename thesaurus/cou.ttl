@@ -111,3 +111,61 @@ _:df_2353_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570008925"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008925/2021-10-28T08:29:57.765Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/cou.ttl>.
+<https://stad.gent/id/concept/530009735/2021-10-28T01:58:07.456Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009735>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:58:07.456Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7009061>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1255_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Courbevoie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_1255_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009735"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009735/2021-10-28T01:58:07.456Z>.
+<https://stad.gent/id/concept/530008755/2021-10-28T00:56:37.836Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008755>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:56:37.836Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1666_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "coupe (glas)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008516>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008516> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkglas"@nl.
+_:df_1666_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008755"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008755/2021-10-28T00:56:37.836Z>.
+<https://stad.gent/id/concept/530005082/2021-10-27T22:39:00.190Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005082>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:39:00.190Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227297>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2584_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Groepen van bij elkaar passend serviesgoed (meestal maaltijdbord, kop en schotel, salade- of dessertbord) voor elk van de aan tafel aanzittenden. Gebruik 'couverts' ook voor bestek (meestal mes, vork, slavork, soeplepel, theelepel, botermes) voor elk van de aan de maaltijd aanzittenden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "couvert"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004811>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003859>, <https://stad.gent/id/concept/530009484>, <https://stad.gent/id/concept/530002989>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002989> <http://www.w3.org/2004/02/skos/core#prefLabel> "vork behorend bij een couvert"@nl.
+<https://stad.gent/id/concept/530009484> <http://www.w3.org/2004/02/skos/core#prefLabel> "mes behorend bij een couvert"@nl.
+<https://stad.gent/id/concept/530003859> <http://www.w3.org/2004/02/skos/core#prefLabel> "bestek"@nl.
+<https://stad.gent/id/concept/530004811> <http://www.w3.org/2004/02/skos/core#prefLabel> "stel"@nl.
+_:df_2584_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005082"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005082/2021-10-27T22:39:00.190Z>.
+<https://stad.gent/id/concept/530001520/2021-10-27T20:55:14.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001520>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:55:14.405Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215523>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3289_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dessertschalen op voet, met wijde maar ondiepe kom.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "coupe (schaal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000172>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000172> <http://www.w3.org/2004/02/skos/core#prefLabel> "dessertschaal"@nl.
+_:df_3289_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001520"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001520/2021-10-27T20:55:14.405Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/cou.ttl>.

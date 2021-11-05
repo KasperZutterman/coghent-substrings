@@ -101,3 +101,18 @@ _:df_2683_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570001415"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001415/2021-10-28T07:41:29.070Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/stad.ttl>.
+<https://stad.gent/id/concept/530000601/2021-10-27T20:24:11.173Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000601>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:24:11.173Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015571>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3502_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beeldende werken waarvan de hoofdvoorstelling een stad is. Gebruik 'dorpsgezichten' voor beeldende werken waarvan de hoofdvoorstelling een dorp is.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stadsgezicht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005468>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005468> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal"@nl.
+_:df_3502_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000601"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000601/2021-10-27T20:24:11.173Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/stad.ttl>.

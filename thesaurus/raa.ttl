@@ -93,3 +93,34 @@ _:df_3040_31 a <http://www.w3.org/ns/adms#Identifier>;
 <https://stad.gent/id/concept/550008306> <http://www.w3.org/2004/02/skos/core#prefLabel> "raamkozijnen en raamkozijnonderdelen"@nl.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008306/2021-10-28T06:48:34.321Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/raa.ttl>.
+<https://stad.gent/id/concept/530000165/2021-10-27T20:00:35.996Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000165>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:00:35.996Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q7386067>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3664_40;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Raadvad (Rådvad)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005982>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Denemarken"@nl.
+_:df_3664_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000165"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000165/2021-10-27T20:00:35.996Z>.
+<https://stad.gent/id/concept/530000141/2021-10-27T19:59:55.986Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000141>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:59:55.986Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300080680>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3667_37;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Alle instrumenten, hulpstukken of constructie-elementen die nodig zijn om een raam te vormen en te bedienen, zoals klinken, koorden, raamuitzetters, scharnieren, hendels, sloten, handvaten , katrollen en raamgewichten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "raamwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006446>, <https://stad.gent/id/concept/530001251>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000216>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000216> <http://www.w3.org/2004/02/skos/core#prefLabel> "vensterkruk"@nl.
+<https://stad.gent/id/concept/530001251> <http://www.w3.org/2004/02/skos/core#prefLabel> "venster"@nl.
+<https://stad.gent/id/concept/530006446> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerwaar"@nl.
+_:df_3667_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000141"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000141/2021-10-27T19:59:55.986Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/raa.ttl>.

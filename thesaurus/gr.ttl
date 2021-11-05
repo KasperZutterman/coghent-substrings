@@ -1288,3 +1288,311 @@ _:df_1_602 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gru.ttl>;
     <https://w3id.org/tree#value> "gru".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/gr.ttl>.
+<https://stad.gent/id/concept/550003688/2021-10-28T04:13:26.183Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003688>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:13:26.183Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300193283>;
+    <http://www.w3.org/ns/adms#identifier> _:df_358_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Engelse zilveren munten die oorspronkelijk vier pennies waard waren; ze werden tussen de 13e en de 17e eeuw uitgegeven, later nog incidenteel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "groot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_358_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003688"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003688/2021-10-28T04:13:26.183Z>.
+<https://stad.gent/id/concept/550003635/2021-10-28T04:11:37.748Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003635>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:11:37.748Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000074>;
+    <http://www.w3.org/ns/adms#identifier> _:df_370_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Griekenland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006465>, <https://stad.gent/id/concept/550006870>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006870> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ithaca"@nl.
+<https://stad.gent/id/concept/550006465> <http://www.w3.org/2004/02/skos/core#prefLabel> "Athene"@nl.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl, "Europa"@nl, "Europa"@nl.
+_:df_370_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003635"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003635/2021-10-28T04:11:37.748Z>.
+<https://stad.gent/id/concept/550002865/2021-10-28T04:02:22.388Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002865>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:02:22.388Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005909>;
+    <http://www.w3.org/ns/adms#identifier> _:df_433_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Constructies die graven markeren of aanduiden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grafmonument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008116>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008119>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008119> <http://www.w3.org/2004/02/skos/core#prefLabel> "grafsteen"@nl.
+<https://stad.gent/id/concept/550008116> <http://www.w3.org/2004/02/skos/core#prefLabel> "funeraire bouwconstructies"@nl.
+_:df_433_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002865"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002865/2021-10-28T04:02:22.388Z>.
+<https://stad.gent/id/concept/550001743/2021-10-28T03:44:47.466Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:44:47.466Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300391173>;
+    <http://www.w3.org/ns/adms#identifier> _:df_550_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kruis op een graf, al dan niet voorzien van de data van de overledene";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grafkruis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007811>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007811> <http://www.w3.org/2004/02/skos/core#prefLabel> "kruis (beeldend werk)"@nl.
+_:df_550_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001743"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001743/2021-10-28T03:44:47.466Z>.
+<https://stad.gent/id/concept/550001384/2021-10-28T03:37:41.855Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001384>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:37:41.855Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300225006>;
+    <http://www.w3.org/ns/adms#identifier> _:df_598_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Cilindervormige holle staven waarin een slagpin is ondergebracht. De grendel is met de hand te bewegen door middel van een doorgaans recht op het lichaam geplaatst handvat, meest eindigend in een knop.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grendel (sluitstuk)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008120>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008120> <http://www.w3.org/2004/02/skos/core#prefLabel> "sluitstuk"@nl.
+_:df_598_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001384"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001384/2021-10-28T03:37:41.855Z>.
+<https://stad.gent/id/concept/550001342/2021-10-28T03:36:56.835Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001342>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:36:56.835Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022525>;
+    <http://www.w3.org/ns/adms#identifier> _:df_601_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten die worden gebruikt voor het uitzetten of meten van hoeken, vaak ontworpen als bogen met schaalverdelingen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gradenboog"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008115>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008115> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van horizontale hoeken"@nl.
+_:df_601_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001342"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001342/2021-10-28T03:36:56.835Z>.
+<https://stad.gent/id/concept/550001136/2021-10-28T03:34:15.754Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001136>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:34:15.754Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300184647>;
+    <http://www.w3.org/ns/adms#identifier> _:df_619_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gegraveerde geelkoperen grafplaten die als gedenkteken voor de doden dienen, vaak met een portret of familiewapen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grafplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008117>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008117> <http://www.w3.org/2004/02/skos/core#prefLabel> "grafsculptuur"@nl.
+_:df_619_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001136"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001136/2021-10-28T03:34:15.754Z>.
+<https://stad.gent/id/concept/550000856/2021-10-28T03:29:21.050Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000856>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:29:21.050Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300020072>;
+    <http://www.w3.org/ns/adms#identifier> _:df_652_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Grieks (Egeïsche periode)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_652_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000856"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000856/2021-10-28T03:29:21.050Z>.
+<https://stad.gent/id/concept/530010705/2021-10-28T03:19:16.408Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010705>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:19:16.408Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300005923>;
+    <http://www.w3.org/ns/adms#identifier> _:df_712_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grafsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008736>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008736> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenre"@nl.
+_:df_712_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010705"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010705/2021-10-28T03:19:16.408Z>.
+<https://stad.gent/id/concept/530010635/2021-10-28T03:13:27.732Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010635>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:13:27.732Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010376>;
+    <http://www.w3.org/ns/adms#identifier> _:df_751_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Grimsby"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009323>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009323> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl.
+_:df_751_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010635"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010635/2021-10-28T03:13:27.732Z>.
+<https://stad.gent/id/concept/530010386/2021-10-28T02:54:52.866Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:54:52.866Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264850>;
+    <http://www.w3.org/ns/adms#identifier> _:df_877_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar kunstenaars die gespecialiseerd zijn in het maken van prenten en illustraties. Verwees vroeger in meer algemene zin naar kunstenaars die gespecialiseerd waren in een van diverse soorten tweedimensionale kunst op papier, paneel of doek, met inbegrip van de schilderkunst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grafisch kunstenaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010435>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530004468>, <https://stad.gent/id/concept/530003581>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003581> <http://www.w3.org/2004/02/skos/core#prefLabel> "illustrator"@nl.
+<https://stad.gent/id/concept/530004468> <http://www.w3.org/2004/02/skos/core#prefLabel> "typograaf"@nl.
+<https://stad.gent/id/concept/530010435> <http://www.w3.org/2004/02/skos/core#prefLabel> "personen in de grafische industrie"@nl.
+_:df_877_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010386"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010386/2021-10-28T02:54:52.866Z>.
+<https://stad.gent/id/concept/530010015/2021-10-28T02:22:45.861Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010015>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:22:45.861Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q94898>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1090_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Grizzana Morandi"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_1090_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010015"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010015/2021-10-28T02:22:45.861Z>.
+<https://stad.gent/id/concept/530009930/2021-10-28T02:15:21.882Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009930>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:15:21.882Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7031595>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1141_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Grodno"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009929>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009929> <http://www.w3.org/2004/02/skos/core#prefLabel> "Belarus"@nl.
+_:df_1141_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009930"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530009930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grodno"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009930/2021-10-28T02:15:21.882Z>.
+<https://stad.gent/id/concept/530009779/2021-10-28T02:02:01.106Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009779>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:02:01.106Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1054146>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1228_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gradizsk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004157>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004157> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rusland"@nl.
+_:df_1228_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009779"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009779/2021-10-28T02:02:01.106Z>.
+<https://stad.gent/id/concept/530009783/2021-10-28T02:02:21.111Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:02:21.111Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009218>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1228_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Granville"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_1228_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009783/2021-10-28T02:02:21.111Z>.
+<https://stad.gent/id/concept/530009713/2021-10-28T01:56:26.209Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009713>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:56:26.209Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1033354>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1267_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Groslay"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_1267_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009713"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009713/2021-10-28T01:56:26.209Z>.
+<https://stad.gent/id/concept/530009658/2021-10-28T01:51:46.158Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009658>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:51:46.158Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1044878>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1297_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gravellona Toce"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_1297_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009658"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009658/2021-10-28T01:51:46.158Z>.
+<https://stad.gent/id/concept/530009499/2021-10-28T01:39:11.407Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:39:11.407Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1136911>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1384_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Grefrath"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl, "Duitsland"@nl.
+_:df_1384_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009499"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009499/2021-10-28T01:39:11.407Z>.
+<https://stad.gent/id/concept/530009340/2021-10-28T01:26:02.246Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009340>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:26:02.246Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003613>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1468_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Groningen (provincie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006470>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530004189>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004189> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groningen"@nl.
+<https://stad.gent/id/concept/530006470> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_1468_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009340"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009340/2021-10-28T01:26:02.246Z>.
+<https://stad.gent/id/concept/530008699/2021-10-28T00:52:19.773Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008699>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:52:19.773Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054021>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1696_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Techniek van het decoreren van sieraden waarbij minutieuze korreltjes goud of zilver worden aangebracht op een voorwerp van hetzelfde metaal. Vroeger werd dit gedaan zonder het gebruik van een soldeermiddel, tegenwoordig wordt dit mét een soldeermiddel gedaan.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "granuleren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008584>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008584> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaalversieringstechniek"@nl.
+_:df_1696_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008699"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008699/2021-10-28T00:52:19.773Z>.
+<https://stad.gent/id/concept/530002817/2021-10-27T21:25:29.368Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002817>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:25:29.368Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3082_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gr"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "eenheid"@nl, "unit"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3082_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002817"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002817/2021-10-27T21:25:29.368Z>.
+<https://KasperZutterman.github.io///thesaurus/gr.ttl> <https://w3id.org/tree#relation> _:df_1_805.
+_:df_1_805 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/grp.ttl>;
+    <https://w3id.org/tree#value> "grp".
+<https://KasperZutterman.github.io///thesaurus/gr.ttl> <https://w3id.org/tree#relation> _:df_1_806.
+_:df_1_806 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gra.ttl>;
+    <https://w3id.org/tree#value> "gra".
+<https://KasperZutterman.github.io///thesaurus/gr.ttl> <https://w3id.org/tree#relation> _:df_1_807.
+_:df_1_807 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gre.ttl>;
+    <https://w3id.org/tree#value> "gre".
+<https://KasperZutterman.github.io///thesaurus/gr.ttl> <https://w3id.org/tree#relation> _:df_1_808.
+_:df_1_808 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gro.ttl>;
+    <https://w3id.org/tree#value> "gro".
+<https://KasperZutterman.github.io///thesaurus/gr.ttl> <https://w3id.org/tree#relation> _:df_1_809.
+_:df_1_809 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gri.ttl>;
+    <https://w3id.org/tree#value> "gri".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/gr.ttl>.

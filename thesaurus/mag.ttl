@@ -153,3 +153,102 @@ _:df_4438_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024194"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024194/2021-10-28T14:17:34.650Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mag.ttl>.
+<https://stad.gent/id/concept/530009536/2021-10-28T01:41:42.491Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009536>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:41:42.491Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004456>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1366_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Magdeburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl, "Duitsland"@nl.
+_:df_1366_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009536"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009536/2021-10-28T01:41:42.491Z>.
+<https://stad.gent/id/concept/530008528/2021-10-28T00:37:54.459Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008528>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:37:54.459Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1792_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "magnesium en magnesiumlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008436>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008159>, <https://stad.gent/id/concept/530003021>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003021> <http://www.w3.org/2004/02/skos/core#prefLabel> "magnesiumlegering"@nl.
+<https://stad.gent/id/concept/530008159> <http://www.w3.org/2004/02/skos/core#prefLabel> "magnesium"@nl.
+<https://stad.gent/id/concept/530008436> <http://www.w3.org/2004/02/skos/core#prefLabel> "non-ferrometaal"@nl, "non-ferrometaal"@nl.
+_:df_1792_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008528"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008528/2021-10-28T00:37:54.459Z>.
+<https://stad.gent/id/concept/530008159/2021-10-28T00:19:23.800Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008159>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:19:23.800Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011024>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1912_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor het zuivere metaalelement met het symbool Mg en het atoomnummer 12. Het is het lichtste metaal dat stabiel blijft onder normale omstandigheden en is zilverachtig wit van kleur. Ook te gebruiken voor het metaal wanneer het wordt bewerkt en gevormd om, meestal in combinatie met andere stoffen, verscheidene voorwerpen en materialen te maken.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "magnesium"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008528>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008528> <http://www.w3.org/2004/02/skos/core#prefLabel> "magnesium en magnesiumlegering"@nl.
+_:df_1912_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008159"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008159/2021-10-28T00:19:23.800Z>.
+<https://stad.gent/id/concept/530005568/2021-10-27T22:57:01.662Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:57:01.662Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024549>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2461_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorwerpen die de eigenschap bezitten dat ze aantrekkingskracht uitoefenen op metaal en staal en een magnetisch veld om zich heen produceren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "magneet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008736>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008736> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenre"@nl.
+_:df_2461_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005568/2021-10-27T22:57:01.662Z>.
+<https://stad.gent/id/concept/530003021/2021-10-27T21:35:35.294Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003021>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:35:35.294Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2180288>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3013_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een magnesiumlegering is een legering van magnesium met andere metalen. Magnesium is het lichtste contructiemateriaal, maar ongelegeerd is het slecht bruikbaar. Een toeslag van 1,5 % mangaan geeft een bruikbaar materiaal, dat evenwel niet thermisch hardbaar is. Een toeslag van tot 10 % aluminium is wel hardbaar. Andere toevoegingen zijn zink, zirkonium, zilver, thorium. Magnesiumlegeringen vinden vooral toepassing waar massa laag moet zijn, zoals in voertuigen en bewegende delen zoals krukassen. Magnesiumlegeringen hebben goede dempingseigenschappen, vermoeiingsweerstand en schokweerstand, maar spanningscorrosie vormt dikwijls een probleem. Ze zijn slecht bruikbaar in zeewater als gevolg van de gevoeligheid voor corrosie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "magnesiumlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008528>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008528> <http://www.w3.org/2004/02/skos/core#prefLabel> "magnesium en magnesiumlegering"@nl.
+_:df_3013_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003021"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003021/2021-10-27T21:35:35.294Z>.
+<https://stad.gent/id/concept/470010668/2021-10-27T19:47:30.985Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010668>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:47:30.985Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024549>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3754_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorwerpen die de eigenschap bezitten dat ze aantrekkingskracht uitoefenen op metaal en staal en een magnetisch veld om zich heen produceren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "magneet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3754_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010668"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010668/2021-10-27T19:47:30.985Z>.
+<https://stad.gent/id/concept/470009191/2021-10-27T19:00:41.722Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009191>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:00:41.722Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379459>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4087_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "magiër"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470002449>, <https://stad.gent/id/concept/470000924>, <https://stad.gent/id/concept/470000919>, <https://stad.gent/id/concept/470003204>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003204> <http://www.w3.org/2004/02/skos/core#prefLabel> "zakkenroller"@nl.
+<https://stad.gent/id/concept/470000919> <http://www.w3.org/2004/02/skos/core#prefLabel> "helderziende"@nl.
+<https://stad.gent/id/concept/470000924> <http://www.w3.org/2004/02/skos/core#prefLabel> "buikspreker"@nl.
+<https://stad.gent/id/concept/470002449> <http://www.w3.org/2004/02/skos/core#prefLabel> "boeienkoning"@nl.
+_:df_4087_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009191"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009191/2021-10-27T19:00:41.722Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mag.ttl>.

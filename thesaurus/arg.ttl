@@ -53,3 +53,31 @@ _:df_3619_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550006035"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006035/2021-10-28T05:22:10.089Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/arg.ttl>.
+<https://stad.gent/id/concept/530001591/2021-10-27T20:57:59.998Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001591>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:57:59.998Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006477>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3271_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Argentinië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009342>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009551>, <https://stad.gent/id/concept/530005740>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "land"@nl, "country"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005740> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buenos Aires"@nl.
+<https://stad.gent/id/concept/530009551> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bahia Blanca"@nl.
+<https://stad.gent/id/concept/530009342> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuid-Amerika"@nl.
+_:df_3271_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001591"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001591/2021-10-27T20:57:59.998Z>.
+<https://stad.gent/id/concept/470010168/2021-10-27T19:35:25.723Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010168>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:35:25.723Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7057851>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3841_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Argelato"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3841_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010168"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010168/2021-10-27T19:35:25.723Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/arg.ttl>.

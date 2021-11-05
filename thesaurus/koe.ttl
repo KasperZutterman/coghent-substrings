@@ -323,3 +323,95 @@ _:df_3115_17 a <http://www.w3.org/ns/adms#Identifier>;
 <https://stad.gent/id/concept/550008176> <http://www.w3.org/2004/02/skos/core#prefLabel> "koel-, verwarm- en bevochtigingsuitrusting"@nl.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008176/2021-10-28T06:37:16.819Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/koe.ttl>.
+<https://stad.gent/id/concept/530009468/2021-10-28T01:36:53.246Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009468>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:36:53.246Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163291>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1399_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koel-, verwarm- en bevochtigingsuitrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008780>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003107>, <https://stad.gent/id/concept/530003103>, <https://stad.gent/id/concept/530002849>, <https://stad.gent/id/concept/530006338>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006338> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestel"@nl.
+<https://stad.gent/id/concept/530002849> <http://www.w3.org/2004/02/skos/core#prefLabel> "ventilator"@nl.
+<https://stad.gent/id/concept/530003103> <http://www.w3.org/2004/02/skos/core#prefLabel> "koelkast"@nl.
+<https://stad.gent/id/concept/530003107> <http://www.w3.org/2004/02/skos/core#prefLabel> "diepvriezer"@nl.
+<https://stad.gent/id/concept/530008780> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting (objectnaam)"@nl.
+_:df_1399_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009468"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009468/2021-10-28T01:36:53.246Z>.
+<https://stad.gent/id/concept/530009094/2021-10-28T01:09:29.300Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009094>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:09:29.300Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215666>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1579_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor gesloten rijtuigen met vier wielen die worden gekenmerkt door daken met vaste pilaren, een kast in een ophanging en twee dwars geplaatste banken die tegenover elkaar zijn geplaatst en die plaats bieden aan vier tot zes passagiers; ontworpen in Hongarije halverwege de 15e eeuw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koets"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008778>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008778> <http://www.w3.org/2004/02/skos/core#prefLabel> "transportmiddel"@nl.
+_:df_1579_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009094"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009094/2021-10-28T01:09:29.300Z>.
+<https://stad.gent/id/concept/530008413/2021-10-28T00:29:53.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008413>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:29:53.917Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265542>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1843_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Huid van een koe. Hiervan wordt koeienleer gemaakt.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koeienhuid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001356>, <https://stad.gent/id/concept/530003143>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003143> <http://www.w3.org/2004/02/skos/core#prefLabel> "pels"@nl.
+<https://stad.gent/id/concept/530001356> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierenhuid"@nl.
+_:df_1843_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008413"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008413/2021-10-28T00:29:53.917Z>.
+<https://stad.gent/id/concept/530003103/2021-10-27T21:39:17.431Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003103>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:39:17.431Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2989_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kasten of ruimten die op een lage temperatuur worden gehouden door middel van ijs of mechanisch apparatuur om de inhoud, voornamelijk voedsel en dranken, goed te houden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koelkast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008875>, <https://stad.gent/id/concept/530009468>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009468> <http://www.w3.org/2004/02/skos/core#prefLabel> "koel-, verwarm- en bevochtigingsuitrusting"@nl.
+<https://stad.gent/id/concept/530008875> <http://www.w3.org/2004/02/skos/core#prefLabel> "huishoudelijk apparaat"@nl, "huishoudelijk apparaat"@nl, "huishoudelijk apparaat"@nl.
+_:df_2989_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003103"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003103/2021-10-27T21:39:17.431Z>.
+<https://stad.gent/id/concept/530003087/2021-10-27T21:38:39.415Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003087>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:38:39.415Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300212505>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2992_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders om koekjes in te bewaren, met deksel, in allerlei vormen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koekjesdoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008612>, <https://stad.gent/id/concept/530003095>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003095> <http://www.w3.org/2004/02/skos/core#prefLabel> "doos (houder)"@nl.
+<https://stad.gent/id/concept/530008612> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire houder"@nl.
+_:df_2992_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003087"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530003087> <http://www.w3.org/2004/02/skos/core#prefLabel> "koekjesdoos"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003087/2021-10-27T21:38:39.415Z>.
+<https://stad.gent/id/concept/530001479/2021-10-27T20:53:39.792Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:53:39.792Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3301_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een koekplank is een rechthoekige vorm met een beeltenis erin waarmee koeken geproduceerd konden worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koekplank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001486>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001486> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei (objectnaam)"@nl.
+_:df_3301_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001479/2021-10-27T20:53:39.792Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/koe.ttl>.

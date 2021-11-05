@@ -1218,3 +1218,328 @@ _:df_1_794 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/loc.ttl>;
     <https://w3id.org/tree#value> "loc".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/lo.ttl>.
+<https://stad.gent/id/concept/550003808/2021-10-28T04:17:46.627Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003808>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:17:46.627Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026570>;
+    <http://www.w3.org/ns/adms#identifier> _:df_331_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lochristi"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_331_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003808"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003808/2021-10-28T04:17:46.627Z>.
+<https://stad.gent/id/concept/550003244/2021-10-28T04:08:49.073Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003244>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:08:49.073Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4006565>;
+    <http://www.w3.org/ns/adms#identifier> _:df_388_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Loppem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_388_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003244"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003244/2021-10-28T04:08:49.073Z>.
+<https://stad.gent/id/concept/550002168/2021-10-28T03:53:10.128Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002168>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:53:10.128Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010811>;
+    <http://www.w3.org/ns/adms#identifier> _:df_493_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Glas met een hoog loodoxidegehalte en een relatief hoge brekingsindex. Verder heeft het een slechte zuurbestendigheid en een lage rigiditeit. Het wordt gebruikt in veel optische componenten, neonreclamebuizen en gloeilampen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loodglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008800>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002155>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002155> <http://www.w3.org/2004/02/skos/core#prefLabel> "kristal (loodglas)"@nl.
+<https://stad.gent/id/concept/550008800> <http://www.w3.org/2004/02/skos/core#prefLabel> "glas naar samenstelling of herkomst"@nl.
+_:df_493_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002168"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002168/2021-10-28T03:53:10.128Z>.
+<https://stad.gent/id/concept/530010650/2021-10-28T03:14:45.544Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010650>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:14:45.544Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300028715/300028715>;
+    <http://www.w3.org/ns/adms#identifier> _:df_742_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grafische figuren die in hoofdzaak uit een symbool of een afbeelding bestaan en die zijn ontworpen om een product, firma of organisatie snel te kunnen herkennen. Soms fungeren logo's ook als handelsmerk. Gebruik 'woordmerken' voor soortgelijke grafische ontwerpen die in hoofdzaak uit een woord of woorden bestaan. Gebruik 'insignes' voor alle soorten middelen die aangeven dat een persoon of object tot een groep of organisatie behoort, en die soms ook een rang of functie aangeven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "logo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002075>, <https://stad.gent/id/concept/530008575>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008575> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatievorm"@nl.
+<https://stad.gent/id/concept/530002075> <http://www.w3.org/2004/02/skos/core#prefLabel> "huisstijl"@nl.
+_:df_742_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010650"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010650/2021-10-28T03:14:45.544Z>.
+<https://stad.gent/id/concept/530010193/2021-10-28T02:37:54.538Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010193>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:37:54.538Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_991_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "low-density polyethylene (pp)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010189>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010189> <http://www.w3.org/2004/02/skos/core#prefLabel> "polyethylene (pp)"@nl, "polyethylene (pp)"@nl, "polyethylene (pp)"@nl, "polyethylene (pp)"@nl, "polyethylene (pp)"@nl.
+_:df_991_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010193"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010193/2021-10-28T02:37:54.538Z>.
+<https://stad.gent/id/concept/530009698/2021-10-28T01:55:09.628Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009698>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:55:09.628Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1087545>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1276_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "L'Oudon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_1276_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009698"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009698/2021-10-28T01:55:09.628Z>.
+<https://stad.gent/id/concept/530009678/2021-10-28T01:53:31.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009678>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:53:31.334Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007288>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1285_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Locarno"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003380>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003380> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_1285_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009678"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009678/2021-10-28T01:53:31.334Z>.
+<https://stad.gent/id/concept/530009672/2021-10-28T01:52:58.528Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009672>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:52:58.528Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2012294>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1291_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Los Altos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl, "Verenigde Staten"@nl.
+_:df_1291_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009672"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009672/2021-10-28T01:52:58.528Z>.
+<https://stad.gent/id/concept/530009638/2021-10-28T01:50:06.100Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009638>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:50:06.100Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009304>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1309_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lons-le-Saunier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_1309_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009638"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009638/2021-10-28T01:50:06.100Z>.
+<https://stad.gent/id/concept/530009633/2021-10-28T01:49:37.413Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009633>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:49:37.413Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013905>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1312_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Long Beach"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001597>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001597> <http://www.w3.org/2004/02/skos/core#prefLabel> "Californië (staat)"@nl.
+_:df_1312_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009633"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009633/2021-10-28T01:49:37.413Z>.
+<https://stad.gent/id/concept/530009347/2021-10-28T01:26:41.416Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009347>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:26:41.416Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003237>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1465_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lombardia (regio)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_1465_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009347"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009347/2021-10-28T01:26:41.416Z>.
+<https://stad.gent/id/concept/530009054/2021-10-28T01:07:22.011Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009054>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:07:22.011Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014655>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1594_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor garneersel bestaande uit kleine, glimmende voorwerpen zoals lovertjes, kraaltjes of juwelen, dat in willekeurig samengestelde groepjes op kleding of accessoires wordt aangebracht.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lovertje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004180>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004180> <http://www.w3.org/2004/02/skos/core#prefLabel> "materiaal"@nl.
+_:df_1594_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009054"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009054/2021-10-28T01:07:22.011Z>.
+<https://stad.gent/id/concept/530008788/2021-10-28T00:58:45.766Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008788>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:58:45.766Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300212298>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1651_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Overkleding met enige vorm, in verschillende lengten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loper (bedekking voor meubilair)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008250>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008250> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen"@nl.
+_:df_1651_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008788"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008788/2021-10-28T00:58:45.766Z>.
+<https://stad.gent/id/concept/530008550/2021-10-28T00:39:54.033Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008550>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:39:54.033Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010932>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1777_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loodlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008522>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008522> <http://www.w3.org/2004/02/skos/core#prefLabel> "lood en loodlegering"@nl.
+_:df_1777_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008550"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008550/2021-10-28T00:39:54.033Z>.
+<https://stad.gent/id/concept/530008522/2021-10-28T00:37:29.450Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008522>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:37:29.450Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300241452>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1795_41;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lood en loodlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008436>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000909>, <https://stad.gent/id/concept/530008550>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008550> <http://www.w3.org/2004/02/skos/core#prefLabel> "loodlegering"@nl.
+<https://stad.gent/id/concept/530000909> <http://www.w3.org/2004/02/skos/core#prefLabel> "lood"@nl.
+<https://stad.gent/id/concept/530008436> <http://www.w3.org/2004/02/skos/core#prefLabel> "non-ferrometaal"@nl.
+_:df_1795_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008522"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008522/2021-10-28T00:37:29.450Z>.
+<https://stad.gent/id/concept/530008515/2021-10-28T00:37:00.380Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008515>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:37:00.380Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010811>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1798_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Glas met een hoog loodoxidegehalte en een relatief hoge brekingsindex. Verder heeft het een slechte zuurbestendigheid en een lage rigiditeit. Het wordt gebruikt in veel optische componenten, neonreclamebuizen en gloeilampen.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "loodglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006434>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005363>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005363> <http://www.w3.org/2004/02/skos/core#prefLabel> "kristal (loodglas)"@nl.
+<https://stad.gent/id/concept/530006434> <http://www.w3.org/2004/02/skos/core#prefLabel> "glas (materiaal)"@nl.
+_:df_1798_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008515"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008515/2021-10-28T00:37:00.380Z>.
+<https://stad.gent/id/concept/530008289/2021-10-28T00:25:33.514Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008289>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:25:33.514Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4006604>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1873_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Louvain-La-Neuve"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009410>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009410> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ottignies-Louvain-la-Neuve"@nl.
+_:df_1873_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008289"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008289/2021-10-28T00:25:33.514Z>.
+<https://stad.gent/id/concept/530007158/2021-10-28T00:01:48.159Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007158>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:01:48.159Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026572>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2032_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lommel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009328>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009328> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie, België)"@nl.
+_:df_2032_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007158"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007158/2021-10-28T00:01:48.159Z>.
+<https://stad.gent/id/concept/530006107/2021-10-27T23:21:39.756Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006107>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:21:39.756Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011781>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2296_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Londen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009323>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006045>, <https://stad.gent/id/concept/530010344>, <https://stad.gent/id/concept/530005407>, <https://stad.gent/id/concept/530009844>, <https://stad.gent/id/concept/530004608>, <https://stad.gent/id/concept/530009749>, <https://stad.gent/id/concept/530003357>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003357> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sutton"@nl.
+<https://stad.gent/id/concept/530009749> <http://www.w3.org/2004/02/skos/core#prefLabel> "Richmond (Londen)"@nl.
+<https://stad.gent/id/concept/530004608> <http://www.w3.org/2004/02/skos/core#prefLabel> "Islington"@nl.
+<https://stad.gent/id/concept/530009844> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hampstead"@nl.
+<https://stad.gent/id/concept/530005407> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fulham"@nl.
+<https://stad.gent/id/concept/530010344> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cricklewood"@nl.
+<https://stad.gent/id/concept/530006045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chelsea"@nl.
+<https://stad.gent/id/concept/530009323> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl.
+_:df_2296_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006107"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006107/2021-10-27T23:21:39.756Z>.
+<https://stad.gent/id/concept/530005980/2021-10-27T23:15:27.391Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005980>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:15:27.391Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4006554>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2338_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Longton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005727>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005727> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stoke-on-Trent"@nl.
+_:df_2338_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005980"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005980/2021-10-27T23:15:27.391Z>.
+<https://KasperZutterman.github.io///thesaurus/lo.ttl> <https://w3id.org/tree#relation> _:df_1_1022.
+_:df_1_1022 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/lon.ttl>;
+    <https://w3id.org/tree#value> "lon".
+<https://KasperZutterman.github.io///thesaurus/lo.ttl> <https://w3id.org/tree#relation> _:df_1_1023.
+_:df_1_1023 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/lok.ttl>;
+    <https://w3id.org/tree#value> "lok".
+<https://KasperZutterman.github.io///thesaurus/lo.ttl> <https://w3id.org/tree#relation> _:df_1_1024.
+_:df_1_1024 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/lov.ttl>;
+    <https://w3id.org/tree#value> "lov".
+<https://KasperZutterman.github.io///thesaurus/lo.ttl> <https://w3id.org/tree#relation> _:df_1_1025.
+_:df_1_1025 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/loc.ttl>;
+    <https://w3id.org/tree#value> "loc".
+<https://KasperZutterman.github.io///thesaurus/lo.ttl> <https://w3id.org/tree#relation> _:df_1_1026.
+_:df_1_1026 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/los.ttl>;
+    <https://w3id.org/tree#value> "los".
+<https://KasperZutterman.github.io///thesaurus/lo.ttl> <https://w3id.org/tree#relation> _:df_1_1027.
+_:df_1_1027 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/lod.ttl>;
+    <https://w3id.org/tree#value> "lod".
+<https://KasperZutterman.github.io///thesaurus/lo.ttl> <https://w3id.org/tree#relation> _:df_1_1028.
+_:df_1_1028 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/lou.ttl>;
+    <https://w3id.org/tree#value> "lou".
+<https://KasperZutterman.github.io///thesaurus/lo.ttl> <https://w3id.org/tree#relation> _:df_1_1029.
+_:df_1_1029 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/lot.ttl>;
+    <https://w3id.org/tree#value> "lot".
+<https://KasperZutterman.github.io///thesaurus/lo.ttl> <https://w3id.org/tree#relation> _:df_1_1030.
+_:df_1_1030 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/lor.ttl>;
+    <https://w3id.org/tree#value> "lor".
+<https://KasperZutterman.github.io///thesaurus/lo.ttl> <https://w3id.org/tree#relation> _:df_1_1031.
+_:df_1_1031 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/loo.ttl>;
+    <https://w3id.org/tree#value> "loo".
+<https://KasperZutterman.github.io///thesaurus/lo.ttl> <https://w3id.org/tree#relation> _:df_1_1032.
+_:df_1_1032 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/lop.ttl>;
+    <https://w3id.org/tree#value> "lop".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/lo.ttl>.

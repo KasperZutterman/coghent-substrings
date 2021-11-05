@@ -205,3 +205,28 @@ _:df_3706_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550005627"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005627/2021-10-28T05:09:17.725Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sle.ttl>.
+<https://stad.gent/id/concept/530002705/2021-10-27T21:20:14.339Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002705>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:20:14.339Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3118_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "slecht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "toestand"@nl, "condition"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3118_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002705"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002705/2021-10-27T21:20:14.339Z>.
+<https://stad.gent/id/concept/530002002/2021-10-27T21:14:21.606Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:14:21.606Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900032058>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3160_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Siervoorwerpen die men aan het oog van een sleutel kan bevestigen en waarmee men ze kan ophangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutelhanger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008830>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008830> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting voor persoonlijk gebruik"@nl.
+_:df_3160_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002002/2021-10-27T21:14:21.606Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sle.ttl>.

@@ -1272,3 +1272,321 @@ _:df_1_537 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kes.ttl>;
     <https://w3id.org/tree#value> "kes".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ke.ttl>.
+<https://stad.gent/id/concept/550002364/2021-10-28T03:55:30.571Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002364>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:55:30.571Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012403>;
+    <http://www.w3.org/ns/adms#identifier> _:df_478_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hout van verschillende typen kersenbomen die inheems zijn in Europa en de Verenigde Staten. Loopt in kleur uiteen van licht- tot donkerroodachtig met een prachtige glans en is heel geschikt voor het vervaardigen van meubilair.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kersenhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008734>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008734> <http://www.w3.org/2004/02/skos/core#prefLabel> "hout naar samenstelling of herkomst"@nl, "hout naar samenstelling of herkomst"@nl.
+_:df_478_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002364"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002364/2021-10-28T03:55:30.571Z>.
+<https://stad.gent/id/concept/550002174/2021-10-28T03:53:15.130Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002174>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:53:15.130Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043236>;
+    <http://www.w3.org/ns/adms#identifier> _:df_493_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drinkglazen van uiteenlopende vorm, met grote cuppa, op voet met stam.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kelkglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006133>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004324>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004324> <http://www.w3.org/2004/02/skos/core#prefLabel> "vleugelglas"@nl.
+<https://stad.gent/id/concept/550006133> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkglas"@nl.
+_:df_493_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002174"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002174/2021-10-28T03:53:15.130Z>.
+<https://stad.gent/id/concept/550001940/2021-10-28T03:48:56.149Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001940>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:48:56.149Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300077342>;
+    <http://www.w3.org/ns/adms#identifier> _:df_523_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Standaarden waar theeketels of waterketels op kunnen staan. Gebruik ' theeketels met houders' voor theeketels met bijpassende ketelhouder.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ketelhouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008125>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008125> <http://www.w3.org/2004/02/skos/core#prefLabel> "standaarden naar functie"@nl.
+_:df_523_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001940"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001940/2021-10-28T03:48:56.149Z>.
+<https://stad.gent/id/concept/550001898/2021-10-28T03:47:13.696Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001898>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:47:13.696Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014625>;
+    <http://www.w3.org/ns/adms#identifier> _:df_532_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een reeks voorwerpen die, de één na de ander, met elkaar zijn verbonden; het zijn meestal ringen die door elkaar heen lopen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ketting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007914>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007914> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres naar vorm"@nl.
+_:df_532_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001898"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001898/2021-10-28T03:47:13.696Z>.
+<https://stad.gent/id/concept/550000983/2021-10-28T03:31:47.553Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000983>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:31:47.553Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204872>;
+    <http://www.w3.org/ns/adms#identifier> _:df_637_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vierkante doeken (ca. 60 x 60 cm) ter bedekking van kelk en pateen vóór en na de communie. Gebruik 'palla's (bedekkingen voor kelken)' voor de vierkante kartons overtrokken met linnen of stijve linnen doeken ter bedekking van de kelk tijdens de mis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kelkvelum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008194>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008194> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen voor liturgische vaten"@nl.
+_:df_637_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000983"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000983/2021-10-28T03:31:47.553Z>.
+<https://stad.gent/id/concept/530009918/2021-10-28T02:14:17.763Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009918>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:14:17.763Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1147_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Keniaans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1147_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009918"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009918/2021-10-28T02:14:17.763Z>.
+<https://stad.gent/id/concept/530009619/2021-10-28T01:48:34.687Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009619>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:48:34.687Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7244396>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1321_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kemzeke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005729>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005729> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stekene"@nl.
+_:df_1321_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009619"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009619/2021-10-28T01:48:34.687Z>.
+<https://stad.gent/id/concept/530008885/2021-10-28T01:05:30.213Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008885>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:05:30.213Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201099>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1606_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Diverse keukenapparaten die worden gebruikt voor het verpulveren of vermalen van graan, koffie, beenderen, gedroogde bonen en erwten of kruiden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keukenmolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001486>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003457>, <https://stad.gent/id/concept/530003009>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003009> <http://www.w3.org/2004/02/skos/core#prefLabel> "pepermolen"@nl.
+<https://stad.gent/id/concept/530003457> <http://www.w3.org/2004/02/skos/core#prefLabel> "koffiemolen"@nl.
+<https://stad.gent/id/concept/530001486> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei (objectnaam)"@nl.
+_:df_1606_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008885"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008885/2021-10-28T01:05:30.213Z>.
+<https://stad.gent/id/concept/530008866/2021-10-28T01:04:26.786Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008866>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:04:26.786Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300239149>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1615_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keukentextiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008614>, <https://stad.gent/id/concept/530000892>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530002814>, <https://stad.gent/id/concept/530004644>, <https://stad.gent/id/concept/530005293>, <https://stad.gent/id/concept/530008867>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008867> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatdoek"@nl.
+<https://stad.gent/id/concept/530005293> <http://www.w3.org/2004/02/skos/core#prefLabel> "pannenlap"@nl.
+<https://stad.gent/id/concept/530004644> <http://www.w3.org/2004/02/skos/core#prefLabel> "ovenwant"@nl.
+<https://stad.gent/id/concept/530002814> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukenhanddoek"@nl.
+<https://stad.gent/id/concept/530000892> <http://www.w3.org/2004/02/skos/core#prefLabel> "textilia (objectnaam)"@nl.
+<https://stad.gent/id/concept/530008614> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire uitrusting"@nl.
+_:df_1615_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008866"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008866/2021-10-28T01:04:26.786Z>.
+<https://stad.gent/id/concept/530008850/2021-10-28T01:03:23.663Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008850>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:03:23.663Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007079>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1621_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kerkrade"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009326>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009326> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie, Nederland)"@nl.
+_:df_1621_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008850"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008850/2021-10-28T01:03:23.663Z>.
+<https://stad.gent/id/concept/530008511/2021-10-28T00:36:40.375Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008511>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:36:40.375Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1798_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keramisch materiaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1798_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008511"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008511/2021-10-28T00:36:40.375Z>.
+<https://stad.gent/id/concept/530008494/2021-10-28T00:35:22.634Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008494>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:35:22.634Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300192973>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1807_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keratinisch materiaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008443>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005812>, <https://stad.gent/id/concept/530006158>, <https://stad.gent/id/concept/530006433>, <https://stad.gent/id/concept/530000521>, <https://stad.gent/id/concept/530003141>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003141> <http://www.w3.org/2004/02/skos/core#prefLabel> "veer (materiaal)"@nl.
+<https://stad.gent/id/concept/530000521> <http://www.w3.org/2004/02/skos/core#prefLabel> "schildpad (materiaal)"@nl.
+<https://stad.gent/id/concept/530006433> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoorn"@nl.
+<https://stad.gent/id/concept/530006158> <http://www.w3.org/2004/02/skos/core#prefLabel> "haar"@nl.
+<https://stad.gent/id/concept/530005812> <http://www.w3.org/2004/02/skos/core#prefLabel> "balein"@nl.
+<https://stad.gent/id/concept/530008443> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierlijk materiaal"@nl, "dierlijk materiaal"@nl.
+_:df_1807_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008494"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008494/2021-10-28T00:35:22.634Z>.
+<https://stad.gent/id/concept/530008331/2021-10-28T00:27:30.266Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:27:30.266Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012403>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1858_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hout van verschillende typen kersenbomen die inheems zijn in Europa en de Verenigde Staten. Loopt in kleur uiteen van licht- tot donkerroodachtig met een prachtige glans en is heel geschikt voor het vervaardigen van meubilair.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kersenhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000139>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000139> <http://www.w3.org/2004/02/skos/core#prefLabel> "hardhout"@nl.
+_:df_1858_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008331/2021-10-28T00:27:30.266Z>.
+<https://stad.gent/id/concept/530008231/2021-10-28T00:22:23.409Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008231>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:22:23.409Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047882>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1894_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kerkdriel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009319>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009319> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gelderland"@nl.
+_:df_1894_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008231"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008231/2021-10-28T00:22:23.409Z>.
+<https://stad.gent/id/concept/530007393/2021-10-28T00:09:54.349Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007393>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:09:54.349Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005171>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1978_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kempen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_1978_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007393"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007393/2021-10-28T00:09:54.349Z>.
+<https://stad.gent/id/concept/530007261/2021-10-28T00:05:06.972Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:05:06.972Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1031373>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2008_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Keuruu"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006015>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006015> <http://www.w3.org/2004/02/skos/core#prefLabel> "Finland"@nl.
+_:df_2008_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007261"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007261/2021-10-28T00:05:06.972Z>.
+<https://stad.gent/id/concept/530006291/2021-10-27T23:30:50.020Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006291>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:30:50.020Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195349>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2236_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metalen vaten om vloeistoffen in te koken, inhoud tussen 1 en 50 liter, wijde opening, beugelhandvat, soms een deksel, soms op pootjes.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ketel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009461>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001471>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001471> <http://www.w3.org/2004/02/skos/core#prefLabel> "theeketel"@nl.
+<https://stad.gent/id/concept/530009461> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk (houder)"@nl.
+_:df_2236_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006291"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006291/2021-10-27T23:30:50.020Z>.
+<https://stad.gent/id/concept/530006277/2021-10-27T23:29:56.921Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006277>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:29:56.921Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300151343>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2242_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst in het algemeen naar artikelen van keramiek, dat wil zeggen van een hard, breekbaar, hittebestendig en corrosiebestendig materiaal zoals klei, dat eerst wordt gevormd en vervolgens bij hoge temperatuur wordt gebakken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keramiek (ok)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2242_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006277"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006277/2021-10-27T23:29:56.921Z>.
+<https://stad.gent/id/concept/530006245/2021-10-27T23:28:34.311Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006245>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:28:34.311Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008153>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2251_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009323>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009323> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl, "Engeland"@nl.
+_:df_2251_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006245"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006245/2021-10-27T23:28:34.311Z>.
+<https://stad.gent/id/concept/530006179/2021-10-27T23:25:19.227Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006179>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:25:19.227Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q45621>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2272_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Keramiek is een materiaal dat noch een metaal noch een polymeer is. Voorbeelden van keramieken zijn bijvoorbeeld aardewerk, steengoed en porselein. Keramiek ontstaat door verhitting (in bijvoorbeeld een oven), soms in combinatie met druk, waarbij minimaal twee elementen aanwezig zijn. Eén van deze elementen is non-metallisch en de ander mag zowel metallisch als niet-metallisch zijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "keramiek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008442>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000154>, <https://stad.gent/id/concept/530006485>, <https://stad.gent/id/concept/530003194>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003194> <http://www.w3.org/2004/02/skos/core#prefLabel> "steengoed"@nl.
+<https://stad.gent/id/concept/530006485> <http://www.w3.org/2004/02/skos/core#prefLabel> "porselein"@nl.
+<https://stad.gent/id/concept/530000154> <http://www.w3.org/2004/02/skos/core#prefLabel> "aardewerk"@nl.
+<https://stad.gent/id/concept/530008442> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleiproduct"@nl.
+_:df_2272_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006179"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006179/2021-10-27T23:25:19.227Z>.
+<https://KasperZutterman.github.io///thesaurus/ke.ttl> <https://w3id.org/tree#relation> _:df_1_970.
+_:df_1_970 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ker.ttl>;
+    <https://w3id.org/tree#value> "ker".
+<https://KasperZutterman.github.io///thesaurus/ke.ttl> <https://w3id.org/tree#relation> _:df_1_971.
+_:df_1_971 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ken.ttl>;
+    <https://w3id.org/tree#value> "ken".
+<https://KasperZutterman.github.io///thesaurus/ke.ttl> <https://w3id.org/tree#relation> _:df_1_972.
+_:df_1_972 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/keu.ttl>;
+    <https://w3id.org/tree#value> "keu".
+<https://KasperZutterman.github.io///thesaurus/ke.ttl> <https://w3id.org/tree#relation> _:df_1_973.
+_:df_1_973 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kes.ttl>;
+    <https://w3id.org/tree#value> "kes".
+<https://KasperZutterman.github.io///thesaurus/ke.ttl> <https://w3id.org/tree#relation> _:df_1_974.
+_:df_1_974 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kev.ttl>;
+    <https://w3id.org/tree#value> "kev".
+<https://KasperZutterman.github.io///thesaurus/ke.ttl> <https://w3id.org/tree#relation> _:df_1_975.
+_:df_1_975 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kel.ttl>;
+    <https://w3id.org/tree#value> "kel".
+<https://KasperZutterman.github.io///thesaurus/ke.ttl> <https://w3id.org/tree#relation> _:df_1_976.
+_:df_1_976 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kei.ttl>;
+    <https://w3id.org/tree#value> "kei".
+<https://KasperZutterman.github.io///thesaurus/ke.ttl> <https://w3id.org/tree#relation> _:df_1_977.
+_:df_1_977 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kem.ttl>;
+    <https://w3id.org/tree#value> "kem".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ke.ttl>.

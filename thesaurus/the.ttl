@@ -122,3 +122,260 @@ _:df_4144_8 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570025094"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025094/2021-10-28T15:00:28.760Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/the.ttl>.
+<https://stad.gent/id/concept/530006210/2021-10-27T23:27:06.853Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006210>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:27:06.853Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2260_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "theekomfoor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003108>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003108> <http://www.w3.org/2004/02/skos/core#prefLabel> "komfoor"@nl.
+_:df_2260_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006210"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006210/2021-10-27T23:27:06.853Z>.
+<https://stad.gent/id/concept/530006163/2021-10-27T23:24:15.101Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:24:15.101Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227686>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2281_36;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Groepen van bij elkaar passend eetgerei, in verschillende maten, voor het bereiden en serveren van thee (theepot, roomkan, suikerpot, soms dienblad); inbegrepen kunnen zijn koffiepot, kop en schotels, dessertborden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "theeservies"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005735>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001851>, <https://stad.gent/id/concept/530007901>, <https://stad.gent/id/concept/530002027>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002027> <http://www.w3.org/2004/02/skos/core#prefLabel> "theeschoteltje"@nl.
+<https://stad.gent/id/concept/530007901> <http://www.w3.org/2004/02/skos/core#prefLabel> "theepot"@nl.
+<https://stad.gent/id/concept/530001851> <http://www.w3.org/2004/02/skos/core#prefLabel> "theekop"@nl.
+<https://stad.gent/id/concept/530005735> <http://www.w3.org/2004/02/skos/core#prefLabel> "servies"@nl.
+_:df_2281_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006163/2021-10-27T23:24:15.101Z>.
+<https://stad.gent/id/concept/530006053/2021-10-27T23:19:12.255Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006053>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:19:12.255Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900032225>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2314_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Komforen om de thee op te laten trekken en warm te houden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "theelicht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003108>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003108> <http://www.w3.org/2004/02/skos/core#prefLabel> "komfoor"@nl.
+_:df_2314_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006053"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006053/2021-10-27T23:19:12.255Z>.
+<https://stad.gent/id/concept/530004458/2021-10-27T22:18:37.829Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004458>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:18:37.829Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204856>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2722_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gewatteerde overtreksels voor theepotten om de warmte vast te houden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "theemuts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008780>, <https://stad.gent/id/concept/530009310>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009310> <http://www.w3.org/2004/02/skos/core#prefLabel> "warmhouder"@nl.
+<https://stad.gent/id/concept/530008780> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting (objectnaam)"@nl.
+_:df_2722_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004458"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004458/2021-10-27T22:18:37.829Z>.
+<https://stad.gent/id/concept/530003423/2021-10-27T21:51:29.415Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003423>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:51:29.415Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014415>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2905_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Plastic dat zacht wordt bij verhitting en hard bij afkoeling ongeacht het aantal keren dat deze processen worden herhaald, als gevolg van weinig of geen onderlinge bindingen tussen de moleculen.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "thermoplast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005544>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001126>, <https://stad.gent/id/concept/530003166>, <https://stad.gent/id/concept/530004314>, <https://stad.gent/id/concept/530004437>, <https://stad.gent/id/concept/530003121>, <https://stad.gent/id/concept/530004370>, <https://stad.gent/id/concept/530002110>, <https://stad.gent/id/concept/530003022>, <https://stad.gent/id/concept/530003262>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003262> <http://www.w3.org/2004/02/skos/core#prefLabel> "vinyl"@nl.
+<https://stad.gent/id/concept/530003022> <http://www.w3.org/2004/02/skos/core#prefLabel> "polyurethaan"@nl.
+<https://stad.gent/id/concept/530002110> <http://www.w3.org/2004/02/skos/core#prefLabel> "polystyreen"@nl.
+<https://stad.gent/id/concept/530004370> <http://www.w3.org/2004/02/skos/core#prefLabel> "polypropyleen"@nl.
+<https://stad.gent/id/concept/530003121> <http://www.w3.org/2004/02/skos/core#prefLabel> "polyethyleen"@nl.
+<https://stad.gent/id/concept/530004437> <http://www.w3.org/2004/02/skos/core#prefLabel> "polyester"@nl.
+<https://stad.gent/id/concept/530004314> <http://www.w3.org/2004/02/skos/core#prefLabel> "polycarbonaat"@nl.
+<https://stad.gent/id/concept/530003166> <http://www.w3.org/2004/02/skos/core#prefLabel> "polyamide"@nl.
+<https://stad.gent/id/concept/530001126> <http://www.w3.org/2004/02/skos/core#prefLabel> "acryl"@nl.
+<https://stad.gent/id/concept/530005544> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststof"@nl.
+_:df_2905_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003423"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003423/2021-10-27T21:51:29.415Z>.
+<https://stad.gent/id/concept/530003042/2021-10-27T21:36:43.231Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003042>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:36:43.231Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198647>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3007_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten die de temperatuur meten door gebruik te maken van het gegeven dat de fysieke eigenschappen van stoffen veranderen al naar gelang met de mate van verwarming.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "thermometer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000669>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000669> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrument"@nl.
+_:df_3007_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003042"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003042/2021-10-27T21:36:43.231Z>.
+<https://stad.gent/id/concept/530003002/2021-10-27T21:34:12.727Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:34:12.727Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3022_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "thee- en koffieservies"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3022_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003002/2021-10-27T21:34:12.727Z>.
+<https://stad.gent/id/concept/530002962/2021-10-27T21:31:39.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002962>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:31:39.052Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3040_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "theekan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3040_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002962"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002962/2021-10-27T21:31:39.052Z>.
+<https://stad.gent/id/concept/530002846/2021-10-27T21:26:35.000Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002846>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:26:35.000Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3076_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een thermosfles (ook: thermoskan of kortweg thermos) bestaat uit een cilindervormig voorwerp, waarbinnen een tweede fles zit. Tussen de buitenwand en de binnenwand is een luchtledige ruimte, zodat warmteoverdracht via geleiding en convectie onmogelijk is. Verdere warmteoverdracht door straling wordt beperkt door het gebruik van spiegelende oppervlakken. Hierdoor is het mogelijk om zowel warme als koude vloeistoffen lang op dezelfde temperatuur te houden.\r\n\r\nDeze flessen bestaan uit een buitenfles van kunststof en een binnenfles van glas. Tegenwoordig[wanneer?] bestaan thermosflessen meestal geheel uit metaal, dat wil zeggen de buiten- en binnenfles zijn beide van metaal. Alleen de afsluitende doppen zijn nog van kunststof.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "thermosfles"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008780>, <https://stad.gent/id/concept/530009310>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009310> <http://www.w3.org/2004/02/skos/core#prefLabel> "warmhouder"@nl.
+<https://stad.gent/id/concept/530008780> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting (objectnaam)"@nl.
+_:df_3076_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002846"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002846/2021-10-27T21:26:35.000Z>.
+<https://stad.gent/id/concept/530002027/2021-10-27T21:15:36.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002027>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:15:36.310Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900023212>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3151_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "theeschoteltje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008486>, <https://stad.gent/id/concept/530006163>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006163> <http://www.w3.org/2004/02/skos/core#prefLabel> "theeservies"@nl.
+<https://stad.gent/id/concept/530008486> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoteltje"@nl, "schoteltje"@nl.
+_:df_3151_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002027"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002027/2021-10-27T21:15:36.310Z>.
+<https://stad.gent/id/concept/530001851/2021-10-27T21:07:54.029Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001851>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:07:54.029Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043226>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3202_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Koppen met schotel, voornamelijk bedoeld om thee uit te drinken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "theekop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006312>, <https://stad.gent/id/concept/530006163>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006163> <http://www.w3.org/2004/02/skos/core#prefLabel> "theeservies"@nl.
+<https://stad.gent/id/concept/530006312> <http://www.w3.org/2004/02/skos/core#prefLabel> "kop (drinkgerei)"@nl.
+_:df_3202_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001851"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001851/2021-10-27T21:07:54.029Z>.
+<https://stad.gent/id/concept/530001471/2021-10-27T20:53:16.388Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:53:16.388Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195275>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3304_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Afgedekte ketels om water in te koken, meestal met een korte schenktuit, een hengsel als handvat en een brede platte onderkant. Wordt vaak samen gebruikt met een theepot waarin de theeblaadjes trekken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "theeketel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006291>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005628>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005628> <http://www.w3.org/2004/02/skos/core#prefLabel> "fluitketel"@nl.
+<https://stad.gent/id/concept/530006291> <http://www.w3.org/2004/02/skos/core#prefLabel> "ketel"@nl.
+_:df_3304_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001471/2021-10-27T20:53:16.388Z>.
+<https://stad.gent/id/concept/530000543/2021-10-27T20:20:52.400Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000543>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:20:52.400Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300039886>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3523_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Term applied to a variety of small tables intended to hold a tea service and other articles used for serving tea; may have a top so made that it could be lifted off for separate use as a tray.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "theetafel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006175>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006175> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafel (dragend meubilair)"@nl.
+_:df_3523_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000543"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000543/2021-10-27T20:20:52.400Z>.
+<https://stad.gent/id/concept/530000294/2021-10-27T20:07:22.858Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000294>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:07:22.858Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199839>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3616_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine, decoratieve lepels die voornamelijk worden gebruikt voor het scheppen of afmeten van verse thee uit een theeblik.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "theeschep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008614>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008614> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire uitrusting"@nl.
+_:df_3616_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000294"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000294/2021-10-27T20:07:22.858Z>.
+<https://stad.gent/id/concept/530000263/2021-10-27T20:05:20.577Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000263>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:05:20.577Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3631_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "theeglashouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008612>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008612> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire houder"@nl.
+_:df_3631_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000263"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000263/2021-10-27T20:05:20.577Z>.
+<https://stad.gent/id/concept/530000232/2021-10-27T20:03:29.905Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000232>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:03:29.905Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200841>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3643_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Filters waardoor thee of soms ook koffie wordt geschonken met de bedoeling dat het de losse blaadjes of het bezinksel opvangt. Gebruik 'thee-eieren' voor keukengerei dat theeblaadjes of soms gemalen koffie bevat en in een kop of pot met water wordt gedaan zodat het kan trekken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "theezeef"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009044>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009044> <http://www.w3.org/2004/02/skos/core#prefLabel> "zeef"@nl.
+_:df_3643_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000232"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000232/2021-10-27T20:03:29.905Z>.
+<https://stad.gent/id/concept/530000131/2021-10-27T19:59:30.442Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000131>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:59:30.442Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043180>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3670_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine lepels met de inhoud van eenderde eetlepel die worden gebruikt voor het roeren van thee, koffie of soortgelijke dranken die in kopjes of mokken worden geserveerd en worden gebruikt als een standaardmaat voor recepten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "theelepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006317>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006317> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafellepel"@nl.
+_:df_3670_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000131"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000131/2021-10-27T19:59:30.442Z>.
+<https://stad.gent/id/concept/470010629/2021-10-27T19:46:55.974Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010629>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:46:55.974Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227686>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3757_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Groepen van bij elkaar passend eetgerei, in verschillende maten, voor het bereiden en serveren van thee (theepot, roomkan, suikerpot, soms dienblad); inbegrepen kunnen zijn koffiepot, kop en schotels, dessertborden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "theeservies"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3757_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010629"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010629/2021-10-27T19:46:55.974Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/the.ttl>.

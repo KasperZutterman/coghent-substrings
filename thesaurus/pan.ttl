@@ -151,3 +151,112 @@ _:df_3652_21 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550005886"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005886/2021-10-28T05:17:22.802Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pan.ttl>.
+<https://stad.gent/id/concept/530010253/2021-10-28T02:43:19.439Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010253>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:43:19.439Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_955_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "PAN"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_955_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010253"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010253/2021-10-28T02:43:19.439Z>.
+<https://stad.gent/id/concept/530009068/2021-10-28T01:08:24.359Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009068>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:08:24.359Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1588_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In de kunstwereld verwijst de term naar brede, dunne, vlakke of soms gebogen stukken hout, zoals bij schilderijen op paneel. Gebruik 'panelen (oppervlaktecomponenten)' in de architectuur en andere constructieve kunsten om te verwijzen naar een paneel, van hout of een ander materiaal, dat meestal een segment vormt van een oppervlak dat verzonken is onder of uitsteekt boven het algehele niveau, en dat onderdeel vormt van een lijst of een andere begrenzing, zoals bij een schilderijlijst, soms met een afwijkende kleur of vervaardigd uit een ander materiaal.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "paneel (objectnaam)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008616>, <https://stad.gent/id/concept/530008854>, <https://stad.gent/id/concept/530008736>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008736> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenre"@nl.
+<https://stad.gent/id/concept/530008854> <http://www.w3.org/2004/02/skos/core#prefLabel> "interieur (objectnaam)"@nl.
+<https://stad.gent/id/concept/530008616> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubelonderdeel"@nl.
+_:df_1588_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009068"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009068/2021-10-28T01:08:24.359Z>.
+<https://stad.gent/id/concept/530008841/2021-10-28T01:02:40.694Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008841>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:02:40.694Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300255138>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1627_32;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Delen van een kledingstuk die verticaal worden ingezet en meestal aan twee kanten worden vastgenaaid, of stroken stof die bovenaan het kledingstuk worden vastgemaakt en los kunnen hangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pand (kledingonderdeel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008775>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008775> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledingonderdeel"@nl.
+_:df_1627_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008841"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008841/2021-10-28T01:02:40.694Z>.
+<https://stad.gent/id/concept/530008722/2021-10-28T00:54:01.564Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008722>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:54:01.564Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201279>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1684_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders die voornamelijk zijn bestemd om in te koken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008612>, <https://stad.gent/id/concept/530008614>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530002734>, <https://stad.gent/id/concept/530008150>, <https://stad.gent/id/concept/530001913>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001913> <http://www.w3.org/2004/02/skos/core#prefLabel> "steelpan"@nl.
+<https://stad.gent/id/concept/530008150> <http://www.w3.org/2004/02/skos/core#prefLabel> "frituurpan"@nl.
+<https://stad.gent/id/concept/530002734> <http://www.w3.org/2004/02/skos/core#prefLabel> "braadpan"@nl.
+<https://stad.gent/id/concept/530008614> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire uitrusting"@nl, "culinaire uitrusting"@nl.
+<https://stad.gent/id/concept/530008612> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire houder"@nl.
+_:df_1684_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008722"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008722/2021-10-28T00:54:01.564Z>.
+<https://stad.gent/id/concept/530005293/2021-10-27T22:45:43.483Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005293>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:45:43.483Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215743>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2539_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dikke, buigzame stukken stof, bijvoorbeeld gewatteerde of gehaakte lappen, ter bescherming van de handen bij het oppakken van heet kookgerei.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pannenlap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008866>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008866> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukentextiel"@nl.
+_:df_2539_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005293"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005293/2021-10-27T22:45:43.483Z>.
+<https://stad.gent/id/concept/530000596/2021-10-27T20:23:56.169Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000596>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:23:56.169Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014657>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3502_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In de kunstwereld verwijst de term naar brede, dunne, vlakke of soms gebogen stukken hout, zoals bij schilderijen op paneel. Gebruik 'panelen (oppervlaktecomponenten)' in de architectuur en andere constructieve kunsten om te verwijzen naar een paneel, van hout of een ander materiaal, dat meestal een segment vormt van een oppervlak dat verzonken is onder of uitsteekt boven het algehele niveau, en dat onderdeel vormt van een lijst of een andere begrenzing, zoals bij een schilderijlijst, soms met een afwijkende kleur of vervaardigd uit een ander materiaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "paneel (materiaal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003051>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003051> <http://www.w3.org/2004/02/skos/core#prefLabel> "hout"@nl.
+_:df_3502_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000596"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000596/2021-10-27T20:23:56.169Z>.
+<https://stad.gent/id/concept/470008065/2021-10-27T18:30:14.317Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008065>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:30:14.317Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q669287>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4300_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Panhard-Levassor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4300_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008065"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008065/2021-10-27T18:30:14.317Z>.
+<https://stad.gent/id/concept/470008053/2021-10-27T18:29:38.643Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008053>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:29:38.643Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q731471>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4306_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Panhard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4306_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008053"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008053/2021-10-27T18:29:38.643Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pan.ttl>.

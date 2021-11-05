@@ -330,3 +330,132 @@ _:df_3265_33 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550007923"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007923/2021-10-28T06:15:00.851Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/eu.ttl>.
+<https://stad.gent/id/concept/530010419/2021-10-28T02:57:14.738Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010419>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:57:14.738Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300020656>;
+    <http://www.w3.org/ns/adms#identifier> _:df_862_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar de culturen van het continent Europa, dat op het noordelijk halfrond ligt en wordt begrensd door de Noordelijke IJszee, de Atlantische Oceaan en de Middellandse Zee, en waarvan de Oeral over het algemeen wordt beschouwd als de oostgrens.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Europees"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010418>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010418> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scandinavisch"@nl.
+_:df_862_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010419"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530010419> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europees"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010419/2021-10-28T02:57:14.738Z>.
+<https://stad.gent/id/concept/530009827/2021-10-28T02:06:22.248Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009827>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:06:22.248Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008732>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1201_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eupen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009330>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_1201_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009827"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009827/2021-10-28T02:06:22.248Z>.
+<https://stad.gent/id/concept/530009389/2021-10-28T01:30:10.628Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009389>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:30:10.628Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/3000006>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1441_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eurazië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009390>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530002310>, <https://stad.gent/id/concept/530002419>, <https://stad.gent/id/concept/530004219>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004219> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turkije"@nl.
+<https://stad.gent/id/concept/530002419> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl.
+<https://stad.gent/id/concept/530002310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+<https://stad.gent/id/concept/530009390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereld"@nl.
+_:df_1441_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009389"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530009389> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eurazië"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009389/2021-10-28T01:30:10.628Z>.
+<https://stad.gent/id/concept/530007383/2021-10-28T00:09:29.342Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007383>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:09:29.342Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7193942>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1981_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eurasburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl, "Duitsland"@nl.
+_:df_1981_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007383"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007383/2021-10-28T00:09:29.342Z>.
+<https://stad.gent/id/concept/530002310/2021-10-27T21:19:30.055Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002310>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:19:30.055Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000003>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3124_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009389>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009929>, <https://stad.gent/id/concept/530006559>, <https://stad.gent/id/concept/530009332>, <https://stad.gent/id/concept/530006033>, <https://stad.gent/id/concept/530005982>, <https://stad.gent/id/concept/530006522>, <https://stad.gent/id/concept/530008293>, <https://stad.gent/id/concept/530006015>, <https://stad.gent/id/concept/530006462>, <https://stad.gent/id/concept/530002761>, <https://stad.gent/id/concept/530006239>, <https://stad.gent/id/concept/530010649>, <https://stad.gent/id/concept/530001414>, <https://stad.gent/id/concept/530006539>, <https://stad.gent/id/concept/530004292>, <https://stad.gent/id/concept/530005272>, <https://stad.gent/id/concept/530006326>, <https://stad.gent/id/concept/530005115>, <https://stad.gent/id/concept/530006882>, <https://stad.gent/id/concept/530008417>, <https://stad.gent/id/concept/530004761>, <https://stad.gent/id/concept/530006470>, <https://stad.gent/id/concept/530005642>, <https://stad.gent/id/concept/530009967>, <https://stad.gent/id/concept/530006067>, <https://stad.gent/id/concept/530006049>, <https://stad.gent/id/concept/530000339>, <https://stad.gent/id/concept/530004855>, <https://stad.gent/id/concept/530005998>, <https://stad.gent/id/concept/530004136>, <https://stad.gent/id/concept/530009417>, <https://stad.gent/id/concept/530003125>, <https://stad.gent/id/concept/530006190>, <https://stad.gent/id/concept/530004235>, <https://stad.gent/id/concept/530004039>, <https://stad.gent/id/concept/530005644>, <https://stad.gent/id/concept/530005587>, <https://stad.gent/id/concept/530005656>, <https://stad.gent/id/concept/530006474>, <https://stad.gent/id/concept/530000194>, <https://stad.gent/id/concept/530005673>, <https://stad.gent/id/concept/530006450>, <https://stad.gent/id/concept/530003380>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003380> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+<https://stad.gent/id/concept/530006450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweden"@nl.
+<https://stad.gent/id/concept/530005673> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Europa"@nl.
+<https://stad.gent/id/concept/530000194> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Duitsland"@nl.
+<https://stad.gent/id/concept/530006474> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigd Koninkrijk"@nl.
+<https://stad.gent/id/concept/530005656> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjecho-Slowakije"@nl.
+<https://stad.gent/id/concept/530005587> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjechië"@nl.
+<https://stad.gent/id/concept/530005644> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanje"@nl.
+<https://stad.gent/id/concept/530004039> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soviet Unie"@nl.
+<https://stad.gent/id/concept/530004235> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slowakije"@nl.
+<https://stad.gent/id/concept/530006190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slovenië"@nl.
+<https://stad.gent/id/concept/530003125> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silesia"@nl.
+<https://stad.gent/id/concept/530009417> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servië"@nl.
+<https://stad.gent/id/concept/530004136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scandinavië"@nl.
+<https://stad.gent/id/concept/530005998> <http://www.w3.org/2004/02/skos/core#prefLabel> "Roemenië"@nl.
+<https://stad.gent/id/concept/530004855> <http://www.w3.org/2004/02/skos/core#prefLabel> "Portugal"@nl.
+<https://stad.gent/id/concept/530000339> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polen"@nl.
+<https://stad.gent/id/concept/530006049> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostenrijk-Hongarije"@nl.
+<https://stad.gent/id/concept/530006067> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostenrijk"@nl.
+<https://stad.gent/id/concept/530009967> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oekraine"@nl.
+<https://stad.gent/id/concept/530005642> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noorwegen"@nl.
+<https://stad.gent/id/concept/530006470> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+<https://stad.gent/id/concept/530004761> <http://www.w3.org/2004/02/skos/core#prefLabel> "Monaco"@nl.
+<https://stad.gent/id/concept/530008417> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midden-Europa"@nl.
+<https://stad.gent/id/concept/530006882> <http://www.w3.org/2004/02/skos/core#prefLabel> "Malta"@nl.
+<https://stad.gent/id/concept/530005115> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg (land)"@nl.
+<https://stad.gent/id/concept/530006326> <http://www.w3.org/2004/02/skos/core#prefLabel> "Litouwen"@nl.
+<https://stad.gent/id/concept/530005272> <http://www.w3.org/2004/02/skos/core#prefLabel> "Letland"@nl.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+<https://stad.gent/id/concept/530006539> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijsland"@nl.
+<https://stad.gent/id/concept/530001414> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ierland"@nl.
+<https://stad.gent/id/concept/530010649> <http://www.w3.org/2004/02/skos/core#prefLabel> "Iberisch Schiereiland"@nl.
+<https://stad.gent/id/concept/530006239> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hainaut (historische regio)"@nl.
+<https://stad.gent/id/concept/530002761> <http://www.w3.org/2004/02/skos/core#prefLabel> "Griekenland"@nl.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+<https://stad.gent/id/concept/530006015> <http://www.w3.org/2004/02/skos/core#prefLabel> "Finland"@nl.
+<https://stad.gent/id/concept/530008293> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estland"@nl.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+<https://stad.gent/id/concept/530005982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Denemarken"@nl.
+<https://stad.gent/id/concept/530006033> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cyprus"@nl.
+<https://stad.gent/id/concept/530009332> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bulgarije"@nl.
+<https://stad.gent/id/concept/530006559> <http://www.w3.org/2004/02/skos/core#prefLabel> "België"@nl.
+<https://stad.gent/id/concept/530009929> <http://www.w3.org/2004/02/skos/core#prefLabel> "Belarus"@nl.
+<https://stad.gent/id/concept/530009389> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eurazië"@nl.
+_:df_3124_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002310"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002310/2021-10-27T21:19:30.055Z>.
+<https://stad.gent/id/concept/470009443/2021-10-27T19:08:21.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009443>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:08:21.783Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264326>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4030_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een vorm van sacrament en centraal element van de eredienst bij veel christelijke kerkgenootschappen, met als basis het Laatste Avondmaal, waarop Jezus de wijn die hij ronddeelde en het brood dat hij brak als respectievelijk zijn bloed en lichaam omschreef. Het ritueel bestaat doorgaans uit de wijding van brood en wijn door de predikant of priester en de verdeling onder de gelovigen. De term is afgeleid van het Griekse woord 'eucharistia', dat 'dankzegging' betekent.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "eucharistieviering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4030_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009443"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009443/2021-10-27T19:08:21.783Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/eu.ttl>.

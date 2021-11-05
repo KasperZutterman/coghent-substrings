@@ -347,3 +347,94 @@ _:df_3568_26 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550006218"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006218/2021-10-28T05:29:46.592Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/dru.ttl>.
+<https://stad.gent/id/concept/530005843/2021-10-27T23:10:18.621Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005843>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:10:18.621Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2374_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukblok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2374_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005843"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005843/2021-10-27T23:10:18.621Z>.
+<https://stad.gent/id/concept/530004632/2021-10-27T22:26:51.761Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004632>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:26:51.761Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025732>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2665_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor personen die werkzaam zijn als commercieel drukker. Gebruik 'prentkunstenaars' voor kunstenaars die prenten maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010435>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010435> <http://www.w3.org/2004/02/skos/core#prefLabel> "personen in de grafische industrie"@nl.
+_:df_2665_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004632"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004632/2021-10-27T22:26:51.761Z>.
+<https://stad.gent/id/concept/530003449/2021-10-27T21:51:59.425Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003449>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:51:59.425Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053319>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2902_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor procédés waarbij een beeldende of tekstuele voorstelling wordt overgebracht op papier of stof, meestal door middel van een plaat, blok, steen of rooster. Wordt ook gebruikt voor het maken van fotografische afdrukken. Gebruik liever 'drukkunst' voor het drukken als schone kunst.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008593>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008027>, <https://stad.gent/id/concept/530003272>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003272> <http://www.w3.org/2004/02/skos/core#prefLabel> "zeefdrukken"@nl.
+<https://stad.gent/id/concept/530008027> <http://www.w3.org/2004/02/skos/core#prefLabel> "transferdruk"@nl.
+<https://stad.gent/id/concept/530008593> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukken en druktechniek"@nl.
+_:df_2902_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003449"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003449/2021-10-27T21:51:59.425Z>.
+<https://stad.gent/id/concept/530003163/2021-10-27T21:41:43.802Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:41:43.802Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2971_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een drukvat is een afgesloten ruimte, waarin zich een gas of vloeistof bevindt met een druk, die afwijkt van de omgevingsdruk.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukvat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2971_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003163/2021-10-27T21:41:43.802Z>.
+<https://stad.gent/id/concept/530000261/2021-10-27T20:05:10.574Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:05:10.574Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199765>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3631_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gereedschap dat wordt gebruikt om van druiventrossen kleinere trossen te knippen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "druivenschaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008614>, <https://stad.gent/id/concept/530000401>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000401> <http://www.w3.org/2004/02/skos/core#prefLabel> "schaar"@nl.
+<https://stad.gent/id/concept/530008614> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire uitrusting"@nl.
+_:df_3631_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000261"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000261/2021-10-27T20:05:10.574Z>.
+<https://stad.gent/id/concept/470011012/2021-10-27T19:52:44.394Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470011012>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:52:44.394Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025732>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3718_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor personen die werkzaam zijn als commercieel drukker. Gebruik 'prentkunstenaars' voor kunstenaars die prenten maken. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "rol"@nl, "role"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3718_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470011012"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470011012/2021-10-27T19:52:44.394Z>.
+<https://stad.gent/id/concept/470009785/2021-10-27T19:19:49.209Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:19:49.209Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q11060274>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3949_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3949_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009785/2021-10-27T19:19:49.209Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/dru.ttl>.

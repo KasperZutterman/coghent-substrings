@@ -109,3 +109,34 @@ _:df_2710_199 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570000956"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000956/2021-10-28T07:37:33.621Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ny.ttl>.
+<https://stad.gent/id/concept/530002911/2021-10-27T21:28:56.274Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002911>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:28:56.274Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3058_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nylondraad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008538>, <https://stad.gent/id/concept/530002055>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002055> <http://www.w3.org/2004/02/skos/core#prefLabel> "nylon"@nl.
+<https://stad.gent/id/concept/530008538> <http://www.w3.org/2004/02/skos/core#prefLabel> "draad"@nl.
+_:df_3058_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002911"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002911/2021-10-27T21:28:56.274Z>.
+<https://stad.gent/id/concept/530002055/2021-10-27T21:16:43.473Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002055>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:16:43.473Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014462>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3142_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "on is de triviale naam voor een groep synthetische polymeren, die tot de groep van polyamiden behoren. Op de productie van seriële polymeren werd op 2 januari 1935 patent aangevraagd door Wallace Carothers[1] van het chemische bedrijf DuPont. De belangrijkste nylonsoort wordt sinds 1938 verkocht. Nylon kent vele toepassingen: van panty tot kunstgewricht en van muurplug tot klimtouw. Nylon was de eerste commercieel succesvolle polymeer en is heden ten dage niet meer weg te denken in onze maatschappij.(Wikipedia)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "nylon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003166>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003195>, <https://stad.gent/id/concept/530002911>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002911> <http://www.w3.org/2004/02/skos/core#prefLabel> "nylondraad"@nl.
+<https://stad.gent/id/concept/530003195> <http://www.w3.org/2004/02/skos/core#prefLabel> "aramide"@nl.
+<https://stad.gent/id/concept/530003166> <http://www.w3.org/2004/02/skos/core#prefLabel> "polyamide"@nl.
+_:df_3142_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002055"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002055/2021-10-27T21:16:43.473Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ny.ttl>.

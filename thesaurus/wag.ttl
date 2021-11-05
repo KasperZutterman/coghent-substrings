@@ -10,3 +10,17 @@ _:df_3886_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000465"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000465/2021-10-28T15:38:08.932Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/wag.ttl>.
+<https://stad.gent/id/concept/530007337/2021-10-28T00:07:54.074Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007337>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:07:54.074Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1048214>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1990_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wageningen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009319>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009319> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gelderland"@nl.
+_:df_1990_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007337"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007337/2021-10-28T00:07:54.074Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/wag.ttl>.

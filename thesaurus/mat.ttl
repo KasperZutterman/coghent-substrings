@@ -367,3 +367,159 @@ _:df_2971_38 a <http://www.w3.org/ns/adms#Identifier>;
 <https://stad.gent/id/concept/550008565> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen"@nl.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008565/2021-10-28T06:58:47.954Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mat.ttl>.
+<https://stad.gent/id/concept/530010011/2021-10-28T02:22:25.854Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010011>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:22:25.854Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1093_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "material jetting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009209>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009209> <http://www.w3.org/2004/02/skos/core#prefLabel> "3-D printen"@nl, "3-D printen"@nl.
+_:df_1093_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010011"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010011/2021-10-28T02:22:25.854Z>.
+<https://stad.gent/id/concept/530010002/2021-10-28T02:21:36.650Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:21:36.650Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1099_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "material extrusion"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1099_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010002/2021-10-28T02:21:36.650Z>.
+<https://stad.gent/id/concept/530009964/2021-10-28T02:18:08.813Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009964>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:18:08.813Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053900>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1123_37;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "materiaalspecifieke techniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009966>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009912>, <https://stad.gent/id/concept/530009295>, <https://stad.gent/id/concept/530009981>, <https://stad.gent/id/concept/530003814>, <https://stad.gent/id/concept/530009294>, <https://stad.gent/id/concept/530008605>, <https://stad.gent/id/concept/530008600>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008600> <http://www.w3.org/2004/02/skos/core#prefLabel> "textieltechniek"@nl.
+<https://stad.gent/id/concept/530008605> <http://www.w3.org/2004/02/skos/core#prefLabel> "pottenbakkerstechniek"@nl.
+<https://stad.gent/id/concept/530009294> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaaltechniek"@nl.
+<https://stad.gent/id/concept/530003814> <http://www.w3.org/2004/02/skos/core#prefLabel> "leerbewerken"@nl.
+<https://stad.gent/id/concept/530009981> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststoftechniek"@nl.
+<https://stad.gent/id/concept/530009295> <http://www.w3.org/2004/02/skos/core#prefLabel> "houttechniek"@nl.
+<https://stad.gent/id/concept/530009912> <http://www.w3.org/2004/02/skos/core#prefLabel> "glastechniek"@nl.
+<https://stad.gent/id/concept/530009966> <http://www.w3.org/2004/02/skos/core#prefLabel> "specifieke techniek"@nl, "specifieke techniek"@nl.
+_:df_1123_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009964"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009964/2021-10-28T02:18:08.813Z>.
+<https://stad.gent/id/concept/530009909/2021-10-28T02:13:28.622Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009909>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:13:28.622Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1049821>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1153_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Matosinhos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004855>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004855> <http://www.w3.org/2004/02/skos/core#prefLabel> "Portugal"@nl.
+_:df_1153_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009909"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009909/2021-10-28T02:13:28.622Z>.
+<https://stad.gent/id/concept/530008702/2021-10-28T00:52:37.179Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:52:37.179Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233404>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1693_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het aanbrengen van een niet-glanzende afwerklaag door getemperd glas bloot te stellen aan bijtende dampen.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "matteren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005710>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005710> <http://www.w3.org/2004/02/skos/core#prefLabel> "etsen (inbijten)"@nl.
+_:df_1693_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008702/2021-10-28T00:52:37.179Z>.
+<https://stad.gent/id/concept/530005650/2021-10-27T23:01:01.279Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005650>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:01:01.279Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004218>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2434_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Matera (Italië)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_2434_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005650"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005650/2021-10-27T23:01:01.279Z>.
+<https://stad.gent/id/concept/530004180/2021-10-27T22:07:28.914Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004180>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:07:28.914Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010358>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2797_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "materiaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003235>, <https://stad.gent/id/concept/530008496>, <https://stad.gent/id/concept/530008467>, <https://stad.gent/id/concept/530008503>, <https://stad.gent/id/concept/530001632>, <https://stad.gent/id/concept/530004722>, <https://stad.gent/id/concept/530009054>, <https://stad.gent/id/concept/530010443>, <https://stad.gent/id/concept/530008415>, <https://stad.gent/id/concept/530009100>, <https://stad.gent/id/concept/530005695>, <https://stad.gent/id/concept/530002088>, <https://stad.gent/id/concept/530009293>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009293> <http://www.w3.org/2004/02/skos/core#prefLabel> "vloeistof"@nl.
+<https://stad.gent/id/concept/530002088> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlechtwerk"@nl.
+<https://stad.gent/id/concept/530005695> <http://www.w3.org/2004/02/skos/core#prefLabel> "potlood (materiaal)"@nl.
+<https://stad.gent/id/concept/530009100> <http://www.w3.org/2004/02/skos/core#prefLabel> "paillet"@nl.
+<https://stad.gent/id/concept/530008415> <http://www.w3.org/2004/02/skos/core#prefLabel> "organisch materiaal"@nl.
+<https://stad.gent/id/concept/530010443> <http://www.w3.org/2004/02/skos/core#prefLabel> "onbekend"@nl.
+<https://stad.gent/id/concept/530009054> <http://www.w3.org/2004/02/skos/core#prefLabel> "lovertje"@nl.
+<https://stad.gent/id/concept/530004722> <http://www.w3.org/2004/02/skos/core#prefLabel> "linoleum"@nl.
+<https://stad.gent/id/concept/530001632> <http://www.w3.org/2004/02/skos/core#prefLabel> "laminaat"@nl.
+<https://stad.gent/id/concept/530008503> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleurmiddel"@nl.
+<https://stad.gent/id/concept/530008467> <http://www.w3.org/2004/02/skos/core#prefLabel> "deklaag (materiaal)"@nl.
+<https://stad.gent/id/concept/530008496> <http://www.w3.org/2004/02/skos/core#prefLabel> "biologisch materiaal"@nl.
+<https://stad.gent/id/concept/530003235> <http://www.w3.org/2004/02/skos/core#prefLabel> "anorganisch materiaal"@nl.
+_:df_2797_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004180"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004180/2021-10-27T22:07:28.914Z>.
+<https://stad.gent/id/concept/530004003/2021-10-27T22:02:39.242Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004003>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:02:39.242Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2830_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "matig"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "toestand"@nl, "condition"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2830_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004003"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004003/2021-10-27T22:02:39.242Z>.
+<https://stad.gent/id/concept/530001842/2021-10-27T21:07:34.023Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001842>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:07:34.023Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300040450>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3205_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "matras"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008615>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008615> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedonderdeel"@nl.
+_:df_3205_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001842"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001842/2021-10-27T21:07:34.023Z>.
+<https://stad.gent/id/concept/530000806/2021-10-27T20:32:27.478Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000806>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:32:27.478Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3445_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De tijk is de hoes die over je matras heen zit, niet te verwarren met een molton of hoeslaken. De matrashoes is de stof die over de kern van het matras heen zit.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "matrashoes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009043>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009043> <http://www.w3.org/2004/02/skos/core#prefLabel> "overtrek (bedekking)"@nl.
+_:df_3445_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000806"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000806/2021-10-27T20:32:27.478Z>.
+<https://stad.gent/id/concept/470008636/2021-10-27T18:46:48.609Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:46:48.609Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010358>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4183_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "materiaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4183_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008636/2021-10-27T18:46:48.609Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mat.ttl>.

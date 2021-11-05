@@ -10,3 +10,17 @@ _:df_4180_13 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024997"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024997/2021-10-28T14:55:19.877Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/zei.ttl>.
+<https://stad.gent/id/concept/530002044/2021-10-27T21:16:06.318Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002044>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:16:06.318Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q65147>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3148_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zeiningen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003380>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003380> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_3148_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002044"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002044/2021-10-27T21:16:06.318Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/zei.ttl>.

@@ -1,0 +1,26 @@
+<https://stad.gent/id/concept/470009423/2021-10-27T19:07:46.452Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009423>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:07:46.452Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/16629>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4036_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wondelgemstraat (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4036_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009423"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009423/2021-10-27T19:07:46.452Z>.
+<https://stad.gent/id/concept/470007536/2021-10-27T18:18:00.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007536>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:18:00.500Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005425>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4387_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor gebouwen of delen van een gebouw die alleen zijn bedoeld voor menselijke bewoning, maar die geen hotels zijn of andere gebouwen bedoeld voor tijdelijk verblijf. Gebruik 'thuis' voor de plaats die het middelpunt vormt van het huiselijke leven, gevoelsrelaties en interesses van een persoon, samen met het gevoel van gerieflijkheid en tevredenheid die daarbij horen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "woning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470005637>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005637> <http://www.w3.org/2004/02/skos/core#prefLabel> "woonhuis"@nl.
+_:df_4387_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007536"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007536/2021-10-27T18:18:00.500Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/won.ttl>.

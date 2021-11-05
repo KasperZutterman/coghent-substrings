@@ -1420,3 +1420,338 @@ _:df_1_566 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pax.ttl>;
     <https://w3id.org/tree#value> "pax".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pa.ttl>.
+<https://stad.gent/id/concept/550004540/2021-10-28T04:30:27.042Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004540>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:30:27.042Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014657>;
+    <http://www.w3.org/ns/adms#identifier> _:df_247_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In de kunstwereld verwijst de term naar brede, dunne, vlakke of soms gebogen stukken hout, zoals bij schilderijen op paneel. Gebruik 'panelen (oppervlaktecomponenten)' in de architectuur en andere constructieve kunsten om te verwijzen naar een paneel, van hout of een ander materiaal, dat meestal een segment vormt van een oppervlak dat verzonken is onder of uitsteekt boven het algehele niveau, en dat onderdeel vormt van een lijst of een andere begrenzing, zoals bij een schilderijlijst, soms met een afwijkende kleur of vervaardigd uit een ander materiaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "paneel (hout)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008831>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008831> <http://www.w3.org/2004/02/skos/core#prefLabel> "hout naar vorm of functie"@nl.
+_:df_247_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004540"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004540/2021-10-28T04:30:27.042Z>.
+<https://stad.gent/id/concept/550004253/2021-10-28T04:22:45.553Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004253>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:22:45.553Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004407>;
+    <http://www.w3.org/ns/adms#identifier> _:df_298_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Passau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_298_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004253"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004253/2021-10-28T04:22:45.553Z>.
+<https://stad.gent/id/concept/550003693/2021-10-28T04:13:36.185Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003693>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:13:36.185Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_358_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pasmunt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_358_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003693"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003693/2021-10-28T04:13:36.185Z>.
+<https://stad.gent/id/concept/550003670/2021-10-28T04:12:04.172Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003670>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:12:04.172Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_367_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "patagon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_367_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003670"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003670/2021-10-28T04:12:04.172Z>.
+<https://stad.gent/id/concept/550003628/2021-10-28T04:11:27.746Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003628>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:11:27.746Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_373_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Medaille met kenmerken en naam van de parochie. Deze wordt uitgereikt aan mensen die zich verdienstelijk hebben gemaakt voor de parochie of anderszins.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "parochiemedaille"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008060>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008060> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderscheiding (eretitel)"@nl.
+_:df_373_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003628"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003628/2021-10-28T04:11:27.746Z>.
+<https://stad.gent/id/concept/550003098/2021-10-28T04:05:55.700Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003098>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:05:55.700Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011835>;
+    <http://www.w3.org/ns/adms#identifier> _:df_409_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Harde, parelachtige, regenboogkleurige binnenlaag van verscheidene soorten weekdierschelpen; wordt veel gebruikt voor het maken van kleine voorwerpen en inlegsels.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "paarlemoer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008832>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008832> <http://www.w3.org/2004/02/skos/core#prefLabel> "schelp en schelpmateriaal"@nl.
+_:df_409_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003098"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003098/2021-10-28T04:05:55.700Z>.
+<https://stad.gent/id/concept/550002469/2021-10-28T03:56:24.522Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002469>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:56:24.522Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014657>;
+    <http://www.w3.org/ns/adms#identifier> _:df_472_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In de kunstwereld verwijst de term naar brede, dunne, vlakke of soms gebogen stukken hout, zoals bij schilderijen op paneel. Gebruik 'panelen (oppervlaktecomponenten)' in de architectuur en andere constructieve kunsten om te verwijzen naar een paneel, van hout of een ander materiaal, dat meestal een segment vormt van een oppervlak dat verzonken is onder of uitsteekt boven het algehele niveau, en dat onderdeel vormt van een lijst of een andere begrenzing, zoals bij een schilderijlijst, soms met een afwijkende kleur of vervaardigd uit een ander materiaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "paneel (object)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008084>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008084> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres naar materiaal"@nl.
+_:df_472_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002469"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002469/2021-10-28T03:56:24.522Z>.
+<https://stad.gent/id/concept/550002134/2021-10-28T03:52:36.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002134>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:52:36.785Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008038>;
+    <http://www.w3.org/ns/adms#identifier> _:df_496_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Parijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_496_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002134"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002134/2021-10-28T03:52:36.785Z>.
+<https://stad.gent/id/concept/550002051/2021-10-28T03:52:11.778Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002051>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:52:11.778Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300261068>;
+    <http://www.w3.org/ns/adms#identifier> _:df_499_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor bij elkaar horende versieringen bedoeld om samen te worden gedragen, bestaande uit juwelen of garneersels voor kleding, gewoonlijk op boord en manchetten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "parure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008079>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008079> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledinggroepen"@nl.
+_:df_499_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002051"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002051/2021-10-28T03:52:11.778Z>.
+<https://stad.gent/id/concept/550001969/2021-10-28T03:49:49.704Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:49:49.704Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022488>;
+    <http://www.w3.org/ns/adms#identifier> _:df_517_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten waarmee cirkels worden getekend en de afstand tussen twee punten wordt gemeten. Ze bestaan uit twee puntige benen, die bewegen door middel van een scharnier of draaipen. Meestal zijn ze zo gemaakt dat één deel kan worden losgemaakt om er een pen of verlengstuk in te zetten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "passer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008170>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001340>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001340> <http://www.w3.org/2004/02/skos/core#prefLabel> "proportiepasser"@nl.
+<https://stad.gent/id/concept/550008170> <http://www.w3.org/2004/02/skos/core#prefLabel> "schets-teken-en schrijfbenodigdheden naar specifiek type"@nl.
+_:df_517_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001969/2021-10-28T03:49:49.704Z>.
+<https://stad.gent/id/concept/550001517/2021-10-28T03:40:50.753Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001517>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:40:50.753Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300257363>;
+    <http://www.w3.org/ns/adms#identifier> _:df_577_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dekens in verschillende materialen om paarden te bedekken; ter bescherming of ter voorkoming van sterke vachtgroei.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "paardedeken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008280>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008280> <http://www.w3.org/2004/02/skos/core#prefLabel> "dekens naar locatie of context"@nl.
+_:df_577_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001517"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001517/2021-10-28T03:40:50.753Z>.
+<https://stad.gent/id/concept/550001444/2021-10-28T03:38:58.490Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001444>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:38:58.490Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300019258>;
+    <http://www.w3.org/ns/adms#identifier> _:df_589_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Paleolithisch"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001453>, <https://stad.gent/id/concept/550001452>, <https://stad.gent/id/concept/550009018>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009018> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mousteriaan"@nl.
+<https://stad.gent/id/concept/550001452> <http://www.w3.org/2004/02/skos/core#prefLabel> "midden-paleolithisch"@nl.
+<https://stad.gent/id/concept/550001453> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoog-paleolithisch"@nl.
+_:df_589_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001444"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001444/2021-10-28T03:38:58.490Z>.
+<https://stad.gent/id/concept/550000969/2021-10-28T03:31:19.096Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:31:19.096Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_640_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Liturgische gewaden met toebehoren. Vorm, functie en betekenis van deze gewaden zijn in de loop der tijden gewijzigd door veranderende inzichten en voorschriften. De in onbruik geraakte paramenten in oude stijl zijn in veel kerken bewaard gebleven. (SKKN)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "parament"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008079>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008079> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledinggroepen"@nl.
+_:df_640_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000969/2021-10-28T03:31:19.096Z>.
+<https://stad.gent/id/concept/550000940/2021-10-28T03:30:39.085Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000940>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:30:39.085Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011827>;
+    <http://www.w3.org/ns/adms#identifier> _:df_643_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een gladde, ronde kraal die wordt gevormd in de schelp van bepaalde weekdieren. Wordt gebruikt voor sieraden en andere decoratieve doeleinden, en wordt als edelsteen beschouwd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "parel (dierlijk materiaal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008732>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008732> <http://www.w3.org/2004/02/skos/core#prefLabel> "combinatie anorganisch/organisch dierlijk materiaal"@nl.
+_:df_643_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000940"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000940/2021-10-28T03:30:39.085Z>.
+<https://stad.gent/id/concept/550000679/2021-10-28T03:27:13.518Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000679>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:27:13.518Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300232186>;
+    <http://www.w3.org/ns/adms#identifier> _:df_667_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een smal garneersel dat op verschillende manieren kan worden gemaakt, zoals kaartweven of vlechten. Het komt voor met diverse vezels en in verschillende gewichten, maar het is zwaarder dan lint en platter dan koord.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "passement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008746>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003140>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003140> <http://www.w3.org/2004/02/skos/core#prefLabel> "galon"@nl.
+<https://stad.gent/id/concept/550008746> <http://www.w3.org/2004/02/skos/core#prefLabel> "garneersel (materiaal)"@nl.
+_:df_667_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000679"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000679/2021-10-28T03:27:13.518Z>.
+<https://stad.gent/id/concept/550000220/2021-10-28T03:22:11.585Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000220>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:22:11.585Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300220572>;
+    <http://www.w3.org/ns/adms#identifier> _:df_694_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor volledige, niet-periodieke gedrukte geschriften met meestal minder dan 80 pagina's en vaak met een papieren kaft. Soms zijn het korte verhandelingen over actuele thema's of onderwerpen. Voor kleinere gedrukte geschriften bestaand uit één gevouwen en niet ingenaaide of gebonden blad wordt 'vouwbladen' gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pamflet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005710>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005710> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers naar fysieke vorm"@nl.
+_:df_694_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000220"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000220/2021-10-28T03:22:11.585Z>.
+<https://stad.gent/id/concept/550000050/2021-10-28T03:20:05.073Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000050>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:20:05.073Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033656>;
+    <http://www.w3.org/ns/adms#identifier> _:df_709_54;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst doorgaans naar schilderingen op houten dragers, waaronder ook kleinere draagbare schilderingen en middelgrote schilderingen vallen zoals altaarstukken, waarbij verschillende houten planken zijn samengevoegd om een groter paneel te vormen. De term wordt dikwijls gebruikt om specifiek te verwijzen naar schilderingen op een houten drager in de westerse kunst, die doorgaans dateren uit het oude Griekenland en Rome tot in de renaissance. Pas daarna werd canvas standaard als drager gebruikt voor schilderingen in deze formaten. Bij het vervaardigen van Griekse en Russisch-orthodoxe iconen zijn paneelschilderingen nog steeds heel gebruikelijk.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "paneelschildering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008246>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008246> <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderingen naar vorm"@nl.
+_:df_709_54 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000050"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000050/2021-10-28T03:20:05.073Z>.
+<https://stad.gent/id/concept/530010617/2021-10-28T03:11:59.983Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010617>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:11:59.983Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004942>;
+    <http://www.w3.org/ns/adms#identifier> _:df_763_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Parma"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_763_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010617"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010617/2021-10-28T03:11:59.983Z>.
+<https://stad.gent/id/concept/530010597/2021-10-28T03:10:28.126Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010597>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:10:28.126Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_772_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Palestijns"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_772_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010597"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010597/2021-10-28T03:10:28.126Z>.
+<https://stad.gent/id/concept/530010267/2021-10-28T02:44:32.793Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:44:32.793Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_946_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "PAEK"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_946_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010267/2021-10-28T02:44:32.793Z>.
+<https://stad.gent/id/concept/530010254/2021-10-28T02:43:24.441Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010254>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:43:24.441Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_955_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "PA"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_955_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010254"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010254/2021-10-28T02:43:24.441Z>.
+<https://KasperZutterman.github.io///thesaurus/pa.ttl> <https://w3id.org/tree#relation> _:df_1_431.
+_:df_1_431 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pai.ttl>;
+    <https://w3id.org/tree#value> "pai".
+<https://KasperZutterman.github.io///thesaurus/pa.ttl> <https://w3id.org/tree#relation> _:df_1_432.
+_:df_1_432 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pan.ttl>;
+    <https://w3id.org/tree#value> "pan".
+<https://KasperZutterman.github.io///thesaurus/pa.ttl> <https://w3id.org/tree#relation> _:df_1_433.
+_:df_1_433 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pad.ttl>;
+    <https://w3id.org/tree#value> "pad".
+<https://KasperZutterman.github.io///thesaurus/pa.ttl> <https://w3id.org/tree#relation> _:df_1_434.
+_:df_1_434 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pal.ttl>;
+    <https://w3id.org/tree#value> "pal".
+<https://KasperZutterman.github.io///thesaurus/pa.ttl> <https://w3id.org/tree#relation> _:df_1_435.
+_:df_1_435 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/par.ttl>;
+    <https://w3id.org/tree#value> "par".
+<https://KasperZutterman.github.io///thesaurus/pa.ttl> <https://w3id.org/tree#relation> _:df_1_436.
+_:df_1_436 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pak.ttl>;
+    <https://w3id.org/tree#value> "pak".
+<https://KasperZutterman.github.io///thesaurus/pa.ttl> <https://w3id.org/tree#relation> _:df_1_437.
+_:df_1_437 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pat.ttl>;
+    <https://w3id.org/tree#value> "pat".
+<https://KasperZutterman.github.io///thesaurus/pa.ttl> <https://w3id.org/tree#relation> _:df_1_438.
+_:df_1_438 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pas.ttl>;
+    <https://w3id.org/tree#value> "pas".
+<https://KasperZutterman.github.io///thesaurus/pa.ttl> <https://w3id.org/tree#relation> _:df_1_439.
+_:df_1_439 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pam.ttl>;
+    <https://w3id.org/tree#value> "pam".
+<https://KasperZutterman.github.io///thesaurus/pa.ttl> <https://w3id.org/tree#relation> _:df_1_440.
+_:df_1_440 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pav.ttl>;
+    <https://w3id.org/tree#value> "pav".
+<https://KasperZutterman.github.io///thesaurus/pa.ttl> <https://w3id.org/tree#relation> _:df_1_441.
+_:df_1_441 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pag.ttl>;
+    <https://w3id.org/tree#value> "pag".
+<https://KasperZutterman.github.io///thesaurus/pa.ttl> <https://w3id.org/tree#relation> _:df_1_442.
+_:df_1_442 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/paa.ttl>;
+    <https://w3id.org/tree#value> "paa".
+<https://KasperZutterman.github.io///thesaurus/pa.ttl> <https://w3id.org/tree#relation> _:df_1_443.
+_:df_1_443 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pap.ttl>;
+    <https://w3id.org/tree#value> "pap".
+<https://KasperZutterman.github.io///thesaurus/pa.ttl> <https://w3id.org/tree#relation> _:df_1_444.
+_:df_1_444 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pac.ttl>;
+    <https://w3id.org/tree#value> "pac".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pa.ttl>.

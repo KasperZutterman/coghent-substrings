@@ -166,3 +166,93 @@ _:df_1762_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570013377"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013377/2021-10-28T09:56:12.022Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/dro.ttl>.
+<https://stad.gent/id/concept/530008176/2021-10-28T00:20:06.996Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008176>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:20:06.996Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1909_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "droge doek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008172>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008172> <http://www.w3.org/2004/02/skos/core#prefLabel> "droog reinigen"@nl, "droog reinigen"@nl.
+_:df_1909_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008176"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008176/2021-10-28T00:20:06.996Z>.
+<https://stad.gent/id/concept/530008172/2021-10-28T00:19:43.805Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008172>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:19:43.805Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1912_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "droog reinigen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004579>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008176>, <https://stad.gent/id/concept/530008177>, <https://stad.gent/id/concept/530008170>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008170> <http://www.w3.org/2004/02/skos/core#prefLabel> "stofzuigen"@nl.
+<https://stad.gent/id/concept/530008177> <http://www.w3.org/2004/02/skos/core#prefLabel> "smoke sponge"@nl.
+<https://stad.gent/id/concept/530008176> <http://www.w3.org/2004/02/skos/core#prefLabel> "droge doek"@nl.
+<https://stad.gent/id/concept/530004579> <http://www.w3.org/2004/02/skos/core#prefLabel> "reinigen"@nl.
+_:df_1912_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008172"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530008172> <http://www.w3.org/2004/02/skos/core#prefLabel> "droog reinigen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008172/2021-10-28T00:19:43.805Z>.
+<https://stad.gent/id/concept/530006395/2021-10-27T23:35:15.240Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006395>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:35:15.240Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7247493>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2206_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Drogenbos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009325>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009325> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant"@nl.
+_:df_2206_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006395"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006395/2021-10-27T23:35:15.240Z>.
+<https://stad.gent/id/concept/530003106/2021-10-27T21:39:32.436Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003106>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:39:32.436Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2986_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "droogzwierder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008875>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008875> <http://www.w3.org/2004/02/skos/core#prefLabel> "huishoudelijk apparaat"@nl, "huishoudelijk apparaat"@nl.
+_:df_2986_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003106"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003106/2021-10-27T21:39:32.436Z>.
+<https://stad.gent/id/concept/530000130/2021-10-27T19:59:25.440Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000130>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:59:25.440Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026401>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3670_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Drongen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006418>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006418> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl.
+_:df_3670_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000130"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000130/2021-10-27T19:59:25.440Z>.
+<https://stad.gent/id/concept/470010683/2021-10-27T19:47:51.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:47:51.405Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024728>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3751_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "droger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3751_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010683"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010683/2021-10-27T19:47:51.405Z>.
+<https://stad.gent/id/concept/470007959/2021-10-27T18:26:45.827Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007959>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:26:45.827Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005307>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4327_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drogisterij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4327_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007959"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007959/2021-10-27T18:26:45.827Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/dro.ttl>.

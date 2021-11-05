@@ -13,3 +13,19 @@ _:df_3706_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550005625"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005625/2021-10-28T05:09:07.722Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pin.ttl>.
+<https://stad.gent/id/concept/530001580/2021-10-27T20:57:28.513Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001580>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:57:28.513Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3274_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pindastel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005322>, <https://stad.gent/id/concept/530004811>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001527>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001527> <http://www.w3.org/2004/02/skos/core#prefLabel> "pindabord"@nl.
+<https://stad.gent/id/concept/530004811> <http://www.w3.org/2004/02/skos/core#prefLabel> "stel"@nl.
+<https://stad.gent/id/concept/530005322> <http://www.w3.org/2004/02/skos/core#prefLabel> "serveergerei"@nl.
+_:df_3274_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001580"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001580/2021-10-27T20:57:28.513Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pin.ttl>.

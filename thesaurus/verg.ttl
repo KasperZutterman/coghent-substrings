@@ -9,3 +9,58 @@ _:df_2986_11 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470009246"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009246/2021-10-31T08:19:29.757Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/verg.ttl>.
+<https://stad.gent/id/concept/530006202/2021-10-27T23:26:46.848Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006202>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:26:46.848Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300124096>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2263_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Iets door verhitten en smelten in glas of een glasachtige substantie doen veranderen. De term wordt met name gebruikt voor het veroorzaken van dichte kristallisatie, zoals bij keramiek, die wordt verkregen door een substantie heet te bakken, zodat deze niet meer poreus is.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verglazen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008676>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006225>, <https://stad.gent/id/concept/530006201>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006201> <http://www.w3.org/2004/02/skos/core#prefLabel> "glazuren"@nl.
+<https://stad.gent/id/concept/530006225> <http://www.w3.org/2004/02/skos/core#prefLabel> "engoberen"@nl.
+<https://stad.gent/id/concept/530008676> <http://www.w3.org/2004/02/skos/core#prefLabel> "aardewerk versieringstechniek"@nl.
+_:df_2263_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006202"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530006202> <http://www.w3.org/2004/02/skos/core#prefLabel> "verglazen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006202/2021-10-27T23:26:46.848Z>.
+<https://stad.gent/id/concept/530003481/2021-10-27T21:53:26.236Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003481>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:53:26.236Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053789>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2893_36;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het aanbrengen van bladmetaal, metaalpoeder dat meteen op een oppervlak wordt aangebracht, metaalpoeder dat met een bindmiddel wordt gemengd of een andere vorm van metaal op een oppervlak om het op zuiver of ingelegd metaal te laten lijken.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vergulden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008691>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008691> <http://www.w3.org/2004/02/skos/core#prefLabel> "metalliseren"@nl.
+_:df_2893_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003481"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003481/2021-10-27T21:53:26.236Z>.
+<https://stad.gent/id/concept/530001986/2021-10-27T21:13:41.595Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001986>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:13:41.595Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3163_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vergrendelingsknop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000217>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000217> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerkingsijzerwaar"@nl.
+_:df_3163_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001986"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001986/2021-10-27T21:13:41.595Z>.
+<https://stad.gent/id/concept/470009246/2021-10-27T19:01:47.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009246>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:01:47.079Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053789>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4078_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vergulden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4078_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009246"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009246/2021-10-27T19:01:47.079Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/verg.ttl>.

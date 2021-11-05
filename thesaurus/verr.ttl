@@ -29,3 +29,17 @@ _:df_3676_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550005775"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005775/2021-10-28T05:13:39.802Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/verr.ttl>.
+<https://stad.gent/id/concept/530001261/2021-10-27T20:47:29.624Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:47:29.624Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/8725252>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3343_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verre Oosten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002419>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002419> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl.
+_:df_3343_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001261"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001261/2021-10-27T20:47:29.624Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/verr.ttl>.

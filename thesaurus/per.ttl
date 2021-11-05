@@ -749,3 +749,227 @@ _:df_1_957 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/perc.ttl>;
     <https://w3id.org/tree#value> "perc".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/per.ttl>.
+<https://stad.gent/id/concept/530010082/2021-10-28T02:28:45.867Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010082>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:28:45.867Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054068>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1051_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vormingsproces dat met name voor plastic wordt toegepast, en waarbij hitte en druk op de materialen in de mal worden uitgeoefend.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "persgieten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009982>, <https://stad.gent/id/concept/530008595>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008595> <http://www.w3.org/2004/02/skos/core#prefLabel> "modelleren (mal)"@nl.
+<https://stad.gent/id/concept/530009982> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststofvervaardigingstechniek"@nl.
+_:df_1051_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010082"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010082/2021-10-28T02:28:45.867Z>.
+<https://stad.gent/id/concept/530009572/2021-10-28T01:44:47.772Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009572>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:44:47.772Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026668>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1345_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Peruwelz"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008347>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008347> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+_:df_1345_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009572"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009572/2021-10-28T01:44:47.772Z>.
+<https://stad.gent/id/concept/530008833/2021-10-28T01:02:02.537Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008833>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:02:02.537Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300125459>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1630_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Diverse apparaten of machines die worden gebruikt voor het snijden of vormen van voedsel of het verkrijgen van sap uit voedsel door druk uit te oefenen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pers (keukengereedschap)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001486>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008834>, <https://stad.gent/id/concept/530001975>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001975> <http://www.w3.org/2004/02/skos/core#prefLabel> "vruchtenpers"@nl.
+<https://stad.gent/id/concept/530008834> <http://www.w3.org/2004/02/skos/core#prefLabel> "vleespers"@nl.
+<https://stad.gent/id/concept/530001486> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei (objectnaam)"@nl.
+_:df_1630_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008833"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530008833> <http://www.w3.org/2004/02/skos/core#prefLabel> "pers (keukengereedschap)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008833/2021-10-28T01:02:02.537Z>.
+<https://stad.gent/id/concept/530008197/2021-10-28T00:21:15.274Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008197>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:21:15.274Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195264>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1900_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Koffiezetapparaten waarin kokend water via een slangetje in een filter met gemalen koffiebonen loopt om er het extract uit te halen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "percolator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002784>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002784> <http://www.w3.org/2004/02/skos/core#prefLabel> "koffiezetapparaat"@nl.
+_:df_1900_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008197"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008197/2021-10-28T00:21:15.274Z>.
+<https://stad.gent/id/concept/530008035/2021-10-28T00:17:36.814Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008035>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:17:36.814Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053136>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1924_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zo samendrukken, met name door regelmatige, volledige drukuitoefening, dat er een zekere gedaante aan iets wordt gegeven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "persen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002768>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009993>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009993> <http://www.w3.org/2004/02/skos/core#prefLabel> "kalanderen"@nl.
+<https://stad.gent/id/concept/530002768> <http://www.w3.org/2004/02/skos/core#prefLabel> "vormgevingstechniek"@nl.
+_:df_1924_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008035"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008035/2021-10-28T00:17:36.814Z>.
+<https://stad.gent/id/concept/530006849/2021-10-27T23:54:27.580Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006849>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:54:27.580Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000526>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2080_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Perugia"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl, "Italië"@nl, "Italië"@nl, "Italië"@nl.
+_:df_2080_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006849"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006849/2021-10-27T23:54:27.580Z>.
+<https://stad.gent/id/concept/530005425/2021-10-27T22:51:55.144Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005425>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:51:55.144Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012338>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2497_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hout van de boom behorende tot het genus Pyrus, vaal rozeachtig bruin van kleur met een uiterst fijne textuur. Het wordt gebruikt voor het maken van kommen, borstelgrepen, tekeninstrumenten en kabinetten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "perenhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000139>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000139> <http://www.w3.org/2004/02/skos/core#prefLabel> "hardhout"@nl.
+_:df_2497_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005425"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005425/2021-10-27T22:51:55.144Z>.
+<https://stad.gent/id/concept/530004613/2021-10-27T22:26:11.936Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004613>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:26:11.936Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000056>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2671_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Peru"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009342>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009342> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuid-Amerika"@nl.
+_:df_2671_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004613"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004613/2021-10-27T22:26:11.936Z>.
+<https://stad.gent/id/concept/530004570/2021-10-27T22:24:02.238Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004570>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:24:02.238Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011851>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2686_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Doorzichtig of ondoorzichtig materiaal dat van het vel van een kalf, schaap of geit wordt gemaakt. Het vel wordt gekalkt, onthaard, afgeschraapt en onder spanning gedroogd zodat een dun, sterk materiaal ontstaat om op te schrijven, boeken mee te binden of voor andere doeleinden. Gebruik 'velijn' voor kalfsperkament van een betere kwaliteit. De benamingen perkament en velijn werden en worden nog steeds met elkaar verward en door elkaar gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "perkament"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008443>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008443> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierlijk materiaal"@nl.
+_:df_2686_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004570"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004570/2021-10-27T22:24:02.238Z>.
+<https://stad.gent/id/concept/530003377/2021-10-27T21:50:03.256Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003377>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:50:03.256Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2914_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "personal computer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2914_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003377"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003377/2021-10-27T21:50:03.256Z>.
+<https://stad.gent/id/concept/530001308/2021-10-27T20:49:11.320Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001308>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:49:11.320Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300380004>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3331_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemene term voor apparaten of instrumenten die worden gebruikt voor het samenpersen, het vlakken van een voorwerp of substantie, waardoor een dichtere consistentie ontstaat door het uitoefenen van druk, al mechanisch of niet.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008632>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008632> <http://www.w3.org/2004/02/skos/core#prefLabel> "gereedschap en uitrusting"@nl.
+_:df_3331_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001308"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001308/2021-10-27T20:49:11.320Z>.
+<https://stad.gent/id/concept/530000943/2021-10-27T20:36:53.352Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000943>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:36:53.352Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7024079>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3415_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Perzië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002419>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002419> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl.
+_:df_3415_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000943"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000943/2021-10-27T20:36:53.352Z>.
+<https://stad.gent/id/concept/530000190/2021-10-27T20:02:02.683Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000190>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:02:02.683Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014435>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3652_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Commercieel geproduceerd Britse acrylplastic dat hoofdzakelijk bestaat uit gepolymeriseerd methyl-methacrylaat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "perspex"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001884>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001884> <http://www.w3.org/2004/02/skos/core#prefLabel> "polyacrylaat"@nl.
+_:df_3652_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000190"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000190/2021-10-27T20:02:02.683Z>.
+<https://stad.gent/id/concept/530000124/2021-10-27T19:59:15.438Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000124>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:59:15.438Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3673_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "perelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3673_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000124"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000124/2021-10-27T19:59:15.438Z>.
+<https://stad.gent/id/concept/470010319/2021-10-27T19:38:08.064Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010319>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:38:08.064Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025852>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3820_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "personeel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3820_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010319"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010319/2021-10-27T19:38:08.064Z>.
+<https://stad.gent/id/concept/470009490/2021-10-27T19:10:30.232Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009490>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:10:30.232Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000056>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4015_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Peru"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4015_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009490"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009490/2021-10-27T19:10:30.232Z>.
+<https://stad.gent/id/concept/470008436/2021-10-27T18:41:30.337Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008436>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:41:30.337Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q13464497>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4222_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "perchist"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4222_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008436"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008436/2021-10-27T18:41:30.337Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/per.ttl>.

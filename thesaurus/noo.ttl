@@ -40,3 +40,110 @@ _:df_3589_16 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000984"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000984/2021-10-28T16:21:51.208Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/noo.ttl>.
+<https://stad.gent/id/concept/530005642/2021-10-27T23:00:27.485Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005642>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:00:27.485Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000088>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2440_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Noorwegen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002310>, <https://stad.gent/id/concept/530004136>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000376>, <https://stad.gent/id/concept/530007062>, <https://stad.gent/id/concept/530005079>, <https://stad.gent/id/concept/530007334>, <https://stad.gent/id/concept/530005253>, <https://stad.gent/id/concept/530005402>, <https://stad.gent/id/concept/530003184>, <https://stad.gent/id/concept/530009503>, <https://stad.gent/id/concept/530009605>, <https://stad.gent/id/concept/530009606>, <https://stad.gent/id/concept/530009667>, <https://stad.gent/id/concept/530009793>, <https://stad.gent/id/concept/530009942>, <https://stad.gent/id/concept/530010029>, <https://stad.gent/id/concept/530010052>, <https://stad.gent/id/concept/530010053>, <https://stad.gent/id/concept/530010371>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "land"@nl, "country"@en, "onderwerp"@nl, "subject"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010371> <http://www.w3.org/2004/02/skos/core#prefLabel> "Porsgrunn"@nl.
+<https://stad.gent/id/concept/530010053> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tingvoll"@nl.
+<https://stad.gent/id/concept/530010052> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meldal"@nl.
+<https://stad.gent/id/concept/530010029> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stranda"@nl.
+<https://stad.gent/id/concept/530009942> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bærum"@nl.
+<https://stad.gent/id/concept/530009793> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trysil"@nl.
+<https://stad.gent/id/concept/530009667> <http://www.w3.org/2004/02/skos/core#prefLabel> "Østre Toten"@nl.
+<https://stad.gent/id/concept/530009606> <http://www.w3.org/2004/02/skos/core#prefLabel> "Snasa"@nl.
+<https://stad.gent/id/concept/530009605> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skien"@nl.
+<https://stad.gent/id/concept/530009503> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hattfjelldal"@nl.
+<https://stad.gent/id/concept/530003184> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trysi"@nl.
+<https://stad.gent/id/concept/530005402> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baerums Verk"@nl.
+<https://stad.gent/id/concept/530005253> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alesund"@nl.
+<https://stad.gent/id/concept/530007334> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lillehammer"@nl.
+<https://stad.gent/id/concept/530005079> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oslo"@nl.
+<https://stad.gent/id/concept/530007062> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trondheim"@nl.
+<https://stad.gent/id/concept/530000376> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skodje"@nl.
+<https://stad.gent/id/concept/530004136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scandinavië"@nl.
+<https://stad.gent/id/concept/530002310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_2440_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005642"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005642/2021-10-27T23:00:27.485Z>.
+<https://stad.gent/id/concept/530004612/2021-10-27T22:26:06.935Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004612>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:26:06.935Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000001>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2671_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord- en Centraal Amerika"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005448>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530004847>, <https://stad.gent/id/concept/530004498>, <https://stad.gent/id/concept/530006758>, <https://stad.gent/id/concept/530003067>, <https://stad.gent/id/concept/530009339>, <https://stad.gent/id/concept/530006278>, <https://stad.gent/id/concept/530010377>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010377> <http://www.w3.org/2004/02/skos/core#prefLabel> "Curaçao"@nl.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+<https://stad.gent/id/concept/530009339> <http://www.w3.org/2004/02/skos/core#prefLabel> "Guatemala"@nl.
+<https://stad.gent/id/concept/530003067> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haïti"@nl.
+<https://stad.gent/id/concept/530006758> <http://www.w3.org/2004/02/skos/core#prefLabel> "Honduras"@nl.
+<https://stad.gent/id/concept/530004498> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mexico"@nl.
+<https://stad.gent/id/concept/530004847> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canada"@nl.
+<https://stad.gent/id/concept/530005448> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amerika"@nl.
+_:df_2671_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004612"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004612/2021-10-27T22:26:06.935Z>.
+<https://stad.gent/id/concept/530003685/2021-10-27T21:57:16.543Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003685>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:57:16.543Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2866_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Noors"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "taal"@nl, "language"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2866_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003685"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003685/2021-10-27T21:57:16.543Z>.
+<https://stad.gent/id/concept/530001007/2021-10-27T20:39:44.211Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001007>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:39:44.211Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4005363>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3397_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord-Italië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_3397_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001007"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001007/2021-10-27T20:39:44.211Z>.
+<https://stad.gent/id/concept/530000631/2021-10-27T20:25:46.574Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000631>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:25:46.574Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7016886>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3490_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord-Afrika"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002312>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005211>, <https://stad.gent/id/concept/530006453>, <https://stad.gent/id/concept/530001121>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tunesie"@nl.
+<https://stad.gent/id/concept/530006453> <http://www.w3.org/2004/02/skos/core#prefLabel> "Algerije"@nl.
+<https://stad.gent/id/concept/530005211> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marokko"@nl.
+<https://stad.gent/id/concept/530002312> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afrika"@nl.
+_:df_3490_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000631"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000631/2021-10-27T20:25:46.574Z>.
+<https://stad.gent/id/concept/470008948/2021-10-27T18:55:23.678Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008948>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:55:23.678Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011897>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4123_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In het algemeen wordt de term gebruikt voor droge vruchten met stevige, olierijke zaden die door een harde of leerachtige schil worden omhuld die van de vruchtwand of het zaadvlies is gevormd. Meer specifiek duidt de benaming op vruchten waarvan de zaden door een harde, houten vruchtwand worden omhuld die niet openspringt als de zaden rijp zijn. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "noot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470002521>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002521> <http://www.w3.org/2004/02/skos/core#prefLabel> "kokosnoot"@nl.
+_:df_4123_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008948"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008948/2021-10-27T18:55:23.678Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/noo.ttl>.

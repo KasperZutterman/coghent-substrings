@@ -126,3 +126,87 @@ _:df_3325_18 a <http://www.w3.org/ns/adms#Identifier>;
 <https://stad.gent/id/concept/550007821> <http://www.w3.org/2004/02/skos/core#prefLabel> "idiofoon"@nl, "idiofoon"@nl.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007821/2021-10-28T06:05:47.234Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/id.ttl>.
+<https://stad.gent/id/concept/530010402/2021-10-28T02:55:56.328Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010402>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:55:56.328Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_871_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "identificatie d.m.v. natuurwetenschappelijke analyse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_871_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010402"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010402/2021-10-28T02:55:56.328Z>.
+<https://stad.gent/id/concept/530009732/2021-10-28T01:57:49.030Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009732>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:57:49.030Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3147859>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1258_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Idibouo-Zépréguhé"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005432>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005432> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ivoorkust"@nl.
+_:df_1258_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009732"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009732/2021-10-28T01:57:49.030Z>.
+<https://stad.gent/id/concept/530009239/2021-10-28T01:17:43.218Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009239>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:17:43.218Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200896>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1525_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "identificatiedrager"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008574>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008712>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008712> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlag"@nl.
+<https://stad.gent/id/concept/530008574> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedrager"@nl.
+_:df_1525_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009239"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009239/2021-10-28T01:17:43.218Z>.
+<https://stad.gent/id/concept/530006307/2021-10-27T23:31:29.620Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006307>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:31:29.620Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2233_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "identieke vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2233_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006307"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006307/2021-10-27T23:31:29.620Z>.
+<https://stad.gent/id/concept/530004539/2021-10-27T22:22:39.047Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004539>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:22:39.047Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2695_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "identiek object"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2695_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004539"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004539/2021-10-27T22:22:39.047Z>.
+<https://stad.gent/id/concept/470011033/2021-10-27T19:53:11.289Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470011033>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:53:11.289Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026799>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3715_38;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gelegaliseerde kaart waaruit iemands identiteit blijkt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "identiteitskaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3715_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470011033"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470011033/2021-10-27T19:53:11.289Z>.
+<https://stad.gent/id/concept/470008372/2021-10-27T18:39:03.246Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008372>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:39:03.246Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200896>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4240_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "identificatiedrager"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470005753>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005753> <http://www.w3.org/2004/02/skos/core#prefLabel> "naamplaat"@nl.
+_:df_4240_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008372"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008372/2021-10-27T18:39:03.246Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/id.ttl>.

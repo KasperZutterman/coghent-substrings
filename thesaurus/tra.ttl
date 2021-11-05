@@ -267,3 +267,198 @@ _:df_3652_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550005878"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005878/2021-10-28T05:17:12.798Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/tra.ttl>.
+<https://stad.gent/id/concept/530008778/2021-10-28T00:58:07.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:58:07.355Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300219258>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1657_33;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemeen te gebruiken voor toestellen of apparaten waarmee mensen of voorwerpen worden vervoerd of gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "transportmiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008582>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001307>, <https://stad.gent/id/concept/530001942>, <https://stad.gent/id/concept/530000675>, <https://stad.gent/id/concept/530008319>, <https://stad.gent/id/concept/530003284>, <https://stad.gent/id/concept/530009094>, <https://stad.gent/id/concept/530001923>, <https://stad.gent/id/concept/530008906>, <https://stad.gent/id/concept/530001791>, <https://stad.gent/id/concept/530002046>, <https://stad.gent/id/concept/530008798>, <https://stad.gent/id/concept/530005098>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005098> <http://www.w3.org/2004/02/skos/core#prefLabel> "zeilboot"@nl.
+<https://stad.gent/id/concept/530008798> <http://www.w3.org/2004/02/skos/core#prefLabel> "voertuigonderdeel"@nl.
+<https://stad.gent/id/concept/530002046> <http://www.w3.org/2004/02/skos/core#prefLabel> "velg"@nl.
+<https://stad.gent/id/concept/530001791> <http://www.w3.org/2004/02/skos/core#prefLabel> "treinstel"@nl.
+<https://stad.gent/id/concept/530008906> <http://www.w3.org/2004/02/skos/core#prefLabel> "ski"@nl.
+<https://stad.gent/id/concept/530001923> <http://www.w3.org/2004/02/skos/core#prefLabel> "motorfiets"@nl.
+<https://stad.gent/id/concept/530009094> <http://www.w3.org/2004/02/skos/core#prefLabel> "koets"@nl.
+<https://stad.gent/id/concept/530003284> <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderwagen"@nl.
+<https://stad.gent/id/concept/530008319> <http://www.w3.org/2004/02/skos/core#prefLabel> "fiets"@nl.
+<https://stad.gent/id/concept/530000675> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagstoel"@nl.
+<https://stad.gent/id/concept/530001942> <http://www.w3.org/2004/02/skos/core#prefLabel> "auto"@nl.
+<https://stad.gent/id/concept/530001307> <http://www.w3.org/2004/02/skos/core#prefLabel> "arreslede"@nl.
+<https://stad.gent/id/concept/530008582> <http://www.w3.org/2004/02/skos/core#prefLabel> "vervoermiddel (objectnaam)"@nl.
+_:df_1657_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008778/2021-10-28T00:58:07.355Z>.
+<https://stad.gent/id/concept/530008027/2021-10-28T00:17:16.808Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008027>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:17:16.808Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053922>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1927_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Proces van het versieren van keramiek met gegraveerde ontwerpen die eerst zijn afgedrukt op papier of ander materiaal met behulp van een speciale keramische inkt en vaak doormiddel van verhitting. Het proces werd rond 1750 in Engeland uitgevonden. Het papier wordt tegen het oppervlak van de keramiek, email of glas gedrukt en het ontwerp wordt zo overgedragen. De werkwijze wordt ook gebruikt voor email en glas.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "transferdruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003449>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003449> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukken"@nl.
+_:df_1927_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008027"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008027/2021-10-28T00:17:16.808Z>.
+<https://stad.gent/id/concept/530006042/2021-10-27T23:18:22.759Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006042>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:18:22.759Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2320_38;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De vormgeving is niet gerelateerd aan eigentijdse welomschreven stijlen, maar kadert in een doorlopende traditie die zich kan uitstrekken over diverse eeuwen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "traditionele stijl"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2320_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006042"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006042/2021-10-27T23:18:22.759Z>.
+<https://stad.gent/id/concept/530005684/2021-10-27T23:03:02.613Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005684>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:03:02.613Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003849>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2422_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trapani"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_2422_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005684"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005684/2021-10-27T23:03:02.613Z>.
+<https://stad.gent/id/concept/530003196/2021-10-27T21:43:22.316Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003196>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:43:22.316Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003228>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2959_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een opeenvolging van treden of meerdere reeksen treden verbonden door middel van overlopen, bedoeld om van de ene verdieping naar de andere te komen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006189>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530004698>, <https://stad.gent/id/concept/530002016>, <https://stad.gent/id/concept/530010459>, <https://stad.gent/id/concept/530001886>, <https://stad.gent/id/concept/530010670>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010670> <http://www.w3.org/2004/02/skos/core#prefLabel> "beddenbankje"@nl.
+<https://stad.gent/id/concept/530001886> <http://www.w3.org/2004/02/skos/core#prefLabel> "traptrede"@nl.
+<https://stad.gent/id/concept/530010459> <http://www.w3.org/2004/02/skos/core#prefLabel> "trapleuning"@nl.
+<https://stad.gent/id/concept/530002016> <http://www.w3.org/2004/02/skos/core#prefLabel> "trapaanzet"@nl.
+<https://stad.gent/id/concept/530004698> <http://www.w3.org/2004/02/skos/core#prefLabel> "slingertrap"@nl.
+<https://stad.gent/id/concept/530006189> <http://www.w3.org/2004/02/skos/core#prefLabel> "architecturaal element"@nl.
+_:df_2959_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003196"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003196/2021-10-27T21:43:22.316Z>.
+<https://stad.gent/id/concept/530002016/2021-10-27T21:14:48.707Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002016>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:14:48.707Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3157_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trapaanzet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003196>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003196> <http://www.w3.org/2004/02/skos/core#prefLabel> "trap"@nl.
+_:df_3157_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002016"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002016/2021-10-27T21:14:48.707Z>.
+<https://stad.gent/id/concept/530001886/2021-10-27T21:09:16.013Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001886>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:09:16.013Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003312>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3193_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Traponderdelen die bestaan uit één aantrede en één stootbord, of een ander gelijksoortig element dat een horizontaal oppervlak vormt waarop de voet van een stijgend of dalend persoon kan steunen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "traptrede"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003196>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003196> <http://www.w3.org/2004/02/skos/core#prefLabel> "trap"@nl.
+_:df_3193_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001886"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001886/2021-10-27T21:09:16.013Z>.
+<https://stad.gent/id/concept/470009778/2021-10-27T19:19:28.549Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:19:28.549Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300219258>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3952_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "transportmiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470002239>, <https://stad.gent/id/concept/470001925>, <https://stad.gent/id/concept/470002163>, <https://stad.gent/id/concept/470002273>, <https://stad.gent/id/concept/470002440>, <https://stad.gent/id/concept/470001948>, <https://stad.gent/id/concept/470001880>, <https://stad.gent/id/concept/470000708>, <https://stad.gent/id/concept/470001450>, <https://stad.gent/id/concept/470002104>, <https://stad.gent/id/concept/470010913>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470010913> <http://www.w3.org/2004/02/skos/core#prefLabel> "bus (voertuig)"@nl.
+<https://stad.gent/id/concept/470002104> <http://www.w3.org/2004/02/skos/core#prefLabel> "ziekenwagen"@nl.
+<https://stad.gent/id/concept/470001450> <http://www.w3.org/2004/02/skos/core#prefLabel> "zeppelin"@nl.
+<https://stad.gent/id/concept/470000708> <http://www.w3.org/2004/02/skos/core#prefLabel> "vliegtuig"@nl.
+<https://stad.gent/id/concept/470001880> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaartuig"@nl.
+<https://stad.gent/id/concept/470001948> <http://www.w3.org/2004/02/skos/core#prefLabel> "trein"@nl.
+<https://stad.gent/id/concept/470002440> <http://www.w3.org/2004/02/skos/core#prefLabel> "slee"@nl.
+<https://stad.gent/id/concept/470002273> <http://www.w3.org/2004/02/skos/core#prefLabel> "luchtballon"@nl.
+<https://stad.gent/id/concept/470002163> <http://www.w3.org/2004/02/skos/core#prefLabel> "koets"@nl.
+<https://stad.gent/id/concept/470001925> <http://www.w3.org/2004/02/skos/core#prefLabel> "kar"@nl.
+<https://stad.gent/id/concept/470002239> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagstoel"@nl.
+_:df_3952_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009778/2021-10-27T19:19:28.549Z>.
+<https://stad.gent/id/concept/470009746/2021-10-27T19:18:27.965Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009746>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:18:27.965Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024302>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3961_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vierwielige, krachtige voertuigen voortbewogen door een tractiemotor die wordt gebruikt voor het trekken, slepen, dragen of voortstuwen van wagens, artillerie of uitrusting, maar meestal gebruikt voor landbouw. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tractor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3961_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009746"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009746/2021-10-27T19:18:27.965Z>.
+<https://stad.gent/id/concept/470009124/2021-10-27T18:58:55.808Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009124>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:58:55.808Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3997657>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4099_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trapezist"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470002417>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002417> <http://www.w3.org/2004/02/skos/core#prefLabel> "verticale koord"@nl.
+_:df_4099_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009124"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009124/2021-10-27T18:58:55.808Z>.
+<https://stad.gent/id/concept/470008970/2021-10-27T18:55:48.684Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:55:48.684Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211842>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4120_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voertuigachtig speelgoed met trappedalen die lijken op die van een fiets; verscheen in een eenvoudige vorm aan het einde van de 19e eeuw en had aan het begin van de 20e eeuw soms al uitgebreidere auto-achtige accessoires en echt werkende onderdelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trapauto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4120_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008970/2021-10-27T18:55:48.684Z>.
+<https://stad.gent/id/concept/470008330/2021-10-27T18:38:23.238Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008330>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:38:23.238Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211257>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4243_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Toestellen die bestaan uit een korte horizontale staaf die aan de uiteinden vast zit aan twee touwen die ergens aan zijn opgehangen, en die worden gebruikt voor gymnastische en acrobatische oefeningen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trapeze"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4243_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008330"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008330/2021-10-27T18:38:23.238Z>.
+<https://stad.gent/id/concept/470008009/2021-10-27T18:27:41.491Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:27:41.491Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300312280>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4318_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Karren of wagens die met een lage snelheid rijden en bedoeld zijn om passagiers te vervoeren over relatief korte afstanden (en incidenteel om lichte ladingen goederen te transporteren). Trams rijden op rails en halen de stroom voor hun elektromotoren uit bovenleidingen. Oorspronkelijk waren de rails platte houten planken, later gebruikte men steen. Tegenwoordig zijn de rails van ijzer. Het tramspoor kan gelijkvloers of verhoogd liggen. Trams kunnen met de hand of automatisch worden bestuurd.  ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tram"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4318_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008009/2021-10-27T18:27:41.491Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/tra.ttl>.

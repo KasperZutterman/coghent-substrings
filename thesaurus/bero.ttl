@@ -21,3 +21,16 @@ _:df_4102_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000077"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000077/2021-10-28T15:06:26.982Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bero.ttl>.
+<https://stad.gent/id/concept/470008160/2021-10-27T18:32:31.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008160>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:32:31.245Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263369>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4285_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor de activiteiten die mensen verrichten om in hun levensonderhoud te voorzien of die hun voornaamste bezigheid of werk vormen, al dan niet betaald. Gebruik ‘werkgelegenheid’ voor de mate waarin betaald werk beschikbaar is voor de bevolking.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beroep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4285_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008160"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008160/2021-10-27T18:32:31.245Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bero.ttl>.

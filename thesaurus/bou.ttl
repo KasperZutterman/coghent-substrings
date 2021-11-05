@@ -664,3 +664,197 @@ _:df_3667_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550005822"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005822/2021-10-28T05:15:05.989Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bou.ttl>.
+<https://stad.gent/id/concept/530009403/2021-10-28T01:31:24.399Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009403>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:31:24.399Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026348>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1432_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Boussu"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008347>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530004820>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004820> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hornu"@nl.
+<https://stad.gent/id/concept/530008347> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl, "Henegouwen"@nl.
+_:df_1432_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009403"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009403/2021-10-28T01:31:24.399Z>.
+<https://stad.gent/id/concept/530009247/2021-10-28T01:18:17.387Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009247>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:18:17.387Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004790>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1519_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005303>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005303> <http://www.w3.org/2004/02/skos/core#prefLabel> "prieel"@nl.
+_:df_1519_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009247"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009247/2021-10-28T01:18:17.387Z>.
+<https://stad.gent/id/concept/530008620/2021-10-28T00:45:55.010Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008620>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:45:55.010Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300078046>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1738_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwelement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006189>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001822>, <https://stad.gent/id/concept/530000705>, <https://stad.gent/id/concept/530003100>, <https://stad.gent/id/concept/530003161>, <https://stad.gent/id/concept/530001808>, <https://stad.gent/id/concept/530003133>, <https://stad.gent/id/concept/530008559>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008559> <http://www.w3.org/2004/02/skos/core#prefLabel> "steen (objectnaam)"@nl.
+<https://stad.gent/id/concept/530003133> <http://www.w3.org/2004/02/skos/core#prefLabel> "golfplaat"@nl.
+<https://stad.gent/id/concept/530001808> <http://www.w3.org/2004/02/skos/core#prefLabel> "fronton"@nl.
+<https://stad.gent/id/concept/530003161> <http://www.w3.org/2004/02/skos/core#prefLabel> "dakrandprofiel"@nl.
+<https://stad.gent/id/concept/530003100> <http://www.w3.org/2004/02/skos/core#prefLabel> "dakgoot"@nl.
+<https://stad.gent/id/concept/530000705> <http://www.w3.org/2004/02/skos/core#prefLabel> "balkzool"@nl.
+<https://stad.gent/id/concept/530001822> <http://www.w3.org/2004/02/skos/core#prefLabel> "balk (bouwelement)"@nl.
+<https://stad.gent/id/concept/530006189> <http://www.w3.org/2004/02/skos/core#prefLabel> "architecturaal element"@nl, "architecturaal element"@nl.
+_:df_1738_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008620"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008620/2021-10-28T00:45:55.010Z>.
+<https://stad.gent/id/concept/530007070/2021-10-28T00:00:08.995Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007070>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:00:08.995Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7017415>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2041_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bourges"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_2041_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007070"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007070/2021-10-28T00:00:08.995Z>.
+<https://stad.gent/id/concept/530006701/2021-10-27T23:49:10.431Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006701>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:49:10.431Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7016632>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2116_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Boulogne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_2116_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006701"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006701/2021-10-27T23:49:10.431Z>.
+<https://stad.gent/id/concept/530006511/2021-10-27T23:42:25.947Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006511>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:42:25.947Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7246857>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2161_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bouffioulx"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009401>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009401> <http://www.w3.org/2004/02/skos/core#prefLabel> "Châtelet"@nl.
+_:df_2161_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006511"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006511/2021-10-27T23:42:25.947Z>.
+<https://stad.gent/id/concept/530005973/2021-10-27T23:15:02.382Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005973>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:15:02.382Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008991>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2341_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bourg-la-Reine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_2341_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005973"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005973/2021-10-27T23:15:02.382Z>.
+<https://stad.gent/id/concept/530005764/2021-10-27T23:07:02.265Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:07:02.265Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008963>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2395_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Boulogne-sur-Seine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_2395_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005764/2021-10-27T23:07:02.265Z>.
+<https://stad.gent/id/concept/530000366/2021-10-27T20:11:23.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000366>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:11:23.405Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207615>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3589_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een algemeen type standaardlepel waarmee wordt gegeten, evenals naar alle lepels die deel uitmaken van een couvert, of eigenlijk naar alle lepels die bedoeld zijn om mee te eten, en dus niet om eten mee op te dienen. Tafellepels zijn iets groter dan theelepels.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouillonlepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006317>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006317> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafellepel"@nl.
+_:df_3589_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000366"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000366/2021-10-27T20:11:23.405Z>.
+<https://stad.gent/id/concept/470010196/2021-10-27T19:36:31.193Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010196>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:36:31.193Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008963>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3832_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Boulogne-Billancourt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3832_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010196"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010196/2021-10-27T19:36:31.193Z>.
+<https://stad.gent/id/concept/470010169/2021-10-27T19:35:30.725Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010169>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:35:30.725Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011274>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3838_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bournemouth"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3838_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010169"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010169/2021-10-27T19:35:30.725Z>.
+<https://stad.gent/id/concept/470009923/2021-10-27T19:24:59.679Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009923>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:24:59.679Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008991>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3913_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bourg-la-Reine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3913_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009923"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009923/2021-10-27T19:24:59.679Z>.
+<https://stad.gent/id/concept/470009507/2021-10-27T19:10:55.240Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009507>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:10:55.240Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026348>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4012_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Boussu"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4012_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009507"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009507/2021-10-27T19:10:55.240Z>.
+<https://stad.gent/id/concept/470009232/2021-10-27T19:01:32.076Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009232>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:01:32.076Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004790>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4081_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4081_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009232"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009232/2021-10-27T19:01:32.076Z>.
+<https://stad.gent/id/concept/470008886/2021-10-27T18:54:07.795Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008886>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:54:07.795Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300389791>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4132_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4132_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008886"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008886/2021-10-27T18:54:07.795Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bou.ttl>.

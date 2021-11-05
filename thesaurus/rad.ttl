@@ -48,3 +48,59 @@ _:df_2677_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570001584"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001584/2021-10-28T07:42:13.695Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/rad.ttl>.
+<https://stad.gent/id/concept/530002068/2021-10-27T21:17:03.955Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002068>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:17:03.955Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052261>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3139_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt ter aanduiding van de verzameling pijpen die circulerend water of stoom bevatten voor het verwarmen van een kamer.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "radiator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006338>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006338> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestel"@nl.
+_:df_3139_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002068"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002068/2021-10-27T21:17:03.955Z>.
+<https://stad.gent/id/concept/530000429/2021-10-27T20:14:26.790Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000429>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:14:26.790Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300008610>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3568_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Elecommunicatiesysteem waarbij geluid en codesignalen zonder bedrading worden uitgezonden door de ruimte, door middel van elektromagnetische golven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "radio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008777>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010580>, <https://stad.gent/id/concept/530004490>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004490> <http://www.w3.org/2004/02/skos/core#prefLabel> "wekkerradio"@nl.
+<https://stad.gent/id/concept/530010580> <http://www.w3.org/2004/02/skos/core#prefLabel> "radiogrammofoon"@nl.
+<https://stad.gent/id/concept/530008777> <http://www.w3.org/2004/02/skos/core#prefLabel> "telecommunicatiesysteem"@nl.
+_:df_3568_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000429"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000429/2021-10-27T20:14:26.790Z>.
+<https://stad.gent/id/concept/470010553/2021-10-27T19:44:24.881Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010553>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:44:24.881Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300250532>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3775_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kasten voor radio-ontvangers, vaak ook met ruimte voor aanverwante geluidsapparatuur zoals platenspelers.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "radiokast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3775_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010553"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010553/2021-10-27T19:44:24.881Z>.
+<https://stad.gent/id/concept/470007544/2021-10-27T18:18:20.505Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:18:20.505Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300249989>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4384_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Telecommunicatiesysteem waarbij geluid en codesignalen zonder bedrading worden uitgezonden door de ruimte, door middel van elektromagnetische golven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "radio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4384_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007544/2021-10-27T18:18:20.505Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/rad.ttl>.

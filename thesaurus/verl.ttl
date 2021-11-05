@@ -151,3 +151,69 @@ _:df_3259_24 a <http://www.w3.org/ns/adms#Identifier>;
 <https://stad.gent/id/concept/550007931> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddel"@nl.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007931/2021-10-28T06:15:44.824Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/verl.ttl>.
+<https://stad.gent/id/concept/530006267/2021-10-27T23:29:31.914Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:29:31.914Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300051944>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2245_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichting (ok)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2245_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006267/2021-10-27T23:29:31.914Z>.
+<https://stad.gent/id/concept/530004401/2021-10-27T22:16:35.377Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004401>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:16:35.377Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180081>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2734_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verlichtingsmiddelen die op een vaste plaats zijn bevestigd, zoals aan een wand of plafond.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsarmatuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009469>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000008>, <https://stad.gent/id/concept/530003075>, <https://stad.gent/id/concept/530005737>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005737> <http://www.w3.org/2004/02/skos/core#prefLabel> "wandarmatuur"@nl.
+<https://stad.gent/id/concept/530003075> <http://www.w3.org/2004/02/skos/core#prefLabel> "plafondarmatuur"@nl.
+<https://stad.gent/id/concept/530000008> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoekarmatuur"@nl.
+<https://stad.gent/id/concept/530009469> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddel"@nl.
+_:df_2734_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004401"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004401/2021-10-27T22:16:35.377Z>.
+<https://stad.gent/id/concept/470008353/2021-10-27T18:38:48.243Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008353>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:38:48.243Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395618>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4240_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tangen gebruikt voor de verlossing van het kind tijdens de bevalling. Variabel in vorm en grootte. Kenmerkend zijn het roestvrij staal, de brede kaken en de korte armen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verlostang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4240_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008353"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008353/2021-10-27T18:38:48.243Z>.
+<https://stad.gent/id/concept/470008237/2021-10-27T18:35:34.561Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:35:34.561Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037581>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4264_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vaste of verplaatsbare apparatuur met als voornaamste doel het produceren van kunstmatig licht.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4264_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008237"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008237/2021-10-27T18:35:34.561Z>.
+<https://stad.gent/id/concept/470007547/2021-10-27T18:18:25.506Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007547>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:18:25.506Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300393188>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4384_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De verloving is het wederzijds geven van een trouwbelofte en de periode tussen het ten huwelijkvragen en de tot stand koming van het huwelijk.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verloving"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4384_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007547"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007547/2021-10-27T18:18:25.506Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/verl.ttl>.

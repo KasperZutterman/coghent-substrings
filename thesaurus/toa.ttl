@@ -13,3 +13,18 @@ _:df_2458_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530000475"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000475/2021-10-31T09:33:53.576Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/toa.ttl>.
+<https://stad.gent/id/concept/530000475/2021-10-27T20:16:58.155Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000475>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:16:58.155Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204557>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3550_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Rekjes met verticale schotjes waartussen verscheidene (meestal vier tot acht) geroosterde boterhammen worden geplaatst en zo worden opgediend.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toastrek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008612>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008612> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire houder"@nl.
+_:df_3550_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000475"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000475/2021-10-27T20:16:58.155Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/toa.ttl>.

@@ -36,3 +36,16 @@ _:df_1972_30 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530002875"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002875/2021-10-31T10:42:26.803Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/geh.ttl>.
+<https://stad.gent/id/concept/530002875/2021-10-27T21:28:13.807Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002875>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:28:13.807Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3064_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gehaltemerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010482>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010482> <http://www.w3.org/2004/02/skos/core#prefLabel> "merkteken (symbool)"@nl.
+_:df_3064_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002875"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002875/2021-10-27T21:28:13.807Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/geh.ttl>.

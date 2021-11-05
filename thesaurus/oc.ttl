@@ -131,3 +131,33 @@ _:df_2821_20 a <http://www.w3.org/ns/adms#Identifier>;
 <https://stad.gent/id/concept/550008937> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oceanië"@nl.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008937/2021-10-28T07:20:54.371Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/oc.ttl>.
+<https://stad.gent/id/concept/530009351/2021-10-28T01:27:01.421Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009351>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:27:01.421Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000006>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1462_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oceanië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009390>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530004758>, <https://stad.gent/id/concept/530006325>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006325> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuw-Zeeland"@nl.
+<https://stad.gent/id/concept/530004758> <http://www.w3.org/2004/02/skos/core#prefLabel> "Australië"@nl.
+<https://stad.gent/id/concept/530009390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereld"@nl.
+_:df_1462_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009351"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009351/2021-10-28T01:27:01.421Z>.
+<https://stad.gent/id/concept/530008248/2021-10-28T00:22:57.948Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008248>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:22:57.948Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2020611>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1888_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ocala"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_1888_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008248"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008248/2021-10-28T00:22:57.948Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/oc.ttl>.

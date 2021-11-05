@@ -63,3 +63,56 @@ _:df_3316_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550007834"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007834/2021-10-28T06:06:57.797Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/stoe.ttl>.
+<https://stad.gent/id/concept/530001290/2021-10-27T20:48:37.172Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001290>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:48:37.172Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3334_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelpoot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001284>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001284> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelfragment"@nl.
+_:df_3334_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001290"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001290/2021-10-27T20:48:37.172Z>.
+<https://stad.gent/id/concept/530001284/2021-10-27T20:48:22.170Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001284>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:48:22.170Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3337_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelfragment"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008616>, <https://stad.gent/id/concept/530008405>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001290>, <https://stad.gent/id/concept/530001271>, <https://stad.gent/id/concept/530009218>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009218> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelzitting"@nl.
+<https://stad.gent/id/concept/530001271> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelsport"@nl.
+<https://stad.gent/id/concept/530001290> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelpoot"@nl.
+<https://stad.gent/id/concept/530008405> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoel"@nl.
+<https://stad.gent/id/concept/530008616> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubelonderdeel"@nl.
+_:df_3337_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001284"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001284/2021-10-27T20:48:22.170Z>.
+<https://stad.gent/id/concept/530001271/2021-10-27T20:47:54.632Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001271>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:47:54.632Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3340_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelsport"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001284>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001284> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoelfragment"@nl.
+_:df_3340_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001271"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001271/2021-10-27T20:47:54.632Z>.
+<https://stad.gent/id/concept/470009430/2021-10-27T19:08:01.778Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009430>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:08:01.778Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7256112>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4033_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stoepe"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4033_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009430"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009430/2021-10-27T19:08:01.778Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/stoe.ttl>.

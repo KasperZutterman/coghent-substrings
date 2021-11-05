@@ -430,3 +430,194 @@ _:df_3685_2 a <http://www.w3.org/ns/adms#Identifier>;
 <https://stad.gent/id/concept/550005721> <http://www.w3.org/2004/02/skos/core#prefLabel> "briefkaart"@nl.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005721/2021-10-28T05:12:16.629Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bri.ttl>.
+<https://stad.gent/id/concept/530009660/2021-10-28T01:51:56.160Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009660>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:51:56.160Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1297_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brits"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en, "taal"@nl, "language"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1297_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009660"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009660/2021-10-28T01:51:56.160Z>.
+<https://stad.gent/id/concept/530008725/2021-10-28T00:54:20.129Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008725>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:54:20.129Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900023381>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1681_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brievenstandaard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008738>, <https://stad.gent/id/concept/530006387>, <https://stad.gent/id/concept/530008714>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000471>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000471> <http://www.w3.org/2004/02/skos/core#prefLabel> "brievenrek"@nl.
+<https://stad.gent/id/concept/530008714> <http://www.w3.org/2004/02/skos/core#prefLabel> "standaard (ondersteunend meubilair)"@nl.
+<https://stad.gent/id/concept/530006387> <http://www.w3.org/2004/02/skos/core#prefLabel> "documenthouder"@nl.
+<https://stad.gent/id/concept/530008738> <http://www.w3.org/2004/02/skos/core#prefLabel> "bureauset (objectnaam)"@nl.
+_:df_1681_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008725"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008725/2021-10-28T00:54:20.129Z>.
+<https://stad.gent/id/concept/530006547/2021-10-27T23:44:05.834Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006547>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:44:05.834Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300259185>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2149_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten met een smal blad als van een mes en vaak met een versierd handvat, gebruikt om papier te snijden en enveloppen te openen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "briefopener"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008738>, <https://stad.gent/id/concept/530008723>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008723> <http://www.w3.org/2004/02/skos/core#prefLabel> "mes (snijgereedschap)"@nl.
+<https://stad.gent/id/concept/530008738> <http://www.w3.org/2004/02/skos/core#prefLabel> "bureauset (objectnaam)"@nl.
+_:df_2149_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006547"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006547/2021-10-27T23:44:05.834Z>.
+<https://stad.gent/id/concept/530006246/2021-10-27T23:28:39.313Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006246>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:28:39.313Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011483>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2251_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brighton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009323>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009323> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl, "Engeland"@nl.
+_:df_2251_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006246"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006246/2021-10-27T23:28:39.313Z>.
+<https://stad.gent/id/concept/530002786/2021-10-27T21:24:18.938Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002786>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:24:18.938Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003853>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3091_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor zowel openbare als privé-bussen voor het ophalen en afleveren van post. Gebruik 'postbussen' voor gehuurde compartimenten in officieel daarvoor bestemde postkantoren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brievenbus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008724>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008724> <http://www.w3.org/2004/02/skos/core#prefLabel> "straatmeubilair"@nl.
+_:df_3091_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002786"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002786/2021-10-27T21:24:18.938Z>.
+<https://stad.gent/id/concept/530001963/2021-10-27T21:12:25.674Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001963>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:12:25.674Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4001882>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3172_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Briosco"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl, "Italië"@nl.
+_:df_3172_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001963"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001963/2021-10-27T21:12:25.674Z>.
+<https://stad.gent/id/concept/530001836/2021-10-27T21:07:24.021Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001836>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:07:24.021Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7662219>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3205_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Briord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_3205_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001836"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001836/2021-10-27T21:07:24.021Z>.
+<https://stad.gent/id/concept/530001139/2021-10-27T20:43:30.197Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001139>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:43:30.197Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211548>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3370_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Waaiers zonder blad, samengesteld uit platte, overlappende stokjes die breed uitlopen naar de buitenrand, waar ze aan elkaar zijn vastgemaakt met een lint of koord.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brise-waaier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003933>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003933> <http://www.w3.org/2004/02/skos/core#prefLabel> "waaier (kledingaccessoire)"@nl.
+_:df_3370_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001139"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001139/2021-10-27T20:43:30.197Z>.
+<https://stad.gent/id/concept/530000637/2021-10-27T20:26:08.120Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:26:08.120Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236409>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3487_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Brillen die op hun plaats worden gehouden door zijstukken die over de oren worden geplaatst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bril"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008830>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000520>, <https://stad.gent/id/concept/530010453>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010453> <http://www.w3.org/2004/02/skos/core#prefLabel> "zonnebril"@nl.
+<https://stad.gent/id/concept/530000520> <http://www.w3.org/2004/02/skos/core#prefLabel> "face-a-main"@nl.
+<https://stad.gent/id/concept/530008830> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting voor persoonlijk gebruik"@nl.
+_:df_3487_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000637/2021-10-27T20:26:08.120Z>.
+<https://stad.gent/id/concept/530000471/2021-10-27T20:16:43.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:16:43.151Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379901>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3553_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Racks in which letters and papers are kept, typically located on a desk or mounted on a wall.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brievenrek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008725>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008725> <http://www.w3.org/2004/02/skos/core#prefLabel> "brievenstandaard"@nl.
+_:df_3553_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000471/2021-10-27T20:16:43.151Z>.
+<https://stad.gent/id/concept/470010566/2021-10-27T19:44:59.890Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010566>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:44:59.890Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011198>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3772_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bristol"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3772_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010566"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010566/2021-10-27T19:44:59.890Z>.
+<https://stad.gent/id/concept/470010328/2021-10-27T19:38:18.067Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010328>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:38:18.067Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1003442>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3820_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brindisi"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3820_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010328"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010328/2021-10-27T19:38:18.067Z>.
+<https://stad.gent/id/concept/470009685/2021-10-27T19:17:06.784Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009685>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:17:06.784Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236409>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3970_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Brillen die op hun plaats worden gehouden door zijstukken die over de oren worden geplaatst. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bril"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470005428>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005428> <http://www.w3.org/2004/02/skos/core#prefLabel> "skibril"@nl.
+_:df_3970_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009685"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009685/2021-10-27T19:17:06.784Z>.
+<https://stad.gent/id/concept/470008495/2021-10-27T18:43:22.942Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008495>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:43:22.942Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026879>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4207_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor, meestal op papier opgetekende en verzonden correspondentie die een ietwat officiëler karakter draagt dan memo's of aantekeningen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "brief"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470004755>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004755> <http://www.w3.org/2004/02/skos/core#prefLabel> "nieuwjaarsbrief"@nl.
+_:df_4207_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008495"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008495/2021-10-27T18:43:22.942Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bri.ttl>.

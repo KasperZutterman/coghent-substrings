@@ -13,3 +13,45 @@ _:df_3394_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470007030"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007030/2021-10-31T07:22:02.139Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/zit.ttl>.
+<https://stad.gent/id/concept/530000956/2021-10-27T20:37:23.361Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000956>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:37:23.361Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038494>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3412_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zitplaatsen voor twee of meer personen, meestal zonder rugleuning.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zitbank (meubilair)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000068>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001014>, <https://stad.gent/id/concept/530001016>, <https://stad.gent/id/concept/530001371>, <https://stad.gent/id/concept/530002960>, <https://stad.gent/id/concept/530005965>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005965> <http://www.w3.org/2004/02/skos/core#prefLabel> "tweezitsbank"@nl.
+<https://stad.gent/id/concept/530002960> <http://www.w3.org/2004/02/skos/core#prefLabel> "tuinbank"@nl.
+<https://stad.gent/id/concept/530001371> <http://www.w3.org/2004/02/skos/core#prefLabel> "pianobank"@nl.
+<https://stad.gent/id/concept/530001016> <http://www.w3.org/2004/02/skos/core#prefLabel> "knielbank"@nl.
+<https://stad.gent/id/concept/530001014> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedbank"@nl.
+<https://stad.gent/id/concept/530000068> <http://www.w3.org/2004/02/skos/core#prefLabel> "zitmeubel"@nl.
+_:df_3412_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000956"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000956/2021-10-27T20:37:23.361Z>.
+<https://stad.gent/id/concept/530000068/2021-10-27T19:56:44.534Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000068>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:56:44.534Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037769>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3691_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zitmeubel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006321>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006186>, <https://stad.gent/id/concept/530004681>, <https://stad.gent/id/concept/530006561>, <https://stad.gent/id/concept/530008405>, <https://stad.gent/id/concept/530004714>, <https://stad.gent/id/concept/530000956>, <https://stad.gent/id/concept/530002831>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002831> <http://www.w3.org/2004/02/skos/core#prefLabel> "zitzak"@nl.
+<https://stad.gent/id/concept/530000956> <http://www.w3.org/2004/02/skos/core#prefLabel> "zitbank (meubilair)"@nl.
+<https://stad.gent/id/concept/530004714> <http://www.w3.org/2004/02/skos/core#prefLabel> "zetel"@nl.
+<https://stad.gent/id/concept/530008405> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoel"@nl.
+<https://stad.gent/id/concept/530006561> <http://www.w3.org/2004/02/skos/core#prefLabel> "sofa"@nl.
+<https://stad.gent/id/concept/530004681> <http://www.w3.org/2004/02/skos/core#prefLabel> "poef"@nl.
+<https://stad.gent/id/concept/530006186> <http://www.w3.org/2004/02/skos/core#prefLabel> "kruk"@nl.
+<https://stad.gent/id/concept/530006321> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair (objectnaam)"@nl.
+_:df_3691_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000068"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000068/2021-10-27T19:56:44.534Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/zit.ttl>.

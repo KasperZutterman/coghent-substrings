@@ -506,3 +506,164 @@ _:df_3607_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550006087"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006087/2021-10-28T05:23:54.788Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/fa.ttl>.
+<https://stad.gent/id/concept/530010484/2021-10-28T03:02:14.458Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:02:14.458Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_826_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "faïence stannifère"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006465>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006465> <http://www.w3.org/2004/02/skos/core#prefLabel> "faïence"@nl.
+_:df_826_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010484/2021-10-28T03:02:14.458Z>.
+<https://stad.gent/id/concept/530009874/2021-10-28T02:10:17.586Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009874>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:10:17.586Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1027797>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1174_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Farum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005982>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Denemarken"@nl.
+_:df_1174_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009874"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009874/2021-10-28T02:10:17.586Z>.
+<https://stad.gent/id/concept/530009707/2021-10-28T01:55:56.938Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:55:56.938Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1270_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009734>, <https://stad.gent/id/concept/530010581>, <https://stad.gent/id/concept/530009659>, <https://stad.gent/id/concept/530010646>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010646> <http://www.w3.org/2004/02/skos/core#prefLabel> "echtgenote"@nl.
+<https://stad.gent/id/concept/530009659> <http://www.w3.org/2004/02/skos/core#prefLabel> "echtgenoot"@nl.
+<https://stad.gent/id/concept/530010581> <http://www.w3.org/2004/02/skos/core#prefLabel> "dochter"@nl.
+<https://stad.gent/id/concept/530009734> <http://www.w3.org/2004/02/skos/core#prefLabel> "broer"@nl.
+_:df_1270_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009707"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009707/2021-10-28T01:55:56.938Z>.
+<https://stad.gent/id/concept/530009451/2021-10-28T01:35:48.877Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009451>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:35:48.877Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011742>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1405_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Farnham (Surrey)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009323>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009323> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl.
+_:df_1405_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009451"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009451/2021-10-28T01:35:48.877Z>.
+<https://stad.gent/id/concept/530006671/2021-10-27T23:48:30.418Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006671>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:48:30.418Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1029218>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2119_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Farnborough (Hampshire)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009323>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009323> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl, "Engeland"@nl, "Engeland"@nl.
+_:df_2119_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006671"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006671/2021-10-27T23:48:30.418Z>.
+<https://stad.gent/id/concept/530006465/2021-10-27T23:39:51.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006465>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:39:51.536Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010668>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2176_218;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een Europees type aardewerk met tinglazuur dat met name werd vervaardigd in Frankrijk, Spanje, Duitsland en Scandinavië. De eerste faience werd begin 16de eeuw in Frankrijk geproduceerd, onder invloed van de techniek en ontwerpen van het Italiaanse majolica. De naam is afgeleid van de Italiaanse stad Faenza, die beroemd was om zijn majolica. De term dient te worden onderscheiden van 'majolica', het aardewerk met tinglazuur dat in Italië werd vervaardigd, en het 'Delfts aardewerk' uit Nederland en Engeland. Er is geen verband met de oude objecten of materialen die rond 4500 v. Chr. in het Nabije Oosten werden ontwikkeld en eveneens de naam 'faience' droegen.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "faïence"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000154>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000154> <http://www.w3.org/2004/02/skos/core#prefLabel> "aardewerk"@nl.
+_:df_2176_218 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006465"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006465/2021-10-27T23:39:51.536Z>.
+<https://stad.gent/id/concept/530005366/2021-10-27T22:49:26.247Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005366>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:49:26.247Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300435692>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2512_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "faxtoestel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008777>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008777> <http://www.w3.org/2004/02/skos/core#prefLabel> "telecommunicatiesysteem"@nl.
+_:df_2512_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005366"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005366/2021-10-27T22:49:26.247Z>.
+<https://stad.gent/id/concept/530004509/2021-10-27T22:20:57.678Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004509>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:20:57.678Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028765>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2707_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabrieksmerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010482>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010482> <http://www.w3.org/2004/02/skos/core#prefLabel> "merkteken (symbool)"@nl, "merkteken (symbool)"@nl.
+_:df_2707_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004509"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004509/2021-10-27T22:20:57.678Z>.
+<https://stad.gent/id/concept/530004131/2021-10-27T22:05:12.757Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004131>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:05:12.757Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004995>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2812_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Faenza"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_2812_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004131"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004131/2021-10-27T22:05:12.757Z>.
+<https://stad.gent/id/concept/530000857/2021-10-27T20:33:31.319Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000857>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:33:31.319Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233472>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3439_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar aardewerk dat is voorzien van een transparante loodglazuurlaag, ter imitatie van Engels aardewerk. De benaming is eigenlijk onjuist: het aardewerk is geen faience, aangezien het niet is voorzien van tinglazuur.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "faïence fine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008422>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008422> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engels aardewerk"@nl.
+_:df_3439_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000857"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000857/2021-10-27T20:33:31.319Z>.
+<https://stad.gent/id/concept/530000520/2021-10-27T20:19:41.152Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000520>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:19:41.152Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300221440>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3532_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Type bril dat vaak decoratief is en geen werkelijke functie heeft; wordt met de hand bij het oog gehouden en is vaak op een lang, ornamentaal steeltje bevestigd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "face-a-main"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000637>, <https://stad.gent/id/concept/530001547>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001547> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledingaccessoire"@nl.
+<https://stad.gent/id/concept/530000637> <http://www.w3.org/2004/02/skos/core#prefLabel> "bril"@nl.
+_:df_3532_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000520"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000520/2021-10-27T20:19:41.152Z>.
+<https://stad.gent/id/concept/470007636/2021-10-27T18:20:23.620Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:20:23.620Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054520>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4372_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het bestuderen en de praktijk van het maken, bewaren, mengen en klaarmaken van geneesmiddelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "farmacie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4372_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007636/2021-10-27T18:20:23.620Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/fa.ttl>.

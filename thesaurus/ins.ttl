@@ -86,3 +86,54 @@ _:df_2299_23 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009153"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009153/2021-10-28T08:38:10.500Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ins.ttl>.
+<https://stad.gent/id/concept/530008174/2021-10-28T00:19:56.994Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008174>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:19:56.994Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1909_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "insectenbestrijding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530007947>, <https://stad.gent/id/concept/530005822>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005822> <http://www.w3.org/2004/02/skos/core#prefLabel> "motbestrijding"@nl.
+<https://stad.gent/id/concept/530007947> <http://www.w3.org/2004/02/skos/core#prefLabel> "anoxie"@nl.
+_:df_1909_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008174"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008174/2021-10-28T00:19:56.994Z>.
+<https://stad.gent/id/concept/530003508/2021-10-27T21:54:03.987Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003508>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:54:03.987Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300047896>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2887_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor werken, gemaakt vanaf de jaren 60 van de 20ste eeuw, waarbij de tentoonstellingsruimte deel uitmaakt van het ontwerp en die actieve betrokkenheid vragen van de kijkers. Installaties worden vaak gemaakt door kunstenaars die zich verzetten tegen het idee dat kunstwerken blijvend moeten zijn of dat kunst handelswaar is.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "installatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005468>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005468> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal"@nl.
+_:df_2887_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003508"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003508/2021-10-27T21:54:03.987Z>.
+<https://stad.gent/id/concept/530002736/2021-10-27T21:21:40.253Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002736>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:21:40.253Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028702>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3109_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor gegraveerde of gebeitelde opschriften, met name met documentatie of herdenking als doel. Bij afdrukken wordt de term gebruikt voor de inhoud van de inscriptie, die meestal geen deel uitmaakt van een langere tekst. Wanneer de term wordt gebruikt in verband met materiaal uit de oudheid, dan kan deze van toepassing zijn op de meeste bewaard gebleven geschreven stukken, ongeacht de lengte, met uitzondering van papyrusrollen. Gebruik 'merktekens' voor gestandaardiseerde symbolen of opschriften die officiële informatie bevatten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inscriptie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3109_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002736"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002736/2021-10-27T21:21:40.253Z>.
+<https://stad.gent/id/concept/470007478/2021-10-27T18:16:53.077Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007478>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:16:53.077Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211556>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4396_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "insigne (broche)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4396_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007478"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007478/2021-10-27T18:16:53.077Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ins.ttl>.

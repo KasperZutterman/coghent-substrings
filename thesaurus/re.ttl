@@ -1400,3 +1400,300 @@ _:df_1_647 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rev.ttl>;
     <https://w3id.org/tree#value> "rev".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/re.ttl>.
+<https://stad.gent/id/concept/550001020/2021-10-28T03:32:25.582Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001020>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:32:25.582Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_631_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Doos ter bewaring van een of meer relieken. Een dergelijke doos kan zich in een altaar bevinden. Zie ook reliekenkist";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reliekdoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004951>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004951> <http://www.w3.org/2004/02/skos/core#prefLabel> "reliekhouder"@nl.
+_:df_631_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001020"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001020/2021-10-28T03:32:25.582Z>.
+<https://stad.gent/id/concept/550000195/2021-10-28T03:21:56.579Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:21:56.579Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/8698309>;
+    <http://www.w3.org/ns/adms#identifier> _:df_694_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Republiek der zeven Verenigde Nederlanden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "nationaliteit"@nl, "nationality"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_694_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000195/2021-10-28T03:21:56.579Z>.
+<https://stad.gent/id/concept/530010471/2021-10-28T03:01:11.005Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:01:11.005Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015643>;
+    <http://www.w3.org/ns/adms#identifier> _:df_835_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor kopieën van kunstafbeeldingen, kunstobjecten of andere gewaardeerde afbeeldingen of objecten, die zijn gemaakt zonder de bedoeling te misleiden; heeft betrekking op kunstafbeeldingen, ook fotografische reproducties; duidt op een meer precieze en getrouwe imitatie dan de term 'kopiedn (afgeleide objecten)'. Gebruik de term 'vervalsingen (1)' of 'vervalsingen (2)' als er sprake is van misleiding.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reproductie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008736>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008736> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenre"@nl.
+_:df_835_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010471/2021-10-28T03:01:11.005Z>.
+<https://stad.gent/id/concept/530010403/2021-10-28T02:56:01.329Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010403>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:56:01.329Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_868_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Resin Identification Code"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_868_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010403"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010403/2021-10-28T02:56:01.329Z>.
+<https://stad.gent/id/concept/530010400/2021-10-28T02:55:46.325Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010400>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:55:46.325Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_871_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "recto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_871_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010400"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010400/2021-10-28T02:55:46.325Z>.
+<https://stad.gent/id/concept/530010397/2021-10-28T02:55:27.876Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010397>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:55:27.876Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300249572>;
+    <http://www.w3.org/ns/adms#identifier> _:df_874_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drukwerk of voorwerpen gemaakt om reclame te maken voor producten, doeleinden of andere aangelegenheden, vooral voorwerpen die aan toekomstige consumenten, klanten of bijdragers worden verstrekt. Wordt niet gebruikt voor voorwerpen die zijn gemaakt vóór het einde van de 19e eeuw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reclamemateriaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008575>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008575> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatievorm"@nl.
+_:df_874_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010397"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010397/2021-10-28T02:55:27.876Z>.
+<https://stad.gent/id/concept/530010129/2021-10-28T02:32:22.080Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:32:22.080Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1027_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reinforced reaction injection molding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1027_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010129/2021-10-28T02:32:22.080Z>.
+<https://stad.gent/id/concept/530010130/2021-10-28T02:32:27.082Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010130>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:32:27.082Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1027_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "resin transfer molding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010119>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010119> <http://www.w3.org/2004/02/skos/core#prefLabel> "reactiespuitgieten"@nl.
+_:df_1027_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010130"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010130/2021-10-28T02:32:27.082Z>.
+<https://stad.gent/id/concept/530010123/2021-10-28T02:31:48.554Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010123>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:31:48.554Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1030_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reactie injectiegieten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1030_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010123"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010123/2021-10-28T02:31:48.554Z>.
+<https://stad.gent/id/concept/530010124/2021-10-28T02:31:53.555Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010124>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:31:53.555Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1030_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reaction injection molding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1030_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010124"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010124/2021-10-28T02:31:53.555Z>.
+<https://stad.gent/id/concept/530010121/2021-10-28T02:31:38.551Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010121>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:31:38.551Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1033_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reactie spuitgieten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1033_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010121"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010121/2021-10-28T02:31:38.551Z>.
+<https://stad.gent/id/concept/530010122/2021-10-28T02:31:43.552Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010122>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:31:43.552Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1033_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reactie-injectiegieten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1033_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010122"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010122/2021-10-28T02:31:43.552Z>.
+<https://stad.gent/id/concept/530010072/2021-10-28T02:27:51.330Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010072>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:27:51.330Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1057_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rek blaasgieten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1057_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010072"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010072/2021-10-28T02:27:51.330Z>.
+<https://stad.gent/id/concept/530010073/2021-10-28T02:27:56.331Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010073>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:27:56.331Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1057_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rek blaasvormen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010063>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010063> <http://www.w3.org/2004/02/skos/core#prefLabel> "blaasvormen (kunststof)"@nl.
+_:df_1057_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010073"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010073/2021-10-28T02:27:56.331Z>.
+<https://stad.gent/id/concept/530010075/2021-10-28T02:28:06.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010075>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:28:06.333Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1057_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rek-blaasvormen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1057_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010075"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010075/2021-10-28T02:28:06.333Z>.
+<https://stad.gent/id/concept/530010035/2021-10-28T02:24:33.577Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010035>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:24:33.577Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011060>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1078_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reims"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_1078_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010035"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010035/2021-10-28T02:24:33.577Z>.
+<https://stad.gent/id/concept/530009882/2021-10-28T02:11:02.312Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009882>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:11:02.312Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300021033>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1168_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Renaissance- en Barokstijlen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000542>, <https://stad.gent/id/concept/530000658>, <https://stad.gent/id/concept/530002204>, <https://stad.gent/id/concept/530004161>, <https://stad.gent/id/concept/530000151>, <https://stad.gent/id/concept/530000388>, <https://stad.gent/id/concept/530000566>, <https://stad.gent/id/concept/530000656>, <https://stad.gent/id/concept/530002807>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002807> <http://www.w3.org/2004/02/skos/core#prefLabel> "William & Mary"@nl.
+<https://stad.gent/id/concept/530000656> <http://www.w3.org/2004/02/skos/core#prefLabel> "Floristijd"@nl.
+<https://stad.gent/id/concept/530000566> <http://www.w3.org/2004/02/skos/core#prefLabel> "Louis XIV"@nl.
+<https://stad.gent/id/concept/530000388> <http://www.w3.org/2004/02/skos/core#prefLabel> "Louis XVI"@nl.
+<https://stad.gent/id/concept/530000151> <http://www.w3.org/2004/02/skos/core#prefLabel> "Louis XV"@nl.
+<https://stad.gent/id/concept/530004161> <http://www.w3.org/2004/02/skos/core#prefLabel> "régence"@nl.
+<https://stad.gent/id/concept/530002204> <http://www.w3.org/2004/02/skos/core#prefLabel> "rococo"@nl.
+<https://stad.gent/id/concept/530000658> <http://www.w3.org/2004/02/skos/core#prefLabel> "renaissance"@nl.
+<https://stad.gent/id/concept/530000542> <http://www.w3.org/2004/02/skos/core#prefLabel> "Georgian"@nl.
+_:df_1168_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009882"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009882/2021-10-28T02:11:02.312Z>.
+<https://stad.gent/id/concept/530009581/2021-10-28T01:45:36.499Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009581>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:45:36.499Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012674>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1339_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reutlingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1339_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009581"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009581/2021-10-28T01:45:36.499Z>.
+<https://stad.gent/id/concept/530009582/2021-10-28T01:45:41.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:45:41.500Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006270>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1339_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reykjavik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006539>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006539> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijsland"@nl.
+_:df_1339_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009582/2021-10-28T01:45:41.500Z>.
+<https://stad.gent/id/concept/530009580/2021-10-28T01:45:27.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009580>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:45:27.785Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012672>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1342_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rendsburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1342_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009580"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009580/2021-10-28T01:45:27.785Z>.
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_733.
+_:df_1_733 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rel.ttl>;
+    <https://w3id.org/tree#value> "rel".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_734.
+_:df_1_734 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/res.ttl>;
+    <https://w3id.org/tree#value> "res".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_735.
+_:df_1_735 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rea.ttl>;
+    <https://w3id.org/tree#value> "rea".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_736.
+_:df_1_736 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ret.ttl>;
+    <https://w3id.org/tree#value> "ret".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_737.
+_:df_1_737 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rei.ttl>;
+    <https://w3id.org/tree#value> "rei".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_738.
+_:df_1_738 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ren.ttl>;
+    <https://w3id.org/tree#value> "ren".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_739.
+_:df_1_739 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rek.ttl>;
+    <https://w3id.org/tree#value> "rek".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_740.
+_:df_1_740 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rec.ttl>;
+    <https://w3id.org/tree#value> "rec".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_741.
+_:df_1_741 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/reu.ttl>;
+    <https://w3id.org/tree#value> "reu".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_742.
+_:df_1_742 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/red.ttl>;
+    <https://w3id.org/tree#value> "red".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_743.
+_:df_1_743 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/reg.ttl>;
+    <https://w3id.org/tree#value> "reg".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_744.
+_:df_1_744 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rem.ttl>;
+    <https://w3id.org/tree#value> "rem".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_745.
+_:df_1_745 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rev.ttl>;
+    <https://w3id.org/tree#value> "rev".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_746.
+_:df_1_746 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rep.ttl>;
+    <https://w3id.org/tree#value> "rep".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/re.ttl>.

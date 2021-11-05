@@ -1382,3 +1382,309 @@ _:df_1_357 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/spe.ttl>;
     <https://w3id.org/tree#value> "spe".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sp.ttl>.
+<https://stad.gent/id/concept/550004732/2021-10-28T04:39:23.148Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004732>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:39:23.148Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300123430>;
+    <http://www.w3.org/ns/adms#identifier> _:df_187_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Getekende afbeeldingen, die gewoonlijk met scherpzinnigheid en humor en kritiek leveren op actuele gebeurtenissen, maatschappelijke gewoonten of politieke tendensen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spotprent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007813>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007813> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal naar functie"@nl.
+_:df_187_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004732"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004732/2021-10-28T04:39:23.148Z>.
+<https://stad.gent/id/concept/550004687/2021-10-28T04:38:10.581Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004687>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:38:10.581Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000095>;
+    <http://www.w3.org/ns/adms#identifier> _:df_193_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004901>, <https://stad.gent/id/concept/550004599>, <https://stad.gent/id/concept/550006576>, <https://stad.gent/id/concept/550004558>, <https://stad.gent/id/concept/550004585>, <https://stad.gent/id/concept/550006113>, <https://stad.gent/id/concept/550004831>, <https://stad.gent/id/concept/550004900>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004900> <http://www.w3.org/2004/02/skos/core#prefLabel> "Valladolid"@nl.
+<https://stad.gent/id/concept/550004831> <http://www.w3.org/2004/02/skos/core#prefLabel> "Valencia"@nl.
+<https://stad.gent/id/concept/550006113> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toledo"@nl.
+<https://stad.gent/id/concept/550004585> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sevilla"@nl.
+<https://stad.gent/id/concept/550004558> <http://www.w3.org/2004/02/skos/core#prefLabel> "Madrid"@nl.
+<https://stad.gent/id/concept/550006576> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burgos"@nl.
+<https://stad.gent/id/concept/550004599> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barcelona"@nl.
+<https://stad.gent/id/concept/550004901> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aranjuez"@nl.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_193_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004687"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004687/2021-10-28T04:38:10.581Z>.
+<https://stad.gent/id/concept/550003631/2021-10-28T04:11:32.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003631>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:11:32.747Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/8711667>;
+    <http://www.w3.org/ns/adms#identifier> _:df_370_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spaanse Nederlanden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl, "Europa"@nl, "Europa"@nl.
+_:df_370_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003631"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003631/2021-10-28T04:11:32.747Z>.
+<https://stad.gent/id/concept/550003615/2021-10-28T04:11:22.744Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003615>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:11:22.744Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300205348>;
+    <http://www.w3.org/ns/adms#identifier> _:df_373_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor fiches, vaak kleine ronde schijfjes, die tijdens het spel munten vervangen en die weer kunnen worden omgewisseld in contant geld.\r\n\r\nkan ookpenning zijn met aan de ene zijde een dobbelsteen en aan de andere zijde een waarde, om spel te spelen. (Huguette Taymans)\r\n\r\nna kijken!";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "speelpenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008172>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008172> <http://www.w3.org/2004/02/skos/core#prefLabel> "gebruikspenningen met betaalwaarde"@nl.
+_:df_373_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003615"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003615/2021-10-28T04:11:22.744Z>.
+<https://stad.gent/id/concept/550002894/2021-10-28T04:03:16.772Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002894>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:03:16.772Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263278>;
+    <http://www.w3.org/ns/adms#identifier> _:df_427_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Toestellen om draad of garen te maken van vezels, waarin de draadvorming plaatsvindt met behulp van een wiel dat met de hand of via een voetpedaal wordt aangedreven en dat het garen om één spoel draait. Ze zouden zijn uitgevonden in India en zijn in de Middeleeuwen via het Midden-Oosten in Europa geïntroduceerd, waar ze veel gebruikt werden tot in de 18de eeuw, evenals in Noord-Amerika na de kolonisering.Gebruik ‘spinmachines’ voor de spinmachines met meer dan één spoel die in de 18de eeuw werden ontwikkeld.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spinnewiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008148>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008148> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielbewerkingsgereedschap"@nl.
+_:df_427_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002894"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002894/2021-10-28T04:03:16.772Z>.
+<https://stad.gent/id/concept/550002786/2021-10-28T04:01:38.534Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002786>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:01:38.534Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227047>;
+    <http://www.w3.org/ns/adms#identifier> _:df_436_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine, vaak ornamentele of mechanische houders voor het bewaren van muntstukken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spaarpot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007981>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007981> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor ruilmiddelen"@nl.
+_:df_436_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002786"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002786/2021-10-28T04:01:38.534Z>.
+<https://stad.gent/id/concept/550002022/2021-10-28T03:51:48.084Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:51:48.084Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033565>;
+    <http://www.w3.org/ns/adms#identifier> _:df_502_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dunne, meestal puntige bevestigingsmiddelen met een kop, ontworpen om te worden ingeslagen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spijker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008073>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008073> <http://www.w3.org/2004/02/skos/core#prefLabel> "bevestigingsmiddel (onderdeel)"@nl.
+_:df_502_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002022"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002022/2021-10-28T03:51:48.084Z>.
+<https://stad.gent/id/concept/550001976/2021-10-28T03:50:27.836Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001976>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:50:27.836Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209587>;
+    <http://www.w3.org/ns/adms#identifier> _:df_511_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Keukengerei met een breed, plat, vaak flexibel blad dat wordt gebruikt voor het mengen of verdelen van zacht voedsel of het verwijderen van voedsel uit kommen of andere hulpmiddelen. Gebruik 'turners (culinary utensils)' voor gerei met een eenvoudig, geperforeerd, doorboord of gegroefd blad en dat lange handvatten, dat wordt gebruikt voor het optillen en omdraaien van voedsel zoals pannekoeken of gebakken eieren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spatel (culinair gereedschap)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007956>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007956> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei voor het bereiden en koken van voedsel"@nl.
+_:df_511_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001976"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001976/2021-10-28T03:50:27.836Z>.
+<https://stad.gent/id/concept/550001596/2021-10-28T03:42:44.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001596>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:42:44.151Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036923>;
+    <http://www.w3.org/ns/adms#identifier> _:df_562_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metalen drijvers die zijn bevestigd aan de hielen van de laarzen van de rijder en die worden gebruikt om het paard aan te drijven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spoor (gedragen accessoire)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008213>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008213> <http://www.w3.org/2004/02/skos/core#prefLabel> "been- of voetaccessoires"@nl.
+_:df_562_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001596"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001596/2021-10-28T03:42:44.151Z>.
+<https://stad.gent/id/concept/550001042/2021-10-28T03:32:50.589Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001042>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:32:50.589Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211037>;
+    <http://www.w3.org/ns/adms#identifier> _:df_628_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Fysieke objecten zonder praktisch doeleinde die bedacht zijn om kinderen of huisdieren te vermaken of om als verzamelobject voor volwassenen te dienen. Speelgoed bestaat doorgaans uit miniatuurversies van werkelijke wezens of objecten die te gebruiken zijn in fantasie- of imitatiespelletjes. Ook artikelen die bij spelletjes worden gebruikt, kunnen speelgoed worden genoemd. Het allereerste speelgoed bestond onder andere uit poppen en ballen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "speelgoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008331>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008331> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontspanningsmiddelen voor niet-competitieve activiteiten"@nl.
+_:df_628_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001042"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001042/2021-10-28T03:32:50.589Z>.
+<https://stad.gent/id/concept/550001059/2021-10-28T03:33:00.591Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001059>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:33:00.591Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024336>;
+    <http://www.w3.org/ns/adms#identifier> _:df_628_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spade"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007841>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007841> <http://www.w3.org/2004/02/skos/core#prefLabel> "verplaats- en transportgereedschap"@nl.
+_:df_628_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001059"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001059/2021-10-28T03:33:00.591Z>.
+<https://stad.gent/id/concept/550000867/2021-10-28T03:29:26.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:29:26.052Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263796>;
+    <http://www.w3.org/ns/adms#identifier> _:df_652_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spinschijf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_652_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000867/2021-10-28T03:29:26.052Z>.
+<https://stad.gent/id/concept/530010398/2021-10-28T02:55:36.321Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010398>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:55:36.321Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211294>;
+    <http://www.w3.org/ns/adms#identifier> _:df_871_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kaarten die worden gemaakt in pakketten van een bepaald aantal en die zijn gemerkt om te worden gebruikt als spelonderdelen tijdens het spel; de merktekens of ontwerpen kunnen een bepaald kleur- of rangensysteem volgen of speciaal en meer specifiek zijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "speelkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008660>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008660> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontspanningsmiddel"@nl.
+_:df_871_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010398"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010398/2021-10-28T02:55:36.321Z>.
+<https://stad.gent/id/concept/530010105/2021-10-28T02:30:29.939Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010105>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:30:29.939Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054070>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1039_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vormingsproces voor plastic waarbij heet thermoplastisch materiaal vanuit een verwarmingsruimte via een smal kanaal of gietgat, snel genoeg en onder voldoende druk om de vorm te vullen terwijl de vulling nog heet is, in een gekoelde vorm wordt geperst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spuitgieten (kunststof)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009982>, <https://stad.gent/id/concept/530008595>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010109>, <https://stad.gent/id/concept/530010112>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010112> <http://www.w3.org/2004/02/skos/core#prefLabel> "laminated object modeling "@nl.
+<https://stad.gent/id/concept/530010109> <http://www.w3.org/2004/02/skos/core#prefLabel> "gasinjectie spuitgieten"@nl.
+<https://stad.gent/id/concept/530008595> <http://www.w3.org/2004/02/skos/core#prefLabel> "modelleren (mal)"@nl.
+<https://stad.gent/id/concept/530009982> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststofvervaardigingstechniek"@nl.
+_:df_1039_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010105"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530010105> <http://www.w3.org/2004/02/skos/core#prefLabel> "spuitgieten (kunststof)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010105/2021-10-28T02:30:29.939Z>.
+<https://stad.gent/id/concept/530010070/2021-10-28T02:27:37.158Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010070>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:27:37.158Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1060_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spuitgietblazen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1060_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010070"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010070/2021-10-28T02:27:37.158Z>.
+<https://stad.gent/id/concept/530009966/2021-10-28T02:18:18.816Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009966>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:18:18.816Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053003>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1120_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "specifieke techniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009962>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008591>, <https://stad.gent/id/concept/530009964>, <https://stad.gent/id/concept/530009972>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009972> <http://www.w3.org/2004/02/skos/core#prefLabel> "voorwerpvervaardigingstechniek"@nl.
+<https://stad.gent/id/concept/530009964> <http://www.w3.org/2004/02/skos/core#prefLabel> "materiaalspecifieke techniek"@nl.
+<https://stad.gent/id/concept/530008591> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldvervaardigingstechniek"@nl.
+<https://stad.gent/id/concept/530009962> <http://www.w3.org/2004/02/skos/core#prefLabel> "techniek"@nl.
+_:df_1120_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009966"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009966/2021-10-28T02:18:18.816Z>.
+<https://stad.gent/id/concept/530009655/2021-10-28T01:51:28.418Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009655>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:51:28.418Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2053381>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1300_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sparta (Michigan)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_1300_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009655"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009655/2021-10-28T01:51:28.418Z>.
+<https://stad.gent/id/concept/530009609/2021-10-28T01:47:56.965Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009609>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:47:56.965Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007991>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1324_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spa"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009330>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_1324_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009609"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009609/2021-10-28T01:47:56.965Z>.
+<https://stad.gent/id/concept/530009457/2021-10-28T01:36:08.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009457>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:36:08.885Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1402_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spaans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "taal"@nl, "language"@en, "school / stijl"@nl, "school / style"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1402_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009457"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009457/2021-10-28T01:36:08.885Z>.
+<https://stad.gent/id/concept/530009245/2021-10-28T01:18:03.224Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009245>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:18:03.224Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211037>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1522_50;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Fysieke objecten zonder praktisch doeleinde die bedacht zijn om kinderen of huisdieren te vermaken of om als verzamelobject voor volwassenen te dienen. Speelgoed bestaat doorgaans uit miniatuurversies van werkelijke wezens of objecten die te gebruiken zijn in fantasie- of imitatiespelletjes. Ook artikelen die bij spelletjes worden gebruikt, kunnen speelgoed worden genoemd. Het allereerste speelgoed bestond onder andere uit poppen en ball";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "speelgoed (objectnaam)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008660>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530002012>, <https://stad.gent/id/concept/530005408>, <https://stad.gent/id/concept/530003959>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003959> <http://www.w3.org/2004/02/skos/core#prefLabel> "spel"@nl.
+<https://stad.gent/id/concept/530005408> <http://www.w3.org/2004/02/skos/core#prefLabel> "speelgoeddier"@nl.
+<https://stad.gent/id/concept/530002012> <http://www.w3.org/2004/02/skos/core#prefLabel> "poppenwagen"@nl.
+<https://stad.gent/id/concept/530008660> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontspanningsmiddel"@nl.
+_:df_1522_50 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009245"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009245/2021-10-28T01:18:03.224Z>.
+<https://KasperZutterman.github.io///thesaurus/sp.ttl> <https://w3id.org/tree#relation> _:df_1_716.
+_:df_1_716 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/spo.ttl>;
+    <https://w3id.org/tree#value> "spo".
+<https://KasperZutterman.github.io///thesaurus/sp.ttl> <https://w3id.org/tree#relation> _:df_1_717.
+_:df_1_717 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/spe.ttl>;
+    <https://w3id.org/tree#value> "spe".
+<https://KasperZutterman.github.io///thesaurus/sp.ttl> <https://w3id.org/tree#relation> _:df_1_718.
+_:df_1_718 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/spr.ttl>;
+    <https://w3id.org/tree#value> "spr".
+<https://KasperZutterman.github.io///thesaurus/sp.ttl> <https://w3id.org/tree#relation> _:df_1_719.
+_:df_1_719 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/spa.ttl>;
+    <https://w3id.org/tree#value> "spa".
+<https://KasperZutterman.github.io///thesaurus/sp.ttl> <https://w3id.org/tree#relation> _:df_1_720.
+_:df_1_720 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/spi.ttl>;
+    <https://w3id.org/tree#value> "spi".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sp.ttl>.

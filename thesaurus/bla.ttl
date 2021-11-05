@@ -308,3 +308,167 @@ _:df_3526_8 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550006365"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006365/2021-10-28T05:35:42.969Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bla.ttl>.
+<https://stad.gent/id/concept/530008451/2021-10-28T00:32:15.001Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008451>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:32:15.001Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011039>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1828_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metaal, zo dun mogelijk geslagen of gewalst, te gebruiken voor vergulding of andere versieringsprocessen.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bladmetaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006424>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530004151>, <https://stad.gent/id/concept/530009049>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009049> <http://www.w3.org/2004/02/skos/core#prefLabel> "bladzilver"@nl.
+<https://stad.gent/id/concept/530004151> <http://www.w3.org/2004/02/skos/core#prefLabel> "bladgoud"@nl.
+<https://stad.gent/id/concept/530006424> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl, "metaal"@nl.
+_:df_1828_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008451"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008451/2021-10-28T00:32:15.001Z>.
+<https://stad.gent/id/concept/530008028/2021-10-28T00:17:21.809Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008028>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:17:21.809Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1927_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bladenrek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1927_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008028"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008028/2021-10-28T00:17:21.809Z>.
+<https://stad.gent/id/concept/530006320/2021-10-27T23:32:15.054Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006320>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:32:15.054Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054067>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2227_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vormingsproces waarbij een holle eenheid wordt gevormd, die door interne luchtdruk tegen een omliggende mal gedrukt wordt die zo gevormd is dat men er een fles of andere houder in kan maken. De term wordt meestal gebruikt in verband met glas en plastic.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blazen (modelleren)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008595>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010063>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010063> <http://www.w3.org/2004/02/skos/core#prefLabel> "blaasvormen (kunststof)"@nl.
+<https://stad.gent/id/concept/530008595> <http://www.w3.org/2004/02/skos/core#prefLabel> "modelleren (mal)"@nl.
+_:df_2227_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006320"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006320/2021-10-27T23:32:15.054Z>.
+<https://stad.gent/id/concept/530006109/2021-10-27T23:21:44.757Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006109>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:21:44.757Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180070>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2296_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kaarsenstandaards met een enkele kaarshouder op een platte schotel- of schaalvormige basis. Gebruik 'kandelaars' voor kaarsenstandaards met een enkele kaarshouder op een voetstuk met een verbrede basis of voet.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000877>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000877> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarsenhouder"@nl.
+_:df_2296_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006109"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006109/2021-10-27T23:21:44.757Z>.
+<https://stad.gent/id/concept/530005776/2021-10-27T23:07:32.275Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005776>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:07:32.275Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026430>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2392_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Muziek die is gedrukt op losse vellen papier.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bladmuziek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008661>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008661> <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekdocument"@nl.
+_:df_2392_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005776"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005776/2021-10-27T23:07:32.275Z>.
+<https://stad.gent/id/concept/530004151/2021-10-27T22:05:57.299Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004151>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:05:57.299Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264831>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2806_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar platen goud die tot een zeer geringe dikte (meestal circa 0,1 micrometer) zijn gehamerd of gewalst. In de kunst wordt bladgoud sinds circa 1500 v. Chr. toegepast in schilderijen, op beeldhouwwerken, in manuscripten en in de decoratieve kunsten. In de jaren 20 van de 20ste eeuw werd het procedé voor het maken van bladgoud met succes geautomatiseerd.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bladgoud"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008451>, <https://stad.gent/id/concept/530006427>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006427> <http://www.w3.org/2004/02/skos/core#prefLabel> "goud"@nl.
+<https://stad.gent/id/concept/530008451> <http://www.w3.org/2004/02/skos/core#prefLabel> "bladmetaal"@nl.
+_:df_2806_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004151"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004151/2021-10-27T22:05:57.299Z>.
+<https://stad.gent/id/concept/530003206/2021-10-27T21:43:52.326Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003206>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:43:52.326Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2956_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bladingstok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008807>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008807> <http://www.w3.org/2004/02/skos/core#prefLabel> "sportbenodigdheid"@nl, "sportbenodigdheid"@nl.
+_:df_2956_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003206"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003206/2021-10-27T21:43:52.326Z>.
+<https://stad.gent/id/concept/530003207/2021-10-27T21:43:57.327Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003207>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:43:57.327Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2956_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bladingstick"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2956_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003207"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003207/2021-10-27T21:43:57.327Z>.
+<https://stad.gent/id/concept/530000529/2021-10-27T20:20:14.144Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000529>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:20:14.144Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3529_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bladwijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3529_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000529"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000529/2021-10-27T20:20:14.144Z>.
+<https://stad.gent/id/concept/470010939/2021-10-27T19:50:07.444Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010939>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:50:07.444Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263384>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3736_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stoffen, zoals indigo, die worden gebruikt om materialen als textiel of papier te bleken of een blauwe tint te geven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blauwsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3736_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010939"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010939/2021-10-27T19:50:07.444Z>.
+<https://stad.gent/id/concept/470009994/2021-10-27T19:28:12.403Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009994>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:28:12.403Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047658>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3892_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Blaricum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3892_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009994"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009994/2021-10-27T19:28:12.403Z>.
+<https://stad.gent/id/concept/470009455/2021-10-27T19:08:57.289Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009455>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:08:57.289Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7248593>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4027_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Blaasveld"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4027_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009455"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009455/2021-10-27T19:08:57.289Z>.
+<https://stad.gent/id/concept/470007568/2021-10-27T18:18:56.126Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:18:56.126Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180070>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4381_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4381_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007568/2021-10-27T18:18:56.126Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bla.ttl>.

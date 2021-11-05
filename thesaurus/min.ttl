@@ -93,3 +93,113 @@ _:df_3571_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550006198"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006198/2021-10-28T05:29:01.581Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/min.ttl>.
+<https://stad.gent/id/concept/530006891/2021-10-27T23:55:54.552Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006891>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:55:54.552Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014080>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2071_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Minneapolis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_2071_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006891"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006891/2021-10-27T23:55:54.552Z>.
+<https://stad.gent/id/concept/530006318/2021-10-27T23:32:05.050Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006318>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:32:05.050Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011068>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2227_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In de natuur voorkomende anorganische elementen of verbindingen met een ordelijke interne structuur en een karakteristieke chemische samenstelling, kristalstructuur en fysische eigenschappen; ook te gebruiken voor synthetisch verkregen equivalenten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mineraal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003235>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010381>, <https://stad.gent/id/concept/530006491>, <https://stad.gent/id/concept/530008169>, <https://stad.gent/id/concept/530006319>, <https://stad.gent/id/concept/530004865>, <https://stad.gent/id/concept/530005922>, <https://stad.gent/id/concept/530009191>, <https://stad.gent/id/concept/530010413>, <https://stad.gent/id/concept/530006488>, <https://stad.gent/id/concept/530008558>, <https://stad.gent/id/concept/530006457>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006457> <http://www.w3.org/2004/02/skos/core#prefLabel> "turkoois"@nl.
+<https://stad.gent/id/concept/530008558> <http://www.w3.org/2004/02/skos/core#prefLabel> "talk (mineraal)"@nl.
+<https://stad.gent/id/concept/530006488> <http://www.w3.org/2004/02/skos/core#prefLabel> "saffier"@nl.
+<https://stad.gent/id/concept/530010413> <http://www.w3.org/2004/02/skos/core#prefLabel> "mica"@nl.
+<https://stad.gent/id/concept/530009191> <http://www.w3.org/2004/02/skos/core#prefLabel> "malachiet"@nl.
+<https://stad.gent/id/concept/530005922> <http://www.w3.org/2004/02/skos/core#prefLabel> "maansteen"@nl.
+<https://stad.gent/id/concept/530004865> <http://www.w3.org/2004/02/skos/core#prefLabel> "kwarts"@nl.
+<https://stad.gent/id/concept/530006319> <http://www.w3.org/2004/02/skos/core#prefLabel> "grafiet"@nl.
+<https://stad.gent/id/concept/530008169> <http://www.w3.org/2004/02/skos/core#prefLabel> "gips"@nl.
+<https://stad.gent/id/concept/530006491> <http://www.w3.org/2004/02/skos/core#prefLabel> "beril"@nl.
+<https://stad.gent/id/concept/530010381> <http://www.w3.org/2004/02/skos/core#prefLabel> "asbest"@nl.
+<https://stad.gent/id/concept/530003235> <http://www.w3.org/2004/02/skos/core#prefLabel> "anorganisch materiaal"@nl.
+_:df_2227_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006318"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530006318> <http://www.w3.org/2004/02/skos/core#prefLabel> "mineraal"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006318/2021-10-27T23:32:05.050Z>.
+<https://stad.gent/id/concept/530004697/2021-10-27T22:29:48.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:29:48.376Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2647_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "miniatuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2647_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004697/2021-10-27T22:29:48.376Z>.
+<https://stad.gent/id/concept/530004244/2021-10-27T22:10:10.177Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004244>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:10:10.177Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300065758>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2779_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stijl die betrekking kan hebben op in principe alle kunstvormen, met inbegrip van de literatuur, de ontwerpkunst, de muziek, de beeldende kunst en de performancekunst, en die wordt gekenmerkt door een 'kale' eenvoud, ontdaan van iedere vorm van decoratie. Binnen de muziek verwijst deze term specifiek naar een stijl die in de jaren 60 in de Verenigde Staten ontstond en die wordt gekenmerkt door het langdurig herhalen van korte passages zonder enige harmonische variatie. Binnen de context van de beeldende kunst verwijst de term naar de abstracte kunststroming en stijl die met name op het gebied van de beeldhouwkunst tot bloei kwamen in het midden en het einde van de jaren 60. Deze stroming bepleitte het terugbrengen van de kunst tot een toestand van niet-kunst door middel van het uitbannen van alle natuurlijke en culturele elementen, met als resultaat een kunstwerk dat wordt gekenmerkt door zuivere, eenvoudige vormen en willekeurig geplaatste objecten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "minimalisme"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009880>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en, "school / stijl"@nl, "school / style"@en, "onderwerp"@nl, "subject"@en, "concept"@nl, "concept"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009880> <http://www.w3.org/2004/02/skos/core#prefLabel> "internationale stijlen en stromingen na 1945"@nl.
+_:df_2779_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004244"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004244/2021-10-27T22:10:10.177Z>.
+<https://stad.gent/id/concept/530003895/2021-10-27T22:00:52.642Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003895>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:00:52.642Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300020224>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2842_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar de periode en stijl die wordt toegeschreven aan de Griekse beschaving in de Bronstijd op het eiland Kreta, van circa 3.500 tot circa 1050 v. Chr. Deze onderscheidde zich van de gelijktijdige culturen op het Griekse vasteland die bekend zijn onder de naam Helladisch en op de andere eilanden onder de naam Cycladisch. De Minoïsche kunst en cultuur verspreidde zich in de Egeïsche regio en kwam derhalve ook in streken buiten Kreta voor. De cultuur kenmerkt zich door vernieuwingen en grootschalige ontwerpen van steden en paleizen, door het veelvuldig gebruik van schrift, en door kenmerkend verfijnde kunst, waaronder gedetailleerde rolzegels, aardewerk, fresco’s en beeldhouwkunst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Minoïsch"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2842_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003895"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003895/2021-10-27T22:00:52.642Z>.
+<https://stad.gent/id/concept/530000544/2021-10-27T20:20:57.402Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:20:57.402Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300018438>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3523_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ming"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3523_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000544/2021-10-27T20:20:57.402Z>.
+<https://stad.gent/id/concept/470010129/2021-10-27T19:33:59.668Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:33:59.668Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014080>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3850_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Minneapolis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3850_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010129/2021-10-27T19:33:59.668Z>.
+<https://stad.gent/id/concept/470009922/2021-10-27T19:24:54.677Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009922>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:24:54.677Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007521>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3913_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Minnesota"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3913_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009922"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009922/2021-10-27T19:24:54.677Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/min.ttl>.

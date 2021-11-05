@@ -382,3 +382,121 @@ _:df_2590_28 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570005275"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005275/2021-10-28T07:55:25.163Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sig.ttl>.
+<https://stad.gent/id/concept/530002845/2021-10-27T21:26:29.998Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:26:29.998Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300221187>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3076_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt voornamelijk gebruikt voor houders voor sigaren, met name dozen van verschillende vorm met deksel, lijkend op sigarettendoosjes maar dan groter, bedoeld om op een tafel, bureau of iets dergelijks te worden gezet. Gebruik 'sigarenkokers' voor platte houders die worden gebruikt om sigaren in mee te dragen. Gebruik 'humidors' voor luchtdichte sigarenhouders.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sigarettendoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003095>, <https://stad.gent/id/concept/530009244>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009244> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder voor persoonlijk gebruik"@nl.
+<https://stad.gent/id/concept/530003095> <http://www.w3.org/2004/02/skos/core#prefLabel> "doos (houder)"@nl.
+_:df_3076_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002845/2021-10-27T21:26:29.998Z>.
+<https://stad.gent/id/concept/530002782/2021-10-27T21:24:00.934Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002782>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:24:00.934Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028705>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3094_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Eigenhandig geschreven namen van personen. \r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "signatuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3094_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002782"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002782/2021-10-27T21:24:00.934Z>.
+<https://stad.gent/id/concept/530001528/2021-10-27T20:55:34.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001528>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:55:34.412Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198649>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3286_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sigarettenbeker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009244>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009244> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder voor persoonlijk gebruik"@nl, "houder voor persoonlijk gebruik"@nl.
+_:df_3286_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001528"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001528/2021-10-27T20:55:34.412Z>.
+<https://stad.gent/id/concept/530001534/2021-10-27T20:55:54.416Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001534>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:55:54.416Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198649>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3286_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sigarenbeker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009244>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009244> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder voor persoonlijk gebruik"@nl, "houder voor persoonlijk gebruik"@nl.
+_:df_3286_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001534"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001534/2021-10-27T20:55:54.416Z>.
+<https://stad.gent/id/concept/530000433/2021-10-27T20:14:31.791Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000433>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:14:31.791Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300221195>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3568_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Platte, vaak rechthoekige omhulsels, die lijken op pakjes sigaretten maar dan groter, en die worden gebruikt om sigaren in mee te dragen. Gebruik 'sigarendozen' voor dozen met deksel die op tafel, bureau of iets dergelijks gezet worden en waar sigaren in zitten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sigarettenkoker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009244>, <https://stad.gent/id/concept/530008753>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008753> <http://www.w3.org/2004/02/skos/core#prefLabel> "koker"@nl.
+<https://stad.gent/id/concept/530009244> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder voor persoonlijk gebruik"@nl, "houder voor persoonlijk gebruik"@nl.
+_:df_3568_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000433"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000433/2021-10-27T20:14:31.791Z>.
+<https://stad.gent/id/concept/470008657/2021-10-27T18:47:39.315Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008657>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:47:39.315Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300419975>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4177_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sigaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4177_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008657"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008657/2021-10-27T18:47:39.315Z>.
+<https://stad.gent/id/concept/470008660/2021-10-27T18:47:44.317Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008660>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:47:44.317Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300419976>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4177_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sigaret"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4177_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008660"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008660/2021-10-27T18:47:44.317Z>.
+<https://stad.gent/id/concept/470008664/2021-10-27T18:47:54.319Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:47:54.319Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300221187>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4177_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebruik voor dozen waarin sigaretten worden verkocht (HVA)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sigarettendoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003625>, <https://stad.gent/id/concept/470005152>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005152> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder voor roken en tabakgebruik"@nl.
+<https://stad.gent/id/concept/470003625> <http://www.w3.org/2004/02/skos/core#prefLabel> "doos"@nl.
+_:df_4177_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008664/2021-10-27T18:47:54.319Z>.
+<https://stad.gent/id/concept/470007417/2021-10-27T18:15:52.427Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007417>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:15:52.427Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300221187>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4402_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt voornamelijk gebruikt voor houders voor sigaren, met name dozen van verschillende vorm met deksel, lijkend op sigarettendoosjes maar dan groter, bedoeld om op een tafel, bureau of iets dergelijks te worden gezet. Gebruik 'sigarenkokers' voor platte houders die worden gebruikt om sigaren in mee te dragen. Gebruik 'humidors' voor luchtdichte sigarenhouders. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sigarendoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4402_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007417"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007417/2021-10-27T18:15:52.427Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sig.ttl>.

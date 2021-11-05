@@ -432,3 +432,83 @@ _:df_3718_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550005570"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005570/2021-10-28T05:07:24.906Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/spi.ttl>.
+<https://stad.gent/id/concept/530005886/2021-10-27T23:11:41.012Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005886>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:11:41.012Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2365_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kast waarvan de wanden voor een omvangrijk deel met spiegels zijn bekleed. Vaak in badkamers en slaapkamers. (Annelies De Mey)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spiegelkast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005153>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005153> <http://www.w3.org/2004/02/skos/core#prefLabel> "kastmeubel"@nl.
+_:df_2365_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005886"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005886/2021-10-27T23:11:41.012Z>.
+<https://stad.gent/id/concept/530005479/2021-10-27T22:53:52.856Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:53:52.856Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010822>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2482_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Glas voor spiegels.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spiegelglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006434>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006434> <http://www.w3.org/2004/02/skos/core#prefLabel> "glas (materiaal)"@nl.
+_:df_2482_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005479/2021-10-27T22:53:52.856Z>.
+<https://stad.gent/id/concept/530000987/2021-10-27T20:38:46.261Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000987>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:38:46.261Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037682>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3403_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor voorwerpen met een zeer gepolijst oppervlak, vaak omlijst en ontworpen om beelden te weerspiegelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spiegel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009038>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003011>, <https://stad.gent/id/concept/530001639>, <https://stad.gent/id/concept/530000564>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000564> <http://www.w3.org/2004/02/skos/core#prefLabel> "wandspiegel"@nl.
+<https://stad.gent/id/concept/530001639> <http://www.w3.org/2004/02/skos/core#prefLabel> "psyché"@nl.
+<https://stad.gent/id/concept/530003011> <http://www.w3.org/2004/02/skos/core#prefLabel> "handspiegel"@nl.
+<https://stad.gent/id/concept/530009038> <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurinrichting (objectnaam)"@nl.
+_:df_3403_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000987"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000987/2021-10-27T20:38:46.261Z>.
+<https://stad.gent/id/concept/530000295/2021-10-27T20:07:27.859Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000295>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:07:27.859Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3616_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een spiegeleischep wordt gebruikt om een spiegelei uit de pan te serveren, duidelijk herkenbaar aan de grote ronde platte lepelbak,";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spiegeleischep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006105>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006105> <http://www.w3.org/2004/02/skos/core#prefLabel> "schep (serveermateriaal)"@nl.
+_:df_3616_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000295"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000295/2021-10-27T20:07:27.859Z>.
+<https://stad.gent/id/concept/470010959/2021-10-27T19:51:23.297Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010959>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:51:23.297Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7099729>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3727_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Spich"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3727_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010959"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010959/2021-10-27T19:51:23.297Z>.
+<https://stad.gent/id/concept/470007741/2021-10-27T18:22:10.704Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007741>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:22:10.704Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247617>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4357_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spinnerij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4357_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007741"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007741/2021-10-27T18:22:10.704Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/spi.ttl>.

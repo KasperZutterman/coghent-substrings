@@ -637,3 +637,241 @@ _:df_3715_8 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550005588"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005588/2021-10-28T05:07:53.567Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ij.ttl>.
+<https://stad.gent/id/concept/530010394/2021-10-28T02:55:17.873Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010394>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:55:17.873Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025320>;
+    <http://www.w3.org/ns/adms#identifier> _:df_874_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metaalbewerkers die zijn gespecialiseerd in het maken van objecten van ijzer.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzersmid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010441>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010441> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaalwerker"@nl.
+_:df_874_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010394"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010394/2021-10-28T02:55:17.873Z>.
+<https://stad.gent/id/concept/530008479/2021-10-28T00:34:27.426Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:34:27.426Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300241605>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1813_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzer en ijzerlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006424>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006279>, <https://stad.gent/id/concept/530008478>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008478> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerlegering"@nl.
+<https://stad.gent/id/concept/530006279> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzer"@nl.
+<https://stad.gent/id/concept/530006424> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_1813_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008479/2021-10-28T00:34:27.426Z>.
+<https://stad.gent/id/concept/530008478/2021-10-28T00:34:15.296Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008478>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:34:15.296Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010904>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1816_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Legering waarin ijzer het belangrijkste element is.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008479>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000561>, <https://stad.gent/id/concept/530006148>, <https://stad.gent/id/concept/530001667>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001667> <http://www.w3.org/2004/02/skos/core#prefLabel> "staal (materiaal)"@nl.
+<https://stad.gent/id/concept/530006148> <http://www.w3.org/2004/02/skos/core#prefLabel> "smeedijzer"@nl.
+<https://stad.gent/id/concept/530000561> <http://www.w3.org/2004/02/skos/core#prefLabel> "gietijzer"@nl.
+<https://stad.gent/id/concept/530008479> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzer en ijzerlegering"@nl.
+_:df_1816_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008478"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008478/2021-10-28T00:34:15.296Z>.
+<https://stad.gent/id/concept/530006539/2021-10-27T23:43:35.649Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006539>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:43:35.649Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000077>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2152_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ijsland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002310>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009582>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009582> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reykjavik"@nl.
+<https://stad.gent/id/concept/530002310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_2152_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006539"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006539/2021-10-27T23:43:35.649Z>.
+<https://stad.gent/id/concept/530006446/2021-10-27T23:38:24.527Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006446>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:38:24.527Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033260>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2185_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote en kleine items die nodig zijn om materialen en onderdelen van bouwwerken, meubelen en andere objecten te bevestigen, verankeren, vast te houden, of aan te sluiten. Tevens onderdelen die worden gebruikt bij de afwerking van gebouwen en objecten, zoals scharnieren en knoppen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerwaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004640>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000217>, <https://stad.gent/id/concept/530006442>, <https://stad.gent/id/concept/530000141>, <https://stad.gent/id/concept/530005401>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005401> <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutel (ijzerwaar)"@nl.
+<https://stad.gent/id/concept/530000141> <http://www.w3.org/2004/02/skos/core#prefLabel> "raamwerk"@nl.
+<https://stad.gent/id/concept/530006442> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubelbeslag"@nl.
+<https://stad.gent/id/concept/530000217> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerkingsijzerwaar"@nl, "afwerkingsijzerwaar"@nl.
+<https://stad.gent/id/concept/530004640> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdeel"@nl.
+_:df_2185_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006446"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006446/2021-10-27T23:38:24.527Z>.
+<https://stad.gent/id/concept/530006279/2021-10-27T23:30:06.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006279>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:30:06.927Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300011002>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2242_142;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor het zuivere metaalelement met het symbool Fe en het atoomnummer 26; een glimmend, zilverachtig zacht metaal dat roest wanneer het aan vochtige lucht wordt blootgesteld. Gebruik ook voor dit metaal als het wordt verwerkt en gevormd, meestal in combinatie met andere stoffen, om diverse objecten en materialen te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008479>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001524>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001524> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerdraad"@nl.
+<https://stad.gent/id/concept/530008479> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzer en ijzerlegering"@nl.
+_:df_2242_142 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006279"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006279/2021-10-27T23:30:06.927Z>.
+<https://stad.gent/id/concept/530005771/2021-10-27T23:07:17.270Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005771>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:07:17.270Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2392_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzergieten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005793>, <https://stad.gent/id/concept/530002094>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002094> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaalbewerken"@nl.
+<https://stad.gent/id/concept/530005793> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaalgieten"@nl.
+_:df_2392_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005771"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005771/2021-10-27T23:07:17.270Z>.
+<https://stad.gent/id/concept/530003451/2021-10-27T21:52:13.174Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003451>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:52:13.174Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031237>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2899_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lepeltjes om vruchtenijs, enz. mee te eten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijslepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006317>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006317> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafellepel"@nl.
+_:df_2899_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003451"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003451/2021-10-27T21:52:13.174Z>.
+<https://stad.gent/id/concept/530003257/2021-10-27T21:46:15.765Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003257>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:46:15.765Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300229602>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2941_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schoenachtige instrumenten of plateautjes die aan schoenen worden vastgezet, met daaraan bevestigd een metalen blad of metalen bladen, om mee over ijs te glijden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijsschaats"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003950>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003950> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoen"@nl.
+_:df_2941_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003257"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003257/2021-10-27T21:46:15.765Z>.
+<https://stad.gent/id/concept/530001524/2021-10-27T20:55:19.406Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001524>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:55:19.406Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q3071740>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3289_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerdraad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006279>, <https://stad.gent/id/concept/530004554>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004554> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaaldraad"@nl.
+<https://stad.gent/id/concept/530006279> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzer"@nl.
+_:df_3289_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001524"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001524/2021-10-27T20:55:19.406Z>.
+<https://stad.gent/id/concept/530000873/2021-10-27T20:34:08.881Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000873>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:34:08.881Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203548>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3433_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor ijs, soms met een deksel en/of handvatten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijsemmer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006466>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006466> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder"@nl.
+_:df_3433_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000873"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000873/2021-10-27T20:34:08.881Z>.
+<https://stad.gent/id/concept/470010558/2021-10-27T19:44:34.883Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010558>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:44:34.883Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1319419>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3775_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Toestellen voor de bereiding van consumptie-ijs.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijsmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3775_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010558"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010558/2021-10-27T19:44:34.883Z>.
+<https://stad.gent/id/concept/470010086/2021-10-27T19:31:57.305Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010086>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:31:57.305Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006913>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3865_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "IJsselstein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3865_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010086"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010086/2021-10-27T19:31:57.305Z>.
+<https://stad.gent/id/concept/470009200/2021-10-27T19:01:06.730Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009200>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:01:06.730Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1653967>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4084_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "IJzerbedevaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "gebeurtenis"@nl, "event"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4084_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009200"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009200/2021-10-27T19:01:06.730Z>.
+<https://stad.gent/id/concept/470008912/2021-10-27T18:54:48.224Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008912>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:54:48.224Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033260>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4129_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote en kleine items die nodig zijn om materialen en onderdelen van bouwwerken, meubelen en andere objecten te bevestigen, verankeren, vast te houden, of aan te sluiten. Tevens onderdelen die worden gebruikt bij de afwerking van gebouwen en objecten, zoals scharnieren en knoppen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerwaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4129_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008912"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008912/2021-10-27T18:54:48.224Z>.
+<https://stad.gent/id/concept/470007909/2021-10-27T18:25:14.570Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007909>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:25:14.570Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000077>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4336_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "IJsland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4336_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007909"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007909/2021-10-27T18:25:14.570Z>.
+<https://stad.gent/id/concept/470007269/2021-10-27T18:12:17.130Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:12:17.130Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215754>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4429_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijskast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002640>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002640> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei voor het koelen van voedsel"@nl.
+_:df_4429_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007269/2021-10-27T18:12:17.130Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ij.ttl>.

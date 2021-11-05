@@ -1332,3 +1332,306 @@ _:df_1_523 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/dri.ttl>;
     <https://w3id.org/tree#value> "dri".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/dr.ttl>.
+<https://stad.gent/id/concept/550004645/2021-10-28T04:36:08.192Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004645>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:36:08.192Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026401>;
+    <http://www.w3.org/ns/adms#identifier> _:df_208_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Drongen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "Vindplaats"@nl, "Collection place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_208_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004645"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004645/2021-10-28T04:36:08.192Z>.
+<https://stad.gent/id/concept/550003878/2021-10-28T04:18:39.227Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003878>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:18:39.227Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022763>;
+    <http://www.w3.org/ns/adms#identifier> _:df_325_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Machines die worden gebruikt om een afdruk te maken van gietvormen, blokken, platen of stenen, gewoonlijk op papier.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008051>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008051> <http://www.w3.org/2004/02/skos/core#prefLabel> "benodigdheden voor beeldoverdracht"@nl.
+_:df_325_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003878"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003878/2021-10-28T04:18:39.227Z>.
+<https://stad.gent/id/concept/550002676/2021-10-28T03:59:12.680Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002676>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:59:12.680Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300164679>;
+    <http://www.w3.org/ns/adms#identifier> _:df_454_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "driepikkel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_454_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002676"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002676/2021-10-28T03:59:12.680Z>.
+<https://stad.gent/id/concept/550002020/2021-10-28T03:51:38.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002020>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:51:38.081Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_505_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukstempel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_505_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002020"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002020/2021-10-28T03:51:38.081Z>.
+<https://stad.gent/id/concept/550001996/2021-10-28T03:51:02.847Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001996>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:51:02.847Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900023624>;
+    <http://www.w3.org/ns/adms#identifier> _:df_508_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draagteken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008050>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008050> <http://www.w3.org/2004/02/skos/core#prefLabel> "identificatiedrager"@nl.
+_:df_508_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001996"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001996/2021-10-28T03:51:02.847Z>.
+<https://stad.gent/id/concept/530010631/2021-10-28T03:13:03.565Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010631>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:13:03.565Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_754_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "merknaam van Acry";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dralon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_754_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010631"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010631/2021-10-28T03:13:03.565Z>.
+<https://stad.gent/id/concept/530010134/2021-10-28T02:32:47.086Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010134>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:32:47.086Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1024_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draaiend vormen "@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1024_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010134"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010134/2021-10-28T02:32:47.086Z>.
+<https://stad.gent/id/concept/530010135/2021-10-28T02:32:52.087Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:32:52.087Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1024_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draaiend gevormd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1024_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010135/2021-10-28T02:32:52.087Z>.
+<https://stad.gent/id/concept/530010100/2021-10-28T02:30:00.418Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010100>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:30:00.418Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1042_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draadwikkeling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1042_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010100"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010100/2021-10-28T02:30:00.418Z>.
+<https://stad.gent/id/concept/530010101/2021-10-28T02:30:05.423Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010101>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:30:05.423Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1042_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draadwinding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1042_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010101"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010101/2021-10-28T02:30:05.423Z>.
+<https://stad.gent/id/concept/530009466/2021-10-28T01:36:43.244Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009466>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:36:43.244Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047736>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1399_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Drachten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009324>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009324> <http://www.w3.org/2004/02/skos/core#prefLabel> "Friesland"@nl.
+_:df_1399_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009466"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009466/2021-10-28T01:36:43.244Z>.
+<https://stad.gent/id/concept/530009321/2021-10-28T01:24:18.287Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009321>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:24:18.287Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003614>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1480_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Drenthe"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006470>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003031>, <https://stad.gent/id/concept/530004213>, <https://stad.gent/id/concept/530006904>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006904> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zandvoort"@nl.
+<https://stad.gent/id/concept/530004213> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meppel"@nl.
+<https://stad.gent/id/concept/530003031> <http://www.w3.org/2004/02/skos/core#prefLabel> "Assen"@nl.
+<https://stad.gent/id/concept/530006470> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl, "Nederland"@nl.
+_:df_1480_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009321"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009321/2021-10-28T01:24:18.287Z>.
+<https://stad.gent/id/concept/530009178/2021-10-28T01:14:30.269Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009178>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:14:30.269Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053158>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1546_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het vormen van objecten met snijinstrumenten terwijl het materiaal waarvan de objecten worden gemaakt, snel ronddraait op een draaibank.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draaien (draaibank)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008644>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008644> <http://www.w3.org/2004/02/skos/core#prefLabel> "subtractieve techniek"@nl.
+_:df_1546_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009178"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009178/2021-10-28T01:14:30.269Z>.
+<https://stad.gent/id/concept/530008773/2021-10-28T00:57:41.464Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008773>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:57:41.464Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300188811>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1660_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukoppervlak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008772>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008772> <http://www.w3.org/2004/02/skos/core#prefLabel> "cliché"@nl.
+_:df_1660_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008773"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530008773> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukoppervlak"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008773/2021-10-28T00:57:41.464Z>.
+<https://stad.gent/id/concept/530008593/2021-10-28T00:43:33.263Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008593>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:43:33.263Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300185289>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1753_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukken en druktechniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008591>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003449>, <https://stad.gent/id/concept/530008590>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008590> <http://www.w3.org/2004/02/skos/core#prefLabel> "druktechniek"@nl.
+<https://stad.gent/id/concept/530003449> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukken"@nl.
+<https://stad.gent/id/concept/530008591> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldvervaardigingstechniek"@nl.
+_:df_1753_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008593"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530008593> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukken en druktechniek"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008593/2021-10-28T00:43:33.263Z>.
+<https://stad.gent/id/concept/530008590/2021-10-28T00:43:14.582Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008590>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:43:14.582Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300185327>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1756_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "druktechniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008593>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008604>, <https://stad.gent/id/concept/530008679>, <https://stad.gent/id/concept/530008678>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008678> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlakdruktechniek"@nl.
+<https://stad.gent/id/concept/530008679> <http://www.w3.org/2004/02/skos/core#prefLabel> "reliëfdruktechniek"@nl.
+<https://stad.gent/id/concept/530008604> <http://www.w3.org/2004/02/skos/core#prefLabel> "diepdrukprocédé"@nl.
+<https://stad.gent/id/concept/530008593> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukken en druktechniek"@nl.
+_:df_1756_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008590"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008590/2021-10-28T00:43:14.582Z>.
+<https://stad.gent/id/concept/530008576/2021-10-28T00:42:06.273Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008576>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:42:06.273Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900024568>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1762_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verzamelnaam voor al wat gedrukt is of moet worden, met name gedrukte (reclame) folders, formulieren en dergelijke.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008736>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003731>, <https://stad.gent/id/concept/530010700>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010700> <http://www.w3.org/2004/02/skos/core#prefLabel> "bidprentje"@nl.
+<https://stad.gent/id/concept/530003731> <http://www.w3.org/2004/02/skos/core#prefLabel> "affiche"@nl.
+<https://stad.gent/id/concept/530008736> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenre"@nl.
+_:df_1762_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008576"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008576/2021-10-28T00:42:06.273Z>.
+<https://stad.gent/id/concept/530008538/2021-10-28T00:38:48.096Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008538>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:38:48.096Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014250>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1786_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Enkelvoudige fijne vezels, groepen van dergelijke vezels die stevig zijn samengedraaid of vezelige lengtes gevormd door het spinnen en twijnen van korte vezels tot een onafgebroken streng.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003150>, <https://stad.gent/id/concept/530006563>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008898>, <https://stad.gent/id/concept/530002911>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002911> <http://www.w3.org/2004/02/skos/core#prefLabel> "nylondraad"@nl.
+<https://stad.gent/id/concept/530008898> <http://www.w3.org/2004/02/skos/core#prefLabel> "chenille"@nl.
+<https://stad.gent/id/concept/530006563> <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel (materiaal)"@nl.
+<https://stad.gent/id/concept/530003150> <http://www.w3.org/2004/02/skos/core#prefLabel> "koord (vezelproduct)"@nl.
+_:df_1786_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008538"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008538/2021-10-28T00:38:48.096Z>.
+<https://stad.gent/id/concept/530008516/2021-10-28T00:37:09.445Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008516>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:37:09.445Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043230>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1795_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drinkvaatwerk van glas bedoeld voor één enkel persoon.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006475>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001895>, <https://stad.gent/id/concept/530000341>, <https://stad.gent/id/concept/530000168>, <https://stad.gent/id/concept/530000176>, <https://stad.gent/id/concept/530001507>, <https://stad.gent/id/concept/530008848>, <https://stad.gent/id/concept/530000171>, <https://stad.gent/id/concept/530008755>, <https://stad.gent/id/concept/530000438>, <https://stad.gent/id/concept/530003684>, <https://stad.gent/id/concept/530000208>, <https://stad.gent/id/concept/530010679>, <https://stad.gent/id/concept/530001515>, <https://stad.gent/id/concept/530001417>, <https://stad.gent/id/concept/530002703>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002703> <http://www.w3.org/2004/02/skos/core#prefLabel> "wijnglas"@nl.
+<https://stad.gent/id/concept/530001417> <http://www.w3.org/2004/02/skos/core#prefLabel> "waterglas"@nl.
+<https://stad.gent/id/concept/530001515> <http://www.w3.org/2004/02/skos/core#prefLabel> "vruchtensapglas"@nl.
+<https://stad.gent/id/concept/530010679> <http://www.w3.org/2004/02/skos/core#prefLabel> "punchkop"@nl.
+<https://stad.gent/id/concept/530000208> <http://www.w3.org/2004/02/skos/core#prefLabel> "likeurglas"@nl.
+<https://stad.gent/id/concept/530003684> <http://www.w3.org/2004/02/skos/core#prefLabel> "kelk"@nl.
+<https://stad.gent/id/concept/530000438> <http://www.w3.org/2004/02/skos/core#prefLabel> "jeneverglas"@nl.
+<https://stad.gent/id/concept/530008755> <http://www.w3.org/2004/02/skos/core#prefLabel> "coupe (glas)"@nl.
+<https://stad.gent/id/concept/530000171> <http://www.w3.org/2004/02/skos/core#prefLabel> "cognacglas"@nl.
+<https://stad.gent/id/concept/530008848> <http://www.w3.org/2004/02/skos/core#prefLabel> "cocktailglas"@nl.
+<https://stad.gent/id/concept/530001507> <http://www.w3.org/2004/02/skos/core#prefLabel> "borrelglas"@nl.
+<https://stad.gent/id/concept/530000176> <http://www.w3.org/2004/02/skos/core#prefLabel> "bokaal"@nl.
+<https://stad.gent/id/concept/530000168> <http://www.w3.org/2004/02/skos/core#prefLabel> "bitterglas"@nl.
+<https://stad.gent/id/concept/530000341> <http://www.w3.org/2004/02/skos/core#prefLabel> "bierglas"@nl.
+<https://stad.gent/id/concept/530001895> <http://www.w3.org/2004/02/skos/core#prefLabel> "advocaatglas"@nl.
+<https://stad.gent/id/concept/530006475> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkgerei"@nl.
+_:df_1795_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008516"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008516/2021-10-28T00:37:09.445Z>.
+<https://stad.gent/id/concept/530008251/2021-10-28T00:23:07.952Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008251>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:23:07.952Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2170970>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1888_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dronningmølle"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005982>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Denemarken"@nl.
+_:df_1888_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008251"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008251/2021-10-28T00:23:07.952Z>.
+<https://KasperZutterman.github.io///thesaurus/dr.ttl> <https://w3id.org/tree#relation> _:df_1_828.
+_:df_1_828 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/dro.ttl>;
+    <https://w3id.org/tree#value> "dro".
+<https://KasperZutterman.github.io///thesaurus/dr.ttl> <https://w3id.org/tree#relation> _:df_1_829.
+_:df_1_829 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/dri.ttl>;
+    <https://w3id.org/tree#value> "dri".
+<https://KasperZutterman.github.io///thesaurus/dr.ttl> <https://w3id.org/tree#relation> _:df_1_830.
+_:df_1_830 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/dra.ttl>;
+    <https://w3id.org/tree#value> "dra".
+<https://KasperZutterman.github.io///thesaurus/dr.ttl> <https://w3id.org/tree#relation> _:df_1_831.
+_:df_1_831 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/dru.ttl>;
+    <https://w3id.org/tree#value> "dru".
+<https://KasperZutterman.github.io///thesaurus/dr.ttl> <https://w3id.org/tree#relation> _:df_1_832.
+_:df_1_832 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/dre.ttl>;
+    <https://w3id.org/tree#value> "dre".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/dr.ttl>.

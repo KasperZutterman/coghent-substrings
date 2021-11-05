@@ -397,3 +397,148 @@ _:df_3670_25 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550005811"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005811/2021-10-28T05:14:42.462Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kam.ttl>.
+<https://stad.gent/id/concept/530010445/2021-10-28T02:59:19.699Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010445>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:59:19.699Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7244202>;
+    <http://www.w3.org/ns/adms#identifier> _:df_847_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kampenhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009325>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009325> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant"@nl.
+_:df_847_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010445"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010445/2021-10-28T02:59:19.699Z>.
+<https://stad.gent/id/concept/530008454/2021-10-28T00:32:34.863Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008454>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:32:34.863Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300227943>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1825_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Glad, stevig garen met een middelmatige tot harde twist, gesponnen van lange wolvezels die zijn gekaard en gekamd.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kamgaren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008453>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530004460>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004460> <http://www.w3.org/2004/02/skos/core#prefLabel> "borduurwol"@nl.
+<https://stad.gent/id/concept/530008453> <http://www.w3.org/2004/02/skos/core#prefLabel> "garen"@nl.
+_:df_1825_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008454"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008454/2021-10-28T00:32:34.863Z>.
+<https://stad.gent/id/concept/530001544/2021-10-27T20:56:17.453Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:56:17.453Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236397>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3283_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorwerpen met aan één of beide kanten een rij tanden die worden gebruikt voor het in orde brengen, ontwarren of schoonmaken van het haar.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kam (verzorgingsbenodigdheid)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008830>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008830> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting voor persoonlijk gebruik"@nl.
+_:df_3283_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001544/2021-10-27T20:56:17.453Z>.
+<https://stad.gent/id/concept/530001266/2021-10-27T20:47:44.627Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001266>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:47:44.627Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3340_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kamergemak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3340_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001266"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001266/2021-10-27T20:47:44.627Z>.
+<https://stad.gent/id/concept/530000945/2021-10-27T20:36:58.354Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000945>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:36:58.354Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265156>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3415_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar schermen die bestaan uit twee of meer panelen en doorgaans versierd en vaak gelakt zijn. De vorm is uitgevonden door de Chinezen en werd in de 2de eeuw v. Chr. reeds genoemd. De oudste nog bestaande exemplaren dateren van de Ming-dynastie. Vouwschermen werden in de 8ste eeuw vanuit China in Japan geïntroduceerd; deze schermen werden vaak paarsgewijs ontworpen in Japan. Vanaf de 17de eeuw werden oosterse vouwschermen in Europa geïmporteerd en de vorm werd al snel overgenomen door Europese vaklieden. Net als de Japanse bestonden de Europese vouwschermen doorgaans uit zes panelen; ze waren echter vaak hoger en kloeker.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kamerscherm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008858>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008858> <http://www.w3.org/2004/02/skos/core#prefLabel> "scherm (meubilair)"@nl.
+_:df_3415_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000945"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000945/2021-10-27T20:36:58.354Z>.
+<https://stad.gent/id/concept/530000415/2021-10-27T20:13:51.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000415>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:13:51.783Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046265>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3571_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kammen met drie of meer tanden en een decoratief bovendeel dat zichtbaar dient te blijven als de tanden in het haar zijn geschoven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kam (haarsieraad)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001547>, <https://stad.gent/id/concept/530006386>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006386> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraad"@nl, "sieraad"@nl.
+<https://stad.gent/id/concept/530001547> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledingaccessoire"@nl.
+_:df_3571_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000415"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000415/2021-10-27T20:13:51.783Z>.
+<https://stad.gent/id/concept/530000125/2021-10-27T19:59:20.439Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000125>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:59:20.439Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3673_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kammendoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003095>, <https://stad.gent/id/concept/530008859>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008859> <http://www.w3.org/2004/02/skos/core#prefLabel> "lampetstel"@nl.
+<https://stad.gent/id/concept/530003095> <http://www.w3.org/2004/02/skos/core#prefLabel> "doos (houder)"@nl.
+_:df_3673_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000125"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000125/2021-10-27T19:59:20.439Z>.
+<https://stad.gent/id/concept/470010509/2021-10-27T19:43:44.237Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010509>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:43:44.237Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300040045>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3781_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Draagbaar meubilair voor gebruik buitenshuis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kampeermeubilair"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3781_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010509"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010509/2021-10-27T19:43:44.237Z>.
+<https://stad.gent/id/concept/470010207/2021-10-27T19:37:12.592Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010207>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:37:12.592Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006948>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3826_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kampen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3826_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010207"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010207/2021-10-27T19:37:12.592Z>.
+<https://stad.gent/id/concept/470009595/2021-10-27T19:14:05.194Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009595>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:14:05.194Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300133771>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3991_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lichte, opklapbare stoelen met een zitting en rugleuning die meestal van canvas zijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kampeerstoel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3991_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009595"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009595/2021-10-27T19:14:05.194Z>.
+<https://stad.gent/id/concept/470008843/2021-10-27T18:52:30.869Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008843>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:52:30.869Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300008168>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4144_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor terreinen of gebieden om te kamperen met de benodigde faciliteiten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kampeerterrein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003308>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003308> <http://www.w3.org/2004/02/skos/core#prefLabel> "recreatiegebied"@nl.
+_:df_4144_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008843"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008843/2021-10-27T18:52:30.869Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kam.ttl>.

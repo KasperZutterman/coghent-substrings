@@ -169,3 +169,17 @@ _:df_3532_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550006333"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006333/2021-10-28T05:34:55.481Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hav.ttl>.
+<https://stad.gent/id/concept/530009854/2021-10-28T02:08:36.088Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009854>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:08:36.088Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1027187>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1186_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Havlíčkův Brod"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005587>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005587> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjechië"@nl.
+_:df_1186_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009854"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009854/2021-10-28T02:08:36.088Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hav.ttl>.

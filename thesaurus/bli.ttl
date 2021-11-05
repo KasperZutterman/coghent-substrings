@@ -35,3 +35,45 @@ _:df_3649_30 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000885"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000885/2021-10-28T16:13:10.772Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bli.ttl>.
+<https://stad.gent/id/concept/530005517/2021-10-27T22:55:05.549Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005517>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:55:05.549Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2476_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blindmerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010482>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010482> <http://www.w3.org/2004/02/skos/core#prefLabel> "merkteken (symbool)"@nl.
+_:df_2476_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005517"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005517/2021-10-27T22:55:05.549Z>.
+<https://stad.gent/id/concept/530001526/2021-10-27T20:55:29.410Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001526>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:55:29.410Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900032425>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3289_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dunne staalplaat bedekt met een laagje tin. De staalplaat wordt verkregen door uitwalsen van blokken in de walserij, wordt vervolgens ontvet, gebeitst en afgespoeld en door een tinbad gehaald. Tin hecht dan zeer goed en vormt een laagje van geringe dikte, dat het overige materiaal beschermt tegen aantasting.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blik (materiaal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002852>, <https://stad.gent/id/concept/530008452>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008452> <http://www.w3.org/2004/02/skos/core#prefLabel> "pleet (metaal)"@nl.
+<https://stad.gent/id/concept/530002852> <http://www.w3.org/2004/02/skos/core#prefLabel> "plaatstaal"@nl.
+_:df_3289_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001526"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001526/2021-10-27T20:55:29.410Z>.
+<https://stad.gent/id/concept/470008900/2021-10-27T18:54:28.219Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008900>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:54:28.219Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200648>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4129_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gerei met diverse scherpe punten en een snijkant dat wordt gebruikt voor het openen van blikken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "blikopener"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003609>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003609> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengereedschap voor het openen"@nl.
+_:df_4129_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008900"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008900/2021-10-27T18:54:28.219Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bli.ttl>.

@@ -65,3 +65,29 @@ _:df_4174_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570025013"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025013/2021-10-28T14:56:01.897Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/vog.ttl>.
+<https://stad.gent/id/concept/530001922/2021-10-27T21:10:25.419Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001922>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:10:25.419Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300220907>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3187_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Getraliede ruimte om er, in woningen, vogels in te houden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vogelkooi"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006466>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006466> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder"@nl.
+_:df_3187_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001922"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001922/2021-10-27T21:10:25.419Z>.
+<https://stad.gent/id/concept/470009436/2021-10-27T19:08:11.780Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009436>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:08:11.780Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1109783>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4033_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vogezen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4033_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009436"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009436/2021-10-27T19:08:11.780Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/vog.ttl>.

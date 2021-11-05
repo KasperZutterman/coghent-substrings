@@ -1315,3 +1315,272 @@ _:df_1_636 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ji.ttl>;
     <https://w3id.org/tree#value> "ji".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/j.ttl>.
+<https://stad.gent/id/concept/550005334/2021-10-28T04:59:54.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005334>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:59:54.089Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210062>;
+    <http://www.w3.org/ns/adms#identifier> _:df_49_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Afneembare geplooide draperieën van zachte stof, vaak kant, die in het midden aan de voorkant van de halslijn over andere kledingstukken worden gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jabot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005315>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005315> <http://www.w3.org/2004/02/skos/core#prefLabel> "boorden en dassen"@nl, "boorden en dassen"@nl.
+_:df_49_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005334"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005334/2021-10-28T04:59:54.089Z>.
+<https://stad.gent/id/concept/550005009/2021-10-28T04:47:13.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:47:13.785Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000120>;
+    <http://www.w3.org/ns/adms#identifier> _:df_133_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Japan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550003505>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006471>, <https://stad.gent/id/concept/550008608>, <https://stad.gent/id/concept/550006320>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tokyo"@nl.
+<https://stad.gent/id/concept/550008608> <http://www.w3.org/2004/02/skos/core#prefLabel> "Osaka"@nl.
+<https://stad.gent/id/concept/550006471> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kanazawa"@nl.
+<https://stad.gent/id/concept/550003505> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl.
+_:df_133_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005009/2021-10-28T04:47:13.785Z>.
+<https://stad.gent/id/concept/550004878/2021-10-28T04:44:41.920Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004878>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:44:41.920Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046143>;
+    <http://www.w3.org/ns/adms#identifier> _:df_151_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bovenkleding gevormd naar het bovenlichaam en doorlopend tot beneden de heuplijn, open aan de voor- of zijkant en in het algemeen met mouwen. Ook soortgelijke overkleding gedragen ter bescherming tegen het weer.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007849>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007849> <http://www.w3.org/2004/02/skos/core#prefLabel> "bovenkleding"@nl.
+_:df_151_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004878"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004878/2021-10-28T04:44:41.920Z>.
+<https://stad.gent/id/concept/550004667/2021-10-28T04:37:07.577Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004667>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:37:07.577Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026520>;
+    <http://www.w3.org/ns/adms#identifier> _:df_202_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jumet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008925>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+_:df_202_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004667"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004667/2021-10-28T04:37:07.577Z>.
+<https://stad.gent/id/concept/550004541/2021-10-28T04:30:32.044Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004541>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:30:32.044Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046159>;
+    <http://www.w3.org/ns/adms#identifier> _:df_244_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Eén- of meerdelige bovenkleding voor vrouwen en kinderen bestaande uit een lijfje en een rok.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "japon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007849>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007848>, <https://stad.gent/id/concept/550008279>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008279> <http://www.w3.org/2004/02/skos/core#prefLabel> "japonnen naar vorm"@nl.
+<https://stad.gent/id/concept/550007848> <http://www.w3.org/2004/02/skos/core#prefLabel> "japonnen naar functie"@nl.
+<https://stad.gent/id/concept/550007849> <http://www.w3.org/2004/02/skos/core#prefLabel> "bovenkleding"@nl.
+_:df_244_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004541"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004541/2021-10-28T04:30:32.044Z>.
+<https://stad.gent/id/concept/550003741/2021-10-28T04:16:03.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003741>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:16:03.151Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005238>;
+    <http://www.w3.org/ns/adms#identifier> _:df_343_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jersey"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_343_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003741"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003741/2021-10-28T04:16:03.151Z>.
+<https://stad.gent/id/concept/550003544/2021-10-28T04:10:41.426Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:10:41.426Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191481>;
+    <http://www.w3.org/ns/adms#identifier> _:df_376_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gegraveerde rekenpenningen of muntjes die sinds de 13e eeuw werden gebruikt als hulpmidel bij het maken van berekeningen; vaak zijn het kopïëen van munten uit dezelfde periode. Na de 16e eeuw voornamelijk gebruikt als souvenirs.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jeton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008172>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008172> <http://www.w3.org/2004/02/skos/core#prefLabel> "gebruikspenningen met betaalwaarde"@nl.
+_:df_376_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003544/2021-10-28T04:10:41.426Z>.
+<https://stad.gent/id/concept/550003168/2021-10-28T04:07:09.688Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003168>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:07:09.688Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_400_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De glimmende bastvezel van één van twee Oost-Indische planten (Corchorus olitorius en C. capsularis); wordt hoofdzakelijk gebruikt voor zakkengoed, goedkopere twijnsoorten en meubelstoffering.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jute (vezel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008783>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008783> <http://www.w3.org/2004/02/skos/core#prefLabel> "plantenvezel"@nl.
+_:df_400_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003168"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003168/2021-10-28T04:07:09.688Z>.
+<https://stad.gent/id/concept/550003019/2021-10-28T04:05:07.874Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003019>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:05:07.874Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011119>;
+    <http://www.w3.org/ns/adms#identifier> _:df_415_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een hard, fijnkorrelig gesteente samengesteld uit jadeiet of nefriet waarvan de kleur gewoonlijk varieert van donkergroen tot groenwit. Het heeft een hoge glans en wordt al heel lang gebruikt voor juwelen en siervoorwerpen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jade"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008781>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008781> <http://www.w3.org/2004/02/skos/core#prefLabel> "metamorf gesteente"@nl.
+_:df_415_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003019"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003019/2021-10-28T04:05:07.874Z>.
+<https://stad.gent/id/concept/550002688/2021-10-28T03:59:31.012Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002688>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:59:31.012Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007930>;
+    <http://www.w3.org/ns/adms#identifier> _:df_451_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jette"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008923>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008923> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussels Hoofdstedelijk Gewest"@nl.
+_:df_451_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002688"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002688/2021-10-28T03:59:31.012Z>.
+<https://stad.gent/id/concept/550001586/2021-10-28T03:42:34.147Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:42:34.147Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003695>;
+    <http://www.w3.org/ns/adms#identifier> _:df_565_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Java"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001658>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001658> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indonesië"@nl, "Indonesië"@nl.
+_:df_565_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001586/2021-10-28T03:42:34.147Z>.
+<https://stad.gent/id/concept/530010554/2021-10-28T03:06:57.422Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010554>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:06:57.422Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300025409>;
+    <http://www.w3.org/ns/adms#identifier> _:df_796_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "juwelier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010436>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010436> <http://www.w3.org/2004/02/skos/core#prefLabel> "personen in ambachten en beroepen"@nl.
+_:df_796_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010554"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010554/2021-10-28T03:06:57.422Z>.
+<https://stad.gent/id/concept/530010545/2021-10-28T03:06:17.413Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010545>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:06:17.413Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_799_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 2000"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_799_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010545"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010545/2021-10-28T03:06:17.413Z>.
+<https://stad.gent/id/concept/530010547/2021-10-28T03:06:22.414Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010547>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:06:22.414Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_799_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1930"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_799_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010547"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010547/2021-10-28T03:06:22.414Z>.
+<https://stad.gent/id/concept/530010539/2021-10-28T03:05:47.972Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010539>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:05:47.972Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_802_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1990"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_802_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010539"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010539/2021-10-28T03:05:47.972Z>.
+<https://stad.gent/id/concept/530010542/2021-10-28T03:05:57.975Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010542>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:05:57.975Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_802_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1940"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_802_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010542"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010542/2021-10-28T03:05:57.975Z>.
+<https://stad.gent/id/concept/530010543/2021-10-28T03:06:02.976Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010543>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:06:02.976Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_802_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 2010"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_802_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010543"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010543/2021-10-28T03:06:02.976Z>.
+<https://stad.gent/id/concept/530010544/2021-10-28T03:06:07.977Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:06:07.977Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_802_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1920"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_802_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010544/2021-10-28T03:06:07.977Z>.
+<https://stad.gent/id/concept/530010527/2021-10-28T03:05:22.964Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010527>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:05:22.964Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_805_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1950"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_805_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010527"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010527/2021-10-28T03:05:22.964Z>.
+<https://stad.gent/id/concept/530010535/2021-10-28T03:05:27.965Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010535>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:05:27.965Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_805_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "jaren 1910"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_805_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010535"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010535/2021-10-28T03:05:27.965Z>.
+<https://KasperZutterman.github.io///thesaurus/j.ttl> <https://w3id.org/tree#relation> _:df_1_328.
+_:df_1_328 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ja.ttl>;
+    <https://w3id.org/tree#value> "ja".
+<https://KasperZutterman.github.io///thesaurus/j.ttl> <https://w3id.org/tree#relation> _:df_1_329.
+_:df_1_329 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ju.ttl>;
+    <https://w3id.org/tree#value> "ju".
+<https://KasperZutterman.github.io///thesaurus/j.ttl> <https://w3id.org/tree#relation> _:df_1_330.
+_:df_1_330 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/jo.ttl>;
+    <https://w3id.org/tree#value> "jo".
+<https://KasperZutterman.github.io///thesaurus/j.ttl> <https://w3id.org/tree#relation> _:df_1_331.
+_:df_1_331 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/je.ttl>;
+    <https://w3id.org/tree#value> "je".
+<https://KasperZutterman.github.io///thesaurus/j.ttl> <https://w3id.org/tree#relation> _:df_1_332.
+_:df_1_332 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/jy.ttl>;
+    <https://w3id.org/tree#value> "jy".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/j.ttl>.

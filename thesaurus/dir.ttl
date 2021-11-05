@@ -105,3 +105,28 @@ _:df_3223_32 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550007996"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007996/2021-10-28T06:21:23.533Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/dir.ttl>.
+<https://stad.gent/id/concept/530007967/2021-10-28T00:15:44.816Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007967>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:15:44.816Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300025431>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1939_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "directeur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530007968>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530007968> <http://www.w3.org/2004/02/skos/core#prefLabel> "museumdirecteur"@nl.
+_:df_1939_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007967"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007967/2021-10-28T00:15:44.816Z>.
+<https://stad.gent/id/concept/530000618/2021-10-27T20:25:03.824Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000618>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:25:03.824Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300021267>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3496_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "directoire"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3496_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000618"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000618/2021-10-27T20:25:03.824Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/dir.ttl>.

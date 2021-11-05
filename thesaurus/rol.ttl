@@ -43,3 +43,31 @@ _:df_1510_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014986"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014986/2021-10-28T10:33:15.663Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/rol.ttl>.
+<https://stad.gent/id/concept/530004745/2021-10-27T22:31:54.532Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004745>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:31:54.532Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2632_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rolwagen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008632>, <https://stad.gent/id/concept/530006321>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010594>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010594> <http://www.w3.org/2004/02/skos/core#prefLabel> "serveerwagen"@nl.
+<https://stad.gent/id/concept/530006321> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair (objectnaam)"@nl.
+<https://stad.gent/id/concept/530008632> <http://www.w3.org/2004/02/skos/core#prefLabel> "gereedschap en uitrusting"@nl.
+_:df_2632_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004745"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004745/2021-10-27T22:31:54.532Z>.
+<https://stad.gent/id/concept/470008244/2021-10-27T18:35:50.181Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008244>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:35:50.181Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300229601>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4261_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schaatsen met wieltjes of rollers eronder, gealigneerd of in paren, die worden gebruikt op andere harde oppervlakken dan ijs. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rolschaats"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4261_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008244"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008244/2021-10-27T18:35:50.181Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/rol.ttl>.

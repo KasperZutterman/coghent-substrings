@@ -236,3 +236,139 @@ _:df_3631_28 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550005982"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005982/2021-10-28T05:20:35.045Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/dek.ttl>.
+<https://stad.gent/id/concept/530008718/2021-10-28T00:53:41.559Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008718>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:53:41.559Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198294>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1687_40;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dekschaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003520>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530002982>, <https://stad.gent/id/concept/530002897>, <https://stad.gent/id/concept/530008034>, <https://stad.gent/id/concept/530006403>, <https://stad.gent/id/concept/530000247>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000247> <http://www.w3.org/2004/02/skos/core#prefLabel> "vleesschaal"@nl.
+<https://stad.gent/id/concept/530006403> <http://www.w3.org/2004/02/skos/core#prefLabel> "schotel"@nl.
+<https://stad.gent/id/concept/530008034> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaasstolp"@nl.
+<https://stad.gent/id/concept/530002897> <http://www.w3.org/2004/02/skos/core#prefLabel> "groenteschaal"@nl.
+<https://stad.gent/id/concept/530002982> <http://www.w3.org/2004/02/skos/core#prefLabel> "botervloot"@nl.
+<https://stad.gent/id/concept/530003520> <http://www.w3.org/2004/02/skos/core#prefLabel> "schaal"@nl.
+_:df_1687_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008718"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008718/2021-10-28T00:53:41.559Z>.
+<https://stad.gent/id/concept/530008467/2021-10-28T00:33:19.877Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008467>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:33:19.877Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014907>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1822_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemeen te gebruiken elke substantie die ter bescherming of decoratie wordt aangebracht op een oppervlak.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deklaag (materiaal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004180>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006316>, <https://stad.gent/id/concept/530006467>, <https://stad.gent/id/concept/530005778>, <https://stad.gent/id/concept/530005751>, <https://stad.gent/id/concept/530004628>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004628> <http://www.w3.org/2004/02/skos/core#prefLabel> "verf"@nl.
+<https://stad.gent/id/concept/530005751> <http://www.w3.org/2004/02/skos/core#prefLabel> "lak"@nl.
+<https://stad.gent/id/concept/530005778> <http://www.w3.org/2004/02/skos/core#prefLabel> "inkt"@nl.
+<https://stad.gent/id/concept/530006467> <http://www.w3.org/2004/02/skos/core#prefLabel> "glazuur"@nl.
+<https://stad.gent/id/concept/530006316> <http://www.w3.org/2004/02/skos/core#prefLabel> "emaillak (materiaal)"@nl.
+<https://stad.gent/id/concept/530004180> <http://www.w3.org/2004/02/skos/core#prefLabel> "materiaal"@nl.
+_:df_1822_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008467"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008467/2021-10-28T00:33:19.877Z>.
+<https://stad.gent/id/concept/530005441/2021-10-27T22:52:53.733Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005441>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:52:53.733Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197367>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2491_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote rechthoekige dekkleden van dik, zacht materiaal ter beschutting tegen koude.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008250>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008250> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen"@nl.
+_:df_2491_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005441"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005441/2021-10-27T22:52:53.733Z>.
+<https://stad.gent/id/concept/530004404/2021-10-27T22:16:45.380Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004404>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:16:45.380Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2734_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dekbedset"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008637>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001610>, <https://stad.gent/id/concept/530000174>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000174> <http://www.w3.org/2004/02/skos/core#prefLabel> "kussensloop"@nl.
+<https://stad.gent/id/concept/530001610> <http://www.w3.org/2004/02/skos/core#prefLabel> "dekbedovertrek"@nl.
+<https://stad.gent/id/concept/530008637> <http://www.w3.org/2004/02/skos/core#prefLabel> "beddengoed"@nl.
+_:df_2734_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004404"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004404/2021-10-27T22:16:45.380Z>.
+<https://stad.gent/id/concept/530001899/2021-10-27T21:09:36.018Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001899>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:09:36.018Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042950>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3190_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dekselkom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530007935>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530007935> <http://www.w3.org/2004/02/skos/core#prefLabel> "kom"@nl.
+_:df_3190_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001899"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001899/2021-10-27T21:09:36.018Z>.
+<https://stad.gent/id/concept/530001906/2021-10-27T21:09:51.022Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001906>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:09:51.022Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3190_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schaal met deksel";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dekselschaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003520>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003520> <http://www.w3.org/2004/02/skos/core#prefLabel> "schaal"@nl.
+_:df_3190_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001906"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001906/2021-10-27T21:09:51.022Z>.
+<https://stad.gent/id/concept/530001610/2021-10-27T20:59:01.698Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001610>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:59:01.698Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3262_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwisselbaar omhulsel voor een dekbed.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dekbedovertrek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004404>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004404> <http://www.w3.org/2004/02/skos/core#prefLabel> "dekbedset"@nl.
+_:df_3262_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001610"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001610/2021-10-27T20:59:01.698Z>.
+<https://stad.gent/id/concept/530001477/2021-10-27T20:53:29.790Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001477>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:53:29.790Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3301_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vaas met deksel";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dekselvaas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008411>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008411> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaas"@nl.
+_:df_3301_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001477"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001477/2021-10-27T20:53:29.790Z>.
+<https://stad.gent/id/concept/530000351/2021-10-27T20:10:45.989Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000351>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:10:45.989Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045712>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3592_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Afsluiting van allerlei soorten houders; zitten daar soms met een scharnier of op andere wijze aan vast.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deksel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008651>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008651> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekking (sluiting)"@nl.
+_:df_3592_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000351"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000351/2021-10-27T20:10:45.989Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/dek.ttl>.

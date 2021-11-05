@@ -10,3 +10,18 @@ _:df_4093_16 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000095"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000095/2021-10-28T15:07:53.985Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/cat.ttl>.
+<https://stad.gent/id/concept/530008484/2021-10-28T00:34:47.433Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:34:47.433Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026059>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1813_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor, doorgaans systematische, lijsten van voorwerpen in boek- of pamfletvorm, op kaartjes of on-line, meestal met vermelding van bijzonderheden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "catalogus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008662>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008662> <http://www.w3.org/2004/02/skos/core#prefLabel> "document"@nl.
+_:df_1813_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008484/2021-10-28T00:34:47.433Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/cat.ttl>.

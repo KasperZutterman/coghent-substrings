@@ -152,3 +152,96 @@ _:df_3703_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550005637"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005637/2021-10-28T05:09:35.358Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/spr.ttl>.
+<https://stad.gent/id/concept/530008635/2021-10-28T00:47:15.763Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008635>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:47:15.763Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197889>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1729_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Term die voorheen werd gebruikt voor verschillende bedovertrekken, voornamelijk wanneer ze van katoen of van wol zijn geweven; vanaf het midden van de 19e eeuw werd de term doorgaans vervangen door 'spreien'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sprei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008636>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008636> <http://www.w3.org/2004/02/skos/core#prefLabel> "beddenkleed"@nl, "beddenkleed"@nl.
+_:df_1729_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008635"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530008635> <http://www.w3.org/2004/02/skos/core#prefLabel> "sprei"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008635/2021-10-28T00:47:15.763Z>.
+<https://stad.gent/id/concept/530008414/2021-10-28T00:29:58.918Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008414>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:29:58.918Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7271052>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1843_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sprang-Capelle"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009317>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009317> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord-Brabant"@nl.
+_:df_1843_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008414"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008414/2021-10-28T00:29:58.918Z>.
+<https://stad.gent/id/concept/530007332/2021-10-28T00:07:34.070Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007332>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:07:34.070Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7254403>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1993_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sprimont"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009330>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_1993_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007332"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007332/2021-10-28T00:07:34.070Z>.
+<https://stad.gent/id/concept/530005545/2021-10-27T22:56:00.133Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005545>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:56:00.133Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2470_39;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sprang (vlechttechniek), een vlechttechniek op een raamwerk; ook Egyptisch vlechten genoemd";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sprangtechniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530007960>, <https://stad.gent/id/concept/530004454>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004454> <http://www.w3.org/2004/02/skos/core#prefLabel> "weven"@nl.
+<https://stad.gent/id/concept/530007960> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlechten"@nl.
+_:df_2470_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005545"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005545/2021-10-27T22:56:00.133Z>.
+<https://stad.gent/id/concept/530003316/2021-10-27T21:48:01.337Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:48:01.337Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q390539>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2929_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spreekgestoelte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006321>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006321> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair (objectnaam)"@nl.
+_:df_2929_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003316"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003316/2021-10-27T21:48:01.337Z>.
+<https://stad.gent/id/concept/470010615/2021-10-27T19:46:10.603Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010615>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:46:10.603Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197889>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3763_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Term die voorheen werd gebruikt voor verschillende bedovertrekken, voornamelijk wanneer ze van katoen of van wol zijn geweven; vanaf het midden van de 19e eeuw werd de term doorgaans vervangen door 'spreien'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sprei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3763_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010615"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010615/2021-10-27T19:46:10.603Z>.
+<https://stad.gent/id/concept/470008023/2021-10-27T18:28:07.357Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008023>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:28:07.357Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300185684>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4315_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verhalen die zich afspelen in een ver verleden en waarin gebeurtenissen worden beschreven die in de echte wereld onmogelijk zouden kunnen plaatsvinden. Hoewel het vaak magische verhalen zijn waarin allerlei fantasiefiguren voorkomen, worden de hoofdrollen door mensen vertolkt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sprookje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4315_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008023"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008023/2021-10-27T18:28:07.357Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/spr.ttl>.

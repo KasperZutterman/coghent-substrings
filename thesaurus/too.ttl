@@ -50,3 +50,32 @@ _:df_3067_30 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550008262"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008262/2021-10-28T06:44:35.841Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/too.ttl>.
+<https://stad.gent/id/concept/530001605/2021-10-27T20:58:41.692Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001605>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:58:41.692Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300121378>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3265_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Benaming die oorspronkelijk werd gebruikt voor kleine tafels en kisten met een bovenkant die is bedoeld om geld te tellen, soms met een kastje eronder. De benaming werd later gebruikt voor kasten of plankachtige oppervlakken die meestal op een zodanige hoogte zitten dat de persoon die ervoor staat, zoals in een keuken of winkel, of op een kruk ervoor zit, zoals in een restaurant of bar, er gemakkelijk bij kan.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toonbank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005153>, <https://stad.gent/id/concept/530000111>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000111> <http://www.w3.org/2004/02/skos/core#prefLabel> "winkelinrichting"@nl.
+<https://stad.gent/id/concept/530005153> <http://www.w3.org/2004/02/skos/core#prefLabel> "kastmeubel"@nl.
+_:df_3265_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001605"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001605/2021-10-27T20:58:41.692Z>.
+<https://stad.gent/id/concept/470010602/2021-10-27T19:45:45.243Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010602>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:45:45.243Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300121378>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3766_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toonbank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470000955>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470000955> <http://www.w3.org/2004/02/skos/core#prefLabel> "kastmeubilair"@nl.
+_:df_3766_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010602"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010602/2021-10-27T19:45:45.243Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/too.ttl>.

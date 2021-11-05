@@ -33,3 +33,30 @@ _:df_1906_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570012424"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012424/2021-10-28T09:35:31.538Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/rei.ttl>.
+<https://stad.gent/id/concept/530006812/2021-10-27T23:52:30.687Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006812>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:52:30.687Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012667>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2092_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reinbek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_2092_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006812"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006812/2021-10-27T23:52:30.687Z>.
+<https://stad.gent/id/concept/530004579/2021-10-27T22:24:30.696Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004579>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:24:30.696Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2683_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reinigen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008172>, <https://stad.gent/id/concept/530008173>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008173> <http://www.w3.org/2004/02/skos/core#prefLabel> "vochtig reinigen"@nl.
+<https://stad.gent/id/concept/530008172> <http://www.w3.org/2004/02/skos/core#prefLabel> "droog reinigen"@nl.
+_:df_2683_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004579"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004579/2021-10-27T22:24:30.696Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/rei.ttl>.

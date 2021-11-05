@@ -618,3 +618,184 @@ _:df_3151_9 a <http://www.w3.org/ns/adms#Identifier>;
 <https://stad.gent/id/concept/550008114> <http://www.w3.org/2004/02/skos/core#prefLabel> "accessoires die om het middel of daaronder gedragen worden"@nl.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008114/2021-10-28T06:31:52.114Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ac.ttl>.
+<https://stad.gent/id/concept/550000347/2021-10-28T03:24:10.793Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000347>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:24:10.793Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300251645>;
+    <http://www.w3.org/ns/adms#identifier> _:df_685_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorwerpen of apparaten die op zichzelf niet noodzakelijk zijn, maar die de schoonheid, het comfort of de doeltreffendheid verhogen van andere zaken zoals bijvoorbeeld kleding of auto's.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "accessoire"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007761>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007761> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres naar functie"@nl.
+_:df_685_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000347"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000347/2021-10-28T03:24:10.793Z>.
+<https://stad.gent/id/concept/530010699/2021-10-28T03:18:42.257Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010699>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:18:42.257Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300251645>;
+    <http://www.w3.org/ns/adms#identifier> _:df_718_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorwerpen of apparaten die op zichzelf niet noodzakelijk zijn, maar die de schoonheid, het comfort of de doeltreffendheid verhogen van andere zaken zoals bijvoorbeeld kleding of auto's.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "accessoire"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009138>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009138> <http://www.w3.org/2004/02/skos/core#prefLabel> "hulpstuk"@nl.
+_:df_718_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010699"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010699/2021-10-28T03:18:42.257Z>.
+<https://stad.gent/id/concept/530010209/2021-10-28T02:39:18.493Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010209>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:39:18.493Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_982_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "acrylonitrile-butadiene-styrene plastic (pp)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010203>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010203> <http://www.w3.org/2004/02/skos/core#prefLabel> "styrene based polymer (pp)"@nl, "styrene based polymer (pp)"@nl, "styrene based polymer (pp)"@nl.
+_:df_982_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010209"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010209/2021-10-28T02:39:18.493Z>.
+<https://stad.gent/id/concept/530010210/2021-10-28T02:39:23.494Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010210>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:39:23.494Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_982_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "acrylonitrile-styrene-acrylate plastic (pp)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010203>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010203> <http://www.w3.org/2004/02/skos/core#prefLabel> "styrene based polymer (pp)"@nl, "styrene based polymer (pp)"@nl, "styrene based polymer (pp)"@nl.
+_:df_982_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010210"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010210/2021-10-28T02:39:23.494Z>.
+<https://stad.gent/id/concept/530008434/2021-10-28T00:31:08.033Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008434>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:31:08.033Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1834_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "acrylonitril styreen acrylaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1834_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008434"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008434/2021-10-28T00:31:08.033Z>.
+<https://stad.gent/id/concept/530008430/2021-10-28T00:30:48.029Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008430>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:30:48.029Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1837_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "acrylonitril butadieen styreen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1837_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008430"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008430/2021-10-28T00:30:48.029Z>.
+<https://stad.gent/id/concept/530008431/2021-10-28T00:30:53.029Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008431>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:30:53.029Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1837_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "acrylvezel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1837_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008431"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008431/2021-10-28T00:30:53.029Z>.
+<https://stad.gent/id/concept/530008423/2021-10-28T00:30:28.926Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008423>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:30:28.926Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014418>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1840_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "acrylonitril-butadieen-styreen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1840_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008423"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008423/2021-10-28T00:30:28.926Z>.
+<https://stad.gent/id/concept/530008425/2021-10-28T00:30:33.928Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008425>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:30:33.928Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1840_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "acrylonitrile butadiene styrene"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1840_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008425"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008425/2021-10-28T00:30:33.928Z>.
+<https://stad.gent/id/concept/530008182/2021-10-28T00:20:37.003Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008182>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:20:37.003Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1906_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aceton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008180>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008180> <http://www.w3.org/2004/02/skos/core#prefLabel> "solvent"@nl, "solvent"@nl.
+_:df_1906_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008182"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530008182> <http://www.w3.org/2004/02/skos/core#prefLabel> "aceton"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008182/2021-10-28T00:20:37.003Z>.
+<https://stad.gent/id/concept/530007668/2021-10-28T00:12:53.301Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007668>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:12:53.301Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1957_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "achterkant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1957_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007668"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007668/2021-10-28T00:12:53.301Z>.
+<https://stad.gent/id/concept/530006518/2021-10-27T23:42:40.951Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006518>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:42:40.951Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2158_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "acrylonitril-styreen-acrylaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2158_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006518"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006518/2021-10-27T23:42:40.951Z>.
+<https://stad.gent/id/concept/530001126/2021-10-27T20:42:49.734Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001126>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:42:49.734Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014426>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3376_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een kleurloze, transparante, thermoplastische, synthetische hars gemaakt door de polymerisatie van acrylzuur derivaten; wordt gebruikt voor hechtmiddelen, verharders, beschermlagen, vernis en als een bindmiddel in verven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "acryl"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003423>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003079>, <https://stad.gent/id/concept/530001884>, <https://stad.gent/id/concept/10001031>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/10001031> <http://www.w3.org/2004/02/skos/core#prefLabel> "polyacrylaat"@nl.
+<https://stad.gent/id/concept/530001884> <http://www.w3.org/2004/02/skos/core#prefLabel> "polyacrylaat"@nl.
+<https://stad.gent/id/concept/530003079> <http://www.w3.org/2004/02/skos/core#prefLabel> "koolstofvezel"@nl.
+<https://stad.gent/id/concept/530003423> <http://www.w3.org/2004/02/skos/core#prefLabel> "thermoplast"@nl.
+_:df_3376_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001126"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001126/2021-10-27T20:42:49.734Z>.
+<https://stad.gent/id/concept/470009302/2021-10-27T19:03:03.331Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009302>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:03:03.331Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300251645>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4069_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "accessoire"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4069_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009302"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009302/2021-10-27T19:03:03.331Z>.
+<https://stad.gent/id/concept/470008440/2021-10-27T18:41:40.990Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008440>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:41:40.990Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263157>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4219_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Personen die de acrobatiek beoefenen of erin zijn opgeleid.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "acrobaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470005167>, <https://stad.gent/id/concept/470003904>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003904> <http://www.w3.org/2004/02/skos/core#prefLabel> "slangenmens"@nl.
+<https://stad.gent/id/concept/470005167> <http://www.w3.org/2004/02/skos/core#prefLabel> "cascadeur"@nl.
+_:df_4219_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008440"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008440/2021-10-27T18:41:40.990Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ac.ttl>.

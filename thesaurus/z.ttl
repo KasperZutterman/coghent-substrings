@@ -1434,3 +1434,309 @@ _:df_1_256 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/zo.ttl>;
     <https://w3id.org/tree#value> "zo".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/z.ttl>.
+<https://stad.gent/id/concept/550005328/2021-10-28T04:59:36.688Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005328>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:59:36.688Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006927>;
+    <http://www.w3.org/ns/adms#identifier> _:df_52_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zeist"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_52_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005328"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005328/2021-10-28T04:59:36.688Z>.
+<https://stad.gent/id/concept/550005253/2021-10-28T04:55:52.194Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005253>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:55:52.194Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038494>;
+    <http://www.w3.org/ns/adms#identifier> _:df_76_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zitplaatsen voor twee of meer personen, meestal zonder rugleuning.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zitbank (meubilair)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005240>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005240> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair met meerdere zitplaatsen"@nl.
+_:df_76_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005253"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005253/2021-10-28T04:55:52.194Z>.
+<https://stad.gent/id/concept/550004953/2021-10-28T04:46:29.874Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004953>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:46:29.874Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011029>;
+    <http://www.w3.org/ns/adms#identifier> _:df_139_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor het zuivere metaalelement met het symbool Ag en het atoomnummer 47. Het metaal is smeedbaar, vervormbaar en wit van kleur met een kenmerkende glans en wordt als edel beschouwd. Ook te gebruiken voor dit metaal wanneer het wordt bewerkt en gevormd om, meestal in combinatie met andere stoffen, diverse voorwerpen en materialen te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zilver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008877>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000270>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000270> <http://www.w3.org/2004/02/skos/core#prefLabel> "zilverfolie"@nl.
+<https://stad.gent/id/concept/550008877> <http://www.w3.org/2004/02/skos/core#prefLabel> "zilver en zilverlegering"@nl.
+_:df_139_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004953"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004953/2021-10-28T04:46:29.874Z>.
+<https://stad.gent/id/concept/550004810/2021-10-28T04:42:29.045Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004810>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:42:29.045Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043062>;
+    <http://www.w3.org/ns/adms#identifier> _:df_166_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor tafelzout. Worden gemaakt in een grote verscheidenheid aan vormen, stijlen, materialen en grootte.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zoutvat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008254>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008254> <http://www.w3.org/2004/02/skos/core#prefLabel> "specerijvaten"@nl.
+_:df_166_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004810"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004810/2021-10-28T04:42:29.045Z>.
+<https://stad.gent/id/concept/550004597/2021-10-28T04:33:39.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004597>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:33:39.997Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026823>;
+    <http://www.w3.org/ns/adms#identifier> _:df_223_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zele"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_223_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004597"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004597/2021-10-28T04:33:39.997Z>.
+<https://stad.gent/id/concept/550004564/2021-10-28T04:31:57.646Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004564>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:31:57.646Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7258751>;
+    <http://www.w3.org/ns/adms#identifier> _:df_235_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zingem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_235_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004564"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004564/2021-10-28T04:31:57.646Z>.
+<https://stad.gent/id/concept/550004396/2021-10-28T04:26:17.065Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004396>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:26:17.065Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006866>;
+    <http://www.w3.org/ns/adms#identifier> _:df_274_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaltbommel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl, "Nederland"@nl.
+_:df_274_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004396"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004396/2021-10-28T04:26:17.065Z>.
+<https://stad.gent/id/concept/550004277/2021-10-28T04:23:14.087Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004277>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:23:14.087Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007302>;
+    <http://www.w3.org/ns/adms#identifier> _:df_295_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zürich"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005889>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005889> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_295_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004277"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004277/2021-10-28T04:23:14.087Z>.
+<https://stad.gent/id/concept/550004236/2021-10-28T04:22:20.542Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004236>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:22:20.542Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7030107>;
+    <http://www.w3.org/ns/adms#identifier> _:df_301_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zierikzee"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl.
+_:df_301_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004236"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004236/2021-10-28T04:22:20.542Z>.
+<https://stad.gent/id/concept/550004207/2021-10-28T04:21:46.648Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004207>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:21:46.648Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026821>;
+    <http://www.w3.org/ns/adms#identifier> _:df_304_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zedelgem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl, "West-Vlaanderen"@nl.
+_:df_304_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004207"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004207/2021-10-28T04:21:46.648Z>.
+<https://stad.gent/id/concept/550004188/2021-10-28T04:21:31.644Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004188>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:21:31.644Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_307_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zonnewijzermaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_307_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004188"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004188/2021-10-28T04:21:31.644Z>.
+<https://stad.gent/id/concept/550003837/2021-10-28T04:18:29.223Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003837>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:18:29.223Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_325_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het gezwingelde vlas (zie zwingelmes) of de hennep (1) wordt gezuiverd, d.i. ontdoen van knopen en de nog laatste achtergebleven lemen en klodden (korte en zwakke vezels), door de vezels door de tanden van de grove hekel, ook voorhekel genoemd, en daarna door een fijnere hekel te trekken.\r\n\r\nBeide, zuiverhekel genoemd om hem te onderscheiden van de spinhekel, bestaan uit een schuin (ca. 80°) opgestelde houten plank voorzien van een 5-16-tal tanden (ca. 8-12 cm lang) (2) die geschrankt staan. De plank, soms voorzien van een uitsparing om de voet door te steken, is aan een (houten) voetplank bevestigd. Ook in de vorm van een hekelplank of -bank (3).\r\n\r\nTe onderscheiden van de spinhekel waarbij de vezels worden gekamd juist voor ze gesponnen worden. [MOT]";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zuiverhekel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008376>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008376> <http://www.w3.org/2004/02/skos/core#prefLabel> "landbouwuitrusting"@nl.
+_:df_325_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003837"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003837/2021-10-28T04:18:29.223Z>.
+<https://stad.gent/id/concept/550003291/2021-10-28T04:09:17.407Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003291>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:09:17.407Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010665>;
+    <http://www.w3.org/ns/adms#identifier> _:df_385_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een porseleinsoort die is gemaakt van witte porseleinklei en gepoederd glas, dat de veldspaathoudende steen van 'hard porselein' vervangt. Het wordt zacht gebakken op de relatief lage temperatuur van ongeveer 1200 graden Celsius. Kenmerkend is dat de niet geglaceerde gebieden in gebakken toestand kunnen worden gesneden met een vijl en dat het een doorschijnendheid heeft die varieert in intensiteit en kleur.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zacht porselein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004914>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004914> <http://www.w3.org/2004/02/skos/core#prefLabel> "porselein"@nl.
+_:df_385_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003291"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003291/2021-10-28T04:09:17.407Z>.
+<https://stad.gent/id/concept/550003316/2021-10-28T04:09:32.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:09:32.412Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000002>;
+    <http://www.w3.org/ns/adms#identifier> _:df_385_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuid-Amerika"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008928>, <https://stad.gent/id/concept/550003272>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003272> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brazilië"@nl.
+<https://stad.gent/id/concept/550008928> <http://www.w3.org/2004/02/skos/core#prefLabel> "Argentinië"@nl.
+_:df_385_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003316"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003316/2021-10-28T04:09:32.412Z>.
+<https://stad.gent/id/concept/550003170/2021-10-28T04:07:14.690Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003170>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:07:14.690Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194553>;
+    <http://www.w3.org/ns/adms#identifier> _:df_400_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine of iets grotere tassen, vooral om kleine voorwerpen of kleine hoeveelheden in op te bergen, vaak met een sluitkoord, een flap of ander sluitmechanisme.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zak (houder)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006009>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006009> <http://www.w3.org/2004/02/skos/core#prefLabel> "tas (houder)"@nl.
+_:df_400_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003170"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003170/2021-10-28T04:07:14.690Z>.
+<https://stad.gent/id/concept/550002897/2021-10-28T04:03:26.776Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002897>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:03:26.776Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037769>;
+    <http://www.w3.org/ns/adms#identifier> _:df_424_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zitmeubel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007836>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007835>, <https://stad.gent/id/concept/550005240>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005240> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair met meerdere zitplaatsen"@nl.
+<https://stad.gent/id/concept/550007835> <http://www.w3.org/2004/02/skos/core#prefLabel> "eenpersoonszitmeubels"@nl.
+<https://stad.gent/id/concept/550007836> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair naar vorm of functie"@nl.
+_:df_424_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002897"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002897/2021-10-28T04:03:26.776Z>.
+<https://stad.gent/id/concept/550002756/2021-10-28T04:01:05.195Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002756>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:01:05.195Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200088>;
+    <http://www.w3.org/ns/adms#identifier> _:df_442_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor horloges die zijn ontworpen om in zakken te worden gedragen, in tegenstelling tot horloges die bijvoorbeeld zijn bedoeld om rond de pols of aan een ketting te worden gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zakhorloge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002036>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002036> <http://www.w3.org/2004/02/skos/core#prefLabel> "horloge"@nl.
+_:df_442_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002756"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002756/2021-10-28T04:01:05.195Z>.
+<https://stad.gent/id/concept/550002523/2021-10-28T03:57:27.847Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002523>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:57:27.847Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011376>;
+    <http://www.w3.org/ns/adms#identifier> _:df_466_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een gefuseerd sedimentair gesteente bestaande uit zandkorrels die zijn samengevoegd met een natuurlijk bindend materiaal; het meest voorkomende zand in zandsteen bevat kwarts, met aanzienlijke hoeveelheden veldspaat, kalk, mica en kleiachtige materie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zandsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008786>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008791>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008791> <http://www.w3.org/2004/02/skos/core#prefLabel> "zandsteen naar samenstelling"@nl.
+<https://stad.gent/id/concept/550008786> <http://www.w3.org/2004/02/skos/core#prefLabel> "afzettingsgesteente naar samenstelling"@nl.
+_:df_466_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002523"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002523/2021-10-28T03:57:27.847Z>.
+<https://stad.gent/id/concept/550002461/2021-10-28T03:56:14.517Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002461>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:56:14.517Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300001571>;
+    <http://www.w3.org/ns/adms#identifier> _:df_472_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt in de bouwkunde gebruikt om te verwijzen naar cilindrische of enigszins taps toelopende, rechtopstaande metselwerken, die meestal een dragende functie hebben of lijken te hebben. Ze bestaan uit drie onderdelen: voetstuk, kapiteel en schacht. De term kan ook verwijzen naar alle rechtopstaande delen in een stalen of betonnen raamwerk. Ook komen zuilen soms ook voor als vrijstaand monument, bijvoorbeeld de Zuil van Trajanus in Rome of de Zuil van Nelson in Londen. Zuilen kunnen voorts als decoratief element in meubilair worden toegepast. Zie 'pijlers (dragende elementen)' voor vierkante of rechthoekige delen, in metselwerk of klassiek bewerkt, en voor de massieve rechtopstaande delen uit de middeleeuwse architectuur. Zie 'palen' voor vierkante, rechtopstaande stutten van hout.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zuil (architecturaal element)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008192>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008192> <http://www.w3.org/2004/02/skos/core#prefLabel> "zuilen en zuilonderdelen"@nl.
+_:df_472_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002461"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002461/2021-10-28T03:56:14.517Z>.
+<https://stad.gent/id/concept/550001787/2021-10-28T03:45:45.758Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001787>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:45:45.758Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026820>;
+    <http://www.w3.org/ns/adms#identifier> _:df_544_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaventem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008920>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant"@nl.
+_:df_544_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001787"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001787/2021-10-28T03:45:45.758Z>.
+<https://KasperZutterman.github.io///thesaurus/z.ttl> <https://w3id.org/tree#relation> _:df_1_260.
+_:df_1_260 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/zu.ttl>;
+    <https://w3id.org/tree#value> "zu".
+<https://KasperZutterman.github.io///thesaurus/z.ttl> <https://w3id.org/tree#relation> _:df_1_261.
+_:df_1_261 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/za.ttl>;
+    <https://w3id.org/tree#value> "za".
+<https://KasperZutterman.github.io///thesaurus/z.ttl> <https://w3id.org/tree#relation> _:df_1_262.
+_:df_1_262 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ze.ttl>;
+    <https://w3id.org/tree#value> "ze".
+<https://KasperZutterman.github.io///thesaurus/z.ttl> <https://w3id.org/tree#relation> _:df_1_263.
+_:df_1_263 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/zi.ttl>;
+    <https://w3id.org/tree#value> "zi".
+<https://KasperZutterman.github.io///thesaurus/z.ttl> <https://w3id.org/tree#relation> _:df_1_264.
+_:df_1_264 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/zw.ttl>;
+    <https://w3id.org/tree#value> "zw".
+<https://KasperZutterman.github.io///thesaurus/z.ttl> <https://w3id.org/tree#relation> _:df_1_265.
+_:df_1_265 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/zo.ttl>;
+    <https://w3id.org/tree#value> "zo".
+<https://KasperZutterman.github.io///thesaurus/z.ttl> <https://w3id.org/tree#relation> _:df_1_266.
+_:df_1_266 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/zd.ttl>;
+    <https://w3id.org/tree#value> "zd".
+<https://KasperZutterman.github.io///thesaurus/z.ttl> <https://w3id.org/tree#relation> _:df_1_267.
+_:df_1_267 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/zl.ttl>;
+    <https://w3id.org/tree#value> "zl".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/z.ttl>.

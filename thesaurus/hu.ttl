@@ -782,3 +782,292 @@ _:df_2740_30 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570000292"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000292/2021-10-28T07:33:08.094Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hu.ttl>.
+<https://stad.gent/id/concept/550002480/2021-10-28T03:56:47.832Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002480>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:56:47.832Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300390909>;
+    <http://www.w3.org/ns/adms#identifier> _:df_469_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Altaar in een huiskapel of in een andere kamer van het huis. Ook wel aanduiding voor een tot een ensemble samengestelde groep devotionalia.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huisaltaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007632>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007632> <http://www.w3.org/2004/02/skos/core#prefLabel> "altaar"@nl.
+_:df_469_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002480"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002480/2021-10-28T03:56:47.832Z>.
+<https://stad.gent/id/concept/530010657/2021-10-28T03:15:14.555Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010657>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:15:14.555Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7243809>;
+    <http://www.w3.org/ns/adms#identifier> _:df_739_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Huise"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005209>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005209> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl, "Oost-Vlaanderen"@nl.
+_:df_739_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010657"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010657/2021-10-28T03:15:14.555Z>.
+<https://stad.gent/id/concept/530010450/2021-10-28T02:59:44.706Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010450>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:59:44.706Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_844_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huishouden (ok)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001242>, <https://stad.gent/id/concept/530009136>, <https://stad.gent/id/concept/530006392>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006392> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafelgerei (objectcategorie) (ok)"@nl.
+<https://stad.gent/id/concept/530009136> <http://www.w3.org/2004/02/skos/core#prefLabel> "huishoudelijke apparaten"@nl.
+<https://stad.gent/id/concept/530001242> <http://www.w3.org/2004/02/skos/core#prefLabel> "keuken- en kookgerei (ok)"@nl.
+_:df_844_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010450"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010450/2021-10-28T02:59:44.706Z>.
+<https://stad.gent/id/concept/530009471/2021-10-28T01:37:08.252Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:37:08.252Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047866>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1396_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Huizen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009318>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009318> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord-Holland"@nl.
+_:df_1396_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009471/2021-10-28T01:37:08.252Z>.
+<https://stad.gent/id/concept/530009138/2021-10-28T01:12:09.722Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009138>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:12:09.722Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1561_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hulpstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010699>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010699> <http://www.w3.org/2004/02/skos/core#prefLabel> "accessoire"@nl.
+_:df_1561_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009138"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009138/2021-10-28T01:12:09.722Z>.
+<https://stad.gent/id/concept/530009136/2021-10-28T01:11:56.290Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009136>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:11:56.290Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300257284>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1564_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huishoudelijke apparaten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010450>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010450> <http://www.w3.org/2004/02/skos/core#prefLabel> "huishouden (ok)"@nl.
+_:df_1564_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009136"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009136/2021-10-28T01:11:56.290Z>.
+<https://stad.gent/id/concept/530008875/2021-10-28T01:05:10.206Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008875>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:05:10.206Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300257284>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1609_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Toestellen die door brandstof of elektriciteit worden aangedreven en die in het huishouden worden gebruikt voor het vergemakkelijken van taken zoals het bereiden van een maaltijd, het opslaan van voeding, schoonmaken en verzorging.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huishoudelijk apparaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008780>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530004655>, <https://stad.gent/id/concept/530003107>, <https://stad.gent/id/concept/530010692>, <https://stad.gent/id/concept/530008150>, <https://stad.gent/id/concept/530000391>, <https://stad.gent/id/concept/530000657>, <https://stad.gent/id/concept/530003103>, <https://stad.gent/id/concept/530002784>, <https://stad.gent/id/concept/530001258>, <https://stad.gent/id/concept/530009144>, <https://stad.gent/id/concept/530004645>, <https://stad.gent/id/concept/530003104>, <https://stad.gent/id/concept/530002085>, <https://stad.gent/id/concept/530003864>, <https://stad.gent/id/concept/530003861>, <https://stad.gent/id/concept/530001975>, <https://stad.gent/id/concept/530002863>, <https://stad.gent/id/concept/530003105>, <https://stad.gent/id/concept/530009143>, <https://stad.gent/id/concept/530003106>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003106> <http://www.w3.org/2004/02/skos/core#prefLabel> "droogzwierder"@nl.
+<https://stad.gent/id/concept/530009143> <http://www.w3.org/2004/02/skos/core#prefLabel> "yoghurtketel"@nl.
+<https://stad.gent/id/concept/530003105> <http://www.w3.org/2004/02/skos/core#prefLabel> "wasmachine"@nl.
+<https://stad.gent/id/concept/530002863> <http://www.w3.org/2004/02/skos/core#prefLabel> "wafelijzer"@nl.
+<https://stad.gent/id/concept/530001975> <http://www.w3.org/2004/02/skos/core#prefLabel> "vruchtenpers"@nl.
+<https://stad.gent/id/concept/530003861> <http://www.w3.org/2004/02/skos/core#prefLabel> "strijkijzer"@nl.
+<https://stad.gent/id/concept/530003864> <http://www.w3.org/2004/02/skos/core#prefLabel> "stofzuiger"@nl.
+<https://stad.gent/id/concept/530002085> <http://www.w3.org/2004/02/skos/core#prefLabel> "scheerapparaat"@nl.
+<https://stad.gent/id/concept/530003104> <http://www.w3.org/2004/02/skos/core#prefLabel> "mixer"@nl.
+<https://stad.gent/id/concept/530004645> <http://www.w3.org/2004/02/skos/core#prefLabel> "microgolfoven"@nl.
+<https://stad.gent/id/concept/530009144> <http://www.w3.org/2004/02/skos/core#prefLabel> "massageapparaat"@nl.
+<https://stad.gent/id/concept/530001258> <http://www.w3.org/2004/02/skos/core#prefLabel> "krulijzer"@nl.
+<https://stad.gent/id/concept/530002784> <http://www.w3.org/2004/02/skos/core#prefLabel> "koffiezetapparaat"@nl.
+<https://stad.gent/id/concept/530003103> <http://www.w3.org/2004/02/skos/core#prefLabel> "koelkast"@nl.
+<https://stad.gent/id/concept/530000657> <http://www.w3.org/2004/02/skos/core#prefLabel> "kachel"@nl.
+<https://stad.gent/id/concept/530000391> <http://www.w3.org/2004/02/skos/core#prefLabel> "haardroger"@nl.
+<https://stad.gent/id/concept/530008150> <http://www.w3.org/2004/02/skos/core#prefLabel> "frituurpan"@nl.
+<https://stad.gent/id/concept/530010692> <http://www.w3.org/2004/02/skos/core#prefLabel> "eierkoker"@nl.
+<https://stad.gent/id/concept/530003107> <http://www.w3.org/2004/02/skos/core#prefLabel> "diepvriezer"@nl.
+<https://stad.gent/id/concept/530004655> <http://www.w3.org/2004/02/skos/core#prefLabel> "broodrooster"@nl.
+<https://stad.gent/id/concept/530008780> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting (objectnaam)"@nl.
+_:df_1609_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008875"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008875/2021-10-28T01:05:10.206Z>.
+<https://stad.gent/id/concept/530008143/2021-10-28T00:19:13.797Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008143>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:19:13.797Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7243799>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1915_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Huizingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009382>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009382> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beersel"@nl.
+_:df_1915_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008143"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008143/2021-10-28T00:19:13.797Z>.
+<https://stad.gent/id/concept/530007402/2021-10-28T00:10:12.966Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007402>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:10:12.966Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010462>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1975_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Huddersfield"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009323>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009323> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl.
+_:df_1975_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007402"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007402/2021-10-28T00:10:12.966Z>.
+<https://stad.gent/id/concept/530007284/2021-10-28T00:05:56.006Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007284>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:05:56.006Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7031599>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2002_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Humlebæk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005982>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Denemarken"@nl.
+_:df_2002_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007284"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007284/2021-10-28T00:05:56.006Z>.
+<https://stad.gent/id/concept/530007211/2021-10-28T00:03:29.296Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:03:29.296Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q24384975>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2020_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Huhmari"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006015>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006015> <http://www.w3.org/2004/02/skos/core#prefLabel> "Finland"@nl.
+_:df_2020_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007211"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007211/2021-10-28T00:03:29.296Z>.
+<https://stad.gent/id/concept/530005854/2021-10-27T23:10:42.827Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005854>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:10:42.827Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195814>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2371_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Huishoudelijke voorwerpen, meestal draagbaar, waar mensen op kunnen gaan staan om hun gewicht vast te stellen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huishoudweegschaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001488>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001488> <http://www.w3.org/2004/02/skos/core#prefLabel> "weegschaal"@nl.
+_:df_2371_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005854"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005854/2021-10-27T23:10:42.827Z>.
+<https://stad.gent/id/concept/530005406/2021-10-27T22:51:11.390Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005406>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:51:11.390Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7243794>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2500_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Huldenberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009325>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009325> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant"@nl.
+_:df_2500_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005406"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005406/2021-10-27T22:51:11.390Z>.
+<https://stad.gent/id/concept/530003307/2021-10-27T21:47:46.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003307>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:47:46.333Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007896>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2929_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Huy"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009330>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_2929_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003307"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003307/2021-10-27T21:47:46.333Z>.
+<https://stad.gent/id/concept/530002075/2021-10-27T21:17:18.957Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002075>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:17:18.957Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q609781>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3139_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "eenduidige verzameling van presentatie-onderdelen (zoals logo en lettertype) van een organisatie";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huisstijl"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008736>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010650>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010650> <http://www.w3.org/2004/02/skos/core#prefLabel> "logo"@nl.
+<https://stad.gent/id/concept/530008736> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenre"@nl.
+_:df_3139_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002075"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002075/2021-10-27T21:17:18.957Z>.
+<https://stad.gent/id/concept/530001652/2021-10-27T21:01:13.498Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:01:13.498Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300390909>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3247_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Altaar in een huiskapel of in een andere kamer van het huis. Ook wel aanduiding voor een tot een ensemble samengestelde groep devotionalia.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huisaltaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008847>, <https://stad.gent/id/concept/530000740>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000740> <http://www.w3.org/2004/02/skos/core#prefLabel> "religieus object"@nl.
+<https://stad.gent/id/concept/530008847> <http://www.w3.org/2004/02/skos/core#prefLabel> "altaar"@nl.
+_:df_3247_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001652"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001652/2021-10-27T21:01:13.498Z>.
+<https://stad.gent/id/concept/530001037/2021-10-27T20:40:52.891Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001037>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:40:52.891Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7162678>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3388_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hüttensteinach"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_3388_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001037"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001037/2021-10-27T20:40:52.891Z>.
+<https://stad.gent/id/concept/470009955/2021-10-27T19:26:36.926Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009955>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:26:36.926Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047866>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3901_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Huizen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3901_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009955"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009955/2021-10-27T19:26:36.926Z>.
+<https://stad.gent/id/concept/470009472/2021-10-27T19:09:44.567Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009472>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:09:44.567Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7243799>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4021_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Huizingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4021_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009472"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009472/2021-10-27T19:09:44.567Z>.
+<https://stad.gent/id/concept/470008637/2021-10-27T18:46:53.611Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:46:53.611Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q259059>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4183_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geheel van zaken betreffende de dagelijkse zorg voor een woning en haar bewoners.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huishouden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4183_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008637/2021-10-27T18:46:53.611Z>.
+<https://KasperZutterman.github.io///thesaurus/hu.ttl> <https://w3id.org/tree#relation> _:df_1_1247.
+_:df_1_1247 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/hui.ttl>;
+    <https://w3id.org/tree#value> "hui".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hu.ttl>.

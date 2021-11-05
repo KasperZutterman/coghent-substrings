@@ -121,3 +121,56 @@ _:df_2278_16 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009227"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009227/2021-10-28T08:41:03.949Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bau.ttl>.
+<https://stad.gent/id/concept/530009758/2021-10-28T02:00:07.736Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009758>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:00:07.736Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026312>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1240_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Baudour"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008347>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008347> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+_:df_1240_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009758"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009758/2021-10-28T02:00:07.736Z>.
+<https://stad.gent/id/concept/530006113/2021-10-27T23:21:54.760Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006113>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:21:54.760Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300021432>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2296_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar de Duitse school voor kunst, ontwerp en architectuur die actief was in Weimar van 1919 tot 1925, in Dessau van 1925 tot 1932 en in Berlijn van 1932 tot 1933. Er werden studenten opgeleid in beeldende kunsten en ambachten, en er werden objecten en bouwontwerpen gemaakt die bedoeld waren voor massaproductie en waren gebaseerd op eenvoudige geometrische vormen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bauhaus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009881>, <https://stad.gent/id/concept/530009269>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en, "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009269> <http://www.w3.org/2004/02/skos/core#prefLabel> "1ste helft 20ste eeuw"@nl.
+<https://stad.gent/id/concept/530009881> <http://www.w3.org/2004/02/skos/core#prefLabel> "moderne Europese stijlen en stromingen"@nl.
+_:df_2296_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006113"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006113/2021-10-27T23:21:54.760Z>.
+<https://stad.gent/id/concept/530005426/2021-10-27T22:52:00.145Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005426>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:52:00.145Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026312>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2497_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Baudour (Saint-Ghislain)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009400>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009400> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint-Ghislain"@nl.
+_:df_2497_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005426"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005426/2021-10-27T22:52:00.145Z>.
+<https://stad.gent/id/concept/470007931/2021-10-27T18:26:15.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007931>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:26:15.239Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300021432>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4330_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bauhaus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4330_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007931"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007931/2021-10-27T18:26:15.239Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bau.ttl>.

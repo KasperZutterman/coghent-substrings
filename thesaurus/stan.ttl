@@ -172,3 +172,35 @@ _:df_3283_2 a <http://www.w3.org/ns/adms#Identifier>;
 <https://stad.gent/id/concept/550007889> <http://www.w3.org/2004/02/skos/core#prefLabel> "standbeeld"@nl.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007889/2021-10-28T06:11:58.657Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/stan.ttl>.
+<https://stad.gent/id/concept/530000002/2021-10-27T19:53:26.292Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:53:26.292Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300039767>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3712_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tafelachtige meubelsstukken om voorwerpen te dragen en ze te vertonen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standaard (dragend meubilair)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006321>, <https://stad.gent/id/concept/530008714>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008714> <http://www.w3.org/2004/02/skos/core#prefLabel> "standaard (ondersteunend meubilair)"@nl.
+<https://stad.gent/id/concept/530006321> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair (objectnaam)"@nl.
+_:df_3712_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000002/2021-10-27T19:53:26.292Z>.
+<https://stad.gent/id/concept/470008740/2021-10-27T18:50:07.897Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:50:07.897Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300047600>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4162_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Rondsculpturen van menselijke of dierlijke figuren of kleine groepen van figuren, steeds ten voeten uit, staande of zittende, meestal in een open ruimte en op een sokkel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "standbeeld"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470005485>, <https://stad.gent/id/concept/470001540>, <https://stad.gent/id/concept/470005572>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005572> <http://www.w3.org/2004/02/skos/core#prefLabel> "tuinbeeld"@nl.
+<https://stad.gent/id/concept/470001540> <http://www.w3.org/2004/02/skos/core#prefLabel> "heiligenbeeld"@nl.
+<https://stad.gent/id/concept/470005485> <http://www.w3.org/2004/02/skos/core#prefLabel> "corpus (Christus)"@nl.
+_:df_4162_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008740"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008740/2021-10-27T18:50:07.897Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/stan.ttl>.

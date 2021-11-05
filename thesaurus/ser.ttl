@@ -119,3 +119,153 @@ _:df_4183_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024988"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024988/2021-10-28T14:54:53.552Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ser.ttl>.
+<https://stad.gent/id/concept/530005735/2021-10-27T23:05:50.617Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005735>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:05:50.617Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236054>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2404_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Groepen van bij elkaar passende stellen tafelgerei om een maaltijd te serveren voor een aantal aanzittenden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "servies"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004811>, <https://stad.gent/id/concept/530009462>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008869>, <https://stad.gent/id/concept/530001551>, <https://stad.gent/id/concept/530006169>, <https://stad.gent/id/concept/530008273>, <https://stad.gent/id/concept/530004702>, <https://stad.gent/id/concept/530006163>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006163> <http://www.w3.org/2004/02/skos/core#prefLabel> "theeservies"@nl.
+<https://stad.gent/id/concept/530004702> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontbijtservies"@nl.
+<https://stad.gent/id/concept/530008273> <http://www.w3.org/2004/02/skos/core#prefLabel> "likeurstel"@nl.
+<https://stad.gent/id/concept/530006169> <http://www.w3.org/2004/02/skos/core#prefLabel> "koffieservies"@nl.
+<https://stad.gent/id/concept/530001551> <http://www.w3.org/2004/02/skos/core#prefLabel> "koffie- en theeservies"@nl.
+<https://stad.gent/id/concept/530008869> <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderservies"@nl.
+<https://stad.gent/id/concept/530009462> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafelgerei (objectnaam)"@nl.
+<https://stad.gent/id/concept/530004811> <http://www.w3.org/2004/02/skos/core#prefLabel> "stel"@nl.
+_:df_2404_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005735"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005735/2021-10-27T23:05:50.617Z>.
+<https://stad.gent/id/concept/530005671/2021-10-27T23:02:22.599Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005671>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:02:22.599Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300254477>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2425_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Keukengerei met een spatelvormig blad zonder snijkant dat wordt gebruikt voor het opdienen van vlees van een bord.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "serveermes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000132>, <https://stad.gent/id/concept/530005322>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000434>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000434> <http://www.w3.org/2004/02/skos/core#prefLabel> "vismes (serveergerei)"@nl.
+<https://stad.gent/id/concept/530005322> <http://www.w3.org/2004/02/skos/core#prefLabel> "serveergerei"@nl.
+<https://stad.gent/id/concept/530000132> <http://www.w3.org/2004/02/skos/core#prefLabel> "mes (culinair gereedschap)"@nl.
+_:df_2425_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005671"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005671/2021-10-27T23:02:22.599Z>.
+<https://stad.gent/id/concept/530005670/2021-10-27T23:02:14.580Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005670>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:02:14.580Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207610>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2428_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote vorken die voornamelijk zijn bedoeld voor het opdienen van voedsel van dienbladen, schalen of soortgelijke voorwerpen. Gaan soms samen met een opscheplepel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "serveervork"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005322>, <https://stad.gent/id/concept/530000864>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000325>, <https://stad.gent/id/concept/530000435>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000435> <http://www.w3.org/2004/02/skos/core#prefLabel> "visvork (serveergerei)"@nl.
+<https://stad.gent/id/concept/530000325> <http://www.w3.org/2004/02/skos/core#prefLabel> "dienvork"@nl.
+<https://stad.gent/id/concept/530000864> <http://www.w3.org/2004/02/skos/core#prefLabel> "vork"@nl.
+<https://stad.gent/id/concept/530005322> <http://www.w3.org/2004/02/skos/core#prefLabel> "serveergerei"@nl.
+_:df_2428_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005670"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005670/2021-10-27T23:02:14.580Z>.
+<https://stad.gent/id/concept/530005429/2021-10-27T22:52:10.148Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005429>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:52:10.148Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026723>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2494_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Seraing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009330>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005433>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005433> <http://www.w3.org/2004/02/skos/core#prefLabel> "Val-Saint-Lambert"@nl.
+<https://stad.gent/id/concept/530009330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_2494_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005429"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530005429> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seraing"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005429/2021-10-27T22:52:10.148Z>.
+<https://stad.gent/id/concept/530005322/2021-10-27T22:47:19.109Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005322>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:47:19.109Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207660>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2527_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebruiksvoorwerpen in een veelheid van verschijningsvormen, uitgezonderd messen, vorken, lepels, tangen en scheppen; in het bijzonder platte schalen voor het opdienen van vast voedsel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "serveergerei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008614>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001580>, <https://stad.gent/id/concept/530009257>, <https://stad.gent/id/concept/530005671>, <https://stad.gent/id/concept/530005670>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005670> <http://www.w3.org/2004/02/skos/core#prefLabel> "serveervork"@nl.
+<https://stad.gent/id/concept/530005671> <http://www.w3.org/2004/02/skos/core#prefLabel> "serveermes"@nl.
+<https://stad.gent/id/concept/530009257> <http://www.w3.org/2004/02/skos/core#prefLabel> "serveerlepel"@nl.
+<https://stad.gent/id/concept/530001580> <http://www.w3.org/2004/02/skos/core#prefLabel> "pindastel"@nl.
+<https://stad.gent/id/concept/530008614> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire uitrusting"@nl.
+_:df_2527_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005322"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005322/2021-10-27T22:47:19.109Z>.
+<https://stad.gent/id/concept/530002787/2021-10-27T21:24:23.943Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002787>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:24:23.943Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3091_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "serveertafel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3091_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002787"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002787/2021-10-27T21:24:23.943Z>.
+<https://stad.gent/id/concept/530001837/2021-10-27T21:07:29.022Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001837>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:07:29.022Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1035710>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3205_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Servon (Île-de-France)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_3205_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001837"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001837/2021-10-27T21:07:29.022Z>.
+<https://stad.gent/id/concept/530001035/2021-10-27T20:40:47.890Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001035>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:40:47.890Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300216644>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3388_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "servet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009162>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009162> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafellinnen"@nl.
+_:df_3388_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001035"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001035/2021-10-27T20:40:47.890Z>.
+<https://stad.gent/id/concept/470009099/2021-10-27T18:58:29.851Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009099>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:58:29.851Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300216644>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4102_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "servet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4102_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009099"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009099/2021-10-27T18:58:29.851Z>.
+<https://stad.gent/id/concept/470007564/2021-10-27T18:18:40.510Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007564>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:18:40.510Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026642>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4384_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "seriepublicatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4384_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007564"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007564/2021-10-27T18:18:40.510Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ser.ttl>.

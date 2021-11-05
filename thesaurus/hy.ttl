@@ -182,3 +182,18 @@ _:df_3535_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550006321"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006321/2021-10-28T05:34:30.473Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hy.ttl>.
+<https://stad.gent/id/concept/530008359/2021-10-28T00:28:40.072Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:28:40.072Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q920531>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1852_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hydrovormen is een vormgevingstechniek, waarbij een vloeistof functioneert als (om)vormmedium.In een afgesloten bassin (zie figuur) wordt met behulp van een vloeistof een druk van 3.000 bar en hoger op een plaat of op een buis uitgeoefend. Het materiaal wordt hierdoor opgerekt of gestuikt (in elkaar gedrukt) tot de gewenste vorm. Veelal wordt het hydrovormproces toegepast bij buisvormige constructies. Omdat het materiaal door het hydrovormen een gelijke wanddikte heeft kan er relatief licht en goedkoop geconstrueerd worden. Vaak wordt het hydrovormen in constructie delen, in onder andere wielen- en as- ophangingen, van auto’s toegepast.\r\n\r\nBij het hydrovormen is in tegenstelling tot het persen maar de helft van het gereedschap noodzakelijk. Hierdoor zijn de gereedschapskosten lager dan bij het persen\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hydrovormen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008641>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008641> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaalvormingstechniek"@nl.
+_:df_1852_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008359/2021-10-28T00:28:40.072Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hy.ttl>.

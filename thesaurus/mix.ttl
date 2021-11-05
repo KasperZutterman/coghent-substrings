@@ -66,3 +66,35 @@ _:df_2323_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009062"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009062/2021-10-28T08:34:24.085Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mix.ttl>.
+<https://stad.gent/id/concept/530003104/2021-10-27T21:39:22.432Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003104>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:39:22.432Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300208278>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2989_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Keukengerei of apparaten met één of meerdere kloppers die worden gebruikt voor het mengen, kloppen of pureren van voedsel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mixer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008875>, <https://stad.gent/id/concept/530001486>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001486> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei (objectnaam)"@nl.
+<https://stad.gent/id/concept/530008875> <http://www.w3.org/2004/02/skos/core#prefLabel> "huishoudelijk apparaat"@nl, "huishoudelijk apparaat"@nl, "huishoudelijk apparaat"@nl.
+_:df_2989_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003104"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003104/2021-10-27T21:39:22.432Z>.
+<https://stad.gent/id/concept/470007281/2021-10-27T18:12:37.136Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007281>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:12:37.136Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300208278>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4426_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Keukengerei of apparaten met één of meerdere kloppers die worden gebruikt voor het mengen, kloppen of pureren van voedsel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mixer (kookgerei)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470004402>, <https://stad.gent/id/concept/470003253>, <https://stad.gent/id/concept/470010889>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470010889> <http://www.w3.org/2004/02/skos/core#prefLabel> "staafmixer"@nl.
+<https://stad.gent/id/concept/470003253> <http://www.w3.org/2004/02/skos/core#prefLabel> "handmixer"@nl.
+<https://stad.gent/id/concept/470004402> <http://www.w3.org/2004/02/skos/core#prefLabel> "broodmixer"@nl.
+_:df_4426_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007281"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007281/2021-10-27T18:12:37.136Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mix.ttl>.
