@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v2
       # Fetch the dataset, write the data to json files and push the files to the repo
       - name: Fetch and write data
-        uses: treecg/LDES-Action@feat-33
+        uses: treecg/LDES-Action@main
         with:
           datasource_strategy: 'ldes-client'
           # url you want to fetch
@@ -27,6 +27,6 @@ jobs:
           storage: 'thesaurus'
           fragmentation_strategy: 'substring'
           fragmentation_page_size: 20
-          timeout: 1000 * 60
+          timeout: 1000 * 60 * 10
           property_path: '<http://www.w3.org/2004/02/skos/core#prefLabel>'
           stream_data: "true"
