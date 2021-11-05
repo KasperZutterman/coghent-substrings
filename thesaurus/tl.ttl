@@ -63,3 +63,18 @@ _:df_835_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010469"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010469/2021-10-28T03:01:01.003Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/tl.ttl>.
+<https://stad.gent/id/concept/470004615/2021-10-27T17:13:42.205Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004615>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:13:42.205Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300182921>;
+    <http://www.w3.org/ns/adms#identifier> _:df_409_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Buisvormige lamp, m.n. gasontladingslamp. (van dale)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "TL-buis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470004614>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004614> <http://www.w3.org/2004/02/skos/core#prefLabel> "lamp (onderdeel van verlichtingsmiddel)"@nl.
+_:df_409_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004615"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004615/2021-10-27T17:13:42.205Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/tl.ttl>.

@@ -956,3 +956,73 @@ _:df_1_1195 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ass.ttl>;
     <https://w3id.org/tree#value> "ass".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/as.ttl>.
+<https://stad.gent/id/concept/470003192/2021-10-27T16:39:34.117Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003192>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:39:34.117Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006973>;
+    <http://www.w3.org/ns/adms#identifier> _:df_646_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Assen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_646_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003192"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003192/2021-10-27T16:39:34.117Z>.
+<https://stad.gent/id/concept/470003038/2021-10-27T16:34:10.809Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003038>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:34:10.809Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026293>;
+    <http://www.w3.org/ns/adms#identifier> _:df_685_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Asse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_685_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003038"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003038/2021-10-27T16:34:10.809Z>.
+<https://stad.gent/id/concept/470002215/2021-10-27T16:11:43.385Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002215>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:11:43.385Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q11841>;
+    <http://www.w3.org/ns/adms#identifier> _:df_841_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Assepoester"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470006778>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470006778> <http://www.w3.org/2004/02/skos/core#prefLabel> "sprookjesfiguur"@nl.
+_:df_841_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002215"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002215/2021-10-27T16:11:43.385Z>.
+<https://stad.gent/id/concept/470001766/2021-10-27T15:57:29.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001766>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:57:29.249Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026294>;
+    <http://www.w3.org/ns/adms#identifier> _:df_943_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Assebroek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_943_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001766"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001766/2021-10-27T15:57:29.249Z>.
+<https://stad.gent/id/concept/470001566/2021-10-27T15:51:19.471Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001566>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:51:19.471Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047624>;
+    <http://www.w3.org/ns/adms#identifier> _:df_985_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Assendelft"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_985_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001566"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001566/2021-10-27T15:51:19.471Z>.
+<https://stad.gent/id/concept/470000358/2021-10-27T15:01:10.550Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000358>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:01:10.550Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198897>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1300_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders om as van tabak in op te vangen, gemaakt in allerlei maten, vormen en uitvoeringen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "asbak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1300_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000358"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000358/2021-10-27T15:01:10.550Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/as.ttl>.

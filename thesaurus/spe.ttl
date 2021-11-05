@@ -690,3 +690,45 @@ _:df_4204_13 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008508"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008508/2021-10-27T18:43:57.955Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/spe.ttl>.
+<https://stad.gent/id/concept/470001419/2021-10-27T15:47:01.930Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001419>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:47:01.930Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/2972>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1015_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Speldenstraat (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1015_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001419"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001419/2021-10-27T15:47:01.930Z>.
+<https://stad.gent/id/concept/470001225/2021-10-27T15:37:21.614Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:37:21.614Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211595>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1084_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Speelgoed in de vorm van een wapen. (hva)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "speelgoedwapen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470004298>, <https://stad.gent/id/concept/470001758>, <https://stad.gent/id/concept/470000035>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470000035> <http://www.w3.org/2004/02/skos/core#prefLabel> "waterpistool"@nl.
+<https://stad.gent/id/concept/470001758> <http://www.w3.org/2004/02/skos/core#prefLabel> "proppenschieter"@nl.
+<https://stad.gent/id/concept/470004298> <http://www.w3.org/2004/02/skos/core#prefLabel> "klappertjespistool"@nl.
+_:df_1084_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001225"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001225/2021-10-27T15:37:21.614Z>.
+<https://stad.gent/id/concept/470000742/2021-10-27T15:17:51.203Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000742>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:17:51.203Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211101>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1210_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De onderdelen, meestal klein en van duurzaam materiaal, worden rechtstreeks door de deelnemers gehanteerd gedurende kaart-, bord- of tafelspel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spelstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470008470>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008470> <http://www.w3.org/2004/02/skos/core#prefLabel> "dobbelsteen"@nl.
+_:df_1210_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000742"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000742/2021-10-27T15:17:51.203Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/spe.ttl>.

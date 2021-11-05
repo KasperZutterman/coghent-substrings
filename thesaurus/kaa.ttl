@@ -843,3 +843,31 @@ _:df_4189_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008592"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008592/2021-10-27T18:45:58.287Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kaa.ttl>.
+<https://stad.gent/id/concept/470000650/2021-10-27T15:12:00.304Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000650>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:12:00.304Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180041>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1231_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hoge standaarden die meestal zijn bedoeld om op de vloer te staan, uitgerust met armen met kaarshouders. Er bestaan ook kortere versies om op tafels en andere verhoogde oppervlakken te gebruiken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarsenstandaard (verlichtingsmiddel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470004593>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004593> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarsenstandaard"@nl.
+_:df_1231_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000650"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000650/2021-10-27T15:12:00.304Z>.
+<https://stad.gent/id/concept/470000347/2021-10-27T15:00:44.945Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000347>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:00:44.945Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026756>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1303_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaart (informatiedrager)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470009613>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470009613> <http://www.w3.org/2004/02/skos/core#prefLabel> "geboortekaart"@nl.
+_:df_1303_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000347"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000347/2021-10-27T15:00:44.945Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kaa.ttl>.

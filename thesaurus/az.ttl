@@ -226,3 +226,23 @@ _:df_3250_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530001646"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001646/2021-10-27T21:00:48.026Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/az.ttl>.
+<https://stad.gent/id/concept/470002108/2021-10-27T16:08:46.126Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002108>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:08:46.126Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000004>;
+    <http://www.w3.org/ns/adms#identifier> _:df_862_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470000624>, <https://stad.gent/id/concept/470002871>, <https://stad.gent/id/concept/470002468>, <https://stad.gent/id/concept/470001913>, <https://stad.gent/id/concept/470001886>, <https://stad.gent/id/concept/470002362>, <https://stad.gent/id/concept/470002228>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002228> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vietnam"@nl.
+<https://stad.gent/id/concept/470002362> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verre Oosten"@nl.
+<https://stad.gent/id/concept/470001886> <http://www.w3.org/2004/02/skos/core#prefLabel> "Siam"@nl.
+<https://stad.gent/id/concept/470001913> <http://www.w3.org/2004/02/skos/core#prefLabel> "Perzië"@nl.
+<https://stad.gent/id/concept/470002468> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midden-Oosten"@nl.
+<https://stad.gent/id/concept/470002871> <http://www.w3.org/2004/02/skos/core#prefLabel> "Japan"@nl.
+<https://stad.gent/id/concept/470000624> <http://www.w3.org/2004/02/skos/core#prefLabel> "India"@nl.
+_:df_862_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002108"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002108/2021-10-27T16:08:46.126Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/az.ttl>.

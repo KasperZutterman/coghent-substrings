@@ -148,3 +148,29 @@ _:df_2803_16 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530004161"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004161/2021-10-27T22:06:29.794Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/reg.ttl>.
+<https://stad.gent/id/concept/470000669/2021-10-27T15:13:39.669Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000669>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:13:39.669Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025654>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1228_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "regisseur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1228_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000669"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000669/2021-10-27T15:13:39.669Z>.
+<https://stad.gent/id/concept/470000244/2021-10-27T14:56:09.581Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000244>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T14:56:09.581Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300225552>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1333_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Maatstokken die worden gebruikt om de afstand te meten van één basislijn in zetsel naar een andere en die zijn onderverdeeld in verschillende eenheden, meestal puntverdelingen of pica's.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "regelmeter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470007152>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470007152> <http://www.w3.org/2004/02/skos/core#prefLabel> "maatstok"@nl.
+_:df_1333_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000244"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000244/2021-10-27T14:56:09.581Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/reg.ttl>.

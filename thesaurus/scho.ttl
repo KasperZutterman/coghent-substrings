@@ -1192,3 +1192,92 @@ _:df_1_1184 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/schoo.ttl>;
     <https://w3id.org/tree#value> "schoo".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/scho.ttl>.
+<https://stad.gent/id/concept/470001936/2021-10-27T16:02:59.054Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001936>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:02:59.054Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266108>;
+    <http://www.w3.org/ns/adms#identifier> _:df_904_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebouwen of groepen gebouwen die zijn bestemd voor het geven van onderwijs.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "school"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002017>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002017> <http://www.w3.org/2004/02/skos/core#prefLabel> "gebouw"@nl, "gebouw"@nl.
+_:df_904_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001936"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001936/2021-10-27T16:02:59.054Z>.
+<https://stad.gent/id/concept/470001359/2021-10-27T15:44:21.493Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:44:21.493Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300164535>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1036_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schommelwieg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470005906>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005906> <http://www.w3.org/2004/02/skos/core#prefLabel> "wieg"@nl.
+_:df_1036_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001359/2021-10-27T15:44:21.493Z>.
+<https://stad.gent/id/concept/470001066/2021-10-27T15:29:20.838Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001066>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:29:20.838Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300298974>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1138_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Banken die in klaslokalen staan met schrijftafels, die meestal aan de banken vastzitten, bedoeld voor twee of meer leerlingen.  ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoolbank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470005728>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005728> <http://www.w3.org/2004/02/skos/core#prefLabel> "bank"@nl.
+_:df_1138_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001066"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001066/2021-10-27T15:29:20.838Z>.
+<https://stad.gent/id/concept/470001053/2021-10-27T15:29:00.473Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001053>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:29:00.473Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300410506>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1141_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zwart of groen schrijfbord zoals op scholen gebruikt wordt.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoolbord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1141_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001053"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001053/2021-10-27T15:29:00.473Z>.
+<https://stad.gent/id/concept/470000710/2021-10-27T15:16:34.618Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000710>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:16:34.618Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028015>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1219_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Puntenlijst van een student over een bepaalde periode, die vaak ook een evaluatie bevat van de voortgang van de student.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoolrapport"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1219_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000710"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000710/2021-10-27T15:16:34.618Z>.
+<https://stad.gent/id/concept/470000631/2021-10-27T15:11:25.292Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000631>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:11:25.292Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q161928>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1234_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoeisel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1234_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000631"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000631/2021-10-27T15:11:25.292Z>.
+<https://stad.gent/id/concept/470000636/2021-10-27T15:11:35.295Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:11:35.295Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1640682>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1234_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Plaat, vaak met een historische afbeelding, zoals die in schoolklassen hing.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schoolplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1234_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000636/2021-10-27T15:11:35.295Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/scho.ttl>.

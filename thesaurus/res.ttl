@@ -132,3 +132,17 @@ _:df_4270_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008211"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008211/2021-10-27T18:34:33.894Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/res.ttl>.
+<https://stad.gent/id/concept/470000323/2021-10-27T14:59:48.053Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000323>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T14:59:48.053Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005182>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1309_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "restaurant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002017>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002017> <http://www.w3.org/2004/02/skos/core#prefLabel> "gebouw"@nl.
+_:df_1309_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000323"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000323/2021-10-27T14:59:48.053Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/res.ttl>.

@@ -375,3 +375,33 @@ _:df_3796_27 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470010460"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010460/2021-10-27T19:41:41.710Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ban.ttl>.
+<https://stad.gent/id/concept/470002260/2021-10-27T16:13:00.075Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002260>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:13:00.075Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025209>;
+    <http://www.w3.org/ns/adms#identifier> _:df_832_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bankier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008987>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008987> <http://www.w3.org/2004/02/skos/core#prefLabel> "figuur"@nl.
+_:df_832_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002260"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002260/2021-10-27T16:13:00.075Z>.
+<https://stad.gent/id/concept/470000688/2021-10-27T15:15:54.607Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000688>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:15:54.607Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024751>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1222_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Spanschroeven die aan een werkbank vastzitten om voorwerpen vast te houden terwijl er aan wordt gewerkt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bankschroef"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470005860>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470004854>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004854> <http://www.w3.org/2004/02/skos/core#prefLabel> "parallelbankschroef"@nl.
+<https://stad.gent/id/concept/470005860> <http://www.w3.org/2004/02/skos/core#prefLabel> "spanschroef"@nl.
+_:df_1222_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000688"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000688/2021-10-27T15:15:54.607Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ban.ttl>.

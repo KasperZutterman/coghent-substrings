@@ -667,3 +667,18 @@ _:df_4372_23 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470007636"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007636/2021-10-27T18:20:23.620Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/fa.ttl>.
+<https://stad.gent/id/concept/470000043/2021-10-27T14:48:54.667Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000043>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T14:48:54.667Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379421>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1384_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bedrijven, instellingen of andere administratieve organisaties die het proces van goederen maken regelen, met name dergelijke instellingen na de Industriële Revolutie van het midden van de 19e eeuw. Vaak maken ze gebruik van mechanische productiemethoden en werken ze niet alleen met de hand. Moderne fabrieken organiseren hun activiteiten zodanig dat productie op grote schaal mogelijk is, meestal met machines die door elektriciteit worden aangedreven. Gebruik 'manufacturen' voor organisaties die met de hand dingen maakten. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fabriek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002017>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002017> <http://www.w3.org/2004/02/skos/core#prefLabel> "gebouw"@nl.
+_:df_1384_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000043"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000043/2021-10-27T14:48:54.667Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/fa.ttl>.

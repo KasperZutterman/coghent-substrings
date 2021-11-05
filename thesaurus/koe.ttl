@@ -415,3 +415,55 @@ _:df_3301_19 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530001479"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001479/2021-10-27T20:53:39.792Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/koe.ttl>.
+<https://stad.gent/id/concept/470002163/2021-10-27T16:10:32.828Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:10:32.828Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215666>;
+    <http://www.w3.org/ns/adms#identifier> _:df_850_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor gesloten rijtuigen met vier wielen die worden gekenmerkt door daken met vaste pilaren, een kast in een ophanging en twee dwars geplaatste banken die tegenover elkaar zijn geplaatst en die plaats bieden aan vier tot zes passagiers; ontworpen in Hongarije halverwege de 15e eeuw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koets"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470009778>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470002008>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002008> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagkoets"@nl.
+<https://stad.gent/id/concept/470009778> <http://www.w3.org/2004/02/skos/core#prefLabel> "transportmiddel"@nl.
+_:df_850_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002163/2021-10-27T16:10:32.828Z>.
+<https://stad.gent/id/concept/470001803/2021-10-27T15:58:50.217Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001803>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:58:50.217Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300250120>;
+    <http://www.w3.org/ns/adms#identifier> _:df_931_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koe"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470001790>;
+    <http://www.w3.org/2004/02/skos/core#note> "dier"@nl, "animal"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470001790> <http://www.w3.org/2004/02/skos/core#prefLabel> "rund"@nl.
+_:df_931_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001803"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001803/2021-10-27T15:58:50.217Z>.
+<https://stad.gent/id/concept/470001206/2021-10-27T15:35:53.118Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001206>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:35:53.118Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/2772>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1093_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koepoortkaai (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1093_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001206"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001206/2021-10-27T15:35:53.118Z>.
+<https://stad.gent/id/concept/470001171/2021-10-27T15:33:33.001Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001171>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:33:33.001Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/2911>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1108_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koestraat (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1108_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001171"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001171/2021-10-27T15:33:33.001Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/koe.ttl>.

@@ -1038,3 +1038,29 @@ _:df_1_462 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pole.ttl>;
     <https://w3id.org/tree#value> "pole".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pol.ttl>.
+<https://stad.gent/id/concept/470000698/2021-10-27T15:16:09.611Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000698>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:16:09.611Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300205438>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1222_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Horloges die met riempjes of bandjes worden vastgemaakt en rond de pols gedragen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "polshorloge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470009782>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470009782> <http://www.w3.org/2004/02/skos/core#prefLabel> "horloge"@nl.
+_:df_1222_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000698"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000698/2021-10-27T15:16:09.611Z>.
+<https://stad.gent/id/concept/470000229/2021-10-27T14:55:39.571Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000229>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T14:55:39.571Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379829>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1336_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "polyester"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1336_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000229"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000229/2021-10-27T14:55:39.571Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pol.ttl>.

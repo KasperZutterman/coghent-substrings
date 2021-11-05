@@ -636,3 +636,18 @@ _:df_4165_48 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008724"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008724/2021-10-27T18:49:42.890Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hoe.ttl>.
+<https://stad.gent/id/concept/470000136/2021-10-27T14:52:19.635Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000136>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T14:52:19.635Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300164367>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1360_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Standaarden waaraan hoeden kunnen worden gehangen, meestal ook met plaats voor jassen of paraplu's. Over het algemeen zijn ze uitgebreider en vaker vrijstaand dan 'hoedenrekken'. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoedenstandaard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008278>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008278> <http://www.w3.org/2004/02/skos/core#prefLabel> "statief (standaard)"@nl.
+_:df_1360_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000136"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000136/2021-10-27T14:52:19.635Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hoe.ttl>.

@@ -1040,3 +1040,82 @@ _:df_1_1244 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/boek.ttl>;
     <https://w3id.org/tree#value> "boek".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/boe.ttl>.
+<https://stad.gent/id/concept/470003032/2021-10-27T16:33:50.802Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003032>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:33:50.802Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7017994>;
+    <http://www.w3.org/ns/adms#identifier> _:df_685_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Boedapest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_685_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003032"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003032/2021-10-27T16:33:50.802Z>.
+<https://stad.gent/id/concept/470002961/2021-10-27T16:31:37.013Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002961>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:31:37.013Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7248829>;
+    <http://www.w3.org/ns/adms#identifier> _:df_703_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Boekhoute"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_703_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002961"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002961/2021-10-27T16:31:37.013Z>.
+<https://stad.gent/id/concept/470002449/2021-10-27T16:18:56.741Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002449>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:18:56.741Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2293082>;
+    <http://www.w3.org/ns/adms#identifier> _:df_790_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Artiest die bijzondere vaardigheid heeft in het zich bevrijden van boeien.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boeienkoning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470009191>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470009191> <http://www.w3.org/2004/02/skos/core#prefLabel> "magiër"@nl.
+_:df_790_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002449"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002449/2021-10-27T16:18:56.741Z>.
+<https://stad.gent/id/concept/470001885/2021-10-27T16:01:32.331Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001885>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:01:32.331Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025607>;
+    <http://www.w3.org/ns/adms#identifier> _:df_913_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zij die land bewerken of bebouwen of vee houden, voornamelijk als hun belangrijkste bezigheid. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008987>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008987> <http://www.w3.org/2004/02/skos/core#prefLabel> "figuur"@nl.
+_:df_913_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001885"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001885/2021-10-27T16:01:32.331Z>.
+<https://stad.gent/id/concept/470001473/2021-10-27T15:48:52.993Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001473>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:48:52.993Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300000206>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1003_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Complexen waar planten worden verbouwd of dieren gefokt voor levensonderhoud of handel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boerderij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002017>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002017> <http://www.w3.org/2004/02/skos/core#prefLabel> "gebouw"@nl.
+_:df_1003_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001473"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001473/2021-10-27T15:48:52.993Z>.
+<https://stad.gent/id/concept/470000179/2021-10-27T14:53:58.730Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000179>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T14:53:58.730Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025704>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1348_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Personen die boeken inbinden, hetgeen inhoudt dat diverse procedures handmatig of met machines worden uitgevoerd om blz. of verzamelingen losse bladen samen te voegen, meestal met een omslag.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekbinder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008882>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008882> <http://www.w3.org/2004/02/skos/core#prefLabel> "persoon in de grafische industrie"@nl.
+_:df_1348_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000179"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000179/2021-10-27T14:53:58.730Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/boe.ttl>.

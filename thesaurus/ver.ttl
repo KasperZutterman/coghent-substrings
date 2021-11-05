@@ -1734,3 +1734,52 @@ _:df_1_952 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/verj.ttl>;
     <https://w3id.org/tree#value> "verj".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ver.ttl>.
+<https://stad.gent/id/concept/470000500/2021-10-27T15:05:39.940Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000500>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:05:39.940Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024592>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1267_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bolgeslepen glas waardoor men de voorwerpen vergroot ziet.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vergrootglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1267_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000500"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000500/2021-10-27T15:05:39.940Z>.
+<https://stad.gent/id/concept/470000374/2021-10-27T15:01:46.267Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000374>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:01:46.267Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053825>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1294_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vernissen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1294_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000374"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000374/2021-10-27T15:01:46.267Z>.
+<https://stad.gent/id/concept/470000195/2021-10-27T14:54:33.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T14:54:33.740Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015029>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1345_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1345_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000195/2021-10-27T14:54:33.740Z>.
+<https://stad.gent/id/concept/470000037/2021-10-27T14:48:39.654Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000037>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T14:48:39.654Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300224229>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1384_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drachten voor feesten, zolas gala's en gemaskerde bals, soms geïnspireerd op kleding die kenmerkend is voor een bepaalde periode of plaats, sociale klasse of voor een historisch of verzonnen personage. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verkleedkleding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470007671>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470007671> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding naar functie"@nl.
+_:df_1384_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000037"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000037/2021-10-27T14:48:39.654Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ver.ttl>.

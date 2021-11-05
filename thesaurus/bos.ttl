@@ -112,3 +112,18 @@ _:df_3871_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470010060"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010060/2021-10-27T19:30:51.768Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bos.ttl>.
+<https://stad.gent/id/concept/470002028/2021-10-27T16:06:23.350Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002028>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:06:23.350Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132451>;
+    <http://www.w3.org/ns/adms#identifier> _:df_880_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Boomrijke gebieden die dikwijls een grens of een barrière vormen, maar voor het overige nauwelijks worden gebruikt. Meestal kleiner en minder wild dan 'wouden'. Voor landschappen die gedomineerd worden door bomen en die voor meerdere doeleinden gebruikt worden, gebruik liever 'bosgebieden'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002547>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002547> <http://www.w3.org/2004/02/skos/core#prefLabel> "plaats"@nl.
+_:df_880_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002028"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002028/2021-10-27T16:06:23.350Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bos.ttl>.

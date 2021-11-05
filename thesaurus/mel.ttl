@@ -715,3 +715,18 @@ _:df_4042_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470009396"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009396/2021-10-27T19:06:55.884Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mel.ttl>.
+<https://stad.gent/id/concept/470001791/2021-10-27T15:58:14.741Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001791>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:58:14.741Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191622>;
+    <http://www.w3.org/ns/adms#identifier> _:df_937_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Witte of geelachtig witte vloeistof die wordt afgescheiden door de borstklieren van vrouwelijke zoogdieren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "melk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002683>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002683> <http://www.w3.org/2004/02/skos/core#prefLabel> "drank"@nl.
+_:df_937_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001791"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001791/2021-10-27T15:58:14.741Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mel.ttl>.

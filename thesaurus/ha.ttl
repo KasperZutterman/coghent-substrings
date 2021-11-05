@@ -1793,3 +1793,286 @@ _:df_1_327 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/has.ttl>;
     <https://w3id.org/tree#value> "has".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ha.ttl>.
+<https://stad.gent/id/concept/470006091/2021-10-27T17:35:05.422Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470006091>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:35:05.422Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q200266>;
+    <http://www.w3.org/ns/adms#identifier> _:df_262_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handvat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_262_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470006091"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470006091/2021-10-27T17:35:05.422Z>.
+<https://stad.gent/id/concept/470006100/2021-10-27T17:35:20.427Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470006100>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:35:20.427Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201100>;
+    <http://www.w3.org/ns/adms#identifier> _:df_262_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Keukengerei dat wordt gebruikt voor het snijden, fijnhakken of versnipperen van voedsel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hakmes (culinair gereedschap)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470003892>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003892> <http://www.w3.org/2004/02/skos/core#prefLabel> "groentehakmes"@nl.
+_:df_262_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470006100"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470006100/2021-10-27T17:35:20.427Z>.
+<https://stad.gent/id/concept/470005921/2021-10-27T17:32:42.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005921>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:32:42.536Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300219771>;
+    <http://www.w3.org/ns/adms#identifier> _:df_280_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handkar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_280_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005921"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005921/2021-10-27T17:32:42.536Z>.
+<https://stad.gent/id/concept/470005218/2021-10-27T17:20:01.129Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:20:01.129Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263302>;
+    <http://www.w3.org/ns/adms#identifier> _:df_367_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Constructie van door latten verbonden kruisspaken of schijven die kan ronddraaien, voor het tot strengen winden van garen van de klossen waarop het gesponnen is.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haspel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_367_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005218"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005218/2021-10-27T17:20:01.129Z>.
+<https://stad.gent/id/concept/470004775/2021-10-27T17:15:54.261Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004775>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:15:54.261Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300234646>;
+    <http://www.w3.org/ns/adms#identifier> _:df_394_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drukpersen die met de hand moeten worden bediend. (aat, van dale)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470004789>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004789> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukpers"@nl, "drukpers"@nl, "drukpers"@nl.
+_:df_394_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004775"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004775/2021-10-27T17:15:54.261Z>.
+<https://stad.gent/id/concept/470004623/2021-10-27T17:13:57.209Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004623>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:13:57.209Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003985>;
+    <http://www.w3.org/ns/adms#identifier> _:df_409_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Aanduiding voor de achtermuren of het binnenwerk van open haarden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haardplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_409_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004623"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004623/2021-10-27T17:13:57.209Z>.
+<https://stad.gent/id/concept/470004574/2021-10-27T17:12:32.827Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004574>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:12:32.827Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300181579>;
+    <http://www.w3.org/ns/adms#identifier> _:df_418_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Met een gasvormig halogeen (veelal jodium) gevulde (gloei)lamp van kwarts.(aat)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "halogeenlamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470004614>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004614> <http://www.w3.org/2004/02/skos/core#prefLabel> "lamp (onderdeel van verlichtingsmiddel)"@nl.
+_:df_418_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004574"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004574/2021-10-27T17:12:32.827Z>.
+<https://stad.gent/id/concept/470004378/2021-10-27T17:08:57.804Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004378>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:08:57.804Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q215536>;
+    <http://www.w3.org/ns/adms#identifier> _:df_442_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Personen die goederen kopen en verkopen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002536>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002536> <http://www.w3.org/2004/02/skos/core#prefLabel> "persoon in handel en zakenwereld"@nl.
+_:df_442_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004378"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004378/2021-10-27T17:08:57.804Z>.
+<https://stad.gent/id/concept/470004362/2021-10-27T17:08:41.775Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004362>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:08:41.775Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023492>;
+    <http://www.w3.org/ns/adms#identifier> _:df_445_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor kleine, meestal rechte werktuigen die worden gebruikt om steken in lussen over elkaar aan te brengen in haakwerk. (aat)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haaknaald"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_445_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004362"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004362/2021-10-27T17:08:41.775Z>.
+<https://stad.gent/id/concept/470004330/2021-10-27T17:07:30.900Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004330>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:07:30.900Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247430>;
+    <http://www.w3.org/ns/adms#identifier> _:df_451_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tuingereedschap met een rij tanden aan het uiteinde. Ook als speelgoed gebruikt. (hva)\r\nGetande landbouwwerktuigen die worden gebruikt voor het verzamelen van los, plantaardig materiaal, zoals gemaaid gras of hooi, of voor het gladder maken van het grondoppervlak. (aat)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hark"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_451_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004330"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004330/2021-10-27T17:07:30.900Z>.
+<https://stad.gent/id/concept/470004191/2021-10-27T17:03:46.207Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004191>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:03:46.207Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026395>;
+    <http://www.w3.org/ns/adms#identifier> _:df_478_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hulpmiddel bij onderricht, m.n. een leerboek dat tot leidraad dient bij de studie van een vak. Gebruiksaanwijzing.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handleiding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_478_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004191"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004191/2021-10-27T17:03:46.207Z>.
+<https://stad.gent/id/concept/470004129/2021-10-27T17:02:37.434Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:02:37.434Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247516>;
+    <http://www.w3.org/ns/adms#identifier> _:df_487_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Boeien voor de handen die meestal bestaan uit een in tweeën gedeelde metalen ring die om de pols wordt gesloten. Bestaan meestal uit twee ringen die aan elkaar vastzitten door een korte ketting of staaf.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handboei"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_487_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004129/2021-10-27T17:02:37.434Z>.
+<https://stad.gent/id/concept/470004033/2021-10-27T17:01:15.995Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004033>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:01:15.995Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236724>;
+    <http://www.w3.org/ns/adms#identifier> _:df_496_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Diverse apparaten die op elektriciteit of gas werken en zijn bedoeld voor het drogen van haar door het uitstralen van warmte.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haardroger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470003911>, <https://stad.gent/id/concept/470003146>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003146> <http://www.w3.org/2004/02/skos/core#prefLabel> "haardroogkap"@nl.
+<https://stad.gent/id/concept/470003911> <http://www.w3.org/2004/02/skos/core#prefLabel> "föhn"@nl.
+_:df_496_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004033"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004033/2021-10-27T17:01:15.995Z>.
+<https://stad.gent/id/concept/470004006/2021-10-27T17:00:44.856Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004006>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:00:44.856Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025293>;
+    <http://www.w3.org/ns/adms#identifier> _:df_499_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Personen die handschoenen maken of verkopen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handschoenenmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008957>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008957> <http://www.w3.org/2004/02/skos/core#prefLabel> "persoon in ambacht en beroep naar producth"@nl.
+_:df_499_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004006"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004006/2021-10-27T17:00:44.856Z>.
+<https://stad.gent/id/concept/470003997/2021-10-27T17:00:24.851Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003997>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:00:24.851Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300216632>;
+    <http://www.w3.org/ns/adms#identifier> _:df_502_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Rechthoekige stukken stof, papier of ander absorberend materiaal voor afvegen of afdrogen. (aat)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handdoek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470003996>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003996> <http://www.w3.org/2004/02/skos/core#prefLabel> "badhanddoek"@nl.
+_:df_502_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003997"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003997/2021-10-27T17:00:24.851Z>.
+<https://stad.gent/id/concept/470003912/2021-10-27T16:58:57.040Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003912>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:58:57.040Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236713>;
+    <http://www.w3.org/ns/adms#identifier> _:df_511_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Borstels die worden gebruikt voor het gladmaken en stileren van het haar.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haarborstel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470004667>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004667> <http://www.w3.org/2004/02/skos/core#prefLabel> "borstel (persoonlijk gebruik)"@nl.
+_:df_511_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003912"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003912/2021-10-27T16:58:57.040Z>.
+<https://stad.gent/id/concept/470003868/2021-10-27T16:57:30.016Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003868>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:57:30.016Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026464>;
+    <http://www.w3.org/ns/adms#identifier> _:df_523_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hamme"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_523_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003868"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003868/2021-10-27T16:57:30.016Z>.
+<https://stad.gent/id/concept/470003269/2021-10-27T16:41:39.902Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:41:39.902Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026461>;
+    <http://www.w3.org/ns/adms#identifier> _:df_631_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hakendover"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_631_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003269/2021-10-27T16:41:39.902Z>.
+<https://stad.gent/id/concept/470003253/2021-10-27T16:40:46.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003253>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:40:46.702Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215757>;
+    <http://www.w3.org/ns/adms#identifier> _:df_637_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Handbediende elektrische apparaten met één of meer kloppers die worden gebruikt voor het mengen, kloppen, of pureren van voedsel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "handmixer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470007281>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470007281> <http://www.w3.org/2004/02/skos/core#prefLabel> "mixer (kookgerei)"@nl.
+_:df_637_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003253"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003253/2021-10-27T16:40:46.702Z>.
+<https://stad.gent/id/concept/470002970/2021-10-27T16:31:43.407Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:31:43.407Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003673>;
+    <http://www.w3.org/ns/adms#identifier> _:df_700_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hamburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_700_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002970/2021-10-27T16:31:43.407Z>.
+<https://KasperZutterman.github.io///thesaurus/ha.ttl> <https://w3id.org/tree#relation> _:df_1_233.
+_:df_1_233 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/hal.ttl>;
+    <https://w3id.org/tree#value> "hal".
+<https://KasperZutterman.github.io///thesaurus/ha.ttl> <https://w3id.org/tree#relation> _:df_1_234.
+_:df_1_234 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/haa.ttl>;
+    <https://w3id.org/tree#value> "haa".
+<https://KasperZutterman.github.io///thesaurus/ha.ttl> <https://w3id.org/tree#relation> _:df_1_235.
+_:df_1_235 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/han.ttl>;
+    <https://w3id.org/tree#value> "han".
+<https://KasperZutterman.github.io///thesaurus/ha.ttl> <https://w3id.org/tree#relation> _:df_1_236.
+_:df_1_236 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/hav.ttl>;
+    <https://w3id.org/tree#value> "hav".
+<https://KasperZutterman.github.io///thesaurus/ha.ttl> <https://w3id.org/tree#relation> _:df_1_237.
+_:df_1_237 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/has.ttl>;
+    <https://w3id.org/tree#value> "has".
+<https://KasperZutterman.github.io///thesaurus/ha.ttl> <https://w3id.org/tree#relation> _:df_1_238.
+_:df_1_238 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/har.ttl>;
+    <https://w3id.org/tree#value> "har".
+<https://KasperZutterman.github.io///thesaurus/ha.ttl> <https://w3id.org/tree#relation> _:df_1_239.
+_:df_1_239 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ham.ttl>;
+    <https://w3id.org/tree#value> "ham".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ha.ttl>.

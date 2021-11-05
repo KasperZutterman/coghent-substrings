@@ -1176,3 +1176,30 @@ _:df_1_1222 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/bord.ttl>;
     <https://w3id.org/tree#value> "bord".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bor.ttl>.
+<https://stad.gent/id/concept/470003283/2021-10-27T16:42:18.014Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003283>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:42:18.014Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197015>;
+    <http://www.w3.org/ns/adms#identifier> _:df_628_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine drinkglazen voor sterke drank, gewoonlijk met een inhoud van ongeveer 6 à 8 cl, met trechtervormige of conische kelk met een korte rudimentaire stam op zware voet.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borrelglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003878>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003878> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkglas"@nl, "drinkglas"@nl.
+_:df_628_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003283"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003283/2021-10-27T16:42:18.014Z>.
+<https://stad.gent/id/concept/470003034/2021-10-27T16:33:55.804Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003034>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:33:55.804Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264024>;
+    <http://www.w3.org/ns/adms#identifier> _:df_685_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar werken die zich kenmerken door een patroon of ontwerp dat is uitgevoerd in met draad of fijn metaaldraad gemaakte steken. De patronen worden gewoonlijk uitgevoerd op stof, maar ook leer, papier of andere media kunnen worden gebruikt; de werken kunnen bedoeld zijn om ingelijst te worden of om kleding, bedtextiel, meubelbekleding, kussens, altaarkleden, ceremoniële voorhangen of andere zaken te versieren. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borduurwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_685_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003034"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003034/2021-10-27T16:33:55.804Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bor.ttl>.

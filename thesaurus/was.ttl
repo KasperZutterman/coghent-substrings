@@ -637,3 +637,70 @@ _:df_4039_15 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470009413"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009413/2021-10-27T19:07:21.445Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/was.ttl>.
+<https://stad.gent/id/concept/470000740/2021-10-27T15:17:40.626Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:17:40.626Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300194897>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1213_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Manden of mandachtige houders die voornamelijk zijn bestemd om wasgoed in te dragen; vaak ovaal of rechthoekig, en meestal met twee hengsels aan de rand.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wasmand"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003648>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003648> <http://www.w3.org/2004/02/skos/core#prefLabel> "mand"@nl.
+_:df_1213_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000740"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000740/2021-10-27T15:17:40.626Z>.
+<https://stad.gent/id/concept/470000466/2021-10-27T15:04:07.304Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000466>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:04:07.304Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1143034>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1279_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wassalon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1279_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000466"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000466/2021-10-27T15:04:07.304Z>.
+<https://stad.gent/id/concept/470000218/2021-10-27T14:55:16.800Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T14:55:16.800Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q334637>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1339_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Alg. naam voor zepen en andere stoffen die aan water of een andere vloeistof worden toegevoegd om de reinigende werking ervan te verhogen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wasmiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470004009>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470000334>, <https://stad.gent/id/concept/470003999>, <https://stad.gent/id/concept/470004051>, <https://stad.gent/id/concept/470004073>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004073> <http://www.w3.org/2004/02/skos/core#prefLabel> "zeepvlokken"@nl.
+<https://stad.gent/id/concept/470004051> <http://www.w3.org/2004/02/skos/core#prefLabel> "waspoeder"@nl.
+<https://stad.gent/id/concept/470003999> <http://www.w3.org/2004/02/skos/core#prefLabel> "schuurmiddel"@nl.
+<https://stad.gent/id/concept/470000334> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwasmiddel"@nl.
+<https://stad.gent/id/concept/470004009> <http://www.w3.org/2004/02/skos/core#prefLabel> "zeep"@nl.
+_:df_1339_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000218"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000218/2021-10-27T14:55:16.800Z>.
+<https://stad.gent/id/concept/470000184/2021-10-27T14:54:08.734Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T14:54:08.734Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395627>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1348_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verschillende soorten knijpers voor het bevestigen van gewassen wasgoed aan een was-of waslijn. Bestaat uit twee delen die zijn verbonden met een voorgespannen veer. De pen wordt geopend door de uitstaande uiteinden samen te knijpen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wasknijper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1348_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000184"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000184/2021-10-27T14:54:08.734Z>.
+<https://stad.gent/id/concept/470000091/2021-10-27T14:50:24.244Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000091>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T14:50:24.244Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014585>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1372_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "was"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1372_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000091"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000091/2021-10-27T14:50:24.244Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/was.ttl>.

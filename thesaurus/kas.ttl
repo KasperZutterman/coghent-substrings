@@ -457,3 +457,49 @@ _:df_4174_18 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008682"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008682/2021-10-27T18:48:24.325Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kas.ttl>.
+<https://stad.gent/id/concept/470001962/2021-10-27T16:03:34.673Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001962>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:03:34.673Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006891>;
+    <http://www.w3.org/ns/adms#identifier> _:df_898_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebouwen of groepen van gebouwen die hoofdzakelijk zijn bedoeld als versterkte verblijfplaats voor een prins of edelman.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kasteel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002017>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002017> <http://www.w3.org/2004/02/skos/core#prefLabel> "gebouw"@nl.
+_:df_898_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001962"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001962/2021-10-27T16:03:34.673Z>.
+<https://stad.gent/id/concept/470001081/2021-10-27T15:29:45.846Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001081>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:29:45.846Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264019>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1135_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "telmachine met geldlade";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kassa"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1135_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001081"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001081/2021-10-27T15:29:45.846Z>.
+<https://stad.gent/id/concept/470000955/2021-10-27T15:25:58.818Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000955>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:25:58.818Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038860>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1162_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Meubilair dat een ruimte omsluit en meestal ongeveer de constructie van een kist of doos heeft en dient voor opslag of vertoning van voorwerpen.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kastmeubilair"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470003808>, <https://stad.gent/id/concept/470002248>, <https://stad.gent/id/concept/470008496>, <https://stad.gent/id/concept/470001625>, <https://stad.gent/id/concept/470005579>, <https://stad.gent/id/concept/470010602>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470010602> <http://www.w3.org/2004/02/skos/core#prefLabel> "toonbank"@nl.
+<https://stad.gent/id/concept/470005579> <http://www.w3.org/2004/02/skos/core#prefLabel> "reliekenkast"@nl.
+<https://stad.gent/id/concept/470001625> <http://www.w3.org/2004/02/skos/core#prefLabel> "nachtkastje"@nl.
+<https://stad.gent/id/concept/470008496> <http://www.w3.org/2004/02/skos/core#prefLabel> "kist"@nl.
+<https://stad.gent/id/concept/470002248> <http://www.w3.org/2004/02/skos/core#prefLabel> "kelkdoekjeskast"@nl.
+<https://stad.gent/id/concept/470003808> <http://www.w3.org/2004/02/skos/core#prefLabel> "buffet"@nl.
+_:df_1162_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000955"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000955/2021-10-27T15:25:58.818Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kas.ttl>.

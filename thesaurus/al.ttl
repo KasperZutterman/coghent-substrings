@@ -1396,3 +1396,107 @@ _:df_1_937 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/alf.ttl>;
     <https://w3id.org/tree#value> "alf".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/al.ttl>.
+<https://stad.gent/id/concept/470005497/2021-10-27T17:23:50.107Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005497>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:23:50.107Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300075940>;
+    <http://www.w3.org/ns/adms#identifier> _:df_340_6;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Religieuze beeldende werken op, boven of achter altaren van christelijke kerken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "altaarstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470005788>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005788> <http://www.w3.org/2004/02/skos/core#prefLabel> "retabel"@nl.
+_:df_340_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005497"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005497/2021-10-27T17:23:50.107Z>.
+<https://stad.gent/id/concept/470005508/2021-10-27T17:24:05.112Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005508>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:24:05.112Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300391097>;
+    <http://www.w3.org/ns/adms#identifier> _:df_340_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In tegenstelling tot een altaarbel die slechts één bel omvat, zijn er in een altaarschel meer belletjes. De altaarschel wordt gebruikt om de aandacht van de gelovigen te vestigen op de belangrijkste momenten zoals de consecratie en bij het driemaal heilig de lofprijzing te onderstrepen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "altaarschel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470005507>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005507> <http://www.w3.org/2004/02/skos/core#prefLabel> "carillon"@nl.
+_:df_340_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005508"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005508/2021-10-27T17:24:05.112Z>.
+<https://stad.gent/id/concept/470002901/2021-10-27T16:30:05.614Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002901>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:30:05.614Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015224>;
+    <http://www.w3.org/ns/adms#identifier> _:df_712_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "alcohol"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002683>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002683> <http://www.w3.org/2004/02/skos/core#prefLabel> "drank"@nl.
+_:df_712_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002901"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002901/2021-10-27T16:30:05.614Z>.
+<https://stad.gent/id/concept/470002593/2021-10-27T16:22:37.305Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002593>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:22:37.305Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7001188>;
+    <http://www.w3.org/ns/adms#identifier> _:df_766_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alexandrië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_766_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002593"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002593/2021-10-27T16:22:37.305Z>.
+<https://stad.gent/id/concept/470002105/2021-10-27T16:08:41.125Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002105>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:08:41.125Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008621>;
+    <http://www.w3.org/ns/adms#identifier> _:df_862_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alençon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_862_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002105"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002105/2021-10-27T16:08:41.125Z>.
+<https://stad.gent/id/concept/470001705/2021-10-27T15:55:31.655Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001705>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:55:31.655Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411357>;
+    <http://www.w3.org/ns/adms#identifier> _:df_955_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De bovenkanten, vooral de bovenste stenen platen, van christelijke altaren. (def. van bij mensa)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "altaartafel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008220>, <https://stad.gent/id/concept/470005512>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005512> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafel"@nl.
+<https://stad.gent/id/concept/470008220> <http://www.w3.org/2004/02/skos/core#prefLabel> "altaar"@nl.
+_:df_955_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001705"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001705/2021-10-27T15:55:31.655Z>.
+<https://stad.gent/id/concept/470000616/2021-10-27T15:10:34.879Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:10:34.879Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7016752>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1240_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Algerije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002789>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470002136>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabilië"@nl.
+<https://stad.gent/id/concept/470002789> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afrika"@nl.
+_:df_1240_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000616/2021-10-27T15:10:34.879Z>.
+<https://stad.gent/id/concept/470000324/2021-10-27T14:59:53.054Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000324>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T14:59:53.054Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011015>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1309_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aluminium"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1309_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000324"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000324/2021-10-27T14:59:53.054Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/al.ttl>.

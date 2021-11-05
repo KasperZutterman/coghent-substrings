@@ -1871,3 +1871,326 @@ _:df_1_640 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/bod.ttl>;
     <https://w3id.org/tree#value> "bod".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bo.ttl>.
+<https://stad.gent/id/concept/470006743/2021-10-27T17:51:47.092Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470006743>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:51:47.092Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026342>;
+    <http://www.w3.org/ns/adms#identifier> _:df_145_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bonheiden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_145_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470006743"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470006743/2021-10-27T17:51:47.092Z>.
+<https://stad.gent/id/concept/470006201/2021-10-27T17:36:16.569Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470006201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:36:16.569Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q890857>;
+    <http://www.w3.org/ns/adms#identifier> _:df_253_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boenmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003966>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003966> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderhoudsgereedschap"@nl.
+_:df_253_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470006201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470006201/2021-10-27T17:36:16.569Z>.
+<https://stad.gent/id/concept/470006208/2021-10-27T17:36:31.572Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470006208>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:36:31.572Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024760>;
+    <http://www.w3.org/ns/adms#identifier> _:df_253_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borstel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470003736>, <https://stad.gent/id/concept/470004671>, <https://stad.gent/id/concept/470005221>, <https://stad.gent/id/concept/470004667>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004667> <http://www.w3.org/2004/02/skos/core#prefLabel> "borstel (persoonlijk gebruik)"@nl.
+<https://stad.gent/id/concept/470005221> <http://www.w3.org/2004/02/skos/core#prefLabel> "borstel (schildersgereedschap)"@nl.
+<https://stad.gent/id/concept/470004671> <http://www.w3.org/2004/02/skos/core#prefLabel> "borstel (lederbewerkingsgereedschap)"@nl.
+<https://stad.gent/id/concept/470003736> <http://www.w3.org/2004/02/skos/core#prefLabel> "borstel (keukengerei)"@nl.
+_:df_253_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470006208"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470006208/2021-10-27T17:36:31.572Z>.
+<https://stad.gent/id/concept/470005806/2021-10-27T17:29:48.510Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005806>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:29:48.510Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_298_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In het algemeen te gebruiken voor vaartuigen die kleiner en minder zeewaardig zijn dan schepen en meestal niet zijn ontworpen om grote open wateren over te steken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_298_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005806"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005806/2021-10-27T17:29:48.510Z>.
+<https://stad.gent/id/concept/470005713/2021-10-27T17:27:52.528Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005713>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:27:52.528Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300123013>;
+    <http://www.w3.org/ns/adms#identifier> _:df_313_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor beletterde aankondigingen of andere aanduidingen waarop een naam, instructie, waarschuwing of advertentie staat, en die worden uitgestald of aangeplakt. Voor kleinere, minder openbare identificerende aanduidingen wordt 'labels (identificatiedragers)' gebruikt. Voor systemen van borden die zijn opgesteld om richtingen aan te geven of essentiële informatie kenbaar te maken wordt 'wegbebakening' gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bord (informatie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_313_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005713"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005713/2021-10-27T17:27:52.528Z>.
+<https://stad.gent/id/concept/470005221/2021-10-27T17:20:10.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005221>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:20:10.355Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024760>;
+    <http://www.w3.org/ns/adms#identifier> _:df_364_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorwerpen vervaardigd uit haar of vergelijkbaar materiaal dat bevestigd is aan een handvat; gebruikt om oppervlakken te beschilderen of schoon of glad te maken. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borstel (schildersgereedschap)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470006208>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470004662>, <https://stad.gent/id/concept/470004665>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004665> <http://www.w3.org/2004/02/skos/core#prefLabel> "verfkwast"@nl.
+<https://stad.gent/id/concept/470004662> <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderspenseel"@nl.
+<https://stad.gent/id/concept/470006208> <http://www.w3.org/2004/02/skos/core#prefLabel> "borstel"@nl.
+_:df_364_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005221"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005221/2021-10-27T17:20:10.355Z>.
+<https://stad.gent/id/concept/470005250/2021-10-27T17:20:15.356Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005250>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:20:15.356Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300425090>;
+    <http://www.w3.org/ns/adms#identifier> _:df_364_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Machine om mee te borduren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borduurmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470006223>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470006223> <http://www.w3.org/2004/02/skos/core#prefLabel> "naaimachine"@nl.
+_:df_364_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005250"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005250/2021-10-27T17:20:15.356Z>.
+<https://stad.gent/id/concept/470004667/2021-10-27T17:14:28.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004667>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:14:28.747Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300239148>;
+    <http://www.w3.org/ns/adms#identifier> _:df_403_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "borstel (persoonlijk gebruik)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470006208>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470004627>, <https://stad.gent/id/concept/470003912>, <https://stad.gent/id/concept/470006519>, <https://stad.gent/id/concept/470004668>, <https://stad.gent/id/concept/470004337>, <https://stad.gent/id/concept/470003993>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003993> <http://www.w3.org/2004/02/skos/core#prefLabel> "tandenborstel"@nl.
+<https://stad.gent/id/concept/470004337> <http://www.w3.org/2004/02/skos/core#prefLabel> "scheerkwast"@nl.
+<https://stad.gent/id/concept/470004668> <http://www.w3.org/2004/02/skos/core#prefLabel> "nagelborstel"@nl.
+<https://stad.gent/id/concept/470006519> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledingborstel"@nl.
+<https://stad.gent/id/concept/470003912> <http://www.w3.org/2004/02/skos/core#prefLabel> "haarborstel"@nl.
+<https://stad.gent/id/concept/470004627> <http://www.w3.org/2004/02/skos/core#prefLabel> "badborstel"@nl.
+<https://stad.gent/id/concept/470006208> <http://www.w3.org/2004/02/skos/core#prefLabel> "borstel"@nl.
+_:df_403_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004667"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004667/2021-10-27T17:14:28.747Z>.
+<https://stad.gent/id/concept/470004525/2021-10-27T17:11:45.034Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004525>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:11:45.034Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300374825>;
+    <http://www.w3.org/ns/adms#identifier> _:df_424_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vechten met vuisten, meestal met handschoenen en vaak als sport.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boksen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470009783>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470009783> <http://www.w3.org/2004/02/skos/core#prefLabel> "sport"@nl.
+_:df_424_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004525"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004525/2021-10-27T17:11:45.034Z>.
+<https://stad.gent/id/concept/470004477/2021-10-27T17:10:37.103Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004477>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:10:37.103Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052148>;
+    <http://www.w3.org/ns/adms#identifier> _:df_430_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor apparaten die meestal bestaan uit een verwarmingseenheid die op gas of elektriciteit werkt, die zich bevindt onder een tank waarin water wordt verwarmd en opgeslagen (AAT)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boiler"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003624>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003624> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestel"@nl.
+_:df_430_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004477"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004477/2021-10-27T17:10:37.103Z>.
+<https://stad.gent/id/concept/470004311/2021-10-27T17:07:10.896Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004311>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:07:10.896Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300217912>;
+    <http://www.w3.org/ns/adms#identifier> _:df_454_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Spel waarbij de spelstukken over een bord worden bewogen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bordspel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470004276>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470007282>, <https://stad.gent/id/concept/470001955>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470001955> <http://www.w3.org/2004/02/skos/core#prefLabel> "schaakspel"@nl.
+<https://stad.gent/id/concept/470007282> <http://www.w3.org/2004/02/skos/core#prefLabel> "ganzenbordspel"@nl.
+<https://stad.gent/id/concept/470004276> <http://www.w3.org/2004/02/skos/core#prefLabel> "gezelschapsspel"@nl.
+_:df_454_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004311"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004311/2021-10-27T17:07:10.896Z>.
+<https://stad.gent/id/concept/470004282/2021-10-27T17:06:20.174Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004282>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:06:20.174Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211303>;
+    <http://www.w3.org/ns/adms#identifier> _:df_460_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor blokken die op elkaar gestapeld kunnen worden om eenvoudige constructies te vormen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008219>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008219> <http://www.w3.org/2004/02/skos/core#prefLabel> "blok (speelgoed)"@nl.
+_:df_460_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004282"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004282/2021-10-27T17:06:20.174Z>.
+<https://stad.gent/id/concept/470004264/2021-10-27T17:05:38.662Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004264>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:05:38.662Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023485>;
+    <http://www.w3.org/ns/adms#identifier> _:df_466_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Pijp of dunne klos waarop garen gewonden wordt voor spinnen, weven of machinaal naaien.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bobijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_466_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004264"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004264/2021-10-27T17:05:38.662Z>.
+<https://stad.gent/id/concept/470004183/2021-10-27T17:03:41.206Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004183>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:03:41.206Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q4851728>;
+    <http://www.w3.org/ns/adms#identifier> _:df_478_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Rode of witte was met terpentijn vermengd, om meubelen te boenen. (van dale)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boenwas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_478_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004183"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004183/2021-10-27T17:03:41.206Z>.
+<https://stad.gent/id/concept/470003995/2021-10-27T17:00:19.848Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003995>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:00:19.848Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7246873>;
+    <http://www.w3.org/ns/adms#identifier> _:df_502_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bottelare"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_502_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003995"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003995/2021-10-27T17:00:19.848Z>.
+<https://stad.gent/id/concept/470003708/2021-10-27T16:53:27.595Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003708>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:53:27.595Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042976>;
+    <http://www.w3.org/ns/adms#identifier> _:df_550_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dekschalen voor het bewaren en serveren van boter aan tafel. Gebruik 'boterschaaltjes' voor kleine schalen voor porties boter voor één persoon. Gebruik 'boterkoelers' voor bakjes die ontworpen zijn om gekoelde boter op tafel te serveren. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "botervloot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003426>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003426> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder"@nl.
+_:df_550_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003708"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003708/2021-10-27T16:53:27.595Z>.
+<https://stad.gent/id/concept/470003600/2021-10-27T16:50:44.315Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003600>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:50:44.315Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043120>;
+    <http://www.w3.org/ns/adms#identifier> _:df_568_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Mes (ca. 15-18cm) met een spatelvormig niet-snijdend blad, dat aan het uiteinde puntig of afgerond is. Met het botermes neemt men een kluitje boter uit het botervlootje en brengt het op het brood. [MOT]\r\nOok gebruikt voor messen in een couvert die een breed maar bot lemmet hebben en bij een diner worden gebruikt voor het smeren van boter op brood, broodjes of soortgelijk voedsel. Gebruik 'botermessen' voor soortgelijke messen die worden gebruikt als serveermessen voor het snijden of opdienen van boter van een botervloot. (HVA)(in AAT is dit botermesje)\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "botermes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008719>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008719> <http://www.w3.org/2004/02/skos/core#prefLabel> "mes (culinair gereedschap)"@nl.
+_:df_568_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003600"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003600/2021-10-27T16:50:44.315Z>.
+<https://stad.gent/id/concept/470003610/2021-10-27T16:50:54.319Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003610>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:50:54.319Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215550>;
+    <http://www.w3.org/ns/adms#identifier> _:df_568_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sterke tassen, meestal van papier of plastic en met hengsels, die worden gebruikt om boodschappen of bezittingen te dragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boodschappentas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_568_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003610"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003610/2021-10-27T16:50:54.319Z>.
+<https://stad.gent/id/concept/470003568/2021-10-27T16:49:50.058Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:49:50.058Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203660>;
+    <http://www.w3.org/ns/adms#identifier> _:df_574_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houten lepel (ca. 20cm) met een geribbeld, holrond blad. Hij wordt gebruikt om boter te nemen van een groter boterblok. Soms wordt hij ook gebruikt bij het kneden en opwerken van de boter, maar meestal gebeurt dat met een boterspaan. [MOT]";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boterlepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470007164>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470007164> <http://www.w3.org/2004/02/skos/core#prefLabel> "lepel"@nl, "lepel"@nl.
+_:df_574_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003568/2021-10-27T16:49:50.058Z>.
+<https://stad.gent/id/concept/470003375/2021-10-27T16:44:47.623Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:44:47.623Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043236>;
+    <http://www.w3.org/ns/adms#identifier> _:df_610_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bokaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_610_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003375"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003375/2021-10-27T16:44:47.623Z>.
+<https://KasperZutterman.github.io///thesaurus/bo.ttl> <https://w3id.org/tree#relation> _:df_1_193.
+_:df_1_193 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/bor.ttl>;
+    <https://w3id.org/tree#value> "bor".
+<https://KasperZutterman.github.io///thesaurus/bo.ttl> <https://w3id.org/tree#relation> _:df_1_194.
+_:df_1_194 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/boi.ttl>;
+    <https://w3id.org/tree#value> "boi".
+<https://KasperZutterman.github.io///thesaurus/bo.ttl> <https://w3id.org/tree#relation> _:df_1_195.
+_:df_1_195 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/bon.ttl>;
+    <https://w3id.org/tree#value> "bon".
+<https://KasperZutterman.github.io///thesaurus/bo.ttl> <https://w3id.org/tree#relation> _:df_1_196.
+_:df_1_196 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/boe.ttl>;
+    <https://w3id.org/tree#value> "boe".
+<https://KasperZutterman.github.io///thesaurus/bo.ttl> <https://w3id.org/tree#relation> _:df_1_197.
+_:df_1_197 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/boo.ttl>;
+    <https://w3id.org/tree#value> "boo".
+<https://KasperZutterman.github.io///thesaurus/bo.ttl> <https://w3id.org/tree#relation> _:df_1_198.
+_:df_1_198 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/bov.ttl>;
+    <https://w3id.org/tree#value> "bov".
+<https://KasperZutterman.github.io///thesaurus/bo.ttl> <https://w3id.org/tree#relation> _:df_1_199.
+_:df_1_199 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/box.ttl>;
+    <https://w3id.org/tree#value> "box".
+<https://KasperZutterman.github.io///thesaurus/bo.ttl> <https://w3id.org/tree#relation> _:df_1_200.
+_:df_1_200 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/bos.ttl>;
+    <https://w3id.org/tree#value> "bos".
+<https://KasperZutterman.github.io///thesaurus/bo.ttl> <https://w3id.org/tree#relation> _:df_1_201.
+_:df_1_201 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/bot.ttl>;
+    <https://w3id.org/tree#value> "bot".
+<https://KasperZutterman.github.io///thesaurus/bo.ttl> <https://w3id.org/tree#relation> _:df_1_202.
+_:df_1_202 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/bok.ttl>;
+    <https://w3id.org/tree#value> "bok".
+<https://KasperZutterman.github.io///thesaurus/bo.ttl> <https://w3id.org/tree#relation> _:df_1_203.
+_:df_1_203 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/bou.ttl>;
+    <https://w3id.org/tree#value> "bou".
+<https://KasperZutterman.github.io///thesaurus/bo.ttl> <https://w3id.org/tree#relation> _:df_1_204.
+_:df_1_204 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/bol.ttl>;
+    <https://w3id.org/tree#value> "bol".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bo.ttl>.

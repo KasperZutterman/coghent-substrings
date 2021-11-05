@@ -1429,3 +1429,116 @@ _:df_1_1218 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gan.ttl>;
     <https://w3id.org/tree#value> "gan".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ga.ttl>.
+<https://stad.gent/id/concept/470005410/2021-10-27T17:22:33.700Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005410>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:22:33.700Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014252>;
+    <http://www.w3.org/ns/adms#identifier> _:df_349_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_349_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005410"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005410/2021-10-27T17:22:33.700Z>.
+<https://stad.gent/id/concept/470003827/2021-10-27T16:56:29.071Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003827>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:56:29.071Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024800>;
+    <http://www.w3.org/ns/adms#identifier> _:df_529_6;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Masker ter bescherming tegen de inwerking van giftige gassen (Van Dale)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasmasker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_529_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003827"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003827/2021-10-27T16:56:29.071Z>.
+<https://stad.gent/id/concept/470002473/2021-10-27T16:19:26.752Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002473>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:19:26.752Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q7401079>;
+    <http://www.w3.org/ns/adms#identifier> _:df_787_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gaspard"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002768>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002768> <http://www.w3.org/2004/02/skos/core#prefLabel> "bijbelfiguur"@nl.
+_:df_787_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002473"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002473/2021-10-27T16:19:26.752Z>.
+<https://stad.gent/id/concept/470002041/2021-10-27T16:06:48.358Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002041>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:06:48.358Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7001674>;
+    <http://www.w3.org/ns/adms#identifier> _:df_877_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ganges"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470006862>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470006862> <http://www.w3.org/2004/02/skos/core#prefLabel> "rivier"@nl.
+_:df_877_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002041"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002041/2021-10-27T16:06:48.358Z>.
+<https://stad.gent/id/concept/470002007/2021-10-27T16:05:12.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002007>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:05:12.081Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300250063>;
+    <http://www.w3.org/ns/adms#identifier> _:df_886_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470001993>;
+    <http://www.w3.org/2004/02/skos/core#note> "dier"@nl, "animal"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470001993> <http://www.w3.org/2004/02/skos/core#prefLabel> "vogel"@nl.
+_:df_886_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002007"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002007/2021-10-27T16:05:12.081Z>.
+<https://stad.gent/id/concept/470001887/2021-10-27T16:01:37.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001887>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:01:37.333Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266883>;
+    <http://www.w3.org/ns/adms#identifier> _:df_913_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Strafwerktuigen voor het ophangen van misdadigers, bestaande uit twee, drie of vier door een dwarsbalk verbonden palen, en voorzien van stroppen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_913_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001887"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001887/2021-10-27T16:01:37.333Z>.
+<https://stad.gent/id/concept/470001478/2021-10-27T15:49:02.995Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001478>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:49:02.995Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008823>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1003_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ganshoren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1003_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001478"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001478/2021-10-27T15:49:02.995Z>.
+<https://stad.gent/id/concept/470000566/2021-10-27T15:08:11.530Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000566>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:08:11.530Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037639>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1252_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lampen met gasbranders.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gaslamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470007542>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470007542> <http://www.w3.org/2004/02/skos/core#prefLabel> "lamp (verlichtingsmiddel)"@nl.
+_:df_1252_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000566"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000566/2021-10-27T15:08:11.530Z>.
+<https://stad.gent/id/concept/470000428/2021-10-27T15:02:51.765Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000428>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:02:51.765Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300182337>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1288_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Branders voor de verbranding van gas, meestal met gaten die op verscheidene wijzen geschikt zijn en waardoor gas naar buiten komt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasbrander"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470004487>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004487> <http://www.w3.org/2004/02/skos/core#prefLabel> "bunsenbrander"@nl.
+_:df_1288_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000428"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000428/2021-10-27T15:02:51.765Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ga.ttl>.

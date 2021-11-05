@@ -1724,3 +1724,280 @@ _:df_1_669 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/wap.ttl>;
     <https://w3id.org/tree#value> "wap".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/wa.ttl>.
+<https://stad.gent/id/concept/470005331/2021-10-27T17:21:09.814Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:21:09.814Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041592>;
+    <http://www.w3.org/ns/adms#identifier> _:df_358_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Klokken die zijn ontworpen om aan de muur te worden gehangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wandklok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008877>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470005336>, <https://stad.gent/id/concept/470005338>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005338> <http://www.w3.org/2004/02/skos/core#prefLabel> "koekoeksklok"@nl.
+<https://stad.gent/id/concept/470005336> <http://www.w3.org/2004/02/skos/core#prefLabel> "cartel"@nl.
+<https://stad.gent/id/concept/470008877> <http://www.w3.org/2004/02/skos/core#prefLabel> "klok (uurwerk)"@nl, "klok (uurwerk)"@nl, "klok (uurwerk)"@nl, "klok (uurwerk)"@nl.
+_:df_358_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/470005331> <http://www.w3.org/2004/02/skos/core#prefLabel> "wandklok"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005331/2021-10-27T17:21:09.814Z>.
+<https://stad.gent/id/concept/470004561/2021-10-27T17:12:10.041Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004561>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:12:10.041Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180022>;
+    <http://www.w3.org/ns/adms#identifier> _:df_421_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor kaarsen, die aan de wand zijn bevestigd. De ondersteunende arm kan onbuigzaam of geleed zijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wandkandelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470007569>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470007569> <http://www.w3.org/2004/02/skos/core#prefLabel> "kandelaar"@nl.
+_:df_421_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004561"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004561/2021-10-27T17:12:10.041Z>.
+<https://stad.gent/id/concept/470004100/2021-10-27T17:02:27.431Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004100>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:02:27.431Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1601749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_487_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zachte, veerkrachtige massa van ongekaarde katoenvezels of zaadpluis, gezuiverd en (gedeeltelijk) ontvet als verband-, vul- en verpakkingsmiddel gebruikt. (van dale)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "watten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470003992>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003992> <http://www.w3.org/2004/02/skos/core#prefLabel> "tampon (lichaamsverzorging)"@nl.
+_:df_487_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004100"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004100/2021-10-27T17:02:27.431Z>.
+<https://stad.gent/id/concept/470004072/2021-10-27T17:01:57.420Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004072>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:01:57.420Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300423325>;
+    <http://www.w3.org/ns/adms#identifier> _:df_490_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drooglijn. (Van Dale)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waslijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_490_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004072"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004072/2021-10-27T17:01:57.420Z>.
+<https://stad.gent/id/concept/470004051/2021-10-27T17:01:26.000Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004051>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:01:26.000Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q910284>;
+    <http://www.w3.org/ns/adms#identifier> _:df_496_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Poedervormig wasmiddel, bv. een mengsel van zeep en soda, soms met bleekmiddelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waspoeder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470000218>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470000218> <http://www.w3.org/2004/02/skos/core#prefLabel> "wasmiddel"@nl.
+_:df_496_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004051"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004051/2021-10-27T17:01:26.000Z>.
+<https://stad.gent/id/concept/470003948/2021-10-27T16:59:33.114Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003948>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:59:33.114Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4012014>;
+    <http://www.w3.org/ns/adms#identifier> _:df_508_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallonië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_508_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003948"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003948/2021-10-27T16:59:33.114Z>.
+<https://stad.gent/id/concept/470003358/2021-10-27T16:44:25.490Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003358>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:44:25.490Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163297>;
+    <http://www.w3.org/ns/adms#identifier> _:df_613_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Meestal machinaal aangedreven apparaten die worden gebruikt om kleding en linnengoed te wassen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wasmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_613_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003358"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003358/2021-10-27T16:44:25.490Z>.
+<https://stad.gent/id/concept/470003293/2021-10-27T16:42:38.020Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003293>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:42:38.020Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198939>;
+    <http://www.w3.org/ns/adms#identifier> _:df_625_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Rubberen zakken, aardewerken of metalen flessen voor heet water, om plaatselijk warmte te bieden aan het menselijk lichaam.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "warmwaterkruik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003384>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003384> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder voor gezondheidszorg"@nl.
+_:df_625_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003293"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003293/2021-10-27T16:42:38.020Z>.
+<https://stad.gent/id/concept/470003294/2021-10-27T16:42:43.021Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003294>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:42:43.021Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195275>;
+    <http://www.w3.org/ns/adms#identifier> _:df_625_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Afgedekte ketels om water in te koken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waterketel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003322>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470003746>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003746> <http://www.w3.org/2004/02/skos/core#prefLabel> "fluitketel"@nl.
+<https://stad.gent/id/concept/470003322> <http://www.w3.org/2004/02/skos/core#prefLabel> "ketel"@nl.
+_:df_625_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003294"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003294/2021-10-27T16:42:43.021Z>.
+<https://stad.gent/id/concept/470003142/2021-10-27T16:37:51.618Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003142>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:37:51.618Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300221268>;
+    <http://www.w3.org/ns/adms#identifier> _:df_658_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stokken die in de hand worden gehouden en steun bieden bij het lopen, met name een stijlvol en vaak ook een ornamenteel onderdeel voor het maken van een wandeling.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wandelstok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_658_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003142"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003142/2021-10-27T16:37:51.618Z>.
+<https://stad.gent/id/concept/470002604/2021-10-27T16:22:52.308Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002604>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:22:52.308Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006270>;
+    <http://www.w3.org/ns/adms#identifier> _:df_763_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "watermolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_763_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002604"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002604/2021-10-27T16:22:52.308Z>.
+<https://stad.gent/id/concept/470002360/2021-10-27T16:16:15.659Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002360>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:16:15.659Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1002048>;
+    <http://www.w3.org/ns/adms#identifier> _:df_808_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Warschau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002383>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002383> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polen"@nl.
+_:df_808_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002360"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002360/2021-10-27T16:16:15.659Z>.
+<https://stad.gent/id/concept/470002332/2021-10-27T16:15:17.493Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002332>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:15:17.493Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013962>;
+    <http://www.w3.org/ns/adms#identifier> _:df_817_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Washington"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_817_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002332"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002332/2021-10-27T16:15:17.493Z>.
+<https://stad.gent/id/concept/470002304/2021-10-27T16:14:26.304Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:14:26.304Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008022>;
+    <http://www.w3.org/ns/adms#identifier> _:df_823_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Waterloo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008928>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008928> <http://www.w3.org/2004/02/skos/core#prefLabel> "België"@nl, "België"@nl.
+_:df_823_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002304/2021-10-27T16:14:26.304Z>.
+<https://stad.gent/id/concept/470002100/2021-10-27T16:08:36.118Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002100>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:08:36.118Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036926>;
+    <http://www.w3.org/ns/adms#identifier> _:df_862_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Middelen of mechanismen die worden gebruikt voor de verdediging of aanval in gevechten, bij het jagen of in oorlog. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470009712>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470009712> <http://www.w3.org/2004/02/skos/core#prefLabel> "zwaard"@nl.
+_:df_862_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002100"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002100/2021-10-27T16:08:36.118Z>.
+<https://stad.gent/id/concept/470001674/2021-10-27T15:55:11.647Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001674>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:55:11.647Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200162>;
+    <http://www.w3.org/ns/adms#identifier> _:df_958_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "IJzeren tangen met lange handvatten en een uiteinde met een mal die tijdens het bakken in de wafel wordt gedrukt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wafeltang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008895>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008895> <http://www.w3.org/2004/02/skos/core#prefLabel> "tang"@nl.
+_:df_958_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001674"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001674/2021-10-27T15:55:11.647Z>.
+<https://stad.gent/id/concept/470001608/2021-10-27T15:52:55.322Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:52:55.322Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026790>;
+    <http://www.w3.org/ns/adms#identifier> _:df_973_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Waarschoot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_973_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001608/2021-10-27T15:52:55.322Z>.
+<https://stad.gent/id/concept/470001392/2021-10-27T15:45:13.944Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001392>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:45:13.944Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/3138>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1030_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Walpoortstraat (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1030_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001392"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001392/2021-10-27T15:45:13.944Z>.
+<https://stad.gent/id/concept/470000786/2021-10-27T15:19:42.301Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000786>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:19:42.301Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1048214>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1198_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wageningen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1198_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000786"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000786/2021-10-27T15:19:42.301Z>.
+<https://stad.gent/id/concept/470000772/2021-10-27T15:19:06.816Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000772>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:19:06.816Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026800>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1201_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Waver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1201_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000772"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000772/2021-10-27T15:19:06.816Z>.
+<https://KasperZutterman.github.io///thesaurus/wa.ttl> <https://w3id.org/tree#relation> _:df_1_335.
+_:df_1_335 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/was.ttl>;
+    <https://w3id.org/tree#value> "was".
+<https://KasperZutterman.github.io///thesaurus/wa.ttl> <https://w3id.org/tree#relation> _:df_1_336.
+_:df_1_336 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/wat.ttl>;
+    <https://w3id.org/tree#value> "wat".
+<https://KasperZutterman.github.io///thesaurus/wa.ttl> <https://w3id.org/tree#relation> _:df_1_337.
+_:df_1_337 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/wac.ttl>;
+    <https://w3id.org/tree#value> "wac".
+<https://KasperZutterman.github.io///thesaurus/wa.ttl> <https://w3id.org/tree#relation> _:df_1_338.
+_:df_1_338 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/wan.ttl>;
+    <https://w3id.org/tree#value> "wan".
+<https://KasperZutterman.github.io///thesaurus/wa.ttl> <https://w3id.org/tree#relation> _:df_1_339.
+_:df_1_339 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/waa.ttl>;
+    <https://w3id.org/tree#value> "waa".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/wa.ttl>.

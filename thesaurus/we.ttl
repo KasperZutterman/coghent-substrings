@@ -1815,3 +1815,256 @@ _:df_1_1021 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/wel.ttl>;
     <https://w3id.org/tree#value> "wel".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/we.ttl>.
+<https://stad.gent/id/concept/470005422/2021-10-27T17:22:38.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005422>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:22:38.702Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196293>;
+    <http://www.w3.org/ns/adms#identifier> _:df_349_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten voor het vaststellen van het gewicht van voorwerpen of stoffen.\r\nNoot: in het laboratorium spreekt men alleen van balans.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weegschaal (meetinstrument)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470007962>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470003434>, <https://stad.gent/id/concept/470008744>, <https://stad.gent/id/concept/470003492>, <https://stad.gent/id/concept/470004694>, <https://stad.gent/id/concept/470003436>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003436> <http://www.w3.org/2004/02/skos/core#prefLabel> "unster"@nl.
+<https://stad.gent/id/concept/470004694> <http://www.w3.org/2004/02/skos/core#prefLabel> "huishoudweegschaal"@nl.
+<https://stad.gent/id/concept/470003492> <http://www.w3.org/2004/02/skos/core#prefLabel> "desemer"@nl.
+<https://stad.gent/id/concept/470008744> <http://www.w3.org/2004/02/skos/core#prefLabel> "bascule"@nl.
+<https://stad.gent/id/concept/470003434> <http://www.w3.org/2004/02/skos/core#prefLabel> "balans (meetinstrument)"@nl.
+<https://stad.gent/id/concept/470007962> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrument"@nl.
+_:df_349_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005422"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005422/2021-10-27T17:22:38.702Z>.
+<https://stad.gent/id/concept/470005332/2021-10-27T17:21:14.816Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005332>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:21:14.816Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195766>;
+    <http://www.w3.org/ns/adms#identifier> _:df_358_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Klokken met een bel of een zoemer die kan worden ingesteld om op een bepaalde tijd af te gaan, bijvoorbeeld om iemand te wekken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wekker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008877>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470003031>, <https://stad.gent/id/concept/470000626>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470000626> <http://www.w3.org/2004/02/skos/core#prefLabel> "wekkerradio"@nl.
+<https://stad.gent/id/concept/470003031> <http://www.w3.org/2004/02/skos/core#prefLabel> "reiswekker"@nl.
+<https://stad.gent/id/concept/470008877> <http://www.w3.org/2004/02/skos/core#prefLabel> "klok (uurwerk)"@nl, "klok (uurwerk)"@nl, "klok (uurwerk)"@nl, "klok (uurwerk)"@nl.
+_:df_358_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005332"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005332/2021-10-27T17:21:14.816Z>.
+<https://stad.gent/id/concept/470004463/2021-10-27T17:10:20.367Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004463>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:10:20.367Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2186413>;
+    <http://www.w3.org/ns/adms#identifier> _:df_433_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling Gent 1913"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "gebeurtenis"@nl, "event"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_433_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004463"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004463/2021-10-27T17:10:20.367Z>.
+<https://stad.gent/id/concept/470003850/2021-10-27T16:57:10.012Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003850>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:57:10.012Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026813>;
+    <http://www.w3.org/ns/adms#identifier> _:df_526_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wezemaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_526_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003850"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003850/2021-10-27T16:57:10.012Z>.
+<https://stad.gent/id/concept/470003469/2021-10-27T16:47:12.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003469>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:47:12.831Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2405188>;
+    <http://www.w3.org/ns/adms#identifier> _:df_592_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling Brussel 1897"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_592_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003469"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003469/2021-10-27T16:47:12.831Z>.
+<https://stad.gent/id/concept/470003479/2021-10-27T16:47:17.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:47:17.831Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q932774>;
+    <http://www.w3.org/ns/adms#identifier> _:df_592_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wereldtentoonstelling Brussel 1910"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_592_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003479/2021-10-27T16:47:17.831Z>.
+<https://stad.gent/id/concept/470003465/2021-10-27T16:46:51.292Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003465>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:46:51.292Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300192069>;
+    <http://www.w3.org/ns/adms#identifier> _:df_595_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weerhaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008390>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008390> <http://www.w3.org/2004/02/skos/core#prefLabel> "windwijzer"@nl.
+_:df_595_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003465"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003465/2021-10-27T16:46:51.292Z>.
+<https://stad.gent/id/concept/470003260/2021-10-27T16:40:56.705Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003260>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:40:56.705Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026812>;
+    <http://www.w3.org/ns/adms#identifier> _:df_637_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wevelgem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_637_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003260"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003260/2021-10-27T16:40:56.705Z>.
+<https://stad.gent/id/concept/470003116/2021-10-27T16:37:10.352Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003116>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:37:10.352Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7259730>;
+    <http://www.w3.org/ns/adms#identifier> _:df_664_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Werchter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_664_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003116"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003116/2021-10-27T16:37:10.352Z>.
+<https://stad.gent/id/concept/470002622/2021-10-27T16:23:19.402Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002622>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:23:19.402Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054462>;
+    <http://www.w3.org/ns/adms#identifier> _:df_760_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor de verzameling studies of kennisgebieden die zich bezighouden met de feiten en de fenomenen van de waarneembare of kwantificeerbare wereld, systematisch gerangschikt en de werking van algemene wetten tonend.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wetenschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_760_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002622"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002622/2021-10-27T16:23:19.402Z>.
+<https://stad.gent/id/concept/470002317/2021-10-27T16:14:47.482Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002317>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:14:47.482Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_820_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Duitsland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_820_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002317"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002317/2021-10-27T16:14:47.482Z>.
+<https://stad.gent/id/concept/470001762/2021-10-27T15:57:14.246Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001762>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:57:14.246Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7029561>;
+    <http://www.w3.org/ns/adms#identifier> _:df_943_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wemmel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_943_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001762"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001762/2021-10-27T15:57:14.246Z>.
+<https://stad.gent/id/concept/470001486/2021-10-27T15:49:18.404Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001486>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:49:18.404Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1041715>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1000_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Weimar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1000_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001486"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001486/2021-10-27T15:49:18.404Z>.
+<https://stad.gent/id/concept/470001342/2021-10-27T15:43:49.815Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001342>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:43:49.815Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/3139>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1039_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wellingstraat (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1039_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001342"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001342/2021-10-27T15:43:49.815Z>.
+<https://stad.gent/id/concept/470001306/2021-10-27T15:42:57.024Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001306>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:42:57.024Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1045_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wervik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1045_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001306"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001306/2021-10-27T15:42:57.024Z>.
+<https://stad.gent/id/concept/470001148/2021-10-27T15:32:19.263Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001148>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:32:19.263Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1048226>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1117_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Weesp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003166>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003166> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_1117_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001148"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001148/2021-10-27T15:32:19.263Z>.
+<https://stad.gent/id/concept/470001100/2021-10-27T15:30:41.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001100>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:30:41.472Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003909>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1129_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor palen, meestal langs de kant van de weg geplaatst of bij kruisingen, waaraan zich één of meerdere borden bevinden die reizigers de weg wijzen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wegwijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1129_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001100"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001100/2021-10-27T15:30:41.472Z>.
+<https://stad.gent/id/concept/470000626/2021-10-27T15:10:59.887Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000626>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:10:59.887Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195766>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1237_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Radio's die een weksignaal geven of gaan spelen op een vooraf ingesteld tijdstip.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wekkerradio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003127>, <https://stad.gent/id/concept/470005332>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005332> <http://www.w3.org/2004/02/skos/core#prefLabel> "wekker"@nl.
+<https://stad.gent/id/concept/470003127> <http://www.w3.org/2004/02/skos/core#prefLabel> "radio-ontvanger"@nl.
+_:df_1237_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000626"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000626/2021-10-27T15:10:59.887Z>.
+<https://stad.gent/id/concept/470000520/2021-10-27T15:06:10.795Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000520>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:06:10.795Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7018934>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1264_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Westminster"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470001577>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470001577> <http://www.w3.org/2004/02/skos/core#prefLabel> "Londen"@nl.
+_:df_1264_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000520"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000520/2021-10-27T15:06:10.795Z>.
+<https://stad.gent/id/concept/470000351/2021-10-27T15:00:50.543Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000351>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:00:50.543Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003321>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1300_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wenen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002316>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002316> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostenrijk"@nl.
+_:df_1300_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000351"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000351/2021-10-27T15:00:50.543Z>.
+<https://KasperZutterman.github.io///thesaurus/we.ttl> <https://w3id.org/tree#relation> _:df_1_349.
+_:df_1_349 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/wes.ttl>;
+    <https://w3id.org/tree#value> "wes".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/we.ttl>.

@@ -161,3 +161,17 @@ _:df_1888_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530008248"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008248/2021-10-28T00:22:57.948Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/oc.ttl>.
+<https://stad.gent/id/concept/470002698/2021-10-27T16:25:09.074Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002698>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:25:09.074Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000006>;
+    <http://www.w3.org/ns/adms#identifier> _:df_748_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oceanië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470001951>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470001951> <http://www.w3.org/2004/02/skos/core#prefLabel> "Australië"@nl.
+_:df_748_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002698"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002698/2021-10-27T16:25:09.074Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/oc.ttl>.

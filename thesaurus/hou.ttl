@@ -1159,3 +1159,50 @@ _:df_1_1232 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/hout.ttl>;
     <https://w3id.org/tree#value> "hout".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hou.ttl>.
+<https://stad.gent/id/concept/470001091/2021-10-27T15:30:16.466Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001091>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:30:16.466Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045611>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1132_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De hiërarchie Houders bevat descriptoren voor artefacten die zijn bedoeld als houder voor stoffen of objecten. Hieronder vallen descriptoren voor houders bedoeld voor gebruik in de keuken, voor de tuinbouw, voor persoonlijke verzorging, hygiëne en soortgelijke persoonlijke behoeften, evenals descriptoren voor houders die worden geassocieerd met liturgische handelingen, begrafenissen en andere ceremoniële activiteiten. Een descriptor voor een houder wordt opgenomen met betrekking tot het vroegste historische gebruik van het object, of daar waar de descriptor de breedste betekenis heeft. Oude vaasvormen zijn evenwel ondergebracht op basis van hun klassieke functie of context, hoewel de descriptor in sommige gevallen ook op pre- of postklassiek vaatwerk kan worden toegepast. Relatie met andere hiërarchieën: descriptoren voor apparaten die worden gebruikt voor metingen in descriptoren van standaardeenheden of vaste eenheden (bijvoorbeeld 'maatlepels') zijn opgenomen in de hiërarchie Meetinstrumenten. Grote en kleine keukenbenodigdheden en andere keukenapparatuur (bijvoorbeeld 'ijskasten', 'koffiezetapparaten') verschijnen in de hiërarchie Gereedschap en Uitrusting. Descriptoren voor artefacten die in sommige gevallen als houder kunnen worden beschouwd (bijvoorbeeld 'ladekasten') maar die binnen het kader van andere hiërarchieën vallen, bijvoorbeeld Interieurinrichting of Gereedschap en Uitrusting, zijn hier buiten beschouwing gelaten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houders"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1132_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001091"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001091/2021-10-27T15:30:16.466Z>.
+<https://stad.gent/id/concept/470000731/2021-10-27T15:17:20.619Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000731>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:17:20.619Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024830>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1213_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Handgereedschap dat bestaat uit een stalen kop die aan één of beide kanten is gepunt, met een houten handvat. Worden gebruikt om samengeperste aarde los te maken of in stukken te breken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houweel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1213_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000731"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000731/2021-10-27T15:17:20.619Z>.
+<https://stad.gent/id/concept/470000692/2021-10-27T15:15:59.609Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000692>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:15:59.609Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054089>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1222_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houtsnijden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1222_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000692"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000692/2021-10-27T15:15:59.609Z>.
+<https://stad.gent/id/concept/470000389/2021-10-27T15:02:06.275Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000389>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:02:06.275Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q6138343>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1291_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houtsnijder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1291_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000389"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000389/2021-10-27T15:02:06.275Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hou.ttl>.

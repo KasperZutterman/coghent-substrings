@@ -510,3 +510,17 @@ _:df_4360_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470007721"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007721/2021-10-27T18:21:55.031Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sie.ttl>.
+<https://stad.gent/id/concept/470001141/2021-10-27T15:32:04.258Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001141>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:32:04.258Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1120_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vaas ter versiering.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "siervaas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470005488>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005488> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaas"@nl.
+_:df_1120_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001141"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001141/2021-10-27T15:32:04.258Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sie.ttl>.

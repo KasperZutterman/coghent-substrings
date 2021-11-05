@@ -1833,3 +1833,314 @@ _:df_1_374 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kom.ttl>;
     <https://w3id.org/tree#value> "kom".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ko.ttl>.
+<https://stad.gent/id/concept/470006346/2021-10-27T17:39:37.738Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470006346>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:39:37.738Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300410345>;
+    <http://www.w3.org/ns/adms#identifier> _:df_232_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Mensen die grote, door paarden voortgetrokken rijtuigen besturen voor het vervoer van passagiers. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koetsier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_232_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470006346"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470006346/2021-10-27T17:39:37.738Z>.
+<https://stad.gent/id/concept/470005963/2021-10-27T17:34:00.028Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005963>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:34:00.028Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7245920>;
+    <http://www.w3.org/ns/adms#identifier> _:df_271_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Komen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_271_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005963"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005963/2021-10-27T17:34:00.028Z>.
+<https://stad.gent/id/concept/470005834/2021-10-27T17:30:28.520Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005834>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:30:28.520Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025315>;
+    <http://www.w3.org/ns/adms#identifier> _:df_295_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koperslager"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002891>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002891> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaalwerker naar type metaal"@nl.
+_:df_295_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005834"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005834/2021-10-27T17:30:28.520Z>.
+<https://stad.gent/id/concept/470005731/2021-10-27T17:28:09.049Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005731>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:28:09.049Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046224>;
+    <http://www.w3.org/ns/adms#identifier> _:df_310_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stukken bagage; meestal rechthoekig, stevig en plat met name voor het op reis vervoeren van kleding.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koffer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470001583>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470001583> <http://www.w3.org/2004/02/skos/core#prefLabel> "miskoffer"@nl.
+_:df_310_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005731"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005731/2021-10-27T17:28:09.049Z>.
+<https://stad.gent/id/concept/470005338/2021-10-27T17:21:19.818Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005338>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:21:19.818Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041602>;
+    <http://www.w3.org/ns/adms#identifier> _:df_358_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hangklokken met uitgebreid houtsnijwerk en versieringen, meestal met bloemenmotieven, die de uren aangeven met een geluid dat klinkt als de roep van een koekoek; meestal met zichtbare gewichten en slinger. Ze werden halverwege de 18e eeuw geïntroduceerd in het Zwarte Woud en de vroegste exemplaren hadden een houten mechanisme.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koekoeksklok"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470005331>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005331> <http://www.w3.org/2004/02/skos/core#prefLabel> "wandklok"@nl.
+_:df_358_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005338"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/470005338> <http://www.w3.org/2004/02/skos/core#prefLabel> "koekoeksklok"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005338/2021-10-27T17:21:19.818Z>.
+<https://stad.gent/id/concept/470005150/2021-10-27T17:18:59.241Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005150>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:18:59.241Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300423365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_373_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metalen schep met een vlak of holrond langwerpig blad (ca. 10-15cm breed; ca. 20-25cm lang) met opstaande randen om kleine hoeveelheden kolen in de kachel te scheppen. Ze kan volledig van metaal zijn of een metalen blad hebben dat met een angel of een dille aan een houten hecht bevestigd is. Ze is vaak versierd en vormt één geheel met de kolenbak.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kolenschep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_373_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005150"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005150/2021-10-27T17:18:59.241Z>.
+<https://stad.gent/id/concept/470004486/2021-10-27T17:10:47.107Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004486>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:10:47.107Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200832>;
+    <http://www.w3.org/ns/adms#identifier> _:df_430_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "(Gemakkelijk hanteerbaar en verplaatsbaar) kooktoestel met één, twee of meer branders, zowel voor in de keuken (wanneer er geen plaats genoeg is voor een fornuis) als bv. voor bij het kamperen e.d.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kookplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008918>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008918> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukenapparaat"@nl.
+_:df_430_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004486"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004486/2021-10-27T17:10:47.107Z>.
+<https://stad.gent/id/concept/470004462/2021-10-27T17:10:15.366Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004462>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:10:15.366Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041340>;
+    <http://www.w3.org/ns/adms#identifier> _:df_433_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het grafische procedé van het graveren in koper, het uitsnijden (met een burijn) van een voorstelling in een volkomen vlakke koperen plaat, om die te vermenigvuldigen. Gegraveerde koperen plaat. Afdruk van zo'n plaat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kopergravure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_433_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004462"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004462/2021-10-27T17:10:15.366Z>.
+<https://stad.gent/id/concept/470004376/2021-10-27T17:08:52.802Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004376>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:08:52.802Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300422312>;
+    <http://www.w3.org/ns/adms#identifier> _:df_442_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Plank met verdiept aangebrachte figuren om daarin deeg voor speculaaspoppen enz. te vormen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koekplank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470006292>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470006296>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470006296> <http://www.w3.org/2004/02/skos/core#prefLabel> "speculaasplank"@nl.
+<https://stad.gent/id/concept/470006292> <http://www.w3.org/2004/02/skos/core#prefLabel> "mal"@nl.
+_:df_442_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004376"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004376/2021-10-27T17:08:52.802Z>.
+<https://stad.gent/id/concept/470004384/2021-10-27T17:09:07.807Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004384>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:09:07.807Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300422329>;
+    <http://www.w3.org/ns/adms#identifier> _:df_442_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Box met isolerende wanden en deksel om dranken en etenswaren koel te houden. (van dale)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koelbox"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_442_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004384"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004384/2021-10-27T17:09:07.807Z>.
+<https://stad.gent/id/concept/470004346/2021-10-27T17:08:16.767Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004346>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:08:16.767Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207798>;
+    <http://www.w3.org/ns/adms#identifier> _:df_448_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine mechanische apparaten die koffiebonen vermalen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koffiemolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003656>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003656> <http://www.w3.org/2004/02/skos/core#prefLabel> "molen (keukengerei)"@nl.
+_:df_448_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004346"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004346/2021-10-27T17:08:16.767Z>.
+<https://stad.gent/id/concept/470004147/2021-10-27T17:02:50.263Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004147>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:02:50.263Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046088>;
+    <http://www.w3.org/ns/adms#identifier> _:df_484_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Elk van de beide gelijkvormige kledingstukken die dienen tot bedekking van de voet en van (kleiner of groter gedeelte van) het been, en naar de vorm daarvan vervaardigd; voor mannen meestal tot over de enkel (en dan in ’t a lg. ‘sok’ genoemd) of ten hoogste tot onder de knie, voor vrouwen vooral tot gedeeltelijk over het dijbeen en de poep reikend. (hva)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kous"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_484_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004147"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004147/2021-10-27T17:02:50.263Z>.
+<https://stad.gent/id/concept/470003840/2021-10-27T16:56:55.006Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003840>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:56:55.006Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209467>;
+    <http://www.w3.org/ns/adms#identifier> _:df_526_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Apparat dat wordt gebruikt voor het branden van koffiebonen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koffiebrander"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008918>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008918> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukenapparaat"@nl.
+_:df_526_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003840"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003840/2021-10-27T16:56:55.006Z>.
+<https://stad.gent/id/concept/470003848/2021-10-27T16:57:00.007Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003848>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:57:00.007Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215510>;
+    <http://www.w3.org/ns/adms#identifier> _:df_526_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Koffiepotten met een opzetfilter of een mousseline zakje dat aan een uitneembare rand in de pot hangt, soms voorzien van een komfoor.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koffiefilterpot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008037>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008037> <http://www.w3.org/2004/02/skos/core#prefLabel> "koffiekan"@nl.
+_:df_526_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003848"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003848/2021-10-27T16:57:00.007Z>.
+<https://stad.gent/id/concept/470003813/2021-10-27T16:56:09.064Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003813>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:56:09.064Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198452>;
+    <http://www.w3.org/ns/adms#identifier> _:df_532_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metalen bakken met deksel met gaatjes voor het bereiden en warmhouden van voedsel; soms ook voor het verwarmen van ruimten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "komfoor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008918>, <https://stad.gent/id/concept/470003624>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470004194>, <https://stad.gent/id/concept/470004192>, <https://stad.gent/id/concept/470006195>, <https://stad.gent/id/concept/470004508>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004508> <http://www.w3.org/2004/02/skos/core#prefLabel> "theekomfoor"@nl.
+<https://stad.gent/id/concept/470006195> <http://www.w3.org/2004/02/skos/core#prefLabel> "spirituskomfoor"@nl.
+<https://stad.gent/id/concept/470004192> <http://www.w3.org/2004/02/skos/core#prefLabel> "komfoor (elektrisch)"@nl.
+<https://stad.gent/id/concept/470004194> <http://www.w3.org/2004/02/skos/core#prefLabel> "gaskomfoor"@nl.
+<https://stad.gent/id/concept/470003624> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestel"@nl.
+<https://stad.gent/id/concept/470008918> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukenapparaat"@nl, "keukenapparaat"@nl.
+_:df_532_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003813"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003813/2021-10-27T16:56:09.064Z>.
+<https://stad.gent/id/concept/470003805/2021-10-27T16:55:41.198Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003805>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:55:41.198Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203596>;
+    <http://www.w3.org/ns/adms#identifier> _:df_535_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Open, geronde houders, over het algemeen wijder dan hoog, vlakke onderkant of bodemring, soms een deksel. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003426>, <https://stad.gent/id/concept/470008662>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470003718>, <https://stad.gent/id/concept/470003291>, <https://stad.gent/id/concept/470006715>, <https://stad.gent/id/concept/470003821>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003821> <http://www.w3.org/2004/02/skos/core#prefLabel> "teil"@nl.
+<https://stad.gent/id/concept/470006715> <http://www.w3.org/2004/02/skos/core#prefLabel> "soepkom"@nl.
+<https://stad.gent/id/concept/470003291> <http://www.w3.org/2004/02/skos/core#prefLabel> "slakom"@nl.
+<https://stad.gent/id/concept/470003718> <http://www.w3.org/2004/02/skos/core#prefLabel> "sauskom"@nl.
+<https://stad.gent/id/concept/470008662> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk"@nl, "vaatwerk"@nl.
+<https://stad.gent/id/concept/470003426> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder"@nl.
+_:df_535_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003805"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003805/2021-10-27T16:55:41.198Z>.
+<https://stad.gent/id/concept/470003735/2021-10-27T16:54:07.607Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003735>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:54:07.607Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_547_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kasten of ruimten die op een lage temperatuur worden gehouden door middel van ijs of mechanisch apparatuur om de inhoud, vnl. voedsel en dranken, goed te houden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koelkast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_547_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003735"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003735/2021-10-27T16:54:07.607Z>.
+<https://stad.gent/id/concept/470003605/2021-10-27T16:50:49.317Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003605>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:50:49.317Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1541241>;
+    <http://www.w3.org/ns/adms#identifier> _:df_568_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koffiefilter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_568_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003605"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003605/2021-10-27T16:50:49.317Z>.
+<https://stad.gent/id/concept/470003547/2021-10-27T16:49:23.260Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003547>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:49:23.260Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200422>;
+    <http://www.w3.org/ns/adms#identifier> _:df_577_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kook- en verhittingsapparaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470003691>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003691> <http://www.w3.org/2004/02/skos/core#prefLabel> "yoghurtketel"@nl.
+_:df_577_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003547"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003547/2021-10-27T16:49:23.260Z>.
+<https://stad.gent/id/concept/470003453/2021-10-27T16:46:41.290Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003453>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:46:41.290Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008853>;
+    <http://www.w3.org/ns/adms#identifier> _:df_598_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koksijde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_598_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003453"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003453/2021-10-27T16:46:41.290Z>.
+<https://KasperZutterman.github.io///thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_210.
+_:df_1_210 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kop.ttl>;
+    <https://w3id.org/tree#value> "kop".
+<https://KasperZutterman.github.io///thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_211.
+_:df_1_211 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/koo.ttl>;
+    <https://w3id.org/tree#value> "koo".
+<https://KasperZutterman.github.io///thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_212.
+_:df_1_212 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kok.ttl>;
+    <https://w3id.org/tree#value> "kok".
+<https://KasperZutterman.github.io///thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_213.
+_:df_1_213 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kom.ttl>;
+    <https://w3id.org/tree#value> "kom".
+<https://KasperZutterman.github.io///thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_214.
+_:df_1_214 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kon.ttl>;
+    <https://w3id.org/tree#value> "kon".
+<https://KasperZutterman.github.io///thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_215.
+_:df_1_215 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/koe.ttl>;
+    <https://w3id.org/tree#value> "koe".
+<https://KasperZutterman.github.io///thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_216.
+_:df_1_216 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kof.ttl>;
+    <https://w3id.org/tree#value> "kof".
+<https://KasperZutterman.github.io///thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_217.
+_:df_1_217 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kor.ttl>;
+    <https://w3id.org/tree#value> "kor".
+<https://KasperZutterman.github.io///thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_218.
+_:df_1_218 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kou.ttl>;
+    <https://w3id.org/tree#value> "kou".
+<https://KasperZutterman.github.io///thesaurus/ko.ttl> <https://w3id.org/tree#relation> _:df_1_219.
+_:df_1_219 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kol.ttl>;
+    <https://w3id.org/tree#value> "kol".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ko.ttl>.

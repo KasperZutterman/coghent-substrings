@@ -152,3 +152,18 @@ _:df_4042_5 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470009394"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009394/2021-10-27T19:06:45.881Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bas.ttl>.
+<https://stad.gent/id/concept/470001867/2021-10-27T16:00:57.320Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:00:57.320Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211461>;
+    <http://www.w3.org/ns/adms#identifier> _:df_916_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor met lucht gevulde, ronde ballen waarmee wordt gestuiterd of gegooid tijdens het spel met dezelfde naam; meestal ongeveer 75cm in omtrek met een gewicht van zo'n 570 tot 625 gram.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "basketbal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470009783>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470009783> <http://www.w3.org/2004/02/skos/core#prefLabel> "sport"@nl.
+_:df_916_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001867/2021-10-27T16:00:57.320Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bas.ttl>.

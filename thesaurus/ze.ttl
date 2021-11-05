@@ -1214,3 +1214,134 @@ _:df_1_1106 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/zed.ttl>;
     <https://w3id.org/tree#value> "zed".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ze.ttl>.
+<https://stad.gent/id/concept/470004009/2021-10-27T17:00:49.859Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:00:49.859Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014329>;
+    <http://www.w3.org/ns/adms#identifier> _:df_499_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Reinigingsmiddel dat, door wrijven met water, in schuim kan oplossen (in scheikundige zin een kalium- of natriumzout van een vetzuur, dat men verkrijgt door de verhitting van vetten met kali- of natronloog resp. met kalium- of natriumcarbonaat).";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zeep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470004307>, <https://stad.gent/id/concept/470003379>, <https://stad.gent/id/concept/470000218>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470000218> <http://www.w3.org/2004/02/skos/core#prefLabel> "wasmiddel"@nl.
+<https://stad.gent/id/concept/470003379> <http://www.w3.org/2004/02/skos/core#prefLabel> "toiletzeep"@nl.
+<https://stad.gent/id/concept/470004307> <http://www.w3.org/2004/02/skos/core#prefLabel> "scheerzeep"@nl.
+_:df_499_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004009/2021-10-27T17:00:49.859Z>.
+<https://stad.gent/id/concept/470004011/2021-10-27T17:00:54.860Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004011>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:00:54.860Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215617>;
+    <http://www.w3.org/ns/adms#identifier> _:df_499_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Open houders voor zeep, vast bevestigd in badkamer, keuken of toilet. Gebruik 'zeepdozen' voor transportabele doosjes of geperforeerde houders waar een stuk zeep in kan. (AAT)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zeepbakje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470006676>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470006676> <http://www.w3.org/2004/02/skos/core#prefLabel> "zeephouder"@nl.
+_:df_499_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004011"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004011/2021-10-27T17:00:54.860Z>.
+<https://stad.gent/id/concept/470003186/2021-10-27T16:39:12.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003186>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:39:12.850Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026823>;
+    <http://www.w3.org/ns/adms#identifier> _:df_649_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zele"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_649_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003186"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003186/2021-10-27T16:39:12.850Z>.
+<https://stad.gent/id/concept/470002609/2021-10-27T16:22:57.309Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002609>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:22:57.309Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7258478>;
+    <http://www.w3.org/ns/adms#identifier> _:df_763_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zellik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_763_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002609"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002609/2021-10-27T16:22:57.309Z>.
+<https://stad.gent/id/concept/470002368/2021-10-27T16:16:25.663Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002368>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:16:25.663Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300008694>;
+    <http://www.w3.org/ns/adms#identifier> _:df_808_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De meer ondiepe zoutwatergebieden van de aarde die langs de randen van continenten liggen. Los gebruikt als een eigennaam voor elk specifiek waterlichaam. Gebruik 'oceanen' voor de belangrijkste watergebieden van de aarde, gelegen in bekkens.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zee"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002547>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002547> <http://www.w3.org/2004/02/skos/core#prefLabel> "plaats"@nl.
+_:df_808_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002368"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002368/2021-10-27T16:16:25.663Z>.
+<https://stad.gent/id/concept/470001845/2021-10-27T16:00:21.633Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:00:21.633Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q25587>;
+    <http://www.w3.org/ns/adms#identifier> _:df_922_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zeehond"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008564>;
+    <http://www.w3.org/2004/02/skos/core#note> "dier"@nl, "animal"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008564> <http://www.w3.org/2004/02/skos/core#prefLabel> "dier"@nl, "dier"@nl.
+_:df_922_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001845/2021-10-27T16:00:21.633Z>.
+<https://stad.gent/id/concept/470001824/2021-10-27T15:59:40.630Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001824>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:59:40.630Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265992>;
+    <http://www.w3.org/ns/adms#identifier> _:df_925_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zebra"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008564>;
+    <http://www.w3.org/2004/02/skos/core#note> "dier"@nl, "animal"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008564> <http://www.w3.org/2004/02/skos/core#prefLabel> "dier"@nl, "dier"@nl.
+_:df_925_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001824"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001824/2021-10-27T15:59:40.630Z>.
+<https://stad.gent/id/concept/470001825/2021-10-27T15:59:45.631Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001825>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:59:45.631Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300440740>;
+    <http://www.w3.org/ns/adms#identifier> _:df_925_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zeeleeuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008564>;
+    <http://www.w3.org/2004/02/skos/core#note> "dier"@nl, "animal"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008564> <http://www.w3.org/2004/02/skos/core#prefLabel> "dier"@nl, "dier"@nl.
+_:df_925_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001825"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001825/2021-10-27T15:59:45.631Z>.
+<https://stad.gent/id/concept/470001450/2021-10-27T15:48:02.629Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001450>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:48:02.629Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300212908>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1009_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Luchtschepen van het stijve type die bestaan uit een overdekt, versterkt raamwerk dat wordt gedragen door compartimenten of cellen die zijn gevuld met gas; rond 1900 in Duitsland ontwikkeld.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zeppelin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470009778>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470009778> <http://www.w3.org/2004/02/skos/core#prefLabel> "transportmiddel"@nl.
+_:df_1009_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001450"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001450/2021-10-27T15:48:02.629Z>.
+<https://stad.gent/id/concept/470001336/2021-10-27T15:43:24.808Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001336>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:43:24.808Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026824>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1042_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zelzate"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1042_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001336"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001336/2021-10-27T15:43:24.808Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ze.ttl>.

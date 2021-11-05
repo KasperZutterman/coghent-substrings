@@ -1747,3 +1747,270 @@ _:df_1_430 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pes.ttl>;
     <https://w3id.org/tree#value> "pes".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pe.ttl>.
+<https://stad.gent/id/concept/470005754/2021-10-27T17:28:49.062Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005754>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:28:49.062Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037334>;
+    <http://www.w3.org/ns/adms#identifier> _:df_307_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geslagen metalen plaatje.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "penning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470006429>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470006429> <http://www.w3.org/2004/02/skos/core#prefLabel> "penning (ruilmiddel)"@nl.
+_:df_307_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005754"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005754/2021-10-27T17:28:49.062Z>.
+<https://stad.gent/id/concept/470005340/2021-10-27T17:21:24.821Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005340>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:21:24.821Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041578>;
+    <http://www.w3.org/ns/adms#identifier> _:df_358_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor klokken die zijn ontworpen om op schoorsteenmantels te staan en die meestal gedrongen en zwaar zijn en geen handvatten hebben.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pendule"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008877>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008877> <http://www.w3.org/2004/02/skos/core#prefLabel> "klok (uurwerk)"@nl, "klok (uurwerk)"@nl, "klok (uurwerk)"@nl, "klok (uurwerk)"@nl.
+_:df_358_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005340"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005340/2021-10-27T17:21:24.821Z>.
+<https://stad.gent/id/concept/470004815/2021-10-27T17:16:34.271Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004815>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:16:34.271Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q183413>;
+    <http://www.w3.org/ns/adms#identifier> _:df_391_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Toestellen om mee te perforeren. (aat)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "perforator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_391_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004815"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004815/2021-10-27T17:16:34.271Z>.
+<https://stad.gent/id/concept/470004599/2021-10-27T17:13:22.200Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004599>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:13:22.200Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037638>;
+    <http://www.w3.org/ns/adms#identifier> _:df_412_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lampen die zijn ontworpen om op petroleum te branden.(aat)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "petroleumlamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470007542>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470007542> <http://www.w3.org/2004/02/skos/core#prefLabel> "lamp (verlichtingsmiddel)"@nl.
+_:df_412_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004599"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004599/2021-10-27T17:13:22.200Z>.
+<https://stad.gent/id/concept/470004256/2021-10-27T17:05:17.404Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004256>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:05:17.404Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198829>;
+    <http://www.w3.org/ns/adms#identifier> _:df_469_33;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bak, bakje om daarin penhouders te bewaren (ook in een schoolbank). (van dale)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pennenbak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_469_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004256"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004256/2021-10-27T17:05:17.404Z>.
+<https://stad.gent/id/concept/470004068/2021-10-27T17:01:51.007Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004068>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:01:51.007Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036423>;
+    <http://www.w3.org/ns/adms#identifier> _:df_493_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pen (bevestigingsmiddel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470006521>, <https://stad.gent/id/concept/470008671>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008671> <http://www.w3.org/2004/02/skos/core#prefLabel> "veiligheidsspeld"@nl.
+<https://stad.gent/id/concept/470006521> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoedenspeld"@nl.
+_:df_493_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004068"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004068/2021-10-27T17:01:51.007Z>.
+<https://stad.gent/id/concept/470003877/2021-10-27T16:57:50.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003877>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:57:50.885Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300435049>;
+    <http://www.w3.org/ns/adms#identifier> _:df_520_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stel van twee bij elkaar behorende potjes, één voor zout, één voor peper.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "peper- en zoutstel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003976>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470003876>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003876> <http://www.w3.org/2004/02/skos/core#prefLabel> "zoutvat (keukengerei)"@nl.
+<https://stad.gent/id/concept/470003976> <http://www.w3.org/2004/02/skos/core#prefLabel> "specerijvat"@nl.
+_:df_520_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003877"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003877/2021-10-27T16:57:50.885Z>.
+<https://stad.gent/id/concept/470003764/2021-10-27T16:54:59.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:54:59.937Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200179>;
+    <http://www.w3.org/ns/adms#identifier> _:df_541_33;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine handbediende apparaatjes die worden gebruikt voor het opslaan en vermalen van peperkorrels.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pepermolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003296>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003296> <http://www.w3.org/2004/02/skos/core#prefLabel> "kruidenmolen"@nl.
+_:df_541_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003764/2021-10-27T16:54:59.937Z>.
+<https://stad.gent/id/concept/470003700/2021-10-27T16:53:02.495Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003700>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:53:02.495Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195264>;
+    <http://www.w3.org/ns/adms#identifier> _:df_553_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Koffiezetapparaten waarin kokend water via een slangetje in een filter met gemalen koffiebonen loopt om er het extract uit te halen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "percolator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470007283>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470007283> <http://www.w3.org/2004/02/skos/core#prefLabel> "koffiezetapparaat"@nl.
+_:df_553_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003700"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003700/2021-10-27T16:53:02.495Z>.
+<https://stad.gent/id/concept/470003177/2021-10-27T16:38:57.846Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003177>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:38:57.846Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7001758>;
+    <http://www.w3.org/ns/adms#identifier> _:df_649_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Peking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470005134>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005134> <http://www.w3.org/2004/02/skos/core#prefLabel> "China"@nl.
+_:df_649_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003177"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003177/2021-10-27T16:38:57.846Z>.
+<https://stad.gent/id/concept/470002500/2021-10-27T16:20:08.306Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002500>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:20:08.306Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011851>;
+    <http://www.w3.org/ns/adms#identifier> _:df_781_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "perkament"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_781_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002500"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002500/2021-10-27T16:20:08.306Z>.
+<https://stad.gent/id/concept/470002270/2021-10-27T16:13:20.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002270>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:13:20.081Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300250083>;
+    <http://www.w3.org/ns/adms#identifier> _:df_829_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pelikaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470001993>;
+    <http://www.w3.org/2004/02/skos/core#note> "dier"@nl, "animal"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470001993> <http://www.w3.org/2004/02/skos/core#prefLabel> "vogel"@nl.
+_:df_829_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002270"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002270/2021-10-27T16:13:20.081Z>.
+<https://stad.gent/id/concept/470002142/2021-10-27T16:09:31.699Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002142>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:09:31.699Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300389824>;
+    <http://www.w3.org/ns/adms#identifier> _:df_856_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "peper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008974>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008974> <http://www.w3.org/2004/02/skos/core#prefLabel> "voedsel"@nl.
+_:df_856_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002142"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002142/2021-10-27T16:09:31.699Z>.
+<https://stad.gent/id/concept/470001913/2021-10-27T16:02:18.106Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001913>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:02:18.106Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7024079>;
+    <http://www.w3.org/ns/adms#identifier> _:df_907_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Perzië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002108>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002108> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl.
+_:df_907_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001913"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001913/2021-10-27T16:02:18.106Z>.
+<https://stad.gent/id/concept/470001408/2021-10-27T15:46:15.607Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001408>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:46:15.607Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/3100>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1021_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pekelharing (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1021_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001408"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001408/2021-10-27T15:46:15.607Z>.
+<https://stad.gent/id/concept/470001292/2021-10-27T15:41:54.438Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001292>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:41:54.438Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/2947>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1051_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pensmarkt (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1051_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001292"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001292/2021-10-27T15:41:54.438Z>.
+<https://stad.gent/id/concept/470001289/2021-10-27T15:41:39.435Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001289>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:41:39.435Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/3101>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1054_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Peperstraat (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1054_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001289"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001289/2021-10-27T15:41:39.435Z>.
+<https://stad.gent/id/concept/470000862/2021-10-27T15:23:47.601Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:23:47.601Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q6742>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1177_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Peugeot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470009414>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470009414> <http://www.w3.org/2004/02/skos/core#prefLabel> "auto"@nl.
+_:df_1177_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000862/2021-10-27T15:23:47.601Z>.
+<https://stad.gent/id/concept/470000489/2021-10-27T15:05:09.933Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000489>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:05:09.933Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022452>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1270_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Werktuig schuin en puntig afgesneden en van een spleet voorzien om mee te schrijven. (hva)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470004206>, <https://stad.gent/id/concept/470004263>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004263> <http://www.w3.org/2004/02/skos/core#prefLabel> "vulpen"@nl.
+<https://stad.gent/id/concept/470004206> <http://www.w3.org/2004/02/skos/core#prefLabel> "balpen"@nl.
+_:df_1270_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000489"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000489/2021-10-27T15:05:09.933Z>.
+<https://stad.gent/id/concept/470000265/2021-10-27T14:57:07.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000265>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T14:57:07.472Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026668>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1327_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Peruwelz"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1327_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000265"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000265/2021-10-27T14:57:07.472Z>.
+<https://KasperZutterman.github.io///thesaurus/pe.ttl> <https://w3id.org/tree#relation> _:df_1_352.
+_:df_1_352 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pel.ttl>;
+    <https://w3id.org/tree#value> "pel".
+<https://KasperZutterman.github.io///thesaurus/pe.ttl> <https://w3id.org/tree#relation> _:df_1_353.
+_:df_1_353 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/per.ttl>;
+    <https://w3id.org/tree#value> "per".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pe.ttl>.

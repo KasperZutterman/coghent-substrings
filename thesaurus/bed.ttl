@@ -1146,3 +1146,33 @@ _:df_4096_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470009127"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009127/2021-10-27T18:59:05.810Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bed.ttl>.
+<https://stad.gent/id/concept/470002290/2021-10-27T16:14:11.300Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002290>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:14:11.300Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069279>;
+    <http://www.w3.org/ns/adms#identifier> _:df_823_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tochten die meestal lang zijn en uit eerbetoon of toewijding worden ondernomen, vaak naar het graf van een heilige, geboorteplek of heilige plaats.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bedevaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_823_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002290"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002290/2021-10-27T16:14:11.300Z>.
+<https://stad.gent/id/concept/470000321/2021-10-27T14:59:43.051Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000321>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T14:59:43.051Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038697>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1309_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Deze benaming verwijst naar het beddengoed (matrassen en bedekking), naar het ledikant of naar beide.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470009619>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470001801>, <https://stad.gent/id/concept/470005907>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005907> <http://www.w3.org/2004/02/skos/core#prefLabel> "poppenbed"@nl.
+<https://stad.gent/id/concept/470001801> <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderbed"@nl.
+<https://stad.gent/id/concept/470009619> <http://www.w3.org/2004/02/skos/core#prefLabel> "ligmeubel"@nl.
+_:df_1309_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000321"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000321/2021-10-27T14:59:43.051Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bed.ttl>.

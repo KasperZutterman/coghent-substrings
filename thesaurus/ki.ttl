@@ -1103,3 +1103,105 @@ _:df_1_1141 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kis.ttl>;
     <https://w3id.org/tree#value> "kis".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ki.ttl>.
+<https://stad.gent/id/concept/470006496/2021-10-27T17:45:00.115Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470006496>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:45:00.115Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2471487>;
+    <http://www.w3.org/ns/adms#identifier> _:df_193_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderkleding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002535>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002535> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding naar drager"@nl.
+_:df_193_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470006496"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470006496/2021-10-27T17:45:00.115Z>.
+<https://stad.gent/id/concept/470003546/2021-10-27T16:49:18.258Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003546>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:49:18.258Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000628>;
+    <http://www.w3.org/ns/adms#identifier> _:df_580_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kinshasa"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_580_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003546"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003546/2021-10-27T16:49:18.258Z>.
+<https://stad.gent/id/concept/470003071/2021-10-27T16:35:01.591Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003071>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:35:01.591Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010791>;
+    <http://www.w3.org/ns/adms#identifier> _:df_679_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "King's Lynn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_679_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003071"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003071/2021-10-27T16:35:01.591Z>.
+<https://stad.gent/id/concept/470002470/2021-10-27T16:19:21.751Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002470>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:19:21.751Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004826>;
+    <http://www.w3.org/ns/adms#identifier> _:df_787_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine vrijstaande gebouwtjes die of open zijn of gedeeltelijk afgesloten, waar handelswaar wordt getoond, aangeprezen of verkocht.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kiosk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_787_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002470"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002470/2021-10-27T16:19:21.751Z>.
+<https://stad.gent/id/concept/470002095/2021-10-27T16:08:25.251Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:08:25.251Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300250037>;
+    <http://www.w3.org/ns/adms#identifier> _:df_865_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kip"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470001993>;
+    <http://www.w3.org/2004/02/skos/core#note> "dier"@nl, "animal"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470001993> <http://www.w3.org/2004/02/skos/core#prefLabel> "vogel"@nl.
+_:df_865_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002095/2021-10-27T16:08:25.251Z>.
+<https://stad.gent/id/concept/470001964/2021-10-27T16:03:44.677Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001964>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:03:44.677Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300250018>;
+    <http://www.w3.org/ns/adms#identifier> _:df_898_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kikker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008564>;
+    <http://www.w3.org/2004/02/skos/core#note> "dier"@nl, "animal"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008564> <http://www.w3.org/2004/02/skos/core#prefLabel> "dier"@nl.
+_:df_898_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001964"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001964/2021-10-27T16:03:44.677Z>.
+<https://stad.gent/id/concept/470001801/2021-10-27T15:58:40.215Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001801>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:58:40.215Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300165757>;
+    <http://www.w3.org/ns/adms#identifier> _:df_934_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bedje voor kinderen. Vaak met een hoge rand en spijlers aan de zijkant. (hva)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderbed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470000321>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470005906>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005906> <http://www.w3.org/2004/02/skos/core#prefLabel> "wieg"@nl.
+<https://stad.gent/id/concept/470000321> <http://www.w3.org/2004/02/skos/core#prefLabel> "bed"@nl.
+_:df_934_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001801"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001801/2021-10-27T15:58:40.215Z>.
+<https://stad.gent/id/concept/470001759/2021-10-27T15:57:04.244Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001759>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:57:04.244Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210717>;
+    <http://www.w3.org/ns/adms#identifier> _:df_946_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hoofddeksel voor kinderen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kindermuts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_946_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001759"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001759/2021-10-27T15:57:04.244Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ki.ttl>.

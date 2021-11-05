@@ -1738,3 +1738,127 @@ _:df_1_1208 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/oor.ttl>;
     <https://w3id.org/tree#value> "oor".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/oo.ttl>.
+<https://stad.gent/id/concept/470003385/2021-10-27T16:44:52.626Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003385>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:44:52.626Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236405>;
+    <http://www.w3.org/ns/adms#identifier> _:df_610_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ooglens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470008405>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008405> <http://www.w3.org/2004/02/skos/core#prefLabel> "zonnebril"@nl.
+_:df_610_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003385"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003385/2021-10-27T16:44:52.626Z>.
+<https://stad.gent/id/concept/470003169/2021-10-27T16:38:26.631Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003169>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:38:26.631Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026653>;
+    <http://www.w3.org/ns/adms#identifier> _:df_655_45;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostkamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_655_45 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003169"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003169/2021-10-27T16:38:26.631Z>.
+<https://stad.gent/id/concept/470002881/2021-10-27T16:29:19.560Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002881>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:29:19.560Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7251249>;
+    <http://www.w3.org/ns/adms#identifier> _:df_718_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostrozebeke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_718_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002881"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002881/2021-10-27T16:29:19.560Z>.
+<https://stad.gent/id/concept/470002316/2021-10-27T16:14:42.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:14:42.481Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000062>;
+    <http://www.w3.org/ns/adms#identifier> _:df_820_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostenrijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470000059>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470000351>, <https://stad.gent/id/concept/470010661>, <https://stad.gent/id/concept/470010662>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470010662> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bregenz"@nl.
+<https://stad.gent/id/concept/470010661> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dornbirn"@nl.
+<https://stad.gent/id/concept/470000351> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wenen"@nl.
+<https://stad.gent/id/concept/470000059> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_820_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002316"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002316/2021-10-27T16:14:42.481Z>.
+<https://stad.gent/id/concept/470001972/2021-10-27T16:03:59.680Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001972>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:03:59.680Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300250101>;
+    <http://www.w3.org/ns/adms#identifier> _:df_895_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ooievaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470001993>;
+    <http://www.w3.org/2004/02/skos/core#note> "dier"@nl, "animal"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470001993> <http://www.w3.org/2004/02/skos/core#prefLabel> "vogel"@nl.
+_:df_895_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001972"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001972/2021-10-27T16:03:59.680Z>.
+<https://stad.gent/id/concept/470001721/2021-10-27T15:55:53.855Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001721>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:55:53.855Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400484>;
+    <http://www.w3.org/ns/adms#identifier> _:df_952_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gepaarde, ronde zichtorganen in het menselijk hoofd of de koppen van andere gewervelde dieren. De term kan ook verwijzen naar verschillende soorten visuele of licht detecterende organen bij ongewervelde dieren. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oog"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_952_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001721"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001721/2021-10-27T15:55:53.855Z>.
+<https://stad.gent/id/concept/470001728/2021-10-27T15:56:03.857Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001728>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:56:03.857Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003457>;
+    <http://www.w3.org/ns/adms#identifier> _:df_952_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470010711>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470010711> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bachte-Maria-Leerne"@nl.
+_:df_952_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001728"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001728/2021-10-27T15:56:03.857Z>.
+<https://stad.gent/id/concept/470001462/2021-10-27T15:48:22.984Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001462>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:48:22.984Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045998>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1006_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sieraad, oorspronkelijk min of meer in de vorm van een belletje, thans in allerlei vormen, dat men in het oor draagt of dat met een klemmetje aan het oor wordt vastgezet.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorbel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1006_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001462"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001462/2021-10-27T15:48:22.984Z>.
+<https://stad.gent/id/concept/470001420/2021-10-27T15:47:06.932Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001420>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:47:06.932Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008893>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1015_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostkerke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1015_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001420"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001420/2021-10-27T15:47:06.932Z>.
+<https://stad.gent/id/concept/470000618/2021-10-27T15:10:39.881Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000618>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:10:39.881Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300262088>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1240_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor oorbellen met een hanger. (AAT)\r\nSieraad dat men in de oren hangt. (Van Dale)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorhanger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1240_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000618"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000618/2021-10-27T15:10:39.881Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/oo.ttl>.

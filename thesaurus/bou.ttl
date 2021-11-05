@@ -858,3 +858,18 @@ _:df_4132_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008886"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008886/2021-10-27T18:54:07.795Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bou.ttl>.
+<https://stad.gent/id/concept/470000535/2021-10-27T15:07:02.173Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000535>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:07:02.173Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199837>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1258_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine lepels met een ronde kom die worden gebruikt voor het eten van bouillon en andere heldere soepen. Gebruik 'soeplepels' voor grotere lepels met een ronde of ovale kom die worden gebruikt voor het eten van soep.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bouillonlepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470007164>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470007164> <http://www.w3.org/2004/02/skos/core#prefLabel> "lepel"@nl.
+_:df_1258_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000535"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000535/2021-10-27T15:07:02.173Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bou.ttl>.

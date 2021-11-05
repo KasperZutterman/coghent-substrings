@@ -204,3 +204,18 @@ _:df_4171_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008684"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008684/2021-10-27T18:48:30.067Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ag.ttl>.
+<https://stad.gent/id/concept/470001863/2021-10-27T16:00:46.640Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001863>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:00:46.640Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025867>;
+    <http://www.w3.org/ns/adms#identifier> _:df_919_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Leden van een politiemacht die zijn opgeleid in methoden van wetshandhaving en in het voorkomen en oplossen van misdaden, en aan wie het gezag is verleend om de rust, veiligheid en orde binnen een gemeenschap te handhaven. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "agent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008987>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008987> <http://www.w3.org/2004/02/skos/core#prefLabel> "figuur"@nl, "figuur"@nl.
+_:df_919_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001863"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001863/2021-10-27T16:00:46.640Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ag.ttl>.
