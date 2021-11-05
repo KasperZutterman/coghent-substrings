@@ -2,11 +2,13 @@
 
 name: CI
 
+concurrency: ci-${{ github.ref }}
+
 # Controls when the workflow will run
 on:
   # - on schedule, every 4 hours
   schedule:
-   - cron: '*/20 * * * *'
+   - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -27,6 +29,6 @@ jobs:
           storage: 'thesaurus'
           fragmentation_strategy: 'substring'
           fragmentation_page_size: 20
-          timeout: 600000
+          timeout: 1200000
           property_path: '<http://www.w3.org/2004/02/skos/core#prefLabel>'
           stream_data: "true"
