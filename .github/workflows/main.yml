@@ -5,8 +5,8 @@ name: CI
 # Controls when the workflow will run
 on:
   # - on schedule, every 4 hours
-  #schedule:
-   # - cron: '0 */4 * * *'
+  schedule:
+   - cron: '*/20 * * * *'
   workflow_dispatch:
 
 jobs:
