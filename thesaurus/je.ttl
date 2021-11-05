@@ -24,3 +24,17 @@ _:df_1408_32 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570009059"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009059/2021-10-31T21:10:36.592Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/je.ttl>.
+<https://stad.gent/id/concept/550002688/2021-10-31T16:50:26.116Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002688>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:50:26.116Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007930>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1318_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jette"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008923>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008923> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussels Hoofdstedelijk Gewest"@nl.
+_:df_1318_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002688"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002688/2021-10-31T16:50:26.116Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/je.ttl>.

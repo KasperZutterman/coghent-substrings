@@ -500,3 +500,300 @@ _:df_1_501 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/sab.ttl>;
     <https://w3id.org/tree#value> "sab".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/sa.ttl>.
+<https://stad.gent/id/concept/550008352/2021-10-31T19:33:30.301Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008352>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:33:30.301Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052575>;
+    <http://www.w3.org/ns/adms#identifier> _:df_160_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor de vergaarbakken van afvoersystemen (geen sifons) die bedoeld zijn om water op te vangen en weg te laten spoelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sanitaire installatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007804>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005378>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005378> <http://www.w3.org/2004/02/skos/core#prefLabel> "toilet (sanitair)"@nl.
+<https://stad.gent/id/concept/550007804> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdelen van loodgieterswerk en afvoersystemen voor regenwater"@nl.
+_:df_160_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008352"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008352/2021-10-31T19:33:30.301Z>.
+<https://stad.gent/id/concept/550006849/2021-10-31T18:37:01.604Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006849>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:37:01.604Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7610748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_562_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint-Armel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_562_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006849"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006849/2021-10-31T18:37:01.604Z>.
+<https://stad.gent/id/concept/550006786/2021-10-31T18:33:33.887Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006786>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:33:33.887Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7255973>;
+    <http://www.w3.org/ns/adms#identifier> _:df_586_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint-Remy-Geest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008927>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008927> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant"@nl, "Waals-Brabant"@nl.
+_:df_586_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006786"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006786/2021-10-31T18:33:33.887Z>.
+<https://stad.gent/id/concept/550006711/2021-10-31T18:32:13.204Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006711>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:32:13.204Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7604641>;
+    <http://www.w3.org/ns/adms#identifier> _:df_595_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint-Romain-au-mont-d'Or"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_595_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006711"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006711/2021-10-31T18:32:13.204Z>.
+<https://stad.gent/id/concept/550006436/2021-10-31T18:23:51.192Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006436>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:23:51.192Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014456>;
+    <http://www.w3.org/ns/adms#identifier> _:df_655_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "San Francisco"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005607>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005607> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_655_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006436"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006436/2021-10-31T18:23:51.192Z>.
+<https://stad.gent/id/concept/550006401/2021-10-31T18:22:29.891Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006401>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:22:29.891Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014483>;
+    <http://www.w3.org/ns/adms#identifier> _:df_664_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sarasota (FL)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005607>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005607> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl, "Verenigde Staten"@nl, "Verenigde Staten"@nl.
+_:df_664_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006401"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006401/2021-10-31T18:22:29.891Z>.
+<https://stad.gent/id/concept/550006311/2021-10-31T18:19:32.818Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006311>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:19:32.818Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005371>;
+    <http://www.w3.org/ns/adms#identifier> _:df_685_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Savona"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000038>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_685_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006311"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006311/2021-10-31T18:19:32.818Z>.
+<https://stad.gent/id/concept/550006264/2021-10-31T18:17:30.730Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006264>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:17:30.730Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7017121>;
+    <http://www.w3.org/ns/adms#identifier> _:df_700_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "São Paulo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550003272>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003272> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brazilië"@nl.
+_:df_700_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006264"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006264/2021-10-31T18:17:30.730Z>.
+<https://stad.gent/id/concept/550005606/2021-10-31T17:55:02.670Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005606>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:55:02.670Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009708>;
+    <http://www.w3.org/ns/adms#identifier> _:df_859_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint-Etienne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_859_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005606"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005606/2021-10-31T17:55:02.670Z>.
+<https://stad.gent/id/concept/550005547/2021-10-31T17:53:41.319Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005547>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:53:41.319Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011083>;
+    <http://www.w3.org/ns/adms#identifier> _:df_868_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Elke zuivere edelsteen behalve de robijn, die een variëteit is van de korund.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "saffier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008837>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008837> <http://www.w3.org/2004/02/skos/core#prefLabel> "korund"@nl, "korund"@nl.
+_:df_868_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005547"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005547/2021-10-31T17:53:41.319Z>.
+<https://stad.gent/id/concept/550005398/2021-10-31T17:49:02.881Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005398>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:49:02.881Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008470>;
+    <http://www.w3.org/ns/adms#identifier> _:df_901_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint Amand-Les- Eaux"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_901_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005398"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005398/2021-10-31T17:49:02.881Z>.
+<https://stad.gent/id/concept/550005076/2021-10-31T17:36:27.683Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005076>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:36:27.683Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215736>;
+    <http://www.w3.org/ns/adms#identifier> _:df_991_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metalen, vaak koperen ketelvormige houders, met onderaan een tapkraantje en interne buizen voor hete kolen; wordt gebruikt om water in te koken voor thee. De term wordt vooral gebruikt voor de Russische typen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "samowaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008184>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008184> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaten voor het serveren van dranken"@nl.
+_:df_991_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005076"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005076/2021-10-31T17:36:27.683Z>.
+<https://stad.gent/id/concept/550004784/2021-10-31T17:29:16.205Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004784>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:29:16.205Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042560>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1042_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Blaasinstrumenten, met brede, wijd uitlopende conische uiteinde van koper; bespeeld met een dubbel riet.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sarrusofoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008066>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008066> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijpen met een dubbel riet: met conische boring"@nl.
+_:df_1042_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004784"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004784/2021-10-31T17:29:16.205Z>.
+<https://stad.gent/id/concept/550004525/2021-10-31T17:19:07.797Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004525>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:19:07.797Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003256>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1114_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Salzburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004669>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004669> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostenrijk"@nl.
+_:df_1114_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004525"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004525/2021-10-31T17:19:07.797Z>.
+<https://stad.gent/id/concept/550004489/2021-10-31T17:17:41.684Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004489>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:17:41.684Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7605532>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1123_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint-Thonan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_1123_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004489"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004489/2021-10-31T17:17:41.684Z>.
+<https://stad.gent/id/concept/550004306/2021-10-31T17:13:28.335Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004306>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:13:28.335Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003687>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1153_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Saksen-Anhalt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1153_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004306"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004306/2021-10-31T17:13:28.335Z>.
+<https://stad.gent/id/concept/550004310/2021-10-31T17:13:39.127Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004310>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:13:39.127Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1046532>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1153_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "San Giovanni Lupatoto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000038>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_1153_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004310"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004310/2021-10-31T17:13:39.127Z>.
+<https://stad.gent/id/concept/550003814/2021-10-31T17:07:34.049Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003814>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:07:34.049Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300218762>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1195_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bootvormige kommen, meestal met een lange schenktuit aan de ene kant en een handvat aan de andere kant, of twee schenktuiten en een handvat in het midden; gebruikt voor het serveren van sauzen, jus en dergelijke.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sauskom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007897>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007897> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk voor het opdienen en consumeren van voedsel"@nl.
+_:df_1195_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003814"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003814/2021-10-31T17:07:34.049Z>.
+<https://stad.gent/id/concept/550003111/2021-10-31T16:56:35.406Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003111>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:56:35.406Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012724>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1273_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een compact, dicht generfd, geurig en geelachtig hout, dat het kernhout is van een Indomaleise parasitaire boom.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sandelhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008734>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008734> <http://www.w3.org/2004/02/skos/core#prefLabel> "hout naar samenstelling of herkomst"@nl.
+_:df_1273_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003111"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003111/2021-10-31T16:56:35.406Z>.
+<https://stad.gent/id/concept/550001626/2021-10-31T16:35:14.886Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001626>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:35:14.886Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003686>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1426_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Saksen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1426_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001626"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001626/2021-10-31T16:35:14.886Z>.
+<https://KasperZutterman.github.io///thesaurus/sa.ttl> <https://w3id.org/tree#relation> _:df_1_464.
+_:df_1_464 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/sab.ttl>;
+    <https://w3id.org/tree#value> "sab".
+<https://KasperZutterman.github.io///thesaurus/sa.ttl> <https://w3id.org/tree#relation> _:df_1_465.
+_:df_1_465 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/sai.ttl>;
+    <https://w3id.org/tree#value> "sai".
+<https://KasperZutterman.github.io///thesaurus/sa.ttl> <https://w3id.org/tree#relation> _:df_1_466.
+_:df_1_466 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/sat.ttl>;
+    <https://w3id.org/tree#value> "sat".
+<https://KasperZutterman.github.io///thesaurus/sa.ttl> <https://w3id.org/tree#relation> _:df_1_467.
+_:df_1_467 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/sav.ttl>;
+    <https://w3id.org/tree#value> "sav".
+<https://KasperZutterman.github.io///thesaurus/sa.ttl> <https://w3id.org/tree#relation> _:df_1_468.
+_:df_1_468 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/san.ttl>;
+    <https://w3id.org/tree#value> "san".
+<https://KasperZutterman.github.io///thesaurus/sa.ttl> <https://w3id.org/tree#relation> _:df_1_469.
+_:df_1_469 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/sal.ttl>;
+    <https://w3id.org/tree#value> "sal".
+<https://KasperZutterman.github.io///thesaurus/sa.ttl> <https://w3id.org/tree#relation> _:df_1_470.
+_:df_1_470 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/sas.ttl>;
+    <https://w3id.org/tree#value> "sas".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sa.ttl>.

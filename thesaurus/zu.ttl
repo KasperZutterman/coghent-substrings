@@ -114,3 +114,92 @@ _:df_1900_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550008939"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008939/2021-10-31T20:00:48.357Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/zu.ttl>.
+<https://stad.gent/id/concept/550004277/2021-10-31T17:12:32.781Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004277>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:12:32.781Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007302>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1162_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zürich"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005889>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005889> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_1162_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004277"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004277/2021-10-31T17:12:32.781Z>.
+<https://stad.gent/id/concept/550003837/2021-10-31T17:08:04.638Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003837>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:08:04.638Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1192_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het gezwingelde vlas (zie zwingelmes) of de hennep (1) wordt gezuiverd, d.i. ontdoen van knopen en de nog laatste achtergebleven lemen en klodden (korte en zwakke vezels), door de vezels door de tanden van de grove hekel, ook voorhekel genoemd, en daarna door een fijnere hekel te trekken.\r\n\r\nBeide, zuiverhekel genoemd om hem te onderscheiden van de spinhekel, bestaan uit een schuin (ca. 80°) opgestelde houten plank voorzien van een 5-16-tal tanden (ca. 8-12 cm lang) (2) die geschrankt staan. De plank, soms voorzien van een uitsparing om de voet door te steken, is aan een (houten) voetplank bevestigd. Ook in de vorm van een hekelplank of -bank (3).\r\n\r\nTe onderscheiden van de spinhekel waarbij de vezels worden gekamd juist voor ze gesponnen worden. [MOT]";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zuiverhekel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008376>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008376> <http://www.w3.org/2004/02/skos/core#prefLabel> "landbouwuitrusting"@nl.
+_:df_1192_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003837"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003837/2021-10-31T17:08:04.638Z>.
+<https://stad.gent/id/concept/550003316/2021-10-31T16:59:53.228Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:59:53.228Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000002>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1252_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuid-Amerika"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008928>, <https://stad.gent/id/concept/550003272>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003272> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brazilië"@nl.
+<https://stad.gent/id/concept/550008928> <http://www.w3.org/2004/02/skos/core#prefLabel> "Argentinië"@nl.
+_:df_1252_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003316"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003316/2021-10-31T16:59:53.228Z>.
+<https://stad.gent/id/concept/550002461/2021-10-31T16:47:23.891Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002461>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:47:23.891Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300001571>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1339_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt in de bouwkunde gebruikt om te verwijzen naar cilindrische of enigszins taps toelopende, rechtopstaande metselwerken, die meestal een dragende functie hebben of lijken te hebben. Ze bestaan uit drie onderdelen: voetstuk, kapiteel en schacht. De term kan ook verwijzen naar alle rechtopstaande delen in een stalen of betonnen raamwerk. Ook komen zuilen soms ook voor als vrijstaand monument, bijvoorbeeld de Zuil van Trajanus in Rome of de Zuil van Nelson in Londen. Zuilen kunnen voorts als decoratief element in meubilair worden toegepast. Zie 'pijlers (dragende elementen)' voor vierkante of rechthoekige delen, in metselwerk of klassiek bewerkt, en voor de massieve rechtopstaande delen uit de middeleeuwse architectuur. Zie 'palen' voor vierkante, rechtopstaande stutten van hout.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zuil (architecturaal element)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008192>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008192> <http://www.w3.org/2004/02/skos/core#prefLabel> "zuilen en zuilonderdelen"@nl.
+_:df_1339_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002461"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002461/2021-10-31T16:47:23.891Z>.
+<https://stad.gent/id/concept/550001688/2021-10-31T16:36:15.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001688>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:36:15.557Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000299>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1420_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuid-Korea"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550003505>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003505> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl, "Azië"@nl, "Azië"@nl, "Azië"@nl.
+_:df_1420_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001688"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001688/2021-10-31T16:36:15.557Z>.
+<https://stad.gent/id/concept/550000061/2021-10-31T16:14:35.228Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000061>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:14:35.228Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/8711669>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1573_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuidelijke Nederlanden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1573_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000061"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000061/2021-10-31T16:14:35.228Z>.
+<https://stad.gent/id/concept/530010524/2021-10-31T16:00:19.669Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010524>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:00:19.669Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1675_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuid-Koreaans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1675_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010524"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010524/2021-10-31T16:00:19.669Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/zu.ttl>.

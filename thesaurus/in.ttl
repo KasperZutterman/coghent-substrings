@@ -418,3 +418,293 @@ _:df_1_415 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/ink.ttl>;
     <https://w3id.org/tree#value> "ink".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/in.ttl>.
+<https://stad.gent/id/concept/550007566/2021-10-31T18:41:25.908Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007566>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:41:25.908Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_529_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inhoud"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_529_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007566"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007566/2021-10-31T18:41:25.908Z>.
+<https://stad.gent/id/concept/550006378/2021-10-31T18:21:29.238Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006378>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:21:29.238Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003249>;
+    <http://www.w3.org/ns/adms#identifier> _:df_670_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Innsbruck"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004669>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004669> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostenrijk"@nl.
+_:df_670_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006378"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006378/2021-10-31T18:21:29.238Z>.
+<https://stad.gent/id/concept/550006377/2021-10-31T18:21:24.236Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006377>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:21:24.236Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006085>;
+    <http://www.w3.org/ns/adms#identifier> _:df_673_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ingelheim am Rhein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_673_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006377"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006377/2021-10-31T18:21:24.236Z>.
+<https://stad.gent/id/concept/550006188/2021-10-31T18:14:23.798Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006188>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:14:23.798Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196797>;
+    <http://www.w3.org/ns/adms#identifier> _:df_721_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine houders voor inkt waarin een pen kan worden gedoopt. Zie 'inktflessen' voor flessen met inkt bedoeld voor de verkoop.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inktpot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005621>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005621> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor schrijfbenodigheden"@nl.
+_:df_721_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006188"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006188/2021-10-31T18:14:23.798Z>.
+<https://stad.gent/id/concept/550006189/2021-10-31T18:14:28.800Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006189>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:14:28.800Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300022517>;
+    <http://www.w3.org/ns/adms#identifier> _:df_721_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gereedschappen om kalligrafeerinkt mee te maken; met aan één kant een uitholling.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inktsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008170>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008170> <http://www.w3.org/2004/02/skos/core#prefLabel> "schets-teken-en schrijfbenodigdheden naar specifiek type"@nl.
+_:df_721_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006189"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006189/2021-10-31T18:14:28.800Z>.
+<https://stad.gent/id/concept/550006080/2021-10-31T18:09:34.403Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006080>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:09:34.403Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_757_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inkttekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007970>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007970> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekeningen naar materiaal of techniek"@nl.
+_:df_757_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006080"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006080/2021-10-31T18:09:34.403Z>.
+<https://stad.gent/id/concept/550005710/2021-10-31T17:58:14.537Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005710>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:58:14.537Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300137960>;
+    <http://www.w3.org/ns/adms#identifier> _:df_835_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Omvat beschrijvingen voor de fysieke samenstellingen en voorwerpen waarmee specifieke informatie kan worden opgenomen of overgebracht.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers naar fysieke vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007790>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005163>, <https://stad.gent/id/concept/550008650>, <https://stad.gent/id/concept/550005463>, <https://stad.gent/id/concept/550000220>, <https://stad.gent/id/concept/550009249>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009249> <http://www.w3.org/2004/02/skos/core#prefLabel> "sticker"@nl.
+<https://stad.gent/id/concept/550000220> <http://www.w3.org/2004/02/skos/core#prefLabel> "pamflet"@nl.
+<https://stad.gent/id/concept/550005463> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaart (informatiedrager)"@nl.
+<https://stad.gent/id/concept/550008650> <http://www.w3.org/2004/02/skos/core#prefLabel> "button (informatiedrager)"@nl.
+<https://stad.gent/id/concept/550005163> <http://www.w3.org/2004/02/skos/core#prefLabel> "boek"@nl.
+<https://stad.gent/id/concept/550007790> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers"@nl.
+_:df_835_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005710"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005710/2021-10-31T17:58:14.537Z>.
+<https://stad.gent/id/concept/550005462/2021-10-31T17:51:39.861Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005462>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:51:39.861Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211556>;
+    <http://www.w3.org/ns/adms#identifier> _:df_883_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Plaatvormige, gewoonlijk rechthoekige broches; kunnen dienen als sieraad of als ordeteken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "insigne (broche)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002744>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002744> <http://www.w3.org/2004/02/skos/core#prefLabel> "broche"@nl.
+_:df_883_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005462"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005462/2021-10-31T17:51:39.861Z>.
+<https://stad.gent/id/concept/550005245/2021-10-31T17:42:37.622Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005245>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:42:37.622Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_946_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "penning geslaan ter gelegenheid van de inhuldiging van een gebouw";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inhuldigingspenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004364>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003712>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003712> <http://www.w3.org/2004/02/skos/core#prefLabel> "strooipenning"@nl.
+<https://stad.gent/id/concept/550004364> <http://www.w3.org/2004/02/skos/core#prefLabel> "gedenkpenning"@nl.
+_:df_946_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005245"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005245/2021-10-31T17:42:37.622Z>.
+<https://stad.gent/id/concept/550005126/2021-10-31T17:37:43.296Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005126>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:37:43.296Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028725>;
+    <http://www.w3.org/ns/adms#identifier> _:df_982_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Alle soorten middelen die aangeven dat een persoon of object tot een groep of organisatie behoort, en die soms ook een rang of functie aangeven. Gebruik ‘logo’s’ voor grafische symbolen of afbeeldingen die zijn ontworpen om een product, firma of organisatie snel te kunnen herkennen. Soms fungeren logo's ook als handelsmerk.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "insigne (embleem)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005184>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005217>, <https://stad.gent/id/concept/550003454>, <https://stad.gent/id/concept/550008320>, <https://stad.gent/id/concept/550005964>, <https://stad.gent/id/concept/550005292>, <https://stad.gent/id/concept/550008220>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008220> <http://www.w3.org/2004/02/skos/core#prefLabel> "verenigingspenning"@nl.
+<https://stad.gent/id/concept/550005292> <http://www.w3.org/2004/02/skos/core#prefLabel> "sjakoplaat"@nl.
+<https://stad.gent/id/concept/550005964> <http://www.w3.org/2004/02/skos/core#prefLabel> "pelgrimsteken"@nl.
+<https://stad.gent/id/concept/550008320> <http://www.w3.org/2004/02/skos/core#prefLabel> "militair insigne"@nl.
+<https://stad.gent/id/concept/550003454> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedelaarspenning"@nl.
+<https://stad.gent/id/concept/550005217> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedelaarsinsigne"@nl.
+<https://stad.gent/id/concept/550005184> <http://www.w3.org/2004/02/skos/core#prefLabel> "embleem (onderscheidingsteken)"@nl.
+_:df_982_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005126"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005126/2021-10-31T17:37:43.296Z>.
+<https://stad.gent/id/concept/550004778/2021-10-31T17:28:56.199Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:28:56.199Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1045_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "instrumentenbouwer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1045_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004778/2021-10-31T17:28:56.199Z>.
+<https://stad.gent/id/concept/550004430/2021-10-31T17:16:06.039Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004430>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:16:06.039Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1135_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1135_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004430"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004430/2021-10-31T17:16:06.039Z>.
+<https://stad.gent/id/concept/550003348/2021-10-31T17:00:04.011Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003348>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:00:04.011Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300390923>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1249_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een insculpatieplaat is een controleplaatje waarop alle keurmerken en -tekens staan die op dat moment in gebruik zijn. De verifiërende waarborgambtenaar gebruikte ronde insculpatieplaten voor externe controles, zoals van goud- en zilversmeden, winkels, markten en veilingen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "insculpatieplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007877>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007877> <http://www.w3.org/2004/02/skos/core#prefLabel> "soorten documenten naar functie"@nl.
+_:df_1249_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003348"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003348/2021-10-31T17:00:04.011Z>.
+<https://stad.gent/id/concept/550002731/2021-10-31T16:51:16.677Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002731>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:51:16.677Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7016879>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1312_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Indochina"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550003505>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003505> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl.
+_:df_1312_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002731"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002731/2021-10-31T16:51:16.677Z>.
+<https://stad.gent/id/concept/550002472/2021-10-31T16:47:43.898Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002472>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:47:43.898Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196804>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1336_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Standaarden voor inktpotten en schrijfgerei.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inktstel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005621>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005621> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor schrijfbenodigheden"@nl.
+_:df_1336_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002472"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002472/2021-10-31T16:47:43.898Z>.
+<https://stad.gent/id/concept/550001658/2021-10-31T16:35:50.552Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001658>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:35:50.552Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000116>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1423_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Indonesië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550003505>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001586>, <https://stad.gent/id/concept/550001585>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001585> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sumatra"@nl.
+<https://stad.gent/id/concept/550001586> <http://www.w3.org/2004/02/skos/core#prefLabel> "Java"@nl.
+<https://stad.gent/id/concept/550003505> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl.
+_:df_1423_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001658"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001658/2021-10-31T16:35:50.552Z>.
+<https://stad.gent/id/concept/550001536/2021-10-31T16:33:38.642Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001536>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:33:38.642Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300390923>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1438_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een insculpatieplaat is een controleplaatje waarop alle keurmerken en -tekens staan die op dat moment in gebruik zijn. De verifiërende waarborgambtenaar gebruikte ronde insculpatieplaten voor externe controles, zoals van goud- en zilversmeden, winkels, markten en veilingen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "insculpatieplaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007877>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007877> <http://www.w3.org/2004/02/skos/core#prefLabel> "soorten documenten naar functie"@nl.
+_:df_1438_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001536"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001536/2021-10-31T16:33:38.642Z>.
+<https://stad.gent/id/concept/550001015/2021-10-31T16:24:52.686Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001015>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:24:52.686Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198981>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1501_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor het afmeten van hoeveelheden ingrediënten, bekervormig, met schaalverdeling.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inhoudsmaat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008167>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008167> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van hoeveelheid: stoffen"@nl.
+_:df_1501_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001015"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001015/2021-10-31T16:24:52.686Z>.
+<https://stad.gent/id/concept/550000129/2021-10-31T16:15:15.243Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:15:15.243Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015012>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1567_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een vloeibare stof die wordt gebruikt voor tekeningenof overtrektekeningen. Een ondoorzichtig, doorgaans zwart pigment wordt vermengd met een oplosmiddel, zoals water, om een vloeistof te verkrijgen die met een pen of inkt kan worden aangebracht. Tot het eind van de 19de eeuw werd inkt droog aangeleverd, in de vorm van een tablet of staafje dat naar behoeven werd vermalen en opgelost in water. Aan het begin van de 20ste eeuw ging men over op bereide inkt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inkt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008776>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008855>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008855> <http://www.w3.org/2004/02/skos/core#prefLabel> "inkt naar samenstelling of herkomst"@nl.
+<https://stad.gent/id/concept/550008776> <http://www.w3.org/2004/02/skos/core#prefLabel> "deklaag naar vorm"@nl.
+_:df_1567_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000129/2021-10-31T16:15:15.243Z>.
+<https://stad.gent/id/concept/530010678/2021-10-31T16:11:27.865Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010678>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:11:27.865Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1594_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "In copyright - rights-holder(s) unlocatable or unidentifiable"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rechten"@nl, "rights"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1594_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010678"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010678/2021-10-31T16:11:27.865Z>.
+<https://KasperZutterman.github.io///thesaurus/in.ttl> <https://w3id.org/tree#relation> _:df_1_494.
+_:df_1_494 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/inu.ttl>;
+    <https://w3id.org/tree#value> "inu".
+<https://KasperZutterman.github.io///thesaurus/in.ttl> <https://w3id.org/tree#relation> _:df_1_495.
+_:df_1_495 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ind.ttl>;
+    <https://w3id.org/tree#value> "ind".
+<https://KasperZutterman.github.io///thesaurus/in.ttl> <https://w3id.org/tree#relation> _:df_1_496.
+_:df_1_496 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/inj.ttl>;
+    <https://w3id.org/tree#value> "inj".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/in.ttl>.

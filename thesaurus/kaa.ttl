@@ -172,3 +172,49 @@ _:df_1864_19 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550009130"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009130/2021-10-31T20:06:09.287Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/kaa.ttl>.
+<https://stad.gent/id/concept/550005463/2021-10-31T17:51:44.865Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005463>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:51:44.865Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026756>;
+    <http://www.w3.org/ns/adms#identifier> _:df_883_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaart (informatiedrager)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005710>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002054>, <https://stad.gent/id/concept/550008044>, <https://stad.gent/id/concept/550008636>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008636> <http://www.w3.org/2004/02/skos/core#prefLabel> "lidmaatschapskaart"@nl.
+<https://stad.gent/id/concept/550008044> <http://www.w3.org/2004/02/skos/core#prefLabel> "herdenkingskaart"@nl.
+<https://stad.gent/id/concept/550002054> <http://www.w3.org/2004/02/skos/core#prefLabel> "balboekje"@nl.
+<https://stad.gent/id/concept/550005710> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers naar fysieke vorm"@nl.
+_:df_883_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005463"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005463/2021-10-31T17:51:44.865Z>.
+<https://stad.gent/id/concept/550005203/2021-10-31T17:40:36.353Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005203>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:40:36.353Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300181446>;
+    <http://www.w3.org/ns/adms#identifier> _:df_961_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten voor het afknippen van de pitten van kaarsen en lampen om het uiteinde van de pit gelijkmatig te maken en schoon te houden; meestal in de vorm van scharen met een doosvormig bakje aan een blad om de afgeknipte eindjes van de verkoolde pit op te vangen. Voor schaarachtige instrumenten met platte, schijfvormige uiteinden die worden gebruikt om een kaarsvlam uit te knijpen wordt 'douters' gebruikt. Voor kegelvormige instrumenten die worden gebruikt om vlammen te doven wordt 'dompers' gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaarsesnuiter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008070>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008070> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdelen van verlichtingsmiddelen"@nl.
+_:df_961_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005203"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005203/2021-10-31T17:40:36.353Z>.
+<https://stad.gent/id/concept/550003195/2021-10-31T16:58:01.804Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:58:01.804Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028094>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1264_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar grafische of fotogrammetrische voorstellingen van het aardoppervlak of een gedeelte daarvan, inclusief fysieke kenmerken en politieke grenzen, waarbij elk punt overeenkomt met een geografische positie of positie in het heelal volgens een bepaalde schaal of projectie. Kan ook verwijzen naar soortgelijke voorstellingen van andere planeten, zonnen, andere hemellichamen of gebieden in het heelal. Kaarten worden gewoonlijk afgebeeld op een plat medium, zoals papier, een muur of een computerscherm. Gebruik 'globes' voor soortgelijke voorstellingen op een bol.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kaart (representatie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008173>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008173> <http://www.w3.org/2004/02/skos/core#prefLabel> "cartografisch document"@nl.
+_:df_1264_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003195/2021-10-31T16:58:01.804Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kaa.ttl>.

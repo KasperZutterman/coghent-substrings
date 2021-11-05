@@ -32,3 +32,18 @@ _:df_733_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570014237"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014237/2021-10-31T22:45:47.797Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/kab.ttl>.
+<https://stad.gent/id/concept/550005712/2021-10-31T17:58:25.337Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005712>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:58:25.337Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038888>;
+    <http://www.w3.org/ns/adms#identifier> _:df_835_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bergmeubilair dat uit een aantal planken, kleine laadjes of vakjes bestaat waar één of meer deuren voor zitten. Ze zijn bestemd als opslagruimte en soms voor het vertonen van kleine voorwerpen. Er bestaan ook soortgelijke, vaste of ingebouwde kasten die vaak voor bepaalde doeleinden worden ontworpen zoals in een keuken of badkamer.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kabinet (kastmeubilair)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005829>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005829> <http://www.w3.org/2004/02/skos/core#prefLabel> "kastmeubilair"@nl.
+_:df_835_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005712"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005712/2021-10-31T17:58:25.337Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kab.ttl>.

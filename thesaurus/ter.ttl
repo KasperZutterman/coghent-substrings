@@ -38,3 +38,17 @@ _:df_1480_26 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570008754"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008754/2021-10-31T21:00:28.803Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/ter.ttl>.
+<https://stad.gent/id/concept/530010365/2021-10-31T15:48:55.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010365>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:48:55.089Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1048147>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1756_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Terneuzen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009335>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009335> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zeeland"@nl.
+_:df_1756_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010365"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010365/2021-10-31T15:48:55.089Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ter.ttl>.

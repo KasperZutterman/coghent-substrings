@@ -12,3 +12,47 @@ _:df_1132_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010507"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010507/2021-10-31T21:49:13.037Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/dev.ttl>.
+<https://stad.gent/id/concept/550005423/2021-10-31T17:49:58.575Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005423>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:49:58.575Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006940>;
+    <http://www.w3.org/ns/adms#identifier> _:df_895_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Deventer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_895_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005423"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005423/2021-10-31T17:49:58.575Z>.
+<https://stad.gent/id/concept/550003582/2021-10-31T17:01:04.656Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:01:04.656Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300391128>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1243_45;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine medaille of penning met draagoog, voorzien van een voorstelling van God, Christus, Maria, een heilige, een paus, een religieus of devotioneel object of van een specifieke religieuze gebeurtenis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "devotiemedaille"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008059>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008059> <http://www.w3.org/2004/02/skos/core#prefLabel> "penning (medaille)"@nl.
+_:df_1243_45 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003582/2021-10-31T17:01:04.656Z>.
+<https://stad.gent/id/concept/550000346/2021-10-31T16:17:31.898Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000346>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:17:31.898Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300234144>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1552_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt algemeen gebruikt voor voorwerpen die worden geassocieerd met of gebruikt bij particuliere godsdienstige verering.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "devotionalia"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008026>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008237>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008237> <http://www.w3.org/2004/02/skos/core#prefLabel> "devotiepenning"@nl.
+<https://stad.gent/id/concept/550008026> <http://www.w3.org/2004/02/skos/core#prefLabel> "religieus object"@nl.
+_:df_1552_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000346"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000346/2021-10-31T16:17:31.898Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/dev.ttl>.

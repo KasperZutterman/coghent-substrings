@@ -206,3 +206,74 @@ _:df_1798_59 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570000770"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000770/2021-10-31T20:15:28.501Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/boe.ttl>.
+<https://stad.gent/id/concept/550005656/2021-10-31T17:56:43.915Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005656>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:56:43.915Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_847_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het geheel van (edel)metalen, geornamenteerde bescherm- en/of versierstukken op kostbare boeken. De delen (kunnen) zijn: hoekstuk, middenstuk, klamp, klamphouder en een houder met ring middenboven voor een draag- of vergrendelingsketting";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekbeslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007904>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002041>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002041> <http://www.w3.org/2004/02/skos/core#prefLabel> "boekslot"@nl.
+<https://stad.gent/id/concept/550007904> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerkingsijzerwaar"@nl.
+_:df_847_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005656"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005656/2021-10-31T17:56:43.915Z>.
+<https://stad.gent/id/concept/550005163/2021-10-31T17:39:24.819Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:39:24.819Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028051>;
+    <http://www.w3.org/ns/adms#identifier> _:df_970_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verzamelingen van houten of ivoren tabletten, of vellen papier, perkament of soortgelijk materiaal, die blanco, beschreven of bedrukt zijn, en die aan elkaar zijn geregen of gebonden. Gewoonlijk vele gevouwen en gebonden bladen met ononderbroken drukwerk of tekst; wanneer het gedrukt materiaal betreft gaat het vooral om een gebonden band of een band van redelijke formaat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005710>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007806>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en, "uitleencategorie"@nl, "loan category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007806> <http://www.w3.org/2004/02/skos/core#prefLabel> "boeken naar interne vorm"@nl.
+<https://stad.gent/id/concept/550005710> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatiedragers naar fysieke vorm"@nl.
+_:df_970_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005163/2021-10-31T17:39:24.819Z>.
+<https://stad.gent/id/concept/550004601/2021-10-31T17:22:40.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004601>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:22:40.333Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7248715>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1090_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Boechout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005392>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl.
+_:df_1090_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004601"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004601/2021-10-31T17:22:40.333Z>.
+<https://stad.gent/id/concept/550002755/2021-10-31T16:51:52.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002755>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:51:52.310Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055023>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1309_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Overkoepelende term voor die delen van boeken die worden aangebracht tijdens het vastmaken van de bladen en het bedekken daarvan.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekband"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007936>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007936> <http://www.w3.org/2004/02/skos/core#prefLabel> "boekbanden en boekbandonderdelen"@nl.
+_:df_1309_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002755"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002755/2021-10-31T16:51:52.310Z>.
+<https://stad.gent/id/concept/550002041/2021-10-31T16:43:30.658Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002041>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:43:30.658Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1366_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekslot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005656>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005656> <http://www.w3.org/2004/02/skos/core#prefLabel> "boekbeslag"@nl.
+_:df_1366_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002041"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002041/2021-10-31T16:43:30.658Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/boe.ttl>.

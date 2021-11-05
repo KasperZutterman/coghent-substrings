@@ -35,3 +35,17 @@ _:df_1639_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570006122"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006122/2021-10-31T20:37:42.000Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/vee.ttl>.
+<https://stad.gent/id/concept/530010407/2021-10-31T15:52:03.383Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010407>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:52:03.383Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1048176>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1732_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Veendam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004189>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004189> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groningen"@nl.
+_:df_1732_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010407"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010407/2021-10-31T15:52:03.383Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/vee.ttl>.

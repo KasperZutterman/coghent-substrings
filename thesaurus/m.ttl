@@ -473,3 +473,325 @@ _:df_1_50 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/mm.ttl>;
     <https://w3id.org/tree#value> "mm".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/m.ttl>.
+<https://stad.gent/id/concept/550008781/2021-10-31T19:51:39.809Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008781>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:51:39.809Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011437>;
+    <http://www.w3.org/ns/adms#identifier> _:df_31_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gesteenten die worden gevormd door veranderingen in reeds bestaande gesteenten als gevolg van gewijzigde omgevingsfactoren, zoals variaties in temperatuur, druk en mechanische belasting, en de toevoeging of onttrekking van chemische bestanddelen. De reeds bestaande gesteenten kunnen stollinggesteenten, afzettingsgesteenten of andere metamorfe gesteenten zijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "metamorf gesteente"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008782>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003019>, <https://stad.gent/id/concept/550008692>, <https://stad.gent/id/concept/550004861>, <https://stad.gent/id/concept/550001455>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001455> <http://www.w3.org/2004/02/skos/core#prefLabel> "serpentijn"@nl.
+<https://stad.gent/id/concept/550004861> <http://www.w3.org/2004/02/skos/core#prefLabel> "marmer"@nl.
+<https://stad.gent/id/concept/550008692> <http://www.w3.org/2004/02/skos/core#prefLabel> "leisteen"@nl.
+<https://stad.gent/id/concept/550003019> <http://www.w3.org/2004/02/skos/core#prefLabel> "jade"@nl.
+<https://stad.gent/id/concept/550008782> <http://www.w3.org/2004/02/skos/core#prefLabel> "gesteente"@nl.
+_:df_31_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008781"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008781> <http://www.w3.org/2004/02/skos/core#prefLabel> "metamorf gesteente"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008781/2021-10-31T19:51:39.809Z>.
+<https://stad.gent/id/concept/550008775/2021-10-31T19:51:09.195Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008775>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:51:09.195Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015352>;
+    <http://www.w3.org/ns/adms#identifier> _:df_34_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar eigenschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008565>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008774>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008774> <http://www.w3.org/2004/02/skos/core#prefLabel> "imitatiematerialen"@nl.
+<https://stad.gent/id/concept/550008565> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen"@nl.
+_:df_34_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008775"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008775> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar eigenschap"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008775/2021-10-31T19:51:09.195Z>.
+<https://stad.gent/id/concept/550008761/2021-10-31T19:50:44.188Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008761>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:50:44.188Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300206573>;
+    <http://www.w3.org/ns/adms#identifier> _:df_37_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar herkomst"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008565>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008760>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008760> <http://www.w3.org/2004/02/skos/core#prefLabel> "biologische materialen"@nl.
+<https://stad.gent/id/concept/550008565> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen"@nl.
+_:df_37_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008761"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008761> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar herkomst"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008761/2021-10-31T19:50:44.188Z>.
+<https://stad.gent/id/concept/550008747/2021-10-31T19:50:03.584Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008747>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:50:03.584Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014692>;
+    <http://www.w3.org/ns/adms#identifier> _:df_43_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar functie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008565>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008777>, <https://stad.gent/id/concept/550008746>, <https://stad.gent/id/concept/550009134>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009134> <http://www.w3.org/2004/02/skos/core#prefLabel> "verpakkingsmateriaal"@nl.
+<https://stad.gent/id/concept/550008746> <http://www.w3.org/2004/02/skos/core#prefLabel> "garneersel (materiaal)"@nl.
+<https://stad.gent/id/concept/550008777> <http://www.w3.org/2004/02/skos/core#prefLabel> "deklaag (materiaal)"@nl.
+<https://stad.gent/id/concept/550008565> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen"@nl.
+_:df_43_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008747"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008747> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar functie"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008747/2021-10-31T19:50:03.584Z>.
+<https://stad.gent/id/concept/550008713/2021-10-31T19:48:32.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008713>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:48:32.052Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_52_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "manuscripten (collectie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_52_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008713"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008713/2021-10-31T19:48:32.052Z>.
+<https://stad.gent/id/concept/550008716/2021-10-31T19:48:42.055Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008716>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:48:42.055Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_52_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "munten (collectie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_52_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008716"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008716/2021-10-31T19:48:42.055Z>.
+<https://stad.gent/id/concept/550008702/2021-10-31T19:48:12.048Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:48:12.048Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7250729>;
+    <http://www.w3.org/ns/adms#identifier> _:df_55_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Munte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_55_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008702/2021-10-31T19:48:12.048Z>.
+<https://stad.gent/id/concept/550008703/2021-10-31T19:48:17.049Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008703>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:48:17.049Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008265>;
+    <http://www.w3.org/ns/adms#identifier> _:df_55_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mehun-Sur-Yevre"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_55_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008703"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008703/2021-10-31T19:48:17.049Z>.
+<https://stad.gent/id/concept/550008695/2021-10-31T19:47:46.377Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008695>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:47:46.377Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_58_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "museummeubilair"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_58_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008695"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008695/2021-10-31T19:47:46.377Z>.
+<https://stad.gent/id/concept/550008662/2021-10-31T19:46:25.272Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008662>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:46:25.272Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008009>;
+    <http://www.w3.org/ns/adms#identifier> _:df_67_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Melun"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004704>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_67_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008662"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008662/2021-10-31T19:46:25.272Z>.
+<https://stad.gent/id/concept/550008649/2021-10-31T19:45:45.260Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008649>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:45:45.260Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300390932>;
+    <http://www.w3.org/ns/adms#identifier> _:df_73_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Medium-Density Fibreboard of MDF is geperst board met een middelharde dichtheid. MDF is dus geen merknaam, maar een soortnaam. (De Brits-Engelse spelling is fibre.) De houtvezels zijn gedroogd en door middel van harsen met elkaar verbonden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "MDF"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008804>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008804> <http://www.w3.org/2004/02/skos/core#prefLabel> "hardboard"@nl.
+_:df_73_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008649"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008649/2021-10-31T19:45:45.260Z>.
+<https://stad.gent/id/concept/550008603/2021-10-31T19:42:06.951Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008603>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:42:06.951Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_100_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stukken stof, door vrouwen en meisjes geborduurd in verschillende steken, gewoonlijk als bewijs van vaardigheden van beginnelingen, die een combinatie van motieven, letters en verzen tonen, en vaak ook de datum van voltooiing en de naam van de borduurster.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "merklap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005003>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005003> <http://www.w3.org/2004/02/skos/core#prefLabel> "borduurwerk"@nl.
+_:df_100_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008603"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008603/2021-10-31T19:42:06.951Z>.
+<https://stad.gent/id/concept/550008565/2021-10-31T19:39:40.132Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008565>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:39:40.132Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010358>;
+    <http://www.w3.org/ns/adms#identifier> _:df_115_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008775>, <https://stad.gent/id/concept/550008747>, <https://stad.gent/id/concept/550008761>, <https://stad.gent/id/concept/550008757>, <https://stad.gent/id/concept/550008564>, <https://stad.gent/id/concept/550008784>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008784> <http://www.w3.org/2004/02/skos/core#prefLabel> "natuurvezel"@nl.
+<https://stad.gent/id/concept/550008564> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar vorm"@nl.
+<https://stad.gent/id/concept/550008757> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar samenstelling"@nl.
+<https://stad.gent/id/concept/550008761> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar herkomst"@nl.
+<https://stad.gent/id/concept/550008747> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar functie"@nl.
+<https://stad.gent/id/concept/550008775> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar eigenschap"@nl.
+_:df_115_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008565"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008565/2021-10-31T19:39:40.132Z>.
+<https://stad.gent/id/concept/550008563/2021-10-31T19:39:30.128Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008563>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:39:30.128Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247256>;
+    <http://www.w3.org/ns/adms#identifier> _:df_118_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar fysieke vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008564>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008859>, <https://stad.gent/id/concept/550008562>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008562> <http://www.w3.org/2004/02/skos/core#prefLabel> "vezel en vezelproducten"@nl, "vezel en vezelproducten"@nl.
+<https://stad.gent/id/concept/550008859> <http://www.w3.org/2004/02/skos/core#prefLabel> "colloïde"@nl.
+<https://stad.gent/id/concept/550008564> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar vorm"@nl.
+_:df_118_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008563"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008563> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar fysieke vorm"@nl, "materialen naar fysieke vorm"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008563/2021-10-31T19:39:30.128Z>.
+<https://stad.gent/id/concept/550008564/2021-10-31T19:39:35.129Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008564>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:39:35.129Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014611>;
+    <http://www.w3.org/ns/adms#identifier> _:df_118_37;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008565>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008741>, <https://stad.gent/id/concept/550008563>, <https://stad.gent/id/concept/550000899>, <https://stad.gent/id/concept/550009086>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009086> <http://www.w3.org/2004/02/skos/core#prefLabel> "plakband"@nl.
+<https://stad.gent/id/concept/550000899> <http://www.w3.org/2004/02/skos/core#prefLabel> "membraan"@nl.
+<https://stad.gent/id/concept/550008563> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar fysieke vorm"@nl, "materialen naar fysieke vorm"@nl.
+<https://stad.gent/id/concept/550008741> <http://www.w3.org/2004/02/skos/core#prefLabel> "band"@nl.
+<https://stad.gent/id/concept/550008565> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen"@nl.
+_:df_118_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008564"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008564> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar vorm"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008564/2021-10-31T19:39:35.129Z>.
+<https://stad.gent/id/concept/550008402/2021-10-31T19:36:48.004Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008402>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:36:48.004Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012221>;
+    <http://www.w3.org/ns/adms#identifier> _:df_136_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar het hout van de Swietenia Mahagoni (N.O. Cedrelaceæ), een boom die groeit in tropische klimaten, voornamelijk in Mexico, Cuba, Midden-Amerika, West-Indië en Afrika. De kleur varieert van geel tot een volle roodbruine kleur en het is vooral geschikt voor het vervaardigen van meubels en beelden, omdat het hard en fijnkorrelig is en snel glanst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mahoniehout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008734>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008734> <http://www.w3.org/2004/02/skos/core#prefLabel> "hout naar samenstelling of herkomst"@nl.
+_:df_136_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008402"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008402/2021-10-31T19:36:48.004Z>.
+<https://stad.gent/id/concept/550008384/2021-10-31T19:36:12.202Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008384>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:36:12.202Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024579>;
+    <http://www.w3.org/ns/adms#identifier> _:df_142_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten voor de observatie, meting en documentatie van atmosferische verschijnselen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meteorologisch instrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008344>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005151>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005151> <http://www.w3.org/2004/02/skos/core#prefLabel> "windwijzer"@nl.
+<https://stad.gent/id/concept/550008344> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrustingen voor wetenschap en technologie"@nl.
+_:df_142_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008384"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008384/2021-10-31T19:36:12.202Z>.
+<https://stad.gent/id/concept/550008370/2021-10-31T19:35:01.621Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008370>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:35:01.621Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300040132>;
+    <http://www.w3.org/ns/adms#identifier> _:df_148_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair naar locatie of context"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004964>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008369>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008369> <http://www.w3.org/2004/02/skos/core#prefLabel> "buitenhuismeubilair"@nl.
+<https://stad.gent/id/concept/550004964> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair"@nl.
+_:df_148_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008370"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008370/2021-10-31T19:35:01.621Z>.
+<https://stad.gent/id/concept/550008365/2021-10-31T19:34:35.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008365>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:34:35.950Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041661>;
+    <http://www.w3.org/ns/adms#identifier> _:df_151_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Muziekinstrumenten met gespannen vel; bespeeld door er op te slaan, te tokkelen, door wrijven of geluidsgolven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "membranofoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007822>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004772>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004772> <http://www.w3.org/2004/02/skos/core#prefLabel> "trom"@nl.
+<https://stad.gent/id/concept/550007822> <http://www.w3.org/2004/02/skos/core#prefLabel> "geluidsmiddelen naar akoestische kenmerken"@nl.
+_:df_151_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008365"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008365/2021-10-31T19:34:35.950Z>.
+<https://stad.gent/id/concept/550008346/2021-10-31T19:33:00.289Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008346>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:33:00.289Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300165507>;
+    <http://www.w3.org/ns/adms#identifier> _:df_163_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muuronderdelen naar locatie of context"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008347>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002465>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002465> <http://www.w3.org/2004/02/skos/core#prefLabel> "timpaan"@nl.
+<https://stad.gent/id/concept/550008347> <http://www.w3.org/2004/02/skos/core#prefLabel> "muuronderdelen"@nl.
+_:df_163_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008346"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008346> <http://www.w3.org/2004/02/skos/core#prefLabel> "muuronderdelen naar locatie of context"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008346/2021-10-31T19:33:00.289Z>.
+<https://KasperZutterman.github.io///thesaurus/m.ttl> <https://w3id.org/tree#relation> _:df_1_52.
+_:df_1_52 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/mu.ttl>;
+    <https://w3id.org/tree#value> "mu".
+<https://KasperZutterman.github.io///thesaurus/m.ttl> <https://w3id.org/tree#relation> _:df_1_53.
+_:df_1_53 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/mi.ttl>;
+    <https://w3id.org/tree#value> "mi".
+<https://KasperZutterman.github.io///thesaurus/m.ttl> <https://w3id.org/tree#relation> _:df_1_54.
+_:df_1_54 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/me.ttl>;
+    <https://w3id.org/tree#value> "me".
+<https://KasperZutterman.github.io///thesaurus/m.ttl> <https://w3id.org/tree#relation> _:df_1_55.
+_:df_1_55 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/mo.ttl>;
+    <https://w3id.org/tree#value> "mo".
+<https://KasperZutterman.github.io///thesaurus/m.ttl> <https://w3id.org/tree#relation> _:df_1_56.
+_:df_1_56 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ma.ttl>;
+    <https://w3id.org/tree#value> "ma".
+<https://KasperZutterman.github.io///thesaurus/m.ttl> <https://w3id.org/tree#relation> _:df_1_57.
+_:df_1_57 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/mf.ttl>;
+    <https://w3id.org/tree#value> "mf".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/m.ttl>.

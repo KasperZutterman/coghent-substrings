@@ -480,3 +480,324 @@ _:df_1_174 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/rh.ttl>;
     <https://w3id.org/tree#value> "rh".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/r.ttl>.
+<https://stad.gent/id/concept/550008728/2021-10-31T19:49:07.799Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008728>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:49:07.799Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201964>;
+    <http://www.w3.org/ns/adms#identifier> _:df_49_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een edel- of halfedelsteen die kan worden gesneden, gepolijst of op een andere manier worden bewerkt en als juweel gebruikt; te onderscheiden van 'gemmen' die worden gemaakt van bewerkte halfedelstenen of ander materiaal zoals parel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ruwe (half)edelsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007546>, <https://stad.gent/id/concept/550005596>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005596> <http://www.w3.org/2004/02/skos/core#prefLabel> "edelsteen"@nl.
+<https://stad.gent/id/concept/550007546> <http://www.w3.org/2004/02/skos/core#prefLabel> "amethist"@nl.
+_:df_49_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008728"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008728/2021-10-31T19:49:07.799Z>.
+<https://stad.gent/id/concept/550008675/2021-10-31T19:47:00.756Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008675>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:47:00.756Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_64_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "religieuze penning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_64_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008675"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008675/2021-10-31T19:47:00.756Z>.
+<https://stad.gent/id/concept/550008634/2021-10-31T19:44:28.866Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008634>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:44:28.866Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300212151>;
+    <http://www.w3.org/ns/adms#identifier> _:df_82_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor kaarten die door verkopers of fabrikanten worden verspreid om reclame te maken voor een product, soms als extraatje bij hun product. Voor kleine bedrukte bladen of kaarten met handelsadvertenties, gebruikt van de 17e tot en met de 19e eeuw, wordt 'handelskaarten' gebruikt. Voor later gemaakte kaarten, met de naam en het adres van een bedrijf en de naam van de vertegenwoordiger erop, die zijn bedoeld ter informatie en niet zozeer als advertentie wordt 'adreskaartjes' gebruikt. Voor latere kaarten die vooral uitgegeven zijn om te worden verzameld, met of zonder advertenties, gebruik 'verzamelkaarten'. Voor kaarten bestemd om te worden opgehangen als openbare advertentie, gebruik 'posters' of de specifiekere termen daarvan.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reclamekaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005746>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005746> <http://www.w3.org/2004/02/skos/core#prefLabel> "aankondigings- en reclamedragers"@nl.
+_:df_82_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008634"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008634/2021-10-31T19:44:28.866Z>.
+<https://stad.gent/id/concept/550008617/2021-10-31T19:43:18.351Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008617>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:43:18.351Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027433>;
+    <http://www.w3.org/ns/adms#identifier> _:df_91_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het geheel aan wetten, verordeningen of voorschriften die worden opgesteld door een publiek lichaam, een stichting of een al dan niet in een vennootschap ondergebracht bedrijf om de eigen lokale of interne zaken, de betrekkingen met anderen, of het bestuur van de leden te regelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reglement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_91_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008617"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008617/2021-10-31T19:43:18.351Z>.
+<https://stad.gent/id/concept/550008609/2021-10-31T19:42:37.732Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008609>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:42:37.732Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014129>;
+    <http://www.w3.org/ns/adms#identifier> _:df_94_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor het vezelloos, teer, papierachtig materiaal gemaakt van kern van de rijstpapierboom. Gebruik 'Japans papier' voor verscheidene soorten oosters papier met lange vezels die met de hand worden gemaakt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rijstpapier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008836>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008836> <http://www.w3.org/2004/02/skos/core#prefLabel> "papier naar samenstelling of herkomst"@nl.
+_:df_94_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008609"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008609/2021-10-31T19:42:37.732Z>.
+<https://stad.gent/id/concept/550008572/2021-10-31T19:40:10.745Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008572>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:40:10.745Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7112144>;
+    <http://www.w3.org/ns/adms#identifier> _:df_112_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rheinzabern"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_112_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008572"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008572/2021-10-31T19:40:10.745Z>.
+<https://stad.gent/id/concept/550008557/2021-10-31T19:39:05.117Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008557>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:39:05.117Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263678>;
+    <http://www.w3.org/ns/adms#identifier> _:df_121_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Cirkelvormige objecten van verschillende materialen en in verschillende formaten, die in uiteenlopende contexten en toepassingen worden gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ring (objectgenre)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007914>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007914> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres naar vorm"@nl.
+_:df_121_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008557"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008557/2021-10-31T19:39:05.117Z>.
+<https://stad.gent/id/concept/550008389/2021-10-31T19:36:22.995Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008389>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:36:22.995Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012941>;
+    <http://www.w3.org/ns/adms#identifier> _:df_139_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Product dat wordt gewonnen door het verwerken van het melkachtige sap van verschillende tropische bomen en andere planten, 'caoutchouc' genaamd. Geproduceerd in verschillende maten van hardheid en gewaardeerd om de elastische eigenschappen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rubber"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008840>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008840> <http://www.w3.org/2004/02/skos/core#prefLabel> "gomharsproducten"@nl.
+_:df_139_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008389"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008389/2021-10-31T19:36:22.995Z>.
+<https://stad.gent/id/concept/550008373/2021-10-31T19:35:16.626Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008373>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:35:16.626Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002015>;
+    <http://www.w3.org/ns/adms#identifier> _:df_148_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Roosters of opengewerkte afsluitingen, meestal van metaal, om een opening af te sluiten, te verhullen, te decoreren of te beschermen. Wordt ook gebruikt in meubillair.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rasterwerk (hekwerkelement)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007864>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008318>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008318> <http://www.w3.org/2004/02/skos/core#prefLabel> "venstertralie"@nl.
+<https://stad.gent/id/concept/550007864> <http://www.w3.org/2004/02/skos/core#prefLabel> "hekwerkelementen"@nl.
+_:df_148_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008373"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008373/2021-10-31T19:35:16.626Z>.
+<https://stad.gent/id/concept/550008308/2021-10-31T19:30:02.319Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008308>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:30:02.319Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_184_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geschudde idiofonen, in allerlei vormen; ze worden bespeeld door één of meer voorwerpen te schudden of tegen binnen- of buitenkant van een ander voorwerp te slaan, komen wereldwijd voor.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ratel (idiofoon)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008309>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008307>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008307> <http://www.w3.org/2004/02/skos/core#prefLabel> "vatratel"@nl.
+<https://stad.gent/id/concept/550008309> <http://www.w3.org/2004/02/skos/core#prefLabel> "indirect aangeslagen idiofonen"@nl.
+_:df_184_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008308"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008308> <http://www.w3.org/2004/02/skos/core#prefLabel> "ratel (idiofoon)"@nl, "ratel (idiofoon)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008308/2021-10-31T19:30:02.319Z>.
+<https://stad.gent/id/concept/550008306/2021-10-31T19:29:52.315Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008306>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:29:52.315Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300076167>;
+    <http://www.w3.org/ns/adms#identifier> _:df_187_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "raamkozijnen en raamkozijnonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008305>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005225>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005225> <http://www.w3.org/2004/02/skos/core#prefLabel> "raamkozijn"@nl.
+<https://stad.gent/id/concept/550008305> <http://www.w3.org/2004/02/skos/core#prefLabel> "vensteronderdelen"@nl.
+_:df_187_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008306"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008306> <http://www.w3.org/2004/02/skos/core#prefLabel> "raamkozijnen en raamkozijnonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008306/2021-10-31T19:29:52.315Z>.
+<https://stad.gent/id/concept/550008298/2021-10-31T19:29:11.634Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008298>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:29:11.634Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033594>;
+    <http://www.w3.org/ns/adms#identifier> _:df_190_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ronde spie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005627>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005226>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005226> <http://www.w3.org/2004/02/skos/core#prefLabel> "pijpsleutel"@nl.
+<https://stad.gent/id/concept/550005627> <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutel (ijzerwaar)"@nl.
+_:df_190_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008298"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008298/2021-10-31T19:29:11.634Z>.
+<https://stad.gent/id/concept/550008199/2021-10-31T19:21:04.435Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008199>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:21:04.435Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300205169>;
+    <http://www.w3.org/ns/adms#identifier> _:df_247_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rietinstrumenten met enkel riet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008068>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008198>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008198> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietinstrumenten met enkel riet: met cylindrische boring"@nl.
+<https://stad.gent/id/concept/550008068> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijp"@nl.
+_:df_247_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008199"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008199/2021-10-31T19:21:04.435Z>.
+<https://stad.gent/id/concept/550008198/2021-10-31T19:20:59.434Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008198>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:20:59.434Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195249>;
+    <http://www.w3.org/ns/adms#identifier> _:df_250_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rietinstrumenten met enkel riet: met cylindrische boring"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008199>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004775>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004775> <http://www.w3.org/2004/02/skos/core#prefLabel> "klarinet"@nl.
+<https://stad.gent/id/concept/550008199> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietinstrumenten met enkel riet"@nl.
+_:df_250_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008198"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008198/2021-10-31T19:20:59.434Z>.
+<https://stad.gent/id/concept/550008164/2021-10-31T19:18:12.315Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:18:12.315Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041391>;
+    <http://www.w3.org/ns/adms#identifier> _:df_268_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Prenten, waarbij de lijnen en vlakken die afgedrukt zijn hoog liggen in de drukvorm en de witte gedeelten zijn uitgesneden in de drukvorm.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reliëfdruk (prent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008062>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001105>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001105> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtsnede"@nl.
+<https://stad.gent/id/concept/550008062> <http://www.w3.org/2004/02/skos/core#prefLabel> "prenten naar procedé: overdrachtmethoden"@nl.
+_:df_268_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008164/2021-10-31T19:18:12.315Z>.
+<https://stad.gent/id/concept/550008140/2021-10-31T19:16:15.980Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008140>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:16:15.980Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300079641>;
+    <http://www.w3.org/ns/adms#identifier> _:df_283_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor raamwerken van ijzerdraad, pennen, stangen, roosters of planken waar objecten op of in kunnen worden geplaatst of gehangen, vaak voor opslag of berging; kan vrijstaand zijn of vastgezet tegen muren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rek (object)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007761>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005252>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005252> <http://www.w3.org/2004/02/skos/core#prefLabel> "handdoekrek"@nl.
+<https://stad.gent/id/concept/550007761> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres naar functie"@nl.
+_:df_283_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008140"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008140/2021-10-31T19:16:15.980Z>.
+<https://stad.gent/id/concept/550008113/2021-10-31T19:13:58.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008113>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:13:58.747Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300259374>;
+    <http://www.w3.org/ns/adms#identifier> _:df_298_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "riemen die om het middel of daaronder gedragen worden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008114>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005365>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005365> <http://www.w3.org/2004/02/skos/core#prefLabel> "gordel"@nl.
+<https://stad.gent/id/concept/550008114> <http://www.w3.org/2004/02/skos/core#prefLabel> "accessoires die om het middel of daaronder gedragen worden"@nl.
+_:df_298_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008113"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008113> <http://www.w3.org/2004/02/skos/core#prefLabel> "riemen die om het middel of daaronder gedragen worden"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008113/2021-10-31T19:13:58.747Z>.
+<https://stad.gent/id/concept/550008092/2021-10-31T19:12:17.483Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008092>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:12:17.483Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300220519>;
+    <http://www.w3.org/ns/adms#identifier> _:df_310_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "religieuze teksten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007877>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000180>, <https://stad.gent/id/concept/550008248>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008248> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische teksten"@nl.
+<https://stad.gent/id/concept/550000180> <http://www.w3.org/2004/02/skos/core#prefLabel> "gebedenboek"@nl.
+<https://stad.gent/id/concept/550007877> <http://www.w3.org/2004/02/skos/core#prefLabel> "soorten documenten naar functie"@nl.
+_:df_310_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008092"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008092/2021-10-31T19:12:17.483Z>.
+<https://stad.gent/id/concept/550008066/2021-10-31T19:10:05.113Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008066>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:10:05.113Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195247>;
+    <http://www.w3.org/ns/adms#identifier> _:df_325_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijpen met een dubbel riet: met conische boring"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008067>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008065>, <https://stad.gent/id/concept/550004784>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004784> <http://www.w3.org/2004/02/skos/core#prefLabel> "sarrusofoon"@nl.
+<https://stad.gent/id/concept/550008065> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijpen met een dubbel riet: met gevouwen conische boring"@nl.
+<https://stad.gent/id/concept/550008067> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijpen met een dubbel riet"@nl, "rietpijpen met een dubbel riet"@nl.
+_:df_325_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008066"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008066> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijpen met een dubbel riet: met conische boring"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008066/2021-10-31T19:10:05.113Z>.
+<https://stad.gent/id/concept/550008067/2021-10-31T19:10:10.773Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008067>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:10:10.773Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300205170>;
+    <http://www.w3.org/ns/adms#identifier> _:df_325_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijpen met een dubbel riet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008068>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008066>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008066> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijpen met een dubbel riet: met conische boring"@nl.
+<https://stad.gent/id/concept/550008068> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijp"@nl, "rietpijp"@nl.
+_:df_325_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008067"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008067> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijpen met een dubbel riet"@nl, "rietpijpen met een dubbel riet"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008067/2021-10-31T19:10:10.773Z>.
+<https://KasperZutterman.github.io///thesaurus/r.ttl> <https://w3id.org/tree#relation> _:df_1_168.
+_:df_1_168 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ri.ttl>;
+    <https://w3id.org/tree#value> "ri".
+<https://KasperZutterman.github.io///thesaurus/r.ttl> <https://w3id.org/tree#relation> _:df_1_169.
+_:df_1_169 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/re.ttl>;
+    <https://w3id.org/tree#value> "re".
+<https://KasperZutterman.github.io///thesaurus/r.ttl> <https://w3id.org/tree#relation> _:df_1_170.
+_:df_1_170 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ru.ttl>;
+    <https://w3id.org/tree#value> "ru".
+<https://KasperZutterman.github.io///thesaurus/r.ttl> <https://w3id.org/tree#relation> _:df_1_171.
+_:df_1_171 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ro.ttl>;
+    <https://w3id.org/tree#value> "ro".
+<https://KasperZutterman.github.io///thesaurus/r.ttl> <https://w3id.org/tree#relation> _:df_1_172.
+_:df_1_172 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ra.ttl>;
+    <https://w3id.org/tree#value> "ra".
+<https://KasperZutterman.github.io///thesaurus/r.ttl> <https://w3id.org/tree#relation> _:df_1_173.
+_:df_1_173 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rø.ttl>;
+    <https://w3id.org/tree#value> "rø".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/r.ttl>.

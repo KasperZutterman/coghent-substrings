@@ -204,3 +204,62 @@ _:df_1486_16 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570008722"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008722/2021-10-31T20:59:27.912Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/ku.ttl>.
+<https://stad.gent/id/concept/550006803/2021-10-31T18:34:14.555Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006803>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:34:14.555Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4005886>;
+    <http://www.w3.org/ns/adms#identifier> _:df_580_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuringen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004370>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004370> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_580_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006803"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006803/2021-10-31T18:34:14.555Z>.
+<https://stad.gent/id/concept/530010648/2021-10-31T16:09:16.039Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010648>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:09:16.039Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4005886>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1612_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuringen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003845>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003845> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hasselt"@nl.
+_:df_1612_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010648"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010648/2021-10-31T16:09:16.039Z>.
+<https://stad.gent/id/concept/530010385/2021-10-31T15:50:31.365Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010385>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:50:31.365Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025103>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1744_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Met name te gebruiken voor mensen die beeldende kunstwerken produceren. Gebruik 'uitvoerend kunstenaars' voor personen die zich bezighouden met de uitvoerende kunsten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstenaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010432>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009661>, <https://stad.gent/id/concept/530002865>, <https://stad.gent/id/concept/530000038>, <https://stad.gent/id/concept/530006510>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006510> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenaar"@nl.
+<https://stad.gent/id/concept/530000038> <http://www.w3.org/2004/02/skos/core#prefLabel> "schilder"@nl.
+<https://stad.gent/id/concept/530002865> <http://www.w3.org/2004/02/skos/core#prefLabel> "fotograaf"@nl.
+<https://stad.gent/id/concept/530009661> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwer"@nl.
+<https://stad.gent/id/concept/530010432> <http://www.w3.org/2004/02/skos/core#prefLabel> "personen in de kunsten"@nl.
+_:df_1744_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010385"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010385/2021-10-31T15:50:31.365Z>.
+<https://stad.gent/id/concept/530010354/2021-10-31T15:47:59.416Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010354>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:47:59.416Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7147945>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1762_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuchen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1762_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010354"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010354/2021-10-31T15:47:59.416Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ku.ttl>.

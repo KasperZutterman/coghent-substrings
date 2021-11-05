@@ -39,3 +39,57 @@ _:df_1546_21 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570008418"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008418/2021-10-31T20:50:58.864Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/hon.ttl>.
+<https://stad.gent/id/concept/550005200/2021-10-31T17:40:20.459Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005200>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:40:20.459Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300391088>;
+    <http://www.w3.org/ns/adms#identifier> _:df_964_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Belastingpenning die honden aan de halsband dragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hondenpenning (belastingpenning)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008152>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008152> <http://www.w3.org/2004/02/skos/core#prefLabel> "accijnszegel"@nl.
+_:df_964_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005200"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005200/2021-10-31T17:40:20.459Z>.
+<https://stad.gent/id/concept/550004579/2021-10-31T17:21:29.654Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004579>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:21:29.654Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004542>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1096_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hong Kong"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550003505>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003505> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl.
+_:df_1096_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004579"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004579/2021-10-31T17:21:29.654Z>.
+<https://stad.gent/id/concept/550002809/2021-10-31T16:52:38.086Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002809>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:52:38.086Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006278>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1303_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hongarije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006446>, <https://stad.gent/id/concept/550006693>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006693> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veszprem"@nl.
+<https://stad.gent/id/concept/550006446> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boedapest"@nl.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl, "Europa"@nl.
+_:df_1303_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002809"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002809/2021-10-31T16:52:38.086Z>.
+<https://stad.gent/id/concept/530010380/2021-10-31T15:50:06.356Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:50:06.356Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1747_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hong Kong-Chinees"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1747_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010380"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010380/2021-10-31T15:50:06.356Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hon.ttl>.

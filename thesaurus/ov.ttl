@@ -127,3 +127,123 @@ _:df_1825_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570000201"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000201/2021-10-31T20:11:23.954Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/ov.ttl>.
+<https://stad.gent/id/concept/550007971/2021-10-31T19:02:13.928Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007971>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:02:13.928Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209265>;
+    <http://www.w3.org/ns/adms#identifier> _:df_382_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kledingstukken die over andere kleding worden gedragen als buitenste laag, vooral wanneer ze worden gedragen voor de warmte of ter bescherming tegen het weer. Gebruik termen vermeld onder 'beschermende kleding' voor kleding die wordt gedragen ter bescherming tegen vuil of gevaar.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "overkleding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007850>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005308>, <https://stad.gent/id/concept/550005306>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005306> <http://www.w3.org/2004/02/skos/core#prefLabel> "mantel (kleding)"@nl.
+<https://stad.gent/id/concept/550005308> <http://www.w3.org/2004/02/skos/core#prefLabel> "cape"@nl.
+<https://stad.gent/id/concept/550007850> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding"@nl.
+_:df_382_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007971"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007971/2021-10-31T19:02:13.928Z>.
+<https://stad.gent/id/concept/550007860/2021-10-31T18:52:55.581Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007860>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:52:55.581Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300078049>;
+    <http://www.w3.org/ns/adms#identifier> _:df_448_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "overspannende en uitkragende bouwelementen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007861>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003071>, <https://stad.gent/id/concept/550007984>, <https://stad.gent/id/concept/550002660>, <https://stad.gent/id/concept/550005857>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005857> <http://www.w3.org/2004/02/skos/core#prefLabel> "sleutelstuk"@nl.
+<https://stad.gent/id/concept/550002660> <http://www.w3.org/2004/02/skos/core#prefLabel> "kraagsteen"@nl.
+<https://stad.gent/id/concept/550007984> <http://www.w3.org/2004/02/skos/core#prefLabel> "korbeel"@nl.
+<https://stad.gent/id/concept/550003071> <http://www.w3.org/2004/02/skos/core#prefLabel> "balk (bouwelement)"@nl.
+<https://stad.gent/id/concept/550007861> <http://www.w3.org/2004/02/skos/core#prefLabel> "structurele bouwelementen"@nl, "structurele bouwelementen"@nl.
+_:df_448_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007860"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007860> <http://www.w3.org/2004/02/skos/core#prefLabel> "overspannende en uitkragende bouwelementen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007860/2021-10-31T18:52:55.581Z>.
+<https://stad.gent/id/concept/550007541/2021-10-31T18:40:19.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007541>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:40:19.249Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026665>;
+    <http://www.w3.org/ns/adms#identifier> _:df_538_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Overijse"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008920>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant"@nl.
+_:df_538_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007541"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007541/2021-10-31T18:40:19.249Z>.
+<https://stad.gent/id/concept/550005029/2021-10-31T17:35:37.133Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005029>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:35:37.133Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027628>;
+    <http://www.w3.org/ns/adms#identifier> _:df_997_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schriftelijke documenten waarin de bepalingen en de voorwaarden van een akkoord of een afspraak worden vastgelegd, of dat als bewijs fungeert voor het feit dat er een akkoord is gesloten of een afspraak is gemaakt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "overeenkomst"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008276>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008276> <http://www.w3.org/2004/02/skos/core#prefLabel> "wettelijk document"@nl.
+_:df_997_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005029"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005029/2021-10-31T17:35:37.133Z>.
+<https://stad.gent/id/concept/550004841/2021-10-31T17:31:48.450Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004841>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:31:48.450Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026666>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1024_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Overpelt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004370>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004370> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl, "Limburg (provincie)"@nl.
+_:df_1024_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004841"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004841/2021-10-31T17:31:48.450Z>.
+<https://stad.gent/id/concept/550000452/2021-10-31T16:18:32.553Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000452>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:18:32.553Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209840>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1546_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Japonnen die over een andere japon gedragen worden, in het bijzonder japonnen ontworpen of gedrapeerd om een eronder gedragen japon , een onderkleed, te tonen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "overkleed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008279>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008292>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008292> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoudermantel"@nl.
+<https://stad.gent/id/concept/550008279> <http://www.w3.org/2004/02/skos/core#prefLabel> "japonnen naar vorm"@nl.
+_:df_1546_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000452"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000452/2021-10-31T16:18:32.553Z>.
+<https://stad.gent/id/concept/530010697/2021-10-31T16:12:58.942Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:12:58.942Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300212499>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1585_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bovenkleding voor het bovenlichaam, met of zonder mouwen en gedragen in of over de tailleband van een rok of broek. Meestal met een kraag, die soms afneembaar is, een sluiting van voren en soms zakken op de borst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "overhemd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008726>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008726> <http://www.w3.org/2004/02/skos/core#prefLabel> "bovenkleding"@nl.
+_:df_1585_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010697/2021-10-31T16:12:58.942Z>.
+<https://stad.gent/id/concept/530010342/2021-10-31T15:46:58.755Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010342>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:46:58.755Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008910>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1768_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oviedo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005644>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005644> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanje"@nl.
+_:df_1768_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010342"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010342/2021-10-31T15:46:58.755Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ov.ttl>.

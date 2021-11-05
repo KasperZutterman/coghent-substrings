@@ -45,3 +45,31 @@ _:df_1519_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570008591"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008591/2021-10-31T20:54:38.159Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/schr.ttl>.
+<https://stad.gent/id/concept/530010636/2021-10-31T16:08:15.366Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:08:15.366Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1618_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een schrijfkabinet is een bijzonder soort kabinet dat onder dienst doet als schrijfbureau en boven als bergmeubel voor brieven, boeken, documenten en kostbare voorwerpen. Het komt tegen het midden van de 18de eeuw in gebruik en bestaat uit een onder- en bovenstuk. Het onderstuk hangt in vorm nauw samen met het onderstel van een gewone kabinet; uitwendig is hoofdzakelijk het verschil gelegen in de schuine klep die horizontaal omgeklapt zijnde, als schrijfblad dienst doet. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "schrijfkabinet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004029>, <https://stad.gent/id/concept/530008737>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008737> <http://www.w3.org/2004/02/skos/core#prefLabel> "schrijfmeubel"@nl.
+<https://stad.gent/id/concept/530004029> <http://www.w3.org/2004/02/skos/core#prefLabel> "kabinet"@nl.
+_:df_1618_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010636/2021-10-31T16:08:15.366Z>.
+<https://stad.gent/id/concept/530010624/2021-10-31T16:07:19.837Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010624>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:07:19.837Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012704>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1624_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schramberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1624_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010624"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010624/2021-10-31T16:07:19.837Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/schr.ttl>.

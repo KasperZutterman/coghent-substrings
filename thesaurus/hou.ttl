@@ -127,3 +127,166 @@ _:df_1891_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550009056"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009056/2021-10-31T20:02:09.621Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/hou.ttl>.
+<https://stad.gent/id/concept/550006122/2021-10-31T18:11:10.822Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006122>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:11:10.822Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_745_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hout (collectie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_745_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006122"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006122/2021-10-31T18:11:10.822Z>.
+<https://stad.gent/id/concept/550005666/2021-10-31T17:57:03.922Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005666>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:57:03.922Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037050>;
+    <http://www.w3.org/ns/adms#identifier> _:df_844_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Degens met een relatief brede kling zowel geschikt om mee te houwen als te steken, met een min of meer ingewikkeld gevest.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houwdegen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007932>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005677>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005677> <http://www.w3.org/2004/02/skos/core#prefLabel> "schiavona"@nl.
+<https://stad.gent/id/concept/550007932> <http://www.w3.org/2004/02/skos/core#prefLabel> "blanke gevestwapens naar vorm"@nl.
+_:df_844_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005666"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005666/2021-10-31T17:57:03.922Z>.
+<https://stad.gent/id/concept/550005621/2021-10-31T17:55:32.680Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005621>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:55:32.680Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198754>;
+    <http://www.w3.org/ns/adms#identifier> _:df_856_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor schrijfbenodigheden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007827>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006188>, <https://stad.gent/id/concept/550002472>, <https://stad.gent/id/concept/550001594>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001594> <http://www.w3.org/2004/02/skos/core#prefLabel> "zandstrooier"@nl.
+<https://stad.gent/id/concept/550002472> <http://www.w3.org/2004/02/skos/core#prefLabel> "inktstel"@nl.
+<https://stad.gent/id/concept/550006188> <http://www.w3.org/2004/02/skos/core#prefLabel> "inktpot"@nl.
+<https://stad.gent/id/concept/550007827> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders naar functie of context"@nl.
+_:df_856_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005621"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005621/2021-10-31T17:55:32.680Z>.
+<https://stad.gent/id/concept/550005568/2021-10-31T17:54:06.911Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:54:06.911Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_865_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor persoonlijk gebruik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007827>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007875>, <https://stad.gent/id/concept/550007866>, <https://stad.gent/id/concept/550007961>, <https://stad.gent/id/concept/550007840>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007840> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor roken en tabakgebruik"@nl.
+<https://stad.gent/id/concept/550007961> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor persoonlijke zaken"@nl.
+<https://stad.gent/id/concept/550007866> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor lichaamsverzorging en hygiëne"@nl.
+<https://stad.gent/id/concept/550007875> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor gezondheidszorg"@nl.
+<https://stad.gent/id/concept/550007827> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders naar functie of context"@nl.
+_:df_865_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005568/2021-10-31T17:54:06.911Z>.
+<https://stad.gent/id/concept/550004890/2021-10-31T17:32:49.156Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004890>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:32:49.156Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011914>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1018_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het belangrijkste weefsel van bomen en andere planten dat zowel in stevigheid als een middel voor het opnemen van voedingsstoffen voorziet. Hout is een van de bekenste en meest veelzijdige materialen die de mens gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008762>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008734>, <https://stad.gent/id/concept/550008831>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "inscriptie positie"@nl, "inscription position"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008831> <http://www.w3.org/2004/02/skos/core#prefLabel> "hout naar vorm of functie"@nl.
+<https://stad.gent/id/concept/550008734> <http://www.w3.org/2004/02/skos/core#prefLabel> "hout naar samenstelling of herkomst"@nl.
+<https://stad.gent/id/concept/550008762> <http://www.w3.org/2004/02/skos/core#prefLabel> "hout en houtproducten"@nl.
+_:df_1018_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004890"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004890/2021-10-31T17:32:49.156Z>.
+<https://stad.gent/id/concept/550003189/2021-10-31T16:57:56.803Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003189>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:57:56.803Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300234278>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1264_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Blokken hout waarop ontwerpen, woorden, of andere afbeeldingen worden gesneden, om af te drukken. Meestal als reliëf beelden, hetzij op papier, stof, of ander materiaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houtcliché"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006128>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006128> <http://www.w3.org/2004/02/skos/core#prefLabel> "cliché"@nl.
+_:df_1264_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003189"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003189/2021-10-31T16:57:56.803Z>.
+<https://stad.gent/id/concept/550003197/2021-10-31T16:58:11.806Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003197>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:58:11.806Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012862>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1264_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een onzuivere vorm van grafietkoolstof die ontstaat als reststof bij de gedeeltelijke verbranding van koolstofhoudend materiaal, of bij verhitting van dit materiaal waarbij zuurstof in beperkte hoeveelheid aanwezig is. Het wordt gebruikt als tekenmateriaal, voor het filteren van vloeistoffen of lucht, en voor andere doeleinden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houtskool (plantenmateriaal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008763>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008763> <http://www.w3.org/2004/02/skos/core#prefLabel> "bewerkt plantenmateriaal"@nl.
+_:df_1264_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003197"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003197/2021-10-31T16:58:11.806Z>.
+<https://stad.gent/id/concept/550001105/2021-10-31T16:26:23.894Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001105>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:26:23.894Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041405>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1489_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Prenten gemaakt met een blok langshout waarin die delen die wit moeten blijven zijn weggestoken met een mes of guts.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houtsnede"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008164>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008164> <http://www.w3.org/2004/02/skos/core#prefLabel> "reliëfdruk (prent)"@nl.
+_:df_1489_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001105"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001105/2021-10-31T16:26:23.894Z>.
+<https://stad.gent/id/concept/550000784/2021-10-31T16:21:35.064Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000784>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:21:35.064Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300390908>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1522_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tweedimensionaal beeldend werk, waarbij de voorstelling is getekend met een staafje houtskool.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houtskooltekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007970>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007970> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekeningen naar materiaal of techniek"@nl.
+_:df_1522_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000784"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000784/2021-10-31T16:21:35.064Z>.
+<https://stad.gent/id/concept/530010440/2021-10-31T15:54:25.233Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010440>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:54:25.233Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025368>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1717_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst in algemene zin naar diegenen die werken met hout, in het bijzonder diegenen die objecten uit hout maken. Zie 'kastenmakers' voor ambachtslieden die meubels maken en zich bezighouden met ingewikkelde houtbewerkingen. Zie 'timmerlieden' voor ambachtslieden die werken aan gebouwen en andere houten constructies, waaronder het installeren van vloeren, ramen en kozijnen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "houtbewerker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010436>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005419>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005419> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtsnijder (houtbewerker)"@nl.
+<https://stad.gent/id/concept/530010436> <http://www.w3.org/2004/02/skos/core#prefLabel> "personen in ambachten en beroepen"@nl, "personen in ambachten en beroepen"@nl.
+_:df_1717_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010440"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010440/2021-10-31T15:54:25.233Z>.
+<https://stad.gent/id/concept/530010050/2021-10-31T15:23:26.274Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010050>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:23:26.274Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7243709>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1936_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Houx"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009334>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009334> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl.
+_:df_1936_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010050"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010050/2021-10-31T15:23:26.274Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hou.ttl>.

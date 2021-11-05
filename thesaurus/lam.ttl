@@ -63,3 +63,81 @@ _:df_1891_23 a <http://www.w3.org/ns/adms#Identifier>;
 <https://stad.gent/id/concept/550009059> <http://www.w3.org/2004/02/skos/core#prefLabel> "lampen naar functie"@nl.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009059/2021-10-31T20:02:24.626Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/lam.ttl>.
+<https://stad.gent/id/concept/550003682/2021-10-31T17:03:05.980Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003682>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:03:05.980Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1228_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_1228_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003682"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003682/2021-10-31T17:03:05.980Z>.
+<https://stad.gent/id/concept/550001174/2021-10-31T16:27:09.476Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001174>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:27:09.476Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037592>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1483_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verlichtingsmiddelen met een houder voor de brandstof voor de verlichting, meestal vet of olie. De benaming wordt ook gebruikt voor lampen die met een aparte energiebron zijn verbonden, zoals gas of elektriciteit.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lamp (verlichtingsmiddel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007930>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009059>, <https://stad.gent/id/concept/550008216>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008216> <http://www.w3.org/2004/02/skos/core#prefLabel> "lampen naar verlichtingsmethoden"@nl.
+<https://stad.gent/id/concept/550009059> <http://www.w3.org/2004/02/skos/core#prefLabel> "lampen naar functie"@nl.
+<https://stad.gent/id/concept/550007930> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddelen naar vorm"@nl.
+_:df_1483_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001174"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001174/2021-10-31T16:27:09.476Z>.
+<https://stad.gent/id/concept/530010689/2021-10-31T16:12:23.384Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010689>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:12:23.384Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000923>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1588_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lampang (provincie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004491>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004491> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thailand"@nl.
+_:df_1588_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010689"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010689/2021-10-31T16:12:23.384Z>.
+<https://stad.gent/id/concept/530010633/2021-10-31T16:08:00.362Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010633>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:08:00.362Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1621_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lamelgordijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002996>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002996> <http://www.w3.org/2004/02/skos/core#prefLabel> "gordijn"@nl.
+_:df_1621_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010633"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010633/2021-10-31T16:08:00.362Z>.
+<https://stad.gent/id/concept/530010113/2021-10-31T15:28:15.000Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010113>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:28:15.000Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1903_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lamineren (kunststof)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003115>, <https://stad.gent/id/concept/530009982>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009982> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststofvervaardigingstechniek"@nl.
+<https://stad.gent/id/concept/530003115> <http://www.w3.org/2004/02/skos/core#prefLabel> "lamineren"@nl.
+_:df_1903_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010113"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010113/2021-10-31T15:28:15.000Z>.
+<https://stad.gent/id/concept/530010114/2021-10-31T15:28:20.001Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010114>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:28:20.001Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1903_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "laminating (plastic)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1903_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010114"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010114/2021-10-31T15:28:20.001Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/lam.ttl>.

@@ -199,3 +199,128 @@ _:df_1918_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550008877"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008877/2021-10-31T19:58:21.349Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/zi.ttl>.
+<https://stad.gent/id/concept/550005253/2021-10-31T17:43:18.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005253>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:43:18.363Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038494>;
+    <http://www.w3.org/ns/adms#identifier> _:df_943_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zitplaatsen voor twee of meer personen, meestal zonder rugleuning.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zitbank (meubilair)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005240>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005240> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair met meerdere zitplaatsen"@nl.
+_:df_943_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005253"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005253/2021-10-31T17:43:18.363Z>.
+<https://stad.gent/id/concept/550004953/2021-10-31T17:34:25.401Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004953>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:34:25.401Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011029>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1006_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor het zuivere metaalelement met het symbool Ag en het atoomnummer 47. Het metaal is smeedbaar, vervormbaar en wit van kleur met een kenmerkende glans en wordt als edel beschouwd. Ook te gebruiken voor dit metaal wanneer het wordt bewerkt en gevormd om, meestal in combinatie met andere stoffen, diverse voorwerpen en materialen te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zilver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008877>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000270>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000270> <http://www.w3.org/2004/02/skos/core#prefLabel> "zilverfolie"@nl.
+<https://stad.gent/id/concept/550008877> <http://www.w3.org/2004/02/skos/core#prefLabel> "zilver en zilverlegering"@nl.
+_:df_1006_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004953"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004953/2021-10-31T17:34:25.401Z>.
+<https://stad.gent/id/concept/550004564/2021-10-31T17:20:48.961Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004564>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:20:48.961Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7258751>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1102_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zingem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_1102_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004564"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004564/2021-10-31T17:20:48.961Z>.
+<https://stad.gent/id/concept/550004236/2021-10-31T17:11:42.164Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004236>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:11:42.164Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7030107>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1168_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zierikzee"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_1168_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004236"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004236/2021-10-31T17:11:42.164Z>.
+<https://stad.gent/id/concept/550002897/2021-10-31T16:54:09.274Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002897>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:54:09.274Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037769>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1291_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zitmeubel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007836>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007835>, <https://stad.gent/id/concept/550005240>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005240> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair met meerdere zitplaatsen"@nl.
+<https://stad.gent/id/concept/550007835> <http://www.w3.org/2004/02/skos/core#prefLabel> "eenpersoonszitmeubels"@nl.
+<https://stad.gent/id/concept/550007836> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair naar vorm of functie"@nl.
+_:df_1291_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002897"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002897/2021-10-31T16:54:09.274Z>.
+<https://stad.gent/id/concept/550001033/2021-10-31T16:25:17.692Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001033>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:25:17.692Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1498_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zilversmid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1498_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001033"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001033/2021-10-31T16:25:17.692Z>.
+<https://stad.gent/id/concept/550000550/2021-10-31T16:19:18.181Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000550>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:19:18.181Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395639>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1540_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tot draad getrokken zilver of met zilver omwonden garen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zilverdraad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000356>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000356> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaaldraad"@nl.
+_:df_1540_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000550"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000550/2021-10-31T16:19:18.181Z>.
+<https://stad.gent/id/concept/550000355/2021-10-31T16:17:46.902Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000355>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:17:46.902Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300243428>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1549_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stof gemaakt van zijdevezels.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zijde (textiel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008865>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006120>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006120> <http://www.w3.org/2004/02/skos/core#prefLabel> "organza"@nl.
+<https://stad.gent/id/concept/550008865> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielmaterialen naar samenstelling of origine"@nl.
+_:df_1549_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000355"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000355/2021-10-31T16:17:46.902Z>.
+<https://stad.gent/id/concept/530010393/2021-10-31T15:50:57.743Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010393>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:50:57.743Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1741_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zijkant rechts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530007557>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530007557> <http://www.w3.org/2004/02/skos/core#prefLabel> "zijkant"@nl.
+_:df_1741_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010393"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010393/2021-10-31T15:50:57.743Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/zi.ttl>.

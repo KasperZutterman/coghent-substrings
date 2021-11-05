@@ -35,3 +35,17 @@ _:df_1642_38 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570006109"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006109/2021-10-31T20:37:36.999Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/ten.ttl>.
+<https://stad.gent/id/concept/530010042/2021-10-31T15:22:45.539Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010042>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:22:45.539Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1009410>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1942_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tenerife"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005644>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005644> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanje"@nl.
+_:df_1942_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010042"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010042/2021-10-31T15:22:45.539Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ten.ttl>.

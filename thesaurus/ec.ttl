@@ -24,3 +24,16 @@ _:df_1828_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570000166"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000166/2021-10-31T20:11:03.948Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/ec.ttl>.
+<https://stad.gent/id/concept/530010646/2021-10-31T16:09:06.036Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010646>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:09:06.036Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1612_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "echtgenote"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009707>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009707> <http://www.w3.org/2004/02/skos/core#prefLabel> "familie"@nl.
+_:df_1612_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010646"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010646/2021-10-31T16:09:06.036Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ec.ttl>.

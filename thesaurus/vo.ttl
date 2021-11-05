@@ -450,3 +450,144 @@ _:df_1_480 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/vol.ttl>;
     <https://w3id.org/tree#value> "vol".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/vo.ttl>.
+<https://stad.gent/id/concept/550008006/2021-10-31T19:05:01.141Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008006>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:05:01.141Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207613>;
+    <http://www.w3.org/ns/adms#identifier> _:df_361_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vorken die meestal kleiner zijn dan eetvorken. De term kan ook verwijzen naar alle vorken die deel uitmaken van een couvert, of eigenlijk naar alle vorken die bedoeld zijn om mee te eten, en dus niet om eten mee op te dienen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vorken behorend bij een couvert"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007991>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008005>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008005> <http://www.w3.org/2004/02/skos/core#prefLabel> "dessertvork"@nl.
+<https://stad.gent/id/concept/550007991> <http://www.w3.org/2004/02/skos/core#prefLabel> "gerei voor het consumeren van voedsel"@nl.
+_:df_361_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008006"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008006/2021-10-31T19:05:01.141Z>.
+<https://stad.gent/id/concept/550007754/2021-10-31T18:44:48.832Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007754>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:44:48.832Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300001656>;
+    <http://www.w3.org/ns/adms#identifier> _:df_505_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor relatief massieve elementen die het onderste gedeelte van structuren of objecten vormen en waarop de overige delen rusten, of waardoor die worden ondersteund. Gebruik de term 'voeten' als het basiselement waarop een object rust, relatief klein is in verhouding tot de omvang van het object.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "voetstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007907>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007907> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdelen naar algemene context"@nl.
+_:df_505_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007754"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007754/2021-10-31T18:44:48.832Z>.
+<https://stad.gent/id/concept/550006752/2021-10-31T18:33:03.879Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006752>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:33:03.879Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_589_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vormgever"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_589_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006752"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006752/2021-10-31T18:33:03.879Z>.
+<https://stad.gent/id/concept/550002267/2021-10-31T16:45:47.594Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:45:47.594Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043104>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1351_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vorken die tijdens het snijden worden gebruikt voor het vasthouden van vlees en soortgelijk voedsel. Zijn over het algemeen voorzien van twee lange tanden die ietwat gebogen kunnen zijn en hebben soms aan het begin van het handvat een voorwerp waarop men de wijsvinger en duim kan rusten. Gaan soms samen met een voorsnijmes.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "voorsnijvork"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008310>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008310> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengereedschap en keukengerei voor snijden"@nl.
+_:df_1351_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002267/2021-10-31T16:45:47.594Z>.
+<https://stad.gent/id/concept/550001901/2021-10-31T16:39:02.698Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001901>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:39:02.698Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900032102>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1399_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kastjes met gaten in het bovenstuk, geschikt om er een test of een vuurpotje in te plaatsen, als voetsteun en voetverwarmer.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "voetstoof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008175>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008175> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestellen"@nl.
+_:df_1399_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001901"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001901/2021-10-31T16:39:02.698Z>.
+<https://stad.gent/id/concept/550001448/2021-10-31T16:31:16.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001448>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:31:16.831Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178243>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1453_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Betrekkelijk kleine beelden, geschilderd of gebeeldhouwd als bas-reliëf of als rondsculptuur, die aan een christelijke kerk of bedevaartsplaats worden geschonken in de hoop op of uit dankbaarheid voor het lenigen van ziekte of smart door God, de Maagd Maria of een heilige. De beelden kunnen heiligen, andere menselijke figuren, delen van menselijke figuren of andere levende of onbezielde zaken voorstellen. De Latijnse en Griekse inscripties die vaak op de beelden voorkomen beginnen met de woorden ‘ex voto’ respectievelijk ‘hyper euches’, vandaar dat votiefbeelden ook wel ‘ex voto’s’ worden genoemd. De term kan ook verwijzen naar prechristelijke en pre-islamitische cultusobjecten en rituele voorwerpen van soortgelijke of identieke vorm uit Klein-Azië, Noord-Afrika, het Middellandse Zeegebied en westelijk Centraal-Europa. Kan ook worden gebruikt voor soortgelijke voorwerpen die via recentere tradities zijn ontwikkeld in de godsdiensten van India, Tibet, China en Japan. Gebruik ‘votiefgeschenken’ voor voorwerpen met dezelfde functie maar zonder beelden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "votiefbeeld"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007812>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007812> <http://www.w3.org/2004/02/skos/core#prefLabel> "religieus beeldmateriaal"@nl.
+_:df_1453_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001448"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001448/2021-10-31T16:31:16.831Z>.
+<https://stad.gent/id/concept/550001283/2021-10-31T16:28:45.039Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001283>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:28:45.039Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300220907>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1471_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Getraliede ruimte om er, in woningen, vogels in te houden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vogelkooi"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008377>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008377> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor de veeteelt"@nl.
+_:df_1471_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001283"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001283/2021-10-31T16:28:45.039Z>.
+<https://stad.gent/id/concept/550001267/2021-10-31T16:28:20.028Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:28:20.028Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043099>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1474_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Keukengerei, voor het bereiden, opdienen of nuttigen van voedsel, met twee of meer tanden aan een steel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vork"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007879>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007879> <http://www.w3.org/2004/02/skos/core#prefLabel> "schepwerk"@nl.
+_:df_1474_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001267/2021-10-31T16:28:20.028Z>.
+<https://stad.gent/id/concept/530010634/2021-10-31T16:08:05.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010634>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:08:05.363Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1618_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vondst"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "verwervingsmethode"@nl, "acquisition method"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1618_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010634"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010634/2021-10-31T16:08:05.363Z>.
+<https://stad.gent/id/concept/530010593/2021-10-31T16:05:02.944Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010593>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:05:02.944Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1642_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vouwtafel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1642_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010593"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010593/2021-10-31T16:05:02.944Z>.
+<https://stad.gent/id/concept/530010080/2021-10-31T15:25:53.133Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010080>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:25:53.133Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1918_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vormgieten (kunststof)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1918_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010080"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010080/2021-10-31T15:25:53.133Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/vo.ttl>.

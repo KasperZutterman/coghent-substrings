@@ -9,3 +9,29 @@ _:df_1873_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570018922"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018922/2021-11-01T00:39:31.589Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/poe.ttl>.
+<https://stad.gent/id/concept/530010014/2021-10-31T15:20:23.685Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010014>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:20:23.685Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1957_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poederbed fusie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1957_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010014"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010014/2021-10-31T15:20:23.685Z>.
+<https://stad.gent/id/concept/530010012/2021-10-31T15:20:13.682Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010012>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:20:13.682Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1960_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poeder bed fusie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009209>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010016>, <https://stad.gent/id/concept/530009207>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009207> <http://www.w3.org/2004/02/skos/core#prefLabel> "selective laser sintering"@nl.
+<https://stad.gent/id/concept/530010016> <http://www.w3.org/2004/02/skos/core#prefLabel> "direct metal laser sintering"@nl.
+<https://stad.gent/id/concept/530009209> <http://www.w3.org/2004/02/skos/core#prefLabel> "3-D printen"@nl, "3-D printen"@nl.
+_:df_1960_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010012"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010012/2021-10-31T15:20:13.682Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/poe.ttl>.

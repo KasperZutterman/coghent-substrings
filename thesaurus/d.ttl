@@ -513,3 +513,360 @@ _:df_1_158 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/dy.ttl>;
     <https://w3id.org/tree#value> "dy".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/d.ttl>.
+<https://stad.gent/id/concept/550008776/2021-10-31T19:51:14.197Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008776>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:51:14.197Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015002>;
+    <http://www.w3.org/ns/adms#identifier> _:df_34_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deklaag naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008777>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000129>, <https://stad.gent/id/concept/550002877>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002877> <http://www.w3.org/2004/02/skos/core#prefLabel> "verf"@nl.
+<https://stad.gent/id/concept/550000129> <http://www.w3.org/2004/02/skos/core#prefLabel> "inkt"@nl.
+<https://stad.gent/id/concept/550008777> <http://www.w3.org/2004/02/skos/core#prefLabel> "deklaag (materiaal)"@nl.
+_:df_34_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008776"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008776> <http://www.w3.org/2004/02/skos/core#prefLabel> "deklaag naar vorm"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008776/2021-10-31T19:51:14.197Z>.
+<https://stad.gent/id/concept/550008777/2021-10-31T19:51:19.198Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008777>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:51:19.198Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014907>;
+    <http://www.w3.org/ns/adms#identifier> _:df_34_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemeen te gebruiken elke substantie die ter bescherming of decoratie wordt aangebracht op een oppervlak.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deklaag (materiaal)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008747>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008752>, <https://stad.gent/id/concept/550008776>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008776> <http://www.w3.org/2004/02/skos/core#prefLabel> "deklaag naar vorm"@nl.
+<https://stad.gent/id/concept/550008752> <http://www.w3.org/2004/02/skos/core#prefLabel> "deklaag naar locatie of context"@nl.
+<https://stad.gent/id/concept/550008747> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar functie"@nl.
+_:df_34_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008777"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008777> <http://www.w3.org/2004/02/skos/core#prefLabel> "deklaag (materiaal)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008777/2021-10-31T19:51:19.198Z>.
+<https://stad.gent/id/concept/550008778/2021-10-31T19:51:24.199Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:51:24.199Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191881>;
+    <http://www.w3.org/ns/adms#identifier> _:df_34_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kalkhoudende materialen die lijken op been maar harder en compacter zijn; ze vormen de belangrijkste delen van tanden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dentine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008779>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005836>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005836> <http://www.w3.org/2004/02/skos/core#prefLabel> "ivoor"@nl.
+<https://stad.gent/id/concept/550008779> <http://www.w3.org/2004/02/skos/core#prefLabel> "tandonderdelen"@nl.
+_:df_34_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008778/2021-10-31T19:51:24.199Z>.
+<https://stad.gent/id/concept/550008714/2021-10-31T19:48:37.054Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008714>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:48:37.054Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900024568>;
+    <http://www.w3.org/ns/adms#identifier> _:df_52_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "verzamelnaam voor al wat gedrukt is of moet worden, met name gedrukte (reclame) folders, formulieren en dergelijke. Maar geen boeken of prenten: boeken (collectie) of tekeningen en prenten";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "drukwerk (collectie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_52_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008714"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008714/2021-10-31T19:48:37.054Z>.
+<https://stad.gent/id/concept/550008356/2021-10-31T19:33:50.934Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008356>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:33:50.934Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002212>;
+    <http://www.w3.org/ns/adms#identifier> _:df_157_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dakonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008357>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008355>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008355> <http://www.w3.org/2004/02/skos/core#prefLabel> "externe dakonderdelen"@nl.
+<https://stad.gent/id/concept/550008357> <http://www.w3.org/2004/02/skos/core#prefLabel> "daken en dakonderdelen"@nl.
+_:df_157_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008356"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008356> <http://www.w3.org/2004/02/skos/core#prefLabel> "dakonderdelen"@nl, "dakonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008356/2021-10-31T19:33:50.934Z>.
+<https://stad.gent/id/concept/550008357/2021-10-31T19:33:55.938Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008357>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:33:55.938Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052266>;
+    <http://www.w3.org/ns/adms#identifier> _:df_157_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "daken en dakonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008086>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008356>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008356> <http://www.w3.org/2004/02/skos/core#prefLabel> "dakonderdelen"@nl, "dakonderdelen"@nl.
+<https://stad.gent/id/concept/550008086> <http://www.w3.org/2004/02/skos/core#prefLabel> "omsluitende structurele elementen"@nl.
+_:df_157_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008357"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008357> <http://www.w3.org/2004/02/skos/core#prefLabel> "daken en dakonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008357/2021-10-31T19:33:55.938Z>.
+<https://stad.gent/id/concept/550008354/2021-10-31T19:33:40.304Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008354>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:33:40.304Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300070136>;
+    <http://www.w3.org/ns/adms#identifier> _:df_160_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "daktoevoegsels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008355>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001959>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001959> <http://www.w3.org/2004/02/skos/core#prefLabel> "torenkruis"@nl.
+<https://stad.gent/id/concept/550008355> <http://www.w3.org/2004/02/skos/core#prefLabel> "externe dakonderdelen"@nl.
+_:df_160_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008354"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008354/2021-10-31T19:33:40.304Z>.
+<https://stad.gent/id/concept/550008348/2021-10-31T19:33:10.294Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008348>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:33:10.294Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210007>;
+    <http://www.w3.org/ns/adms#identifier> _:df_163_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Riemen bedoeld om een zwaard aan te kunnen dragen. Ze worden over het algemeen over de onderbuik of schuin over de borst gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "degenkoppel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005366>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005366> <http://www.w3.org/2004/02/skos/core#prefLabel> "riem (kledingaccessoire)"@nl.
+_:df_163_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008348"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008348/2021-10-31T19:33:10.294Z>.
+<https://stad.gent/id/concept/550008319/2021-10-31T19:30:57.973Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008319>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:30:57.973Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300198294>;
+    <http://www.w3.org/ns/adms#identifier> _:df_178_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dekschalen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005467>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002591>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002591> <http://www.w3.org/2004/02/skos/core#prefLabel> "schotel"@nl.
+<https://stad.gent/id/concept/550005467> <http://www.w3.org/2004/02/skos/core#prefLabel> "schaal"@nl.
+_:df_178_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008319"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008319/2021-10-31T19:30:57.973Z>.
+<https://stad.gent/id/concept/550008278/2021-10-31T19:27:30.117Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008278>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:27:30.117Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027424>;
+    <http://www.w3.org/ns/adms#identifier> _:df_202_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "documentatie naar vorm of functie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008036>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008277>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008277> <http://www.w3.org/2004/02/skos/core#prefLabel> "juridisch document"@nl.
+<https://stad.gent/id/concept/550008036> <http://www.w3.org/2004/02/skos/core#prefLabel> "documentatie"@nl.
+_:df_202_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008278"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008278> <http://www.w3.org/2004/02/skos/core#prefLabel> "documentatie naar vorm of functie"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008278/2021-10-31T19:27:30.117Z>.
+<https://stad.gent/id/concept/550008280/2021-10-31T19:27:40.120Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:27:40.120Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300258132>;
+    <http://www.w3.org/ns/adms#identifier> _:df_202_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dekens naar locatie of context"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008281>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001517>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001517> <http://www.w3.org/2004/02/skos/core#prefLabel> "paardedeken"@nl.
+<https://stad.gent/id/concept/550008281> <http://www.w3.org/2004/02/skos/core#prefLabel> "deken"@nl.
+_:df_202_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008280> <http://www.w3.org/2004/02/skos/core#prefLabel> "dekens naar locatie of context"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008280/2021-10-31T19:27:40.120Z>.
+<https://stad.gent/id/concept/550008281/2021-10-31T19:27:45.121Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008281>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:27:45.121Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197367>;
+    <http://www.w3.org/ns/adms#identifier> _:df_202_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote rechthoekige dekkleden van dik, zacht materiaal ter beschutting tegen koude.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008282>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008280>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008280> <http://www.w3.org/2004/02/skos/core#prefLabel> "dekens naar locatie of context"@nl.
+<https://stad.gent/id/concept/550008282> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen naar vorm"@nl.
+_:df_202_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008281"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008281> <http://www.w3.org/2004/02/skos/core#prefLabel> "deken"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008281/2021-10-31T19:27:45.121Z>.
+<https://stad.gent/id/concept/550008237/2021-10-31T19:24:07.370Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:24:07.370Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300391129>;
+    <http://www.w3.org/ns/adms#identifier> _:df_226_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemene benaming voor geslagen, gegraveerde, gegoten, aan beide zijden versierde metalen penning of plaatje met een afbeelding van God, Christus, Maria, een heilige, een paus, een religieus object of een specifieke religieuze gebeurtenis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "devotiepenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000346>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000346> <http://www.w3.org/2004/02/skos/core#prefLabel> "devotionalia"@nl.
+_:df_226_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008237"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008237/2021-10-31T19:24:07.370Z>.
+<https://stad.gent/id/concept/550008229/2021-10-31T19:23:26.706Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008229>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:23:26.706Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002892>;
+    <http://www.w3.org/ns/adms#identifier> _:df_232_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deuronderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005700>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005867>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005867> <http://www.w3.org/2004/02/skos/core#prefLabel> "naald (deur)"@nl.
+<https://stad.gent/id/concept/550005700> <http://www.w3.org/2004/02/skos/core#prefLabel> "deuren en deuronderdelen"@nl.
+_:df_232_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008229"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008229/2021-10-31T19:23:26.706Z>.
+<https://stad.gent/id/concept/550008193/2021-10-31T19:20:34.429Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008193>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:20:34.429Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300078047>;
+    <http://www.w3.org/ns/adms#identifier> _:df_253_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dragende en weerstandbiedende elementen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007861>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002603>, <https://stad.gent/id/concept/550008192>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008192> <http://www.w3.org/2004/02/skos/core#prefLabel> "zuilen en zuilonderdelen"@nl, "zuilen en zuilonderdelen"@nl.
+<https://stad.gent/id/concept/550002603> <http://www.w3.org/2004/02/skos/core#prefLabel> "sokkel"@nl.
+<https://stad.gent/id/concept/550007861> <http://www.w3.org/2004/02/skos/core#prefLabel> "structurele bouwelementen"@nl.
+_:df_253_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008193"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008193> <http://www.w3.org/2004/02/skos/core#prefLabel> "dragende en weerstandbiedende elementen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008193/2021-10-31T19:20:34.429Z>.
+<https://stad.gent/id/concept/550008151/2021-10-31T19:17:11.645Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008151>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:17:11.645Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300239147>;
+    <http://www.w3.org/ns/adms#identifier> _:df_277_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dierenuitrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007780>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009246>, <https://stad.gent/id/concept/550001915>, <https://stad.gent/id/concept/550003212>, <https://stad.gent/id/concept/550008285>, <https://stad.gent/id/concept/550008286>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008286> <http://www.w3.org/2004/02/skos/core#prefLabel> "werkuitrusting van dieren"@nl.
+<https://stad.gent/id/concept/550008285> <http://www.w3.org/2004/02/skos/core#prefLabel> "paardeharnasstuk"@nl.
+<https://stad.gent/id/concept/550003212> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoefijzer (dierenuitrusting)"@nl.
+<https://stad.gent/id/concept/550001915> <http://www.w3.org/2004/02/skos/core#prefLabel> "halsband (dier)"@nl.
+<https://stad.gent/id/concept/550009246> <http://www.w3.org/2004/02/skos/core#prefLabel> "brandijzer"@nl.
+<https://stad.gent/id/concept/550007780> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar context"@nl.
+_:df_277_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008151"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008151/2021-10-31T19:17:11.645Z>.
+<https://stad.gent/id/concept/550008123/2021-10-31T19:14:49.434Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008123>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:14:49.434Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033337>;
+    <http://www.w3.org/ns/adms#identifier> _:df_292_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schuivende stangen of staven die gebruikt worden om een deur op slot te doen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "deurgrendel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005755>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005928>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005928> <http://www.w3.org/2004/02/skos/core#prefLabel> "grendelslot"@nl.
+<https://stad.gent/id/concept/550005755> <http://www.w3.org/2004/02/skos/core#prefLabel> "afsluitingsmiddelen"@nl.
+_:df_292_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008123"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008123/2021-10-31T19:14:49.434Z>.
+<https://stad.gent/id/concept/550008099/2021-10-31T19:12:53.121Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008099>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:12:53.121Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037156>;
+    <http://www.w3.org/ns/adms#identifier> _:df_307_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbare vuurwapens naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008100>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005645>, <https://stad.gent/id/concept/550008098>, <https://stad.gent/id/concept/550008300>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008300> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuistvuurwapen"@nl.
+<https://stad.gent/id/concept/550008098> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoudervuurwapen"@nl.
+<https://stad.gent/id/concept/550005645> <http://www.w3.org/2004/02/skos/core#prefLabel> "revolver"@nl.
+<https://stad.gent/id/concept/550008100> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbaar vuurwapen"@nl.
+_:df_307_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008099"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008099> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbare vuurwapens naar vorm"@nl, "draagbare vuurwapens naar vorm"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008099/2021-10-31T19:12:53.121Z>.
+<https://stad.gent/id/concept/550008100/2021-10-31T19:12:58.122Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008100>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:12:58.122Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_307_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vuurwapens, meestal met een kaliber tot 2 cm, die zijn ontworpen om door één persoon te worden gehanteerd, al of niet met steun van de schouder.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbaar vuurwapen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001573>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008225>, <https://stad.gent/id/concept/550008099>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008099> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbare vuurwapens naar vorm"@nl, "draagbare vuurwapens naar vorm"@nl.
+<https://stad.gent/id/concept/550008225> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbare vuurwapens naar ontstekingsmechanisme"@nl.
+<https://stad.gent/id/concept/550001573> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurwapen"@nl, "vuurwapen"@nl.
+_:df_307_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008100"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008100> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbaar vuurwapen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008100/2021-10-31T19:12:58.122Z>.
+<https://stad.gent/id/concept/550008095/2021-10-31T19:12:32.487Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:12:32.487Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300137954>;
+    <http://www.w3.org/ns/adms#identifier> _:df_310_33;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hieronder vallen aanduidingen voor documenten waarbij op een of andere manier de nadruk ligt op de lay-out van documenten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "documenten naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007878>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004555>, <https://stad.gent/id/concept/550008242>, <https://stad.gent/id/concept/550008174>, <https://stad.gent/id/concept/550008094>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008094> <http://www.w3.org/2004/02/skos/core#prefLabel> "soorten literaire documenten"@nl.
+<https://stad.gent/id/concept/550008174> <http://www.w3.org/2004/02/skos/core#prefLabel> "soorten grafische documenten"@nl.
+<https://stad.gent/id/concept/550008242> <http://www.w3.org/2004/02/skos/core#prefLabel> "lijst (informatiedrager)"@nl.
+<https://stad.gent/id/concept/550004555> <http://www.w3.org/2004/02/skos/core#prefLabel> "kalender"@nl.
+<https://stad.gent/id/concept/550007878> <http://www.w3.org/2004/02/skos/core#prefLabel> "soorten documenten"@nl.
+_:df_310_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008095> <http://www.w3.org/2004/02/skos/core#prefLabel> "documenten naar vorm"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008095/2021-10-31T19:12:32.487Z>.
+<https://KasperZutterman.github.io///thesaurus/d.ttl> <https://w3id.org/tree#relation> _:df_1_160.
+_:df_1_160 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/de.ttl>;
+    <https://w3id.org/tree#value> "de".
+<https://KasperZutterman.github.io///thesaurus/d.ttl> <https://w3id.org/tree#relation> _:df_1_161.
+_:df_1_161 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/do.ttl>;
+    <https://w3id.org/tree#value> "do".
+<https://KasperZutterman.github.io///thesaurus/d.ttl> <https://w3id.org/tree#relation> _:df_1_162.
+_:df_1_162 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/di.ttl>;
+    <https://w3id.org/tree#value> "di".
+<https://KasperZutterman.github.io///thesaurus/d.ttl> <https://w3id.org/tree#relation> _:df_1_163.
+_:df_1_163 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/dr.ttl>;
+    <https://w3id.org/tree#value> "dr".
+<https://KasperZutterman.github.io///thesaurus/d.ttl> <https://w3id.org/tree#relation> _:df_1_164.
+_:df_1_164 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/du.ttl>;
+    <https://w3id.org/tree#value> "du".
+<https://KasperZutterman.github.io///thesaurus/d.ttl> <https://w3id.org/tree#relation> _:df_1_165.
+_:df_1_165 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/da.ttl>;
+    <https://w3id.org/tree#value> "da".
+<https://KasperZutterman.github.io///thesaurus/d.ttl> <https://w3id.org/tree#relation> _:df_1_166.
+_:df_1_166 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/dl.ttl>;
+    <https://w3id.org/tree#value> "dl".
+<https://KasperZutterman.github.io///thesaurus/d.ttl> <https://w3id.org/tree#relation> _:df_1_167.
+_:df_1_167 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/dm.ttl>;
+    <https://w3id.org/tree#value> "dm".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/d.ttl>.

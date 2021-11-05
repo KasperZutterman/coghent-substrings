@@ -131,3 +131,27 @@ _:df_1717_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570002766"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570002766/2021-10-31T20:26:39.623Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/bre.ttl>.
+<https://stad.gent/id/concept/550000046/2021-10-31T16:14:19.598Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:14:19.598Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1576_54;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "breedte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1576_54 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000046/2021-10-31T16:14:19.598Z>.
+<https://stad.gent/id/concept/530010333/2021-10-31T15:46:13.189Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010333>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:46:13.189Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026356>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1774_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Brecht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002920>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_1774_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010333"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010333/2021-10-31T15:46:13.189Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bre.ttl>.

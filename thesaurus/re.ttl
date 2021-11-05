@@ -490,3 +490,328 @@ _:df_1_429 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/reu.ttl>;
     <https://w3id.org/tree#value> "reu".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/re.ttl>.
+<https://stad.gent/id/concept/550008035/2021-10-31T19:07:28.101Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008035>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:07:28.101Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027765>;
+    <http://www.w3.org/ns/adms#identifier> _:df_346_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "registratie naar afkomst"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008036>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008635>, <https://stad.gent/id/concept/550008274>, <https://stad.gent/id/concept/550008034>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008034> <http://www.w3.org/2004/02/skos/core#prefLabel> "schooldocument"@nl.
+<https://stad.gent/id/concept/550008274> <http://www.w3.org/2004/02/skos/core#prefLabel> "overheidsdocument"@nl.
+<https://stad.gent/id/concept/550008635> <http://www.w3.org/2004/02/skos/core#prefLabel> "officieel document"@nl.
+<https://stad.gent/id/concept/550008036> <http://www.w3.org/2004/02/skos/core#prefLabel> "documentatie"@nl.
+_:df_346_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008035"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008035> <http://www.w3.org/2004/02/skos/core#prefLabel> "registratie naar afkomst"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008035/2021-10-31T19:07:28.101Z>.
+<https://stad.gent/id/concept/550008026/2021-10-31T19:06:42.307Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008026>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:06:42.307Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300234098>;
+    <http://www.w3.org/ns/adms#identifier> _:df_349_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt algemeen gebruikt voor voorwerpen die worden geassocieerd met of gebruikt bij openbare of particuliere godsdienstige verering.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "religieus object"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006123>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000346>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000346> <http://www.w3.org/2004/02/skos/core#prefLabel> "devotionalia"@nl.
+<https://stad.gent/id/concept/550006123> <http://www.w3.org/2004/02/skos/core#prefLabel> "ceremonieel object"@nl.
+_:df_349_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008026"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008026/2021-10-31T19:06:42.307Z>.
+<https://stad.gent/id/concept/550007819/2021-10-31T18:49:27.652Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007819>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:49:27.652Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041659>;
+    <http://www.w3.org/ns/adms#identifier> _:df_472_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rechtstreeks aangeslagen idiofonen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007820>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008615>, <https://stad.gent/id/concept/550007818>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007818> <http://www.w3.org/2004/02/skos/core#prefLabel> "percussie-idiofoon"@nl.
+<https://stad.gent/id/concept/550008615> <http://www.w3.org/2004/02/skos/core#prefLabel> "klepper"@nl.
+<https://stad.gent/id/concept/550007820> <http://www.w3.org/2004/02/skos/core#prefLabel> "aangeslagen idiofoon"@nl, "aangeslagen idiofoon"@nl.
+_:df_472_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007819"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007819> <http://www.w3.org/2004/02/skos/core#prefLabel> "rechtstreeks aangeslagen idiofonen"@nl, "rechtstreeks aangeslagen idiofonen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007819/2021-10-31T18:49:27.652Z>.
+<https://stad.gent/id/concept/550007808/2021-10-31T18:48:31.773Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007808>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:48:31.773Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003723>;
+    <http://www.w3.org/ns/adms#identifier> _:df_478_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "religieus roerend goed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007809>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007807>, <https://stad.gent/id/concept/550007910>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007910> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair van christelijke religieuze gebouwen"@nl.
+<https://stad.gent/id/concept/550007807> <http://www.w3.org/2004/02/skos/core#prefLabel> "altaren en altaaronderdelen"@nl.
+<https://stad.gent/id/concept/550007809> <http://www.w3.org/2004/02/skos/core#prefLabel> "architecturale elementen naar gebouwtype"@nl, "architecturale elementen naar gebouwtype"@nl.
+_:df_478_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007808"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007808> <http://www.w3.org/2004/02/skos/core#prefLabel> "religieus roerend goed"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007808/2021-10-31T18:48:31.773Z>.
+<https://stad.gent/id/concept/550007812/2021-10-31T18:48:51.780Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007812>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:48:51.780Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300234093>;
+    <http://www.w3.org/ns/adms#identifier> _:df_478_39;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "religieus beeldmateriaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007813>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008311>, <https://stad.gent/id/concept/550003090>, <https://stad.gent/id/concept/550007811>, <https://stad.gent/id/concept/550005732>, <https://stad.gent/id/concept/550001448>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001448> <http://www.w3.org/2004/02/skos/core#prefLabel> "votiefbeeld"@nl.
+<https://stad.gent/id/concept/550005732> <http://www.w3.org/2004/02/skos/core#prefLabel> "paxtafel"@nl.
+<https://stad.gent/id/concept/550007811> <http://www.w3.org/2004/02/skos/core#prefLabel> "kruis (beeldend werk)"@nl.
+<https://stad.gent/id/concept/550003090> <http://www.w3.org/2004/02/skos/core#prefLabel> "ex voto"@nl.
+<https://stad.gent/id/concept/550008311> <http://www.w3.org/2004/02/skos/core#prefLabel> "altaarstuk"@nl.
+<https://stad.gent/id/concept/550007813> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal naar functie"@nl.
+_:df_478_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007812"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007812> <http://www.w3.org/2004/02/skos/core#prefLabel> "religieus beeldmateriaal"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007812/2021-10-31T18:48:51.780Z>.
+<https://stad.gent/id/concept/550006641/2021-10-31T18:30:06.230Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006641>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:30:06.230Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7251644>;
+    <http://www.w3.org/ns/adms#identifier> _:df_610_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rekkem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_610_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006641"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006641/2021-10-31T18:30:06.230Z>.
+<https://stad.gent/id/concept/550006632/2021-10-31T18:29:51.226Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006632>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:29:51.226Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026694>;
+    <http://www.w3.org/ns/adms#identifier> _:df_613_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Retie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005392>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_613_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006632"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006632/2021-10-31T18:29:51.226Z>.
+<https://stad.gent/id/concept/550006141/2021-10-31T18:12:16.587Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006141>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:12:16.587Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015643>;
+    <http://www.w3.org/ns/adms#identifier> _:df_736_42;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor kopieën van kunstafbeeldingen, kunstobjecten of andere gewaardeerde afbeeldingen of objecten, die zijn gemaakt zonder de bedoeling te misleiden; heeft betrekking op kunstafbeeldingen, ook fotografische reproducties; duidt op een meer precieze en getrouwe imitatie dan de term 'kopiedn (afgeleide objecten)'. Gebruik de term 'vervalsingen (1)' of 'vervalsingen (2)' als er sprake is van misleiding.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reproductie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008289>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008289> <http://www.w3.org/2004/02/skos/core#prefLabel> "kopie (afgeleid object)"@nl.
+_:df_736_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006141"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006141/2021-10-31T18:12:16.587Z>.
+<https://stad.gent/id/concept/550006104/2021-10-31T18:10:40.055Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006104>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:10:40.055Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004019>;
+    <http://www.w3.org/ns/adms#identifier> _:df_748_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Recanati"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000038>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_748_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006104"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006104/2021-10-31T18:10:40.055Z>.
+<https://stad.gent/id/concept/550005957/2021-10-31T18:05:50.922Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005957>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:05:50.922Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300047230>;
+    <http://www.w3.org/ns/adms#identifier> _:df_781_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor beeldhouwwerken waarin de ornamenten of figuren verbonden zijn met een achtergrond ten opzichte waarvan ze ver of minder ver uitsteken. Reliëfs worden vaak gebruikt als architectonische decoraties. Door hun narratieve karakter zijn ze bovendien een gewild medium voor het uitbeelden van verhalen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reliëf (object)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007868>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002937>, <https://stad.gent/id/concept/550001523>, <https://stad.gent/id/concept/550002503>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002503> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoogreliëf"@nl.
+<https://stad.gent/id/concept/550001523> <http://www.w3.org/2004/02/skos/core#prefLabel> "halfreliëf"@nl.
+<https://stad.gent/id/concept/550002937> <http://www.w3.org/2004/02/skos/core#prefLabel> "bas-reliëf"@nl.
+<https://stad.gent/id/concept/550007868> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwwerken naar techniek"@nl.
+_:df_781_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005957"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005957/2021-10-31T18:05:50.922Z>.
+<https://stad.gent/id/concept/550005645/2021-10-31T17:56:23.300Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005645>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:56:23.300Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037173>;
+    <http://www.w3.org/ns/adms#identifier> _:df_850_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor vuistvuurwapens met één of twee lopen, voorzien van een magazijn met meerdere patroonkamers dat rond een as draait die parallel loopt aan de loop, waarbij iedere kamer afzonderlijk vuurt. Gebruik 'peperbussen (vuurwapens)' voor vuistvuurwapens met meerdere, soms ronddraaiende lopen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "revolver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008099>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001832>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001832> <http://www.w3.org/2004/02/skos/core#prefLabel> "trommelrevolver"@nl.
+<https://stad.gent/id/concept/550008099> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagbare vuurwapens naar vorm"@nl.
+_:df_850_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005645"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005645/2021-10-31T17:56:23.300Z>.
+<https://stad.gent/id/concept/550005291/2021-10-31T17:44:54.592Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005291>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:44:54.592Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180572>;
+    <http://www.w3.org/ns/adms#identifier> _:df_931_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reflector"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008070>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008070> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdelen van verlichtingsmiddelen"@nl.
+_:df_931_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005291"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005291/2021-10-31T17:44:54.592Z>.
+<https://stad.gent/id/concept/550005267/2021-10-31T17:44:08.974Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:44:08.974Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027168>;
+    <http://www.w3.org/ns/adms#identifier> _:df_937_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Officiële lijsten waarin zorgvuldig en systematisch aantekening wordt gehouden van alle informatie die daarvoor belangrijk genoeg wordt geacht, in het bijzonder in een regelmatig numerieke of chronologische volgorde.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "register"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008241>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008241> <http://www.w3.org/2004/02/skos/core#prefLabel> "lijsten (informatiedragers) naar vorm of functie"@nl.
+_:df_937_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005267/2021-10-31T17:44:08.974Z>.
+<https://stad.gent/id/concept/550005251/2021-10-31T17:43:08.358Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005251>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:43:08.358Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031624>;
+    <http://www.w3.org/ns/adms#identifier> _:df_943_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Penningen waarmee berekeningen op het rekenbord worden uitgevoerd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rekenpenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007965>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007965> <http://www.w3.org/2004/02/skos/core#prefLabel> "gebruikspenningen zonder betaalwaarde"@nl.
+_:df_943_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005251"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005251/2021-10-31T17:43:08.358Z>.
+<https://stad.gent/id/concept/550004951/2021-10-31T17:34:20.400Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004951>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:34:20.400Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300187549>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1006_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor het veilig stellen of tentoonstellen van relikwieën van heiligen, in formaat uiteenlopend van kleine doosjes tot grote objecten, soms in de vorm van de ingesloten relikwie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reliekhouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007829>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001020>, <https://stad.gent/id/concept/550002492>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002492> <http://www.w3.org/2004/02/skos/core#prefLabel> "reliekschrijn"@nl.
+<https://stad.gent/id/concept/550001020> <http://www.w3.org/2004/02/skos/core#prefLabel> "reliekdoos"@nl.
+<https://stad.gent/id/concept/550007829> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische houders"@nl.
+_:df_1006_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004951"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004951/2021-10-31T17:34:20.400Z>.
+<https://stad.gent/id/concept/550003807/2021-10-31T17:07:24.045Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003807>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:07:24.045Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300076035>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1198_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar toevoegingen geplaatst op de altaartafel in een christelijke kerk. Een retabel kan bestaan uit een eenvoudige plank of rand die is aangebracht boven de achterkant van het altaar en die wordt gebruikt als kaarsenhouder. Er kan ook een raamwerk of een andere constructie aan verbonden zijn waarin beschilderde of beeldgesneden panelen zijn gemonteerd, met of zonder een plank voor kaarsen. Een 'reredos' is iets anders; deze verrijst meestal vanaf de grond achter het altaar. Het retabel is kleiner en staat achter op het altaar zelf of op een sokkel achter het altaar. Veel altaren hebben zowel een reredos als een retabel. Gebruik 'retablo's' voor de kleinere Mexicaanse en Spaans-Amerikaanse schilderingen van christelijke heiligen en andere heilige figuren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "retabel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008311>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008311> <http://www.w3.org/2004/02/skos/core#prefLabel> "altaarstuk"@nl.
+_:df_1198_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003807"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003807/2021-10-31T17:07:24.045Z>.
+<https://stad.gent/id/concept/550003674/2021-10-31T17:02:30.327Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003674>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:02:30.327Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037275>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1231_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zilveren munten die in Spanje en Spaans-Amerika halverwege de 14e eeuw voor het eerst werden geslagen. De uitgifte werd stopgezet in de 19e eeuw behalve in Guatemala, waar de munt tot in de 20e eeuw werd gehandhaafd in een koper-nikkellegering.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_1231_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003674"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003674/2021-10-31T17:02:30.327Z>.
+<https://stad.gent/id/concept/550002492/2021-10-31T16:48:03.905Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002492>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:48:03.905Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1336_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Reliekhouder in de vorm van een kist, met plat deksel of met zadeldak. Is de versiering figuratief, dan heeft deze betrekking op het leven van de heilige van wie de relieken zich in de kist bevinden/bevonden. (SKKN)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reliekschrijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004951>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004951> <http://www.w3.org/2004/02/skos/core#prefLabel> "reliekhouder"@nl.
+_:df_1336_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002492"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002492/2021-10-31T16:48:03.905Z>.
+<https://stad.gent/id/concept/550001020/2021-10-31T16:25:02.689Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001020>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:25:02.689Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1498_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Doos ter bewaring van een of meer relieken. Een dergelijke doos kan zich in een altaar bevinden. Zie ook reliekenkist";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reliekdoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004951>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004951> <http://www.w3.org/2004/02/skos/core#prefLabel> "reliekhouder"@nl.
+_:df_1498_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001020"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001020/2021-10-31T16:25:02.689Z>.
+<https://stad.gent/id/concept/550000195/2021-10-31T16:16:11.372Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:16:11.372Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/8698309>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1561_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Republiek der zeven Verenigde Nederlanden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "nationaliteit"@nl, "nationality"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_1561_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000195/2021-10-31T16:16:11.372Z>.
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_506.
+_:df_1_506 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rep.ttl>;
+    <https://w3id.org/tree#value> "rep".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_507.
+_:df_1_507 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/res.ttl>;
+    <https://w3id.org/tree#value> "res".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_508.
+_:df_1_508 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rec.ttl>;
+    <https://w3id.org/tree#value> "rec".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_509.
+_:df_1_509 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rei.ttl>;
+    <https://w3id.org/tree#value> "rei".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_510.
+_:df_1_510 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rea.ttl>;
+    <https://w3id.org/tree#value> "rea".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_511.
+_:df_1_511 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rek.ttl>;
+    <https://w3id.org/tree#value> "rek".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/re.ttl>.

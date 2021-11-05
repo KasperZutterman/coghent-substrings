@@ -145,3 +145,271 @@ _:df_1675_45 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570005152"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005152/2021-10-31T20:32:57.038Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/ce.ttl>.
+<https://stad.gent/id/concept/550007824/2021-10-31T18:49:53.487Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007824>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:49:53.487Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210387>;
+    <http://www.w3.org/ns/adms#identifier> _:df_469_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleding of andere uitdossing die een voornamelijk ceremoniele of rituele functie heeft.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ceremoniële kledij"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007832>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005130>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005130> <http://www.w3.org/2004/02/skos/core#prefLabel> "schootsvel"@nl.
+<https://stad.gent/id/concept/550007832> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding naar functie"@nl.
+_:df_469_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007824"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007824/2021-10-31T18:49:53.487Z>.
+<https://stad.gent/id/concept/550006202/2021-10-31T18:14:53.809Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006202>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:14:53.809Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197576>;
+    <http://www.w3.org/ns/adms#identifier> _:df_718_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ceremoniële houders"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007827>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007829>, <https://stad.gent/id/concept/550001121>, <https://stad.gent/id/concept/550001459>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001459> <http://www.w3.org/2004/02/skos/core#prefLabel> "wierookvat"@nl.
+<https://stad.gent/id/concept/550001121> <http://www.w3.org/2004/02/skos/core#prefLabel> "wierookscheepje"@nl.
+<https://stad.gent/id/concept/550007829> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische houders"@nl.
+<https://stad.gent/id/concept/550007827> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders naar functie of context"@nl.
+_:df_718_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006202"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006202/2021-10-31T18:14:53.809Z>.
+<https://stad.gent/id/concept/550006123/2021-10-31T18:11:15.823Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006123>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:11:15.823Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300234117>;
+    <http://www.w3.org/ns/adms#identifier> _:df_745_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor voorwerpen die worden geassocieerd met of gebruikt bij ceremonies.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ceremonieel object"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007761>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001992>, <https://stad.gent/id/concept/550008026>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008026> <http://www.w3.org/2004/02/skos/core#prefLabel> "religieus object"@nl.
+<https://stad.gent/id/concept/550001992> <http://www.w3.org/2004/02/skos/core#prefLabel> "gildebreuk"@nl.
+<https://stad.gent/id/concept/550007761> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres naar functie"@nl.
+_:df_745_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006123"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006123/2021-10-31T18:11:15.823Z>.
+<https://stad.gent/id/concept/550005613/2021-10-31T17:55:17.676Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005613>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:55:17.676Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012514>;
+    <http://www.w3.org/ns/adms#identifier> _:df_856_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cederhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008734>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008734> <http://www.w3.org/2004/02/skos/core#prefLabel> "hout naar samenstelling of herkomst"@nl.
+_:df_856_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005613"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005613/2021-10-31T17:55:17.676Z>.
+<https://stad.gent/id/concept/550003698/2021-10-31T17:03:56.681Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003698>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:03:56.681Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300193227>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1222_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_1222_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003698"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003698/2021-10-31T17:03:56.681Z>.
+<https://stad.gent/id/concept/550003692/2021-10-31T17:03:31.674Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003692>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:03:31.674Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300206571>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1225_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "centimes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_1225_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003692"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003692/2021-10-31T17:03:31.674Z>.
+<https://stad.gent/id/concept/550003397/2021-10-31T17:00:09.012Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003397>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:00:09.012Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7016739>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1249_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Centraal Amerika"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008929>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008929> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord en Centraal Amerika"@nl.
+_:df_1249_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003397"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003397/2021-10-31T17:00:09.012Z>.
+<https://stad.gent/id/concept/550003147/2021-10-31T16:57:21.104Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003147>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:57:21.104Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900032733>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1270_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ceintuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005366>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005366> <http://www.w3.org/2004/02/skos/core#prefLabel> "riem (kledingaccessoire)"@nl.
+_:df_1270_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003147"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003147/2021-10-31T16:57:21.104Z>.
+<https://stad.gent/id/concept/550000703/2021-10-31T16:20:24.345Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000703>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:20:24.345Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4003755>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1531_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Centraal Europa"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_1531_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000703"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000703/2021-10-31T16:20:24.345Z>.
+<https://stad.gent/id/concept/530010682/2021-10-31T16:11:47.873Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010682>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:11:47.873Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1044160>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1594_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ceriano Laghetto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_1594_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010682"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010682/2021-10-31T16:11:47.873Z>.
+<https://stad.gent/id/concept/530010499/2021-10-31T15:58:28.434Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:58:28.434Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1027019>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1687_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Česká Lípa"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005587>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010500>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010500> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lindava"@nl.
+<https://stad.gent/id/concept/530005587> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjechië"@nl, "Tsjechië"@nl.
+_:df_1687_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010499"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530010499> <http://www.w3.org/2004/02/skos/core#prefLabel> "Česká Lípa"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010499/2021-10-31T15:58:28.434Z>.
+<https://stad.gent/id/concept/530010317/2021-10-31T15:44:57.538Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010317>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:44:57.538Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q268957>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1783_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Červený Hrádek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005587>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005587> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjechië"@nl.
+_:df_1783_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010317"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010317/2021-10-31T15:44:57.538Z>.
+<https://stad.gent/id/concept/530010155/2021-10-31T15:31:22.030Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010155>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:31:22.030Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1879_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose nitrate (pp)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010150>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010150> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl.
+_:df_1879_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010155"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010155/2021-10-31T15:31:22.030Z>.
+<https://stad.gent/id/concept/530010156/2021-10-31T15:31:27.635Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010156>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:31:27.635Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1879_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose propionate (pp)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010150>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010150> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl.
+_:df_1879_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010156"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010156/2021-10-31T15:31:27.635Z>.
+<https://stad.gent/id/concept/530010150/2021-10-31T15:30:57.023Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010150>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:30:57.023Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1882_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose derivative (pp)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010149>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010151>, <https://stad.gent/id/concept/530010152>, <https://stad.gent/id/concept/530010153>, <https://stad.gent/id/concept/530010154>, <https://stad.gent/id/concept/530010155>, <https://stad.gent/id/concept/530010156>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010156> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose propionate (pp)"@nl.
+<https://stad.gent/id/concept/530010155> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose nitrate (pp)"@nl.
+<https://stad.gent/id/concept/530010154> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose diacetate (pp)"@nl.
+<https://stad.gent/id/concept/530010153> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose acetate propionate (pp)"@nl.
+<https://stad.gent/id/concept/530010152> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose acetate butyrate (pp)"@nl.
+<https://stad.gent/id/concept/530010151> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose acetate (pp)"@nl.
+<https://stad.gent/id/concept/530010149> <http://www.w3.org/2004/02/skos/core#prefLabel> "thermoplastic (pp)"@nl.
+_:df_1882_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010150"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530010150> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010150/2021-10-31T15:30:57.023Z>.
+<https://stad.gent/id/concept/530010151/2021-10-31T15:31:02.025Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010151>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:31:02.025Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014439>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1882_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose acetate (pp)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010150>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010150> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl.
+_:df_1882_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010151"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530010151> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose acetate (pp)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010151/2021-10-31T15:31:02.025Z>.
+<https://stad.gent/id/concept/530010152/2021-10-31T15:31:07.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010152>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:31:07.026Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1882_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose acetate butyrate (pp)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010150>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010150> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl.
+_:df_1882_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010152"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530010152> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose acetate butyrate (pp)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010152/2021-10-31T15:31:07.026Z>.
+<https://stad.gent/id/concept/530010153/2021-10-31T15:31:12.027Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010153>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:31:12.027Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1882_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose acetate propionate (pp)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010150>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010150> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl.
+_:df_1882_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010153"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530010153> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose acetate propionate (pp)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010153/2021-10-31T15:31:12.027Z>.
+<https://stad.gent/id/concept/530010154/2021-10-31T15:31:17.028Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010154>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:31:17.028Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1882_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose diacetate (pp)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010150>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010150> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl, "cellulose derivative (pp)"@nl.
+_:df_1882_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010154"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530010154> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulose diacetate (pp)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010154/2021-10-31T15:31:17.028Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ce.ttl>.

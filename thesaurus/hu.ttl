@@ -284,3 +284,45 @@ _:df_1819_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570000292"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000292/2021-10-31T20:12:14.664Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/hu.ttl>.
+<https://stad.gent/id/concept/550002480/2021-10-31T16:47:53.901Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002480>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:47:53.901Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300390909>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1336_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Altaar in een huiskapel of in een andere kamer van het huis. Ook wel aanduiding voor een tot een ensemble samengestelde groep devotionalia.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huisaltaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007632>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007632> <http://www.w3.org/2004/02/skos/core#prefLabel> "altaar"@nl.
+_:df_1336_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002480"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002480/2021-10-31T16:47:53.901Z>.
+<https://stad.gent/id/concept/530010657/2021-10-31T16:09:51.698Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010657>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:09:51.698Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7243809>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1606_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Huise"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005209>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005209> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_1606_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010657"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010657/2021-10-31T16:09:51.698Z>.
+<https://stad.gent/id/concept/530010450/2021-10-31T15:55:15.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010450>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:55:15.927Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1711_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "huishouden (ok)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001242>, <https://stad.gent/id/concept/530009136>, <https://stad.gent/id/concept/530006392>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006392> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafelgerei (objectcategorie) (ok)"@nl.
+<https://stad.gent/id/concept/530009136> <http://www.w3.org/2004/02/skos/core#prefLabel> "huishoudelijke apparaten"@nl.
+<https://stad.gent/id/concept/530001242> <http://www.w3.org/2004/02/skos/core#prefLabel> "keuken- en kookgerei (ok)"@nl.
+_:df_1711_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010450"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010450/2021-10-31T15:55:15.927Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hu.ttl>.

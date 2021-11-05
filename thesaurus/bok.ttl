@@ -36,3 +36,19 @@ _:df_1795_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570000772"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000772/2021-10-31T20:15:38.503Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/bok.ttl>.
+<https://stad.gent/id/concept/550006137/2021-10-31T18:12:01.582Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006137>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:12:01.582Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043236>;
+    <http://www.w3.org/ns/adms#identifier> _:df_739_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drinkglazen van uiteenlopende vorm, met grote cuppa, op voet met stam.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bokaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006133>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006133> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkglas"@nl.
+_:df_739_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006137"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550006137> <http://www.w3.org/2004/02/skos/core#prefLabel> "bokaal"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006137/2021-10-31T18:12:01.582Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bok.ttl>.

@@ -23,3 +23,50 @@ _:df_1549_26 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570008357"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008357/2021-10-31T20:50:43.237Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/kok.ttl>.
+<https://stad.gent/id/concept/550004631/2021-10-31T17:24:01.576Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004631>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:24:01.576Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008853>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1078_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koksijde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_1078_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004631"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004631/2021-10-31T17:24:01.576Z>.
+<https://stad.gent/id/concept/550003825/2021-10-31T17:07:49.635Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003825>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:07:49.635Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195568>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1195_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bekers op voet, met een rijk versierde hoge stam, meestal van zilver of goud, met een cuppa van een kokosnoot gemonteerd in (verguld) zilver. Een type dat dateert uit de 15e eeuw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kokosnootbeker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008204>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008204> <http://www.w3.org/2004/02/skos/core#prefLabel> "gemonteerde bekers"@nl.
+_:df_1195_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003825"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003825/2021-10-31T17:07:49.635Z>.
+<https://stad.gent/id/concept/550002064/2021-10-31T16:43:50.667Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002064>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:43:50.667Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045659>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1366_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beschermende houders, vaak klein en draagbaar, in het bijzonder die waarvan de vorm of binnenkant zo is gevormd dat datgene wat erin wordt opgeborgen wordt omsloten of afgeschermd. In de drukkerswereld, bakken die in kleine vakjes zijn opgedeeld waarin zetlood voor afzonderlijke letters, cijfers en spaties wordt bewaard; bedoeld voor het zetten met de hand.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007776>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005256>, <https://stad.gent/id/concept/550008620>, <https://stad.gent/id/concept/550006013>, <https://stad.gent/id/concept/550005759>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005759> <http://www.w3.org/2004/02/skos/core#prefLabel> "naaldenkoker"@nl.
+<https://stad.gent/id/concept/550006013> <http://www.w3.org/2004/02/skos/core#prefLabel> "muntgewichtdoos"@nl.
+<https://stad.gent/id/concept/550008620> <http://www.w3.org/2004/02/skos/core#prefLabel> "holster"@nl.
+<https://stad.gent/id/concept/550005256> <http://www.w3.org/2004/02/skos/core#prefLabel> "foedraal"@nl.
+<https://stad.gent/id/concept/550007776> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders naar vorm"@nl.
+_:df_1366_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002064"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002064/2021-10-31T16:43:50.667Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kok.ttl>.

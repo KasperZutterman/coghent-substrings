@@ -132,3 +132,34 @@ _:df_1804_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570000598"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000598/2021-10-31T20:14:21.453Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/gra.ttl>.
+<https://stad.gent/id/concept/530010705/2021-10-31T16:13:39.589Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010705>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:13:39.589Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300005923>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1579_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grafsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008736>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008736> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenre"@nl.
+_:df_1579_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010705"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010705/2021-10-31T16:13:39.589Z>.
+<https://stad.gent/id/concept/530010386/2021-10-31T15:50:36.366Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:50:36.366Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264850>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1744_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar kunstenaars die gespecialiseerd zijn in het maken van prenten en illustraties. Verwees vroeger in meer algemene zin naar kunstenaars die gespecialiseerd waren in een van diverse soorten tweedimensionale kunst op papier, paneel of doek, met inbegrip van de schilderkunst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "grafisch kunstenaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010435>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530004468>, <https://stad.gent/id/concept/530003581>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003581> <http://www.w3.org/2004/02/skos/core#prefLabel> "illustrator"@nl.
+<https://stad.gent/id/concept/530004468> <http://www.w3.org/2004/02/skos/core#prefLabel> "typograaf"@nl.
+<https://stad.gent/id/concept/530010435> <http://www.w3.org/2004/02/skos/core#prefLabel> "personen in de grafische industrie"@nl.
+_:df_1744_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010386"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010386/2021-10-31T15:50:36.366Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/gra.ttl>.

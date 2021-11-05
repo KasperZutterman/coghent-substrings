@@ -515,3 +515,381 @@ _:df_1_240 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/mex.ttl>;
     <https://w3id.org/tree#value> "mex".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/me.ttl>.
+<https://stad.gent/id/concept/550008294/2021-10-31T19:28:51.627Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008294>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:28:51.627Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_193_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medaille"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_193_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008294"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008294/2021-10-31T19:28:51.627Z>.
+<https://stad.gent/id/concept/550008169/2021-10-31T19:18:37.967Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008169>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:18:37.967Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195706>;
+    <http://www.w3.org/ns/adms#identifier> _:df_265_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van hoeveelheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007846>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008167>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008167> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van hoeveelheid: stoffen"@nl, "meetinstrumenten voor het meten van hoeveelheid: stoffen"@nl.
+<https://stad.gent/id/concept/550007846> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van omvang"@nl.
+_:df_265_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008169"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008169/2021-10-31T19:18:37.967Z>.
+<https://stad.gent/id/concept/550008167/2021-10-31T19:18:27.318Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008167>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:18:27.318Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196525>;
+    <http://www.w3.org/ns/adms#identifier> _:df_268_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van hoeveelheid: stoffen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008169>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008168>, <https://stad.gent/id/concept/550001015>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001015> <http://www.w3.org/2004/02/skos/core#prefLabel> "inhoudsmaat"@nl.
+<https://stad.gent/id/concept/550008168> <http://www.w3.org/2004/02/skos/core#prefLabel> "graanmaat"@nl.
+<https://stad.gent/id/concept/550008169> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van hoeveelheid"@nl.
+_:df_268_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008167"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008167/2021-10-31T19:18:27.318Z>.
+<https://stad.gent/id/concept/550008153/2021-10-31T19:17:21.649Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008153>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:17:21.649Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028744>;
+    <http://www.w3.org/ns/adms#identifier> _:df_274_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor gestandaardiseerde symbolen, afbeeldingen of andere onderscheidingstekens op voorwerpen waaruit een aantal gegevens, zoals de afkomst of de maker van het voorwerp, de echtheid ervan, of een verandering in de officiële status, kan worden afgeleid. Gebruik `inscripties' voor merktekens aangebracht op een voorwerp voor documentatie of ter herinnering die in hoofdzaak uit een woord of woorden bestaan.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "merkteken (symbool)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007876>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008154>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008154> <http://www.w3.org/2004/02/skos/core#prefLabel> "merktekens naar functie"@nl, "merktekens naar functie"@nl.
+<https://stad.gent/id/concept/550007876> <http://www.w3.org/2004/02/skos/core#prefLabel> "identificatietekens en symbolen"@nl.
+_:df_274_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008153"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008153> <http://www.w3.org/2004/02/skos/core#prefLabel> "merkteken (symbool)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008153/2021-10-31T19:17:21.649Z>.
+<https://stad.gent/id/concept/550008154/2021-10-31T19:17:26.650Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008154>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:17:26.650Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028756>;
+    <http://www.w3.org/ns/adms#identifier> _:df_274_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "merktekens naar functie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008153>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008152>, <https://stad.gent/id/concept/550003749>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003749> <http://www.w3.org/2004/02/skos/core#prefLabel> "verzegellood"@nl.
+<https://stad.gent/id/concept/550008152> <http://www.w3.org/2004/02/skos/core#prefLabel> "accijnszegel"@nl.
+<https://stad.gent/id/concept/550008153> <http://www.w3.org/2004/02/skos/core#prefLabel> "merkteken (symbool)"@nl.
+_:df_274_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008154"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008154> <http://www.w3.org/2004/02/skos/core#prefLabel> "merktekens naar functie"@nl, "merktekens naar functie"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008154/2021-10-31T19:17:26.650Z>.
+<https://stad.gent/id/concept/550008145/2021-10-31T19:16:40.988Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008145>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:16:40.988Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209275>;
+    <http://www.w3.org/ns/adms#identifier> _:df_280_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meegedragen kledingaccessoires"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007782>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008625>, <https://stad.gent/id/concept/550008144>, <https://stad.gent/id/concept/550000602>, <https://stad.gent/id/concept/550001092>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001092> <http://www.w3.org/2004/02/skos/core#prefLabel> "zakdoek"@nl.
+<https://stad.gent/id/concept/550000602> <http://www.w3.org/2004/02/skos/core#prefLabel> "waaier (kledingaccessoire)"@nl.
+<https://stad.gent/id/concept/550008144> <http://www.w3.org/2004/02/skos/core#prefLabel> "tas (kledingaccessoire)"@nl.
+<https://stad.gent/id/concept/550008625> <http://www.w3.org/2004/02/skos/core#prefLabel> "parasol"@nl.
+<https://stad.gent/id/concept/550007782> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledingaccessoires"@nl.
+_:df_280_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008145"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008145> <http://www.w3.org/2004/02/skos/core#prefLabel> "meegedragen kledingaccessoires"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008145/2021-10-31T19:16:40.988Z>.
+<https://stad.gent/id/concept/550008115/2021-10-31T19:14:08.750Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008115>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:14:08.750Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196709>;
+    <http://www.w3.org/ns/adms#identifier> _:df_298_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van horizontale hoeken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007844>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001342>, <https://stad.gent/id/concept/550002759>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002759> <http://www.w3.org/2004/02/skos/core#prefLabel> "kompas"@nl.
+<https://stad.gent/id/concept/550001342> <http://www.w3.org/2004/02/skos/core#prefLabel> "gradenboog"@nl.
+<https://stad.gent/id/concept/550007844> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van hoeken"@nl.
+_:df_298_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008115"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008115/2021-10-31T19:14:08.750Z>.
+<https://stad.gent/id/concept/550008107/2021-10-31T19:13:33.739Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008107>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:13:33.739Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195800>;
+    <http://www.w3.org/ns/adms#identifier> _:df_301_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumentonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007795>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009104>, <https://stad.gent/id/concept/550008106>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008106> <http://www.w3.org/2004/02/skos/core#prefLabel> "schaalonderdeel"@nl.
+<https://stad.gent/id/concept/550009104> <http://www.w3.org/2004/02/skos/core#prefLabel> "klok- en horlogeonderdelen"@nl.
+<https://stad.gent/id/concept/550007795> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdelen naar specifieke context"@nl.
+_:df_301_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008107"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008107> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumentonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008107/2021-10-31T19:13:33.739Z>.
+<https://stad.gent/id/concept/550008028/2021-10-31T19:06:53.091Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008028>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:06:53.091Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196567>;
+    <http://www.w3.org/ns/adms#identifier> _:df_349_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van afmeting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007845>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008027>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008027> <http://www.w3.org/2004/02/skos/core#prefLabel> "krompasser"@nl.
+<https://stad.gent/id/concept/550007845> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van afstand"@nl.
+_:df_349_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008028"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008028> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van afmeting"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008028/2021-10-31T19:06:53.091Z>.
+<https://stad.gent/id/concept/550008029/2021-10-31T19:06:58.092Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008029>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:06:58.092Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247523>;
+    <http://www.w3.org/ns/adms#identifier> _:df_349_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medische uitrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007772>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002018>, <https://stad.gent/id/concept/550009251>, <https://stad.gent/id/concept/550002021>, <https://stad.gent/id/concept/550003206>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en, "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003206> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlostang"@nl.
+<https://stad.gent/id/concept/550002021> <http://www.w3.org/2004/02/skos/core#prefLabel> "kogeltang"@nl.
+<https://stad.gent/id/concept/550009251> <http://www.w3.org/2004/02/skos/core#prefLabel> "injectiespuit"@nl.
+<https://stad.gent/id/concept/550002018> <http://www.w3.org/2004/02/skos/core#prefLabel> "dilator"@nl.
+<https://stad.gent/id/concept/550007772> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar proces"@nl.
+_:df_349_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008029"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008029/2021-10-31T19:06:58.092Z>.
+<https://stad.gent/id/concept/550007910/2021-10-31T18:57:09.030Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007910>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:57:09.030Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003724>;
+    <http://www.w3.org/ns/adms#identifier> _:df_418_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair van christelijke religieuze gebouwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007808>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002340>, <https://stad.gent/id/concept/550003978>, <https://stad.gent/id/concept/550003982>, <https://stad.gent/id/concept/550008207>, <https://stad.gent/id/concept/550008847>, <https://stad.gent/id/concept/550001911>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001911> <http://www.w3.org/2004/02/skos/core#prefLabel> "wijwaterbak"@nl.
+<https://stad.gent/id/concept/550008847> <http://www.w3.org/2004/02/skos/core#prefLabel> "preekstoel"@nl.
+<https://stad.gent/id/concept/550008207> <http://www.w3.org/2004/02/skos/core#prefLabel> "gestoelte en gestoelte-onderdelen"@nl.
+<https://stad.gent/id/concept/550003982> <http://www.w3.org/2004/02/skos/core#prefLabel> "doopvont"@nl.
+<https://stad.gent/id/concept/550003978> <http://www.w3.org/2004/02/skos/core#prefLabel> "biechtstoel"@nl.
+<https://stad.gent/id/concept/550002340> <http://www.w3.org/2004/02/skos/core#prefLabel> "bidbank"@nl.
+<https://stad.gent/id/concept/550007808> <http://www.w3.org/2004/02/skos/core#prefLabel> "religieus roerend goed"@nl.
+_:df_418_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007910"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007910/2021-10-31T18:57:09.030Z>.
+<https://stad.gent/id/concept/550007859/2021-10-31T18:52:50.579Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007859>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:52:50.579Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195702>;
+    <http://www.w3.org/ns/adms#identifier> _:df_448_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van krachten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005437>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007858>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007858> <http://www.w3.org/2004/02/skos/core#prefLabel> "weeginstrument"@nl.
+<https://stad.gent/id/concept/550005437> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrument"@nl.
+_:df_448_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007859"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007859> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van krachten"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007859/2021-10-31T18:52:50.579Z>.
+<https://stad.gent/id/concept/550007843/2021-10-31T18:51:29.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007843>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:51:29.151Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196710>;
+    <http://www.w3.org/ns/adms#identifier> _:df_457_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van verticale hoeken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007844>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003804>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003804> <http://www.w3.org/2004/02/skos/core#prefLabel> "astrolabium"@nl.
+<https://stad.gent/id/concept/550007844> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van hoeken"@nl, "meetinstrumenten voor het meten van hoeken"@nl.
+_:df_457_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007843"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007843> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van verticale hoeken"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007843/2021-10-31T18:51:29.151Z>.
+<https://stad.gent/id/concept/550007844/2021-10-31T18:51:34.865Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007844>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:51:34.865Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_457_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van hoeken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007845>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008115>, <https://stad.gent/id/concept/550007843>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007843> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van verticale hoeken"@nl.
+<https://stad.gent/id/concept/550008115> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van horizontale hoeken"@nl.
+<https://stad.gent/id/concept/550007845> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van afstand"@nl, "meetinstrumenten voor het meten van afstand"@nl.
+_:df_457_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007844"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007844> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van hoeken"@nl, "meetinstrumenten voor het meten van hoeken"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007844/2021-10-31T18:51:34.865Z>.
+<https://stad.gent/id/concept/550007845/2021-10-31T18:51:39.868Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:51:39.868Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195705>;
+    <http://www.w3.org/ns/adms#identifier> _:df_457_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van afstand"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007846>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008028>, <https://stad.gent/id/concept/550007844>, <https://stad.gent/id/concept/550008219>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008219> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van lineaire afstand"@nl.
+<https://stad.gent/id/concept/550007844> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van hoeken"@nl, "meetinstrumenten voor het meten van hoeken"@nl.
+<https://stad.gent/id/concept/550008028> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van afmeting"@nl.
+<https://stad.gent/id/concept/550007846> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van omvang"@nl.
+_:df_457_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007845> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van afstand"@nl, "meetinstrumenten voor het meten van afstand"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007845/2021-10-31T18:51:39.868Z>.
+<https://stad.gent/id/concept/550007846/2021-10-31T18:51:44.869Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007846>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:51:44.869Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195701>;
+    <http://www.w3.org/ns/adms#identifier> _:df_457_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van omvang"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005437>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000953>, <https://stad.gent/id/concept/550007845>, <https://stad.gent/id/concept/550008169>, <https://stad.gent/id/concept/550004920>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004920> <http://www.w3.org/2004/02/skos/core#prefLabel> "uurwerk"@nl.
+<https://stad.gent/id/concept/550008169> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van hoeveelheid"@nl.
+<https://stad.gent/id/concept/550007845> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van afstand"@nl, "meetinstrumenten voor het meten van afstand"@nl.
+<https://stad.gent/id/concept/550000953> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaliber"@nl.
+<https://stad.gent/id/concept/550005437> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrument"@nl, "meetinstrument"@nl.
+_:df_457_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007846"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007846> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van omvang"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007846/2021-10-31T18:51:44.869Z>.
+<https://stad.gent/id/concept/550007847/2021-10-31T18:51:49.871Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:51:49.871Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207851>;
+    <http://www.w3.org/ns/adms#identifier> _:df_457_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meetinstrumenten (topterm)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005437>;
+    <http://www.w3.org/2004/02/skos/core#note> "topterm"@nl, "top term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005437> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrument"@nl, "meetinstrument"@nl.
+_:df_457_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007847"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007847/2021-10-31T18:51:49.871Z>.
+<https://stad.gent/id/concept/550007836/2021-10-31T18:50:54.140Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007836>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:50:54.140Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300048628>;
+    <http://www.w3.org/ns/adms#identifier> _:df_463_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair naar vorm of functie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004964>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007874>, <https://stad.gent/id/concept/550008127>, <https://stad.gent/id/concept/550007909>, <https://stad.gent/id/concept/550008611>, <https://stad.gent/id/concept/550002897>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002897> <http://www.w3.org/2004/02/skos/core#prefLabel> "zitmeubel"@nl, "zitmeubel"@nl.
+<https://stad.gent/id/concept/550008611> <http://www.w3.org/2004/02/skos/core#prefLabel> "scherm (meubilair)"@nl.
+<https://stad.gent/id/concept/550007909> <http://www.w3.org/2004/02/skos/core#prefLabel> "opslag en tentoonstellingsmeubilair"@nl.
+<https://stad.gent/id/concept/550008127> <http://www.w3.org/2004/02/skos/core#prefLabel> "ondersteunend meubilair"@nl.
+<https://stad.gent/id/concept/550007874> <http://www.w3.org/2004/02/skos/core#prefLabel> "ligmeubels"@nl.
+<https://stad.gent/id/concept/550004964> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair"@nl, "meubilair"@nl.
+_:df_463_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007836"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007836/2021-10-31T18:50:54.140Z>.
+<https://stad.gent/id/concept/550006819/2021-10-31T18:35:25.176Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006819>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:35:25.176Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7001933>;
+    <http://www.w3.org/ns/adms#identifier> _:df_571_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Melbourne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008936>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008936> <http://www.w3.org/2004/02/skos/core#prefLabel> "Australië"@nl.
+_:df_571_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006819"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006819/2021-10-31T18:35:25.176Z>.
+<https://stad.gent/id/concept/550006593/2021-10-31T18:28:50.461Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006593>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:28:50.461Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009494>;
+    <http://www.w3.org/ns/adms#identifier> _:df_619_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Melrose"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001665>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001665> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schotland"@nl.
+_:df_619_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006593"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006593/2021-10-31T18:28:50.461Z>.
+<https://KasperZutterman.github.io///thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_232.
+_:df_1_232 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/mel.ttl>;
+    <https://w3id.org/tree#value> "mel".
+<https://KasperZutterman.github.io///thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_233.
+_:df_1_233 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/men.ttl>;
+    <https://w3id.org/tree#value> "men".
+<https://KasperZutterman.github.io///thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_234.
+_:df_1_234 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/met.ttl>;
+    <https://w3id.org/tree#value> "met".
+<https://KasperZutterman.github.io///thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_235.
+_:df_1_235 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/mex.ttl>;
+    <https://w3id.org/tree#value> "mex".
+<https://KasperZutterman.github.io///thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_236.
+_:df_1_236 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/med.ttl>;
+    <https://w3id.org/tree#value> "med".
+<https://KasperZutterman.github.io///thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_237.
+_:df_1_237 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/mee.ttl>;
+    <https://w3id.org/tree#value> "mee".
+<https://KasperZutterman.github.io///thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_238.
+_:df_1_238 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/mes.ttl>;
+    <https://w3id.org/tree#value> "mes".
+<https://KasperZutterman.github.io///thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_239.
+_:df_1_239 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/meu.ttl>;
+    <https://w3id.org/tree#value> "meu".
+<https://KasperZutterman.github.io///thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_240.
+_:df_1_240 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/mei.ttl>;
+    <https://w3id.org/tree#value> "mei".
+<https://KasperZutterman.github.io///thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_241.
+_:df_1_241 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/mec.ttl>;
+    <https://w3id.org/tree#value> "mec".
+<https://KasperZutterman.github.io///thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_242.
+_:df_1_242 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/mer.ttl>;
+    <https://w3id.org/tree#value> "mer".
+<https://KasperZutterman.github.io///thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_243.
+_:df_1_243 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/mep.ttl>;
+    <https://w3id.org/tree#value> "mep".
+<https://KasperZutterman.github.io///thesaurus/me.ttl> <https://w3id.org/tree#relation> _:df_1_244.
+_:df_1_244 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/mem.ttl>;
+    <https://w3id.org/tree#value> "mem".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/me.ttl>.

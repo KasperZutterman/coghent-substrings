@@ -21,3 +21,32 @@ _:df_1903_16 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570018837"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018837/2021-11-01T00:35:23.059Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/spu.ttl>.
+<https://stad.gent/id/concept/530010105/2021-10-31T15:27:39.426Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010105>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:27:39.426Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054070>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1906_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vormingsproces voor plastic waarbij heet thermoplastisch materiaal vanuit een verwarmingsruimte via een smal kanaal of gietgat, snel genoeg en onder voldoende druk om de vorm te vullen terwijl de vulling nog heet is, in een gekoelde vorm wordt geperst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spuitgieten (kunststof)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009982>, <https://stad.gent/id/concept/530008595>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010109>, <https://stad.gent/id/concept/530010112>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010112> <http://www.w3.org/2004/02/skos/core#prefLabel> "laminated object modeling "@nl.
+<https://stad.gent/id/concept/530010109> <http://www.w3.org/2004/02/skos/core#prefLabel> "gasinjectie spuitgieten"@nl.
+<https://stad.gent/id/concept/530008595> <http://www.w3.org/2004/02/skos/core#prefLabel> "modelleren (mal)"@nl.
+<https://stad.gent/id/concept/530009982> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststofvervaardigingstechniek"@nl.
+_:df_1906_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010105"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010105/2021-10-31T15:27:39.426Z>.
+<https://stad.gent/id/concept/530010070/2021-10-31T15:25:02.484Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010070>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:25:02.484Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1924_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spuitgietblazen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1924_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010070"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010070/2021-10-31T15:25:02.484Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/spu.ttl>.

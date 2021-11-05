@@ -127,3 +127,184 @@ _:df_1915_22 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550008888"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008888/2021-10-31T19:58:56.358Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/bed.ttl>.
+<https://stad.gent/id/concept/550007883/2021-10-31T18:54:52.010Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007883>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:54:52.010Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204952>;
+    <http://www.w3.org/ns/adms#identifier> _:df_433_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Textilia waarmee bedden worden opgemaakt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beddengoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007884>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007882>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007882> <http://www.w3.org/2004/02/skos/core#prefLabel> "beddenkleed"@nl.
+<https://stad.gent/id/concept/550007884> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen voor ligmeubels"@nl, "bedekkingen en voorhangen voor ligmeubels"@nl.
+_:df_433_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007883"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007883> <http://www.w3.org/2004/02/skos/core#prefLabel> "beddengoed"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007883/2021-10-31T18:54:52.010Z>.
+<https://stad.gent/id/concept/550007884/2021-10-31T18:54:57.650Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007884>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:54:57.650Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197366>;
+    <http://www.w3.org/ns/adms#identifier> _:df_433_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen voor ligmeubels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007885>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007883>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007883> <http://www.w3.org/2004/02/skos/core#prefLabel> "beddengoed"@nl.
+<https://stad.gent/id/concept/550007885> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen voor meubilair"@nl, "bedekkingen en voorhangen voor meubilair"@nl.
+_:df_433_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007884"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007884> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen voor ligmeubels"@nl, "bedekkingen en voorhangen voor ligmeubels"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007884/2021-10-31T18:54:57.650Z>.
+<https://stad.gent/id/concept/550007885/2021-10-31T18:55:02.651Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007885>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:55:02.651Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_433_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen voor meubilair"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007886>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007884>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007884> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen voor ligmeubels"@nl, "bedekkingen en voorhangen voor ligmeubels"@nl.
+<https://stad.gent/id/concept/550007886> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen naar locatie of context"@nl, "bedekkingen en voorhangen naar locatie of context"@nl.
+_:df_433_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007885"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007885> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen voor meubilair"@nl, "bedekkingen en voorhangen voor meubilair"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007885/2021-10-31T18:55:02.651Z>.
+<https://stad.gent/id/concept/550007886/2021-10-31T18:55:07.652Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007886>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:55:07.652Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197364>;
+    <http://www.w3.org/ns/adms#identifier> _:df_433_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen naar locatie of context"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007887>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008195>, <https://stad.gent/id/concept/550007885>, <https://stad.gent/id/concept/550008082>, <https://stad.gent/id/concept/550007893>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007893> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen voor oppervlakte-elementen"@nl.
+<https://stad.gent/id/concept/550008082> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen voor openingen"@nl.
+<https://stad.gent/id/concept/550007885> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen voor meubilair"@nl, "bedekkingen en voorhangen voor meubilair"@nl.
+<https://stad.gent/id/concept/550008195> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen voor houders"@nl.
+<https://stad.gent/id/concept/550007887> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen naar specifiek type"@nl.
+_:df_433_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007886"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007886> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen naar locatie of context"@nl, "bedekkingen en voorhangen naar locatie of context"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007886/2021-10-31T18:55:07.652Z>.
+<https://stad.gent/id/concept/550007887/2021-10-31T18:55:12.653Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007887>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:55:12.653Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300185832>;
+    <http://www.w3.org/ns/adms#identifier> _:df_433_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen naar specifiek type"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007888>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008383>, <https://stad.gent/id/concept/550007886>, <https://stad.gent/id/concept/550008282>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008282> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen naar vorm"@nl.
+<https://stad.gent/id/concept/550007886> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen naar locatie of context"@nl, "bedekkingen en voorhangen naar locatie of context"@nl.
+<https://stad.gent/id/concept/550008383> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen naar functie"@nl.
+<https://stad.gent/id/concept/550007888> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen"@nl.
+_:df_433_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007887"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007887> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen naar specifiek type"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007887/2021-10-31T18:55:12.653Z>.
+<https://stad.gent/id/concept/550007882/2021-10-31T18:54:47.008Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007882>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:54:47.008Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197853>;
+    <http://www.w3.org/ns/adms#identifier> _:df_436_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bedekkingen voor bedden voor overdag, ter bescherming tegen stof en vuil en ter decoratie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beddenkleed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007883>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007881>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007881> <http://www.w3.org/2004/02/skos/core#prefLabel> "sprei"@nl.
+<https://stad.gent/id/concept/550007883> <http://www.w3.org/2004/02/skos/core#prefLabel> "beddengoed"@nl.
+_:df_436_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007882"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007882> <http://www.w3.org/2004/02/skos/core#prefLabel> "beddenkleed"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007882/2021-10-31T18:54:47.008Z>.
+<https://stad.gent/id/concept/550005293/2021-10-31T17:45:04.595Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005293>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:45:04.595Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_931_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kruik met heet water, pan met kolen om het bed te verwarmen, voor men erin gaat";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beddenwarmer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007875>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007875> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor gezondheidszorg"@nl.
+_:df_931_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005293"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005293/2021-10-31T17:45:04.595Z>.
+<https://stad.gent/id/concept/550005217/2021-10-31T17:41:11.364Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005217>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:41:11.364Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395529>;
+    <http://www.w3.org/ns/adms#identifier> _:df_958_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bedelaarsinsigne"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005126>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005126> <http://www.w3.org/2004/02/skos/core#prefLabel> "insigne (embleem)"@nl.
+_:df_958_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005217"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005217/2021-10-31T17:41:11.364Z>.
+<https://stad.gent/id/concept/550004675/2021-10-31T17:26:13.344Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004675>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:26:13.344Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1063_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bedrijf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1063_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004675"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004675/2021-10-31T17:26:13.344Z>.
+<https://stad.gent/id/concept/550003454/2021-10-31T17:00:29.018Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003454>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:00:29.018Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300404210>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1246_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bedelaarspenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005126>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005126> <http://www.w3.org/2004/02/skos/core#prefLabel> "insigne (embleem)"@nl.
+_:df_1246_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003454"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003454/2021-10-31T17:00:29.018Z>.
+<https://stad.gent/id/concept/550002717/2021-10-31T16:51:06.674Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002717>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:51:06.674Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038697>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1312_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In algemene zin, de slaapplaats van mensen en dieren. In specifieke zin, permanente meubelstukken die bestaan uit een ledikant, het uit hout of metaal vervaardigde dragende gedeelte, en het beddengoed, met inbegrip van matras en dekens.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007874>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007874> <http://www.w3.org/2004/02/skos/core#prefLabel> "ligmeubels"@nl.
+_:df_1312_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002717"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002717/2021-10-31T16:51:06.674Z>.
+<https://stad.gent/id/concept/530010670/2021-10-31T16:10:57.299Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010670>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:10:57.299Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1600_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een beddenbankje is een klein opstapje of trapje op hoge poten om in de bedstede te raken. Zie bijvoorbeeld Amelandse beddenbankjes.  (Sam Meirlaen 2021)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beddenbankje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008714>, <https://stad.gent/id/concept/530003196>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003196> <http://www.w3.org/2004/02/skos/core#prefLabel> "trap"@nl.
+<https://stad.gent/id/concept/530008714> <http://www.w3.org/2004/02/skos/core#prefLabel> "standaard (ondersteunend meubilair)"@nl.
+_:df_1600_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010670"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010670/2021-10-31T16:10:57.299Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bed.ttl>.

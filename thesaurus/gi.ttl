@@ -203,3 +203,171 @@ _:df_1762_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570001424"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001424/2021-10-31T20:20:24.121Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/gi.ttl>.
+<https://stad.gent/id/concept/550008108/2021-10-31T19:13:38.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008108>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:13:38.740Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023106>;
+    <http://www.w3.org/ns/adms#identifier> _:df_301_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gietgereedschappen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008109>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005749>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005749> <http://www.w3.org/2004/02/skos/core#prefLabel> "gietvorm (gietgereedschap)"@nl.
+<https://stad.gent/id/concept/550008109> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting voor metaalbewerking"@nl, "uitrusting voor metaalbewerking"@nl.
+_:df_301_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008108"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008108> <http://www.w3.org/2004/02/skos/core#prefLabel> "gietgereedschappen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008108/2021-10-31T19:13:38.740Z>.
+<https://stad.gent/id/concept/550005749/2021-10-31T17:59:31.068Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005749>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:59:31.068Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300023108>;
+    <http://www.w3.org/ns/adms#identifier> _:df_826_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houten of metalen houders met het zand dat in de metaalgieterij de gietvorm vormt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gietvorm (gietgereedschap)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008108>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008108> <http://www.w3.org/2004/02/skos/core#prefLabel> "gietgereedschappen"@nl.
+_:df_826_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005749"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005749/2021-10-31T17:59:31.068Z>.
+<https://stad.gent/id/concept/550005243/2021-10-31T17:42:27.618Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005243>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:42:27.618Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900022520>;
+    <http://www.w3.org/ns/adms#identifier> _:df_949_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Penningen der gildebroeders als bewijs van lidmaatschap.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gildepenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008058>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008058> <http://www.w3.org/2004/02/skos/core#prefLabel> "gelegenheidspenning"@nl.
+_:df_949_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005243"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005243/2021-10-31T17:42:27.618Z>.
+<https://stad.gent/id/concept/550005014/2021-10-31T17:35:11.122Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005014>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:35:11.122Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011099>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1000_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een in de natuur voorkomend zacht, wit mineraal dat veel wordt gebruikt als een vertragend middel in portlandcement, als kern in bouwplaten, in wit pigment, in ondergronden voor schilderijen; het is ook het belangrijkste bestanddeel van albast.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gips"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550002710>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550002497>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002497> <http://www.w3.org/2004/02/skos/core#prefLabel> "albast"@nl.
+<https://stad.gent/id/concept/550002710> <http://www.w3.org/2004/02/skos/core#prefLabel> "mineraal"@nl.
+_:df_1000_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005014"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005014/2021-10-31T17:35:11.122Z>.
+<https://stad.gent/id/concept/550003946/2021-10-31T17:09:10.215Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003946>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:09:10.215Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900020956>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1186_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bekers waaruit op de gildemalen op de rij af door de gildeleden werd gedronken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gildebeker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005212>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005212> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkbeker"@nl.
+_:df_1186_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003946"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003946/2021-10-31T17:09:10.215Z>.
+<https://stad.gent/id/concept/550001992/2021-10-31T16:42:30.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001992>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:42:30.052Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395548>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1375_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Halssieraad samengesteld uit aaneengeschakelde (zilveren) schakels, schilden of platen, soms op een textiele drager om aan te geven dat men tot een bepaald gilde of orde behoorde.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gildebreuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006123>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006123> <http://www.w3.org/2004/02/skos/core#prefLabel> "ceremonieel object"@nl.
+_:df_1375_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001992"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001992/2021-10-31T16:42:30.052Z>.
+<https://stad.gent/id/concept/550001935/2021-10-31T16:40:13.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001935>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:40:13.363Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011004>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1390_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een ijzerlegering die koolstof en silicium bevat, met een hoge compressiesterkte maar een lage treksterkte. Er worden zeer veel verschillende objecten van gietijzer gemaakt door het gesmolten metaal in zandvormen te gieten en vervolgens machinaal verder te verwerken. De objecten worden gebruikt in de bouw en als decoratieve en gebruiksvoorwerpen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gietijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005588>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005588> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerlegering"@nl.
+_:df_1390_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001935"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001935/2021-10-31T16:40:13.363Z>.
+<https://stad.gent/id/concept/550001281/2021-10-31T16:28:35.034Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001281>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:28:35.034Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197360>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1474_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor water, meestal van metaal of plastic, met een tuit waarvan het mondstuk geperforeerd is, om planten water mee te geven of te besproeien.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007854>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007854> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor de tuinbouw"@nl, "houders voor de tuinbouw"@nl.
+_:df_1474_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001281"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001281/2021-10-31T16:28:35.034Z>.
+<https://stad.gent/id/concept/550001282/2021-10-31T16:28:40.036Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001282>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:28:40.036Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197360>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1474_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders voor water, meestal van metaal of plastic, met een tuit waarvan het mondstuk geperforeerd is, om planten water mee te geven of te besproeien.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007854>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007854> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor de tuinbouw"@nl, "houders voor de tuinbouw"@nl.
+_:df_1474_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001282"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001282/2021-10-31T16:28:40.036Z>.
+<https://stad.gent/id/concept/530010501/2021-10-31T15:58:38.435Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010501>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:58:38.435Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025261>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1687_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zij die zich vooral beroepsmatig bezighouden met het aanbrengen van bladmetaal, metaalpoeder of een andere vorm van metaal op oppervlakken om het op zuiver of ingelegd metaal te laten lijken. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gilder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010436>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010436> <http://www.w3.org/2004/02/skos/core#prefLabel> "personen in ambachten en beroepen"@nl, "personen in ambachten en beroepen"@nl.
+_:df_1687_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010501"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010501/2021-10-31T15:58:38.435Z>.
+<https://stad.gent/id/concept/530010110/2021-10-31T15:28:04.996Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010110>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:28:04.996Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1903_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "GIT"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1903_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010110"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010110/2021-10-31T15:28:04.996Z>.
+<https://stad.gent/id/concept/530010079/2021-10-31T15:25:48.131Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010079>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:25:48.131Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1921_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gieten (kunststof)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005634>, <https://stad.gent/id/concept/530009982>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009982> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststofvervaardigingstechniek"@nl, "kunststofvervaardigingstechniek"@nl.
+<https://stad.gent/id/concept/530005634> <http://www.w3.org/2004/02/skos/core#prefLabel> "gieten"@nl.
+_:df_1921_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010079"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010079/2021-10-31T15:25:48.131Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/gi.ttl>.

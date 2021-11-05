@@ -47,3 +47,20 @@ _:df_1846_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570000035"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000035/2021-10-31T20:08:31.398Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/ed.ttl>.
+<https://stad.gent/id/concept/550005596/2021-10-31T17:54:46.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005596>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:54:46.927Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300133732>;
+    <http://www.w3.org/ns/adms#identifier> _:df_862_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor edelstenen waaraan men een grotere waarde toekent dan aan andere soorten, vooral diamant, saffier, smaragd, robijn en soms parel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "edelsteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008728>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009245>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009245> <http://www.w3.org/2004/02/skos/core#prefLabel> "meerschuim"@nl.
+<https://stad.gent/id/concept/550008728> <http://www.w3.org/2004/02/skos/core#prefLabel> "ruwe (half)edelsteen"@nl.
+_:df_862_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005596"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005596/2021-10-31T17:54:46.927Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ed.ttl>.

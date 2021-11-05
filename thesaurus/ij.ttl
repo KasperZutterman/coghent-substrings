@@ -113,3 +113,73 @@ _:df_1849_22 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570000029"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000029/2021-10-31T20:08:15.732Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/ij.ttl>.
+<https://stad.gent/id/concept/550005849/2021-10-31T18:02:43.895Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005849>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:02:43.895Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_805_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzer (collectie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_805_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005849"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005849/2021-10-31T18:02:43.895Z>.
+<https://stad.gent/id/concept/550005588/2021-10-31T17:54:36.925Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005588>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:54:36.925Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010904>;
+    <http://www.w3.org/ns/adms#identifier> _:df_862_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Legering waarin ijzer het belangrijkste element is.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzerlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008771>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001935>, <https://stad.gent/id/concept/550004082>, <https://stad.gent/id/concept/550001413>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001413> <http://www.w3.org/2004/02/skos/core#prefLabel> "staal"@nl.
+<https://stad.gent/id/concept/550004082> <http://www.w3.org/2004/02/skos/core#prefLabel> "smeedijzer"@nl.
+<https://stad.gent/id/concept/550001935> <http://www.w3.org/2004/02/skos/core#prefLabel> "gietijzer"@nl.
+<https://stad.gent/id/concept/550008771> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzer en ijzerlegering"@nl.
+_:df_862_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005588"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005588/2021-10-31T17:54:36.925Z>.
+<https://stad.gent/id/concept/550004943/2021-10-31T17:34:10.398Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004943>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:34:10.398Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011002>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1006_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor het zuivere metaalelement met het symbool Fe en het atoomnummer 26; een glimmend, zilverachtig zacht metaal dat roest wanneer het aan vochtige lucht wordt blootgesteld. Gebruik ook voor dit metaal als het wordt verwerkt en gevormd, meestal in combinatie met andere stoffen, om diverse objecten en materialen te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008771>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008771> <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzer en ijzerlegering"@nl.
+_:df_1006_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004943"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004943/2021-10-31T17:34:10.398Z>.
+<https://stad.gent/id/concept/550000778/2021-10-31T16:21:25.061Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:21:25.061Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300019279>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1525_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzertijd"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000740>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000740> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vroege ijzertijd"@nl.
+_:df_1525_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000778/2021-10-31T16:21:25.061Z>.
+<https://stad.gent/id/concept/530010394/2021-10-31T15:51:02.744Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010394>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:51:02.744Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025320>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1741_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metaalbewerkers die zijn gespecialiseerd in het maken van objecten van ijzer.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ijzersmid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010441>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010441> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaalwerker"@nl.
+_:df_1741_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010394"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010394/2021-10-31T15:51:02.744Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ij.ttl>.

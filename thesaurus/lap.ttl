@@ -30,3 +30,19 @@ _:df_1816_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570019061"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019061/2021-11-01T00:47:37.406Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/lap.ttl>.
+<https://stad.gent/id/concept/530010583/2021-10-31T16:04:17.297Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010583>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:04:17.297Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011122>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1645_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een korrelig, kristallijn gesteente dat voornamelijk bestaat uit lazuriet en calciet. Dit is een oude benaming voor de edelsteensoort lazuriet.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lapis lazuli"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008556>, <https://stad.gent/id/concept/530010676>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010676> <http://www.w3.org/2004/02/skos/core#prefLabel> "metamorf gesteente"@nl.
+<https://stad.gent/id/concept/530008556> <http://www.w3.org/2004/02/skos/core#prefLabel> "edelsteen"@nl.
+_:df_1645_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010583"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010583/2021-10-31T16:04:17.297Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/lap.ttl>.

@@ -28,3 +28,23 @@ _:df_1888_13 a <http://www.w3.org/ns/adms#Identifier>;
 <https://stad.gent/id/concept/550009062> <http://www.w3.org/2004/02/skos/core#prefLabel> "aerofoononderdelen"@nl.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009062/2021-10-31T20:02:40.369Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/ae.ttl>.
+<https://stad.gent/id/concept/550007873/2021-10-31T18:54:01.293Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007873>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:54:01.293Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041622>;
+    <http://www.w3.org/ns/adms#identifier> _:df_439_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geluidsmiddelen die geluid voortbrengen door lucht in beweging te brengen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aerofoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007822>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007872>, <https://stad.gent/id/concept/550002882>, <https://stad.gent/id/concept/550006216>, <https://stad.gent/id/concept/550008069>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008069> <http://www.w3.org/2004/02/skos/core#prefLabel> "riet (aërofoon)"@nl.
+<https://stad.gent/id/concept/550006216> <http://www.w3.org/2004/02/skos/core#prefLabel> "orgel"@nl.
+<https://stad.gent/id/concept/550002882> <http://www.w3.org/2004/02/skos/core#prefLabel> "fluit (aërofoon)"@nl.
+<https://stad.gent/id/concept/550007872> <http://www.w3.org/2004/02/skos/core#prefLabel> "blaasinstrumenten, bespeeld door lipspanning"@nl.
+<https://stad.gent/id/concept/550007822> <http://www.w3.org/2004/02/skos/core#prefLabel> "geluidsmiddelen naar akoestische kenmerken"@nl.
+_:df_439_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007873"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007873/2021-10-31T18:54:01.293Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ae.ttl>.

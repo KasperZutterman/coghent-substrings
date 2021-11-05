@@ -48,3 +48,73 @@ _:df_1846_50 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570000041"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000041/2021-10-31T20:08:46.404Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/ven.ttl>.
+<https://stad.gent/id/concept/550005224/2021-10-31T17:41:37.006Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005224>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:41:37.006Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900030584>;
+    <http://www.w3.org/ns/adms#identifier> _:df_955_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hekje dat geplaatst wordt in het onderste deel van een kozijn, veelal bestaande uit één of meerdere horizontale stalen of ijzeren stangen, soms met een extra decoratie daarin aangebracht. (AMR)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vensterhekje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008305>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008305> <http://www.w3.org/2004/02/skos/core#prefLabel> "vensteronderdelen"@nl.
+_:df_955_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005224"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005224/2021-10-31T17:41:37.006Z>.
+<https://stad.gent/id/concept/550004404/2021-10-31T17:15:40.446Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004404>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:15:40.446Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006853>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1138_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Venlo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl, "Nederland"@nl, "Nederland"@nl.
+_:df_1138_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004404"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004404/2021-10-31T17:15:40.446Z>.
+<https://stad.gent/id/concept/550002537/2021-10-31T16:48:49.681Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002537>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:48:49.681Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002944>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1330_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een opening in de muur van een gebouw, om licht binnen te laten, meestal om te kunnen kijken, en vaak om lucht binnen te laten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "venster"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007950>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007949>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007949> <http://www.w3.org/2004/02/skos/core#prefLabel> "vensters naar locatie of context"@nl.
+<https://stad.gent/id/concept/550007950> <http://www.w3.org/2004/02/skos/core#prefLabel> "vensters en vensteronderdelen"@nl.
+_:df_1330_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002537"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002537/2021-10-31T16:48:49.681Z>.
+<https://stad.gent/id/concept/550001910/2021-10-31T16:39:27.704Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001910>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:39:27.704Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300433193>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1396_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vensterkorf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008305>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008305> <http://www.w3.org/2004/02/skos/core#prefLabel> "vensteronderdelen"@nl.
+_:df_1396_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001910"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001910/2021-10-31T16:39:27.704Z>.
+<https://stad.gent/id/concept/530010047/2021-10-31T15:23:11.269Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010047>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:23:11.269Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1048186>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1939_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Venray"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009326>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009326> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie, Nederland)"@nl.
+_:df_1939_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010047"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010047/2021-10-31T15:23:11.269Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ven.ttl>.

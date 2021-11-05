@@ -12,3 +12,19 @@ _:df_1714_26 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570003200"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003200/2021-10-31T20:27:20.325Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/bid.ttl>.
+<https://stad.gent/id/concept/530010458/2021-10-31T15:55:50.938Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010458>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:55:50.938Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052630>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1705_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wasstel om er het onderlijf in te reinigen.\r\nEigen toevoeging: Benaming die meestal wordt gebruikt voor verschillende soorten stoelen die met een po zijn uitgerust (commodestoel). Gebruik 'bidets' voor box stools met po.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bidet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008857>, <https://stad.gent/id/concept/530008611>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008611> <http://www.w3.org/2004/02/skos/core#prefLabel> "sanitaire installatie"@nl.
+<https://stad.gent/id/concept/530008857> <http://www.w3.org/2004/02/skos/core#prefLabel> "commodestoel"@nl.
+_:df_1705_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010458"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010458/2021-10-31T15:55:50.938Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bid.ttl>.

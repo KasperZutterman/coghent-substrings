@@ -33,3 +33,18 @@ _:df_1120_34 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570010673"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010673/2021-10-31T21:51:09.482Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/sca.ttl>.
+<https://stad.gent/id/concept/530010418/2021-10-31T15:52:48.953Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010418>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:52:48.953Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300111169>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1729_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar de moderne of historische culturen in de Scandinavische regio. Dit is het historische grondgebied van de Noormannen in Noord- Europa, en omvat de moderne naties Denemarken, Noorwegen en Zweden. In sommige gevallen worden ook Finland en IJsland ertoe gerekend.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Scandinavisch"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010419>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010419> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europees"@nl.
+_:df_1729_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010418"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010418/2021-10-31T15:52:48.953Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sca.ttl>.

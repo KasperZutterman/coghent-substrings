@@ -10,3 +10,17 @@ _:df_1630_16 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570019717"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019717/2021-11-01T01:13:51.133Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/wil.ttl>.
+<https://stad.gent/id/concept/530010378/2021-10-31T15:49:55.755Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010378>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:49:55.755Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005673>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1747_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Willemstad"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010377>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010377> <http://www.w3.org/2004/02/skos/core#prefLabel> "Curaçao"@nl.
+_:df_1747_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010378"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010378/2021-10-31T15:49:55.755Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/wil.ttl>.

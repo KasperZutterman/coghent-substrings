@@ -489,3 +489,328 @@ _:df_1_83 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/wr.ttl>;
     <https://w3id.org/tree#value> "wr".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/w.ttl>.
+<https://stad.gent/id/concept/550008718/2021-10-31T19:48:47.056Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008718>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:48:47.056Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_52_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapens en wapenrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_52_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008718"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008718/2021-10-31T19:48:47.056Z>.
+<https://stad.gent/id/concept/550008699/2021-10-31T19:48:01.380Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008699>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:48:01.380Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_58_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wervik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_58_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008699"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008699/2021-10-31T19:48:01.380Z>.
+<https://stad.gent/id/concept/550008594/2021-10-31T19:41:31.942Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008594>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:41:31.942Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/6006468>;
+    <http://www.w3.org/ns/adms#identifier> _:df_103_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wéris"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008924>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008924> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxemburg (provincie)"@nl.
+_:df_103_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008594"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008594/2021-10-31T19:41:31.942Z>.
+<https://stad.gent/id/concept/550008577/2021-10-31T19:40:25.749Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008577>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:40:25.749Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300247546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_112_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Raamwerken of machines die worden gebruikt om twee of meer reeksen draden of garens onder een rechte hoek door elkaar heen te weven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weefgetouw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_112_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008577"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008577/2021-10-31T19:40:25.749Z>.
+<https://stad.gent/id/concept/550008427/2021-10-31T19:38:09.422Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008427>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:38:09.422Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010998>;
+    <http://www.w3.org/ns/adms#identifier> _:df_127_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een legering waarin tin overheerst, meestal met 92% tin en 8% antimonium. De kleur kan wit of zilverachtig zijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "witmetaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008871>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008871> <http://www.w3.org/2004/02/skos/core#prefLabel> "tinlegering"@nl.
+_:df_127_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008427"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008427/2021-10-31T19:38:09.422Z>.
+<https://stad.gent/id/concept/550008374/2021-10-31T19:35:21.627Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008374>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:35:21.627Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204886>;
+    <http://www.w3.org/ns/adms#identifier> _:df_148_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kunstvoorwerpen, vaak stoffen, die aan muren worden gehangen en vooral voor bescherming, warmte of versiering worden gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wandbedekking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007893>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000988>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550000988> <http://www.w3.org/2004/02/skos/core#prefLabel> "tapisserie"@nl.
+<https://stad.gent/id/concept/550007893> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen voor oppervlakte-elementen"@nl.
+_:df_148_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008374"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008374/2021-10-31T19:35:21.627Z>.
+<https://stad.gent/id/concept/550008340/2021-10-31T19:32:34.548Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008340>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:32:34.548Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300255535>;
+    <http://www.w3.org/ns/adms#identifier> _:df_166_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werkuitrusting van dieren voor berijden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008286>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001525>, <https://stad.gent/id/concept/550006055>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006055> <http://www.w3.org/2004/02/skos/core#prefLabel> "zadeldeken"@nl.
+<https://stad.gent/id/concept/550001525> <http://www.w3.org/2004/02/skos/core#prefLabel> "stijgbeugel"@nl.
+<https://stad.gent/id/concept/550008286> <http://www.w3.org/2004/02/skos/core#prefLabel> "werkuitrusting van dieren"@nl.
+_:df_166_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008340"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008340/2021-10-31T19:32:34.548Z>.
+<https://stad.gent/id/concept/550008286/2021-10-31T19:28:10.978Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008286>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:28:10.978Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300255533>;
+    <http://www.w3.org/ns/adms#identifier> _:df_199_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "werkuitrusting van dieren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008151>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550000959>, <https://stad.gent/id/concept/550008340>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008340> <http://www.w3.org/2004/02/skos/core#prefLabel> "werkuitrusting van dieren voor berijden"@nl.
+<https://stad.gent/id/concept/550000959> <http://www.w3.org/2004/02/skos/core#prefLabel> "tuig"@nl.
+<https://stad.gent/id/concept/550008151> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierenuitrusting"@nl, "dierenuitrusting"@nl.
+_:df_199_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008286"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008286/2021-10-31T19:28:10.978Z>.
+<https://stad.gent/id/concept/550008276/2021-10-31T19:27:20.112Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008276>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:27:20.112Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163664>;
+    <http://www.w3.org/ns/adms#identifier> _:df_205_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor documenten waarin een wettelijke bepaling of overeenkomst wordt uitgedrukt om een recht in het leven te roepen, te waarborgen, te wijzigen of in te trekken, of om bewijs te leveren voor een recht. Gebruik 'juridische documenten' voor documenten die in het algemeen een juridische relevantie hebben.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wettelijk document"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008277>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005029>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005029> <http://www.w3.org/2004/02/skos/core#prefLabel> "overeenkomst"@nl.
+<https://stad.gent/id/concept/550008277> <http://www.w3.org/2004/02/skos/core#prefLabel> "juridisch document"@nl.
+_:df_205_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008276"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008276/2021-10-31T19:27:20.112Z>.
+<https://stad.gent/id/concept/550008232/2021-10-31T19:23:42.361Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008232>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:23:42.361Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210822>;
+    <http://www.w3.org/ns/adms#identifier> _:df_229_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenrusting naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008233>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008231>, <https://stad.gent/id/concept/550001762>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001762> <http://www.w3.org/2004/02/skos/core#prefLabel> "schild (harnas)"@nl.
+<https://stad.gent/id/concept/550008231> <http://www.w3.org/2004/02/skos/core#prefLabel> "persoonlijke wapenrusting"@nl.
+<https://stad.gent/id/concept/550008233> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenrusting"@nl.
+_:df_229_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008232"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008232> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenrusting naar vorm"@nl, "wapenrusting naar vorm"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008232/2021-10-31T19:23:42.361Z>.
+<https://stad.gent/id/concept/550008233/2021-10-31T19:23:47.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008233>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:23:47.363Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036745>;
+    <http://www.w3.org/ns/adms#identifier> _:df_229_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt algemeen gebruikt voor de categorie van kostuums die zijn ontworpen om te dragen ter bescherming van het lichaam tijdens een gevecht. Onderdelen van het harnas die een vast onderdeel zijn van of die bevestigd zijn aan andere delen en die niet afzonderlijk kunnen functioneren staan vermeld onder 'wapenrustingonderdelen'. Gebruik 'harnassen' als het specifiek gaat om harnasonderdelen die als geheel zijn ontworpen met het oog op zekere eigenschappen die nodig zijn voor een bepaalde functie of gelegenheid.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenrusting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007831>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008232>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008232> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenrusting naar vorm"@nl, "wapenrusting naar vorm"@nl.
+<https://stad.gent/id/concept/550007831> <http://www.w3.org/2004/02/skos/core#prefLabel> "beschermende kleding"@nl.
+_:df_229_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008233"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008233> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenrusting"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008233/2021-10-31T19:23:47.363Z>.
+<https://stad.gent/id/concept/550008149/2021-10-31T19:17:01.642Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008149>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:17:01.642Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300126352>;
+    <http://www.w3.org/ns/adms#identifier> _:df_277_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor wapenschilden met de bijbehorende stukken (helm, helmbos, mantel, wapenspreuk en schilddragers).";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapen (heraldiek)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008150>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008150> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapens en onderdelen van wapens (heraldiek)"@nl.
+_:df_277_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008149"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008149> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapen (heraldiek)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008149/2021-10-31T19:17:01.642Z>.
+<https://stad.gent/id/concept/550008150/2021-10-31T19:17:06.643Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008150>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:17:06.643Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300138225>;
+    <http://www.w3.org/ns/adms#identifier> _:df_277_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapens en onderdelen van wapens (heraldiek)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005184>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008149>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008149> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapen (heraldiek)"@nl.
+<https://stad.gent/id/concept/550005184> <http://www.w3.org/2004/02/skos/core#prefLabel> "embleem (onderscheidingsteken)"@nl.
+_:df_277_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008150"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008150> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapens en onderdelen van wapens (heraldiek)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008150/2021-10-31T19:17:06.643Z>.
+<https://stad.gent/id/concept/550007964/2021-10-31T19:01:38.156Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007964>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:01:38.156Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300191365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_385_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor stroken of stukjes papier die inwisselbaar zijn voor met name artikelen, diensten of fondsen en die vaak ook als één geheel in boekvorm zijn bijeengebracht of zijn samengevoegd binnen een groter vel drukwerk.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "waardebon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007922>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005619>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005619> <http://www.w3.org/2004/02/skos/core#prefLabel> "broodkaart"@nl.
+<https://stad.gent/id/concept/550007922> <http://www.w3.org/2004/02/skos/core#prefLabel> "ruilmiddelen (topterm)"@nl, "ruilmiddelen (topterm)"@nl.
+_:df_385_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007964"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007964/2021-10-31T19:01:38.156Z>.
+<https://stad.gent/id/concept/550007858/2021-10-31T18:52:45.578Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:52:45.578Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195708>;
+    <http://www.w3.org/ns/adms#identifier> _:df_448_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten, machines en andere toestellen die worden gebruikt bij het vaststellen van de hoeveelheid kracht die de zwaartekracht uitgeoefent op een voorwerp of een stof, of de hoeveelheid kracht die nodig is om een voorwerp of stof te dragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weeginstrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007859>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007857>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007857> <http://www.w3.org/2004/02/skos/core#prefLabel> "weeginstrumenten naar vorm"@nl.
+<https://stad.gent/id/concept/550007859> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrumenten voor het meten van krachten"@nl.
+_:df_448_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007858> <http://www.w3.org/2004/02/skos/core#prefLabel> "weeginstrument"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007858/2021-10-31T18:52:45.578Z>.
+<https://stad.gent/id/concept/550007853/2021-10-31T18:52:19.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:52:19.885Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036743>;
+    <http://www.w3.org/ns/adms#identifier> _:df_451_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapens en munitie (topterm)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007583>, <https://stad.gent/id/concept/550001929>;
+    <http://www.w3.org/2004/02/skos/core#note> "topterm"@nl, "top term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001929> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapen"@nl.
+<https://stad.gent/id/concept/550007583> <http://www.w3.org/2004/02/skos/core#prefLabel> "munitie"@nl.
+_:df_451_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007853/2021-10-31T18:52:19.885Z>.
+<https://stad.gent/id/concept/550007856/2021-10-31T18:52:35.575Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007856>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:52:35.575Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196293>;
+    <http://www.w3.org/ns/adms#identifier> _:df_451_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten voor het vaststellen van het gewicht van voorwerpen of stoffen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weegschaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007857>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005175>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005175> <http://www.w3.org/2004/02/skos/core#prefLabel> "balans (meetinstrument)"@nl.
+<https://stad.gent/id/concept/550007857> <http://www.w3.org/2004/02/skos/core#prefLabel> "weeginstrumenten naar vorm"@nl.
+_:df_451_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007856"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007856> <http://www.w3.org/2004/02/skos/core#prefLabel> "weegschaal"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007856/2021-10-31T18:52:35.575Z>.
+<https://stad.gent/id/concept/550007857/2021-10-31T18:52:40.576Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007857>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:52:40.576Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196294>;
+    <http://www.w3.org/ns/adms#identifier> _:df_451_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "weeginstrumenten naar vorm"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007858>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007856>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007856> <http://www.w3.org/2004/02/skos/core#prefLabel> "weegschaal"@nl.
+<https://stad.gent/id/concept/550007858> <http://www.w3.org/2004/02/skos/core#prefLabel> "weeginstrument"@nl.
+_:df_451_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007857"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007857> <http://www.w3.org/2004/02/skos/core#prefLabel> "weeginstrumenten naar vorm"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007857/2021-10-31T18:52:40.576Z>.
+<https://stad.gent/id/concept/550007794/2021-10-31T18:47:31.113Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007794>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:47:31.113Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037204>;
+    <http://www.w3.org/ns/adms#identifier> _:df_487_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007795>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007793>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007793> <http://www.w3.org/2004/02/skos/core#prefLabel> "projectielwapenonderdelen"@nl, "projectielwapenonderdelen"@nl.
+<https://stad.gent/id/concept/550007795> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdelen naar specifieke context"@nl.
+_:df_487_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007794"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007794> <http://www.w3.org/2004/02/skos/core#prefLabel> "wapenonderdelen"@nl, "wapenonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007794/2021-10-31T18:47:31.113Z>.
+<https://stad.gent/id/concept/550007529/2021-10-31T18:39:54.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007529>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:39:54.239Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026796>;
+    <http://www.w3.org/ns/adms#identifier> _:df_541_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Warneton"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008925>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+_:df_541_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007529"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007529/2021-10-31T18:39:54.239Z>.
+<https://KasperZutterman.github.io///thesaurus/w.ttl> <https://w3id.org/tree#relation> _:df_1_226.
+_:df_1_226 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/we.ttl>;
+    <https://w3id.org/tree#value> "we".
+<https://KasperZutterman.github.io///thesaurus/w.ttl> <https://w3id.org/tree#relation> _:df_1_227.
+_:df_1_227 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/wa.ttl>;
+    <https://w3id.org/tree#value> "wa".
+<https://KasperZutterman.github.io///thesaurus/w.ttl> <https://w3id.org/tree#relation> _:df_1_228.
+_:df_1_228 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/wo.ttl>;
+    <https://w3id.org/tree#value> "wo".
+<https://KasperZutterman.github.io///thesaurus/w.ttl> <https://w3id.org/tree#relation> _:df_1_229.
+_:df_1_229 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/wi.ttl>;
+    <https://w3id.org/tree#value> "wi".
+<https://KasperZutterman.github.io///thesaurus/w.ttl> <https://w3id.org/tree#relation> _:df_1_230.
+_:df_1_230 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/wu.ttl>;
+    <https://w3id.org/tree#value> "wu".
+<https://KasperZutterman.github.io///thesaurus/w.ttl> <https://w3id.org/tree#relation> _:df_1_231.
+_:df_1_231 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/wr.ttl>;
+    <https://w3id.org/tree#value> "wr".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/w.ttl>.

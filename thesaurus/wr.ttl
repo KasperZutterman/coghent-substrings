@@ -12,3 +12,32 @@ _:df_1030_30 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570011954"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011954/2021-10-31T22:03:46.316Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/wr.ttl>.
+<https://stad.gent/id/concept/550005522/2021-10-31T17:53:05.480Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005522>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:53:05.480Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395633>;
+    <http://www.w3.org/ns/adms#identifier> _:df_874_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een wrijfschaal is een Romeinse aardewerken kom waarin kwartskorrels in de bodem zijn meegebakken. Daardoor kreeg de binnenkant een ruw oppervlak, waarop kruiden konden worden fijngewreven. Een wrijfschaal is te vergelijken met een vijzel echter wrijfschalen hebben ook altijd een schenktuit.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wrijfschaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005417>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005417> <http://www.w3.org/2004/02/skos/core#prefLabel> "vijzel"@nl.
+_:df_874_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005522"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005522/2021-10-31T17:53:05.480Z>.
+<https://stad.gent/id/concept/550003196/2021-10-31T16:58:06.805Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003196>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:58:06.805Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300103035>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1264_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beeldende werken gemaakt door een materiaal zoals papier of stof op een reliëf te leggen en er vervolgens met een schrijfmateriaal over heen te wrijven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wrijfprent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007769>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007769> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal naar medium of techniek"@nl.
+_:df_1264_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003196"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003196/2021-10-31T16:58:06.805Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/wr.ttl>.

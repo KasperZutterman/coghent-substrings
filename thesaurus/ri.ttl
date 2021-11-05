@@ -208,3 +208,199 @@ _:df_1753_20 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570001716"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001716/2021-10-31T20:21:44.809Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/ri.ttl>.
+<https://stad.gent/id/concept/550008068/2021-10-31T19:10:15.774Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008068>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:10:15.774Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042558>;
+    <http://www.w3.org/ns/adms#identifier> _:df_325_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Rietinstrumenten bestaande uit een pijp van riet, hout, been of metaal, waarbij het geluid wordt voortgebracht door de trilling van een enkel, dubbel of vrij riet. Gebruik 'tongpijpen' voor orgelpijpen die tonen voortbrengen door middel van de trilling van een flexibel metalen riet.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008069>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008199>, <https://stad.gent/id/concept/550008067>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008067> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijpen met een dubbel riet"@nl, "rietpijpen met een dubbel riet"@nl.
+<https://stad.gent/id/concept/550008199> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietinstrumenten met enkel riet"@nl.
+<https://stad.gent/id/concept/550008069> <http://www.w3.org/2004/02/skos/core#prefLabel> "riet (aërofoon)"@nl.
+_:df_325_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008068"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008068> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijp"@nl, "rietpijp"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008068/2021-10-31T19:10:15.774Z>.
+<https://stad.gent/id/concept/550008069/2021-10-31T19:10:20.776Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008069>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:10:20.776Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300193013>;
+    <http://www.w3.org/ns/adms#identifier> _:df_325_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Aërofonen waarbij een luchtstroom tegen een riet wordt gestuurd zodat deze even trilt en de luchtstroom met tussenpozen onderbreekt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "riet (aërofoon)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007873>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008068>, <https://stad.gent/id/concept/550008201>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008201> <http://www.w3.org/2004/02/skos/core#prefLabel> "vrijslaand riet"@nl.
+<https://stad.gent/id/concept/550008068> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijp"@nl, "rietpijp"@nl.
+<https://stad.gent/id/concept/550007873> <http://www.w3.org/2004/02/skos/core#prefLabel> "aerofoon"@nl.
+_:df_325_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008069"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008069> <http://www.w3.org/2004/02/skos/core#prefLabel> "riet (aërofoon)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008069/2021-10-31T19:10:20.776Z>.
+<https://stad.gent/id/concept/550008065/2021-10-31T19:10:00.111Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008065>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:10:00.111Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300212054>;
+    <http://www.w3.org/ns/adms#identifier> _:df_328_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijpen met een dubbel riet: met gevouwen conische boring"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008066>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004795>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004795> <http://www.w3.org/2004/02/skos/core#prefLabel> "fagot"@nl.
+<https://stad.gent/id/concept/550008066> <http://www.w3.org/2004/02/skos/core#prefLabel> "rietpijpen met een dubbel riet: met conische boring"@nl.
+_:df_328_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008065"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008065/2021-10-31T19:10:00.111Z>.
+<https://stad.gent/id/concept/550007615/2021-10-31T18:42:21.578Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007615>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:42:21.578Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7017095>;
+    <http://www.w3.org/ns/adms#identifier> _:df_523_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rio de Janeiro"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550003272>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003272> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brazilië"@nl.
+_:df_523_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007615"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007615/2021-10-31T18:42:21.578Z>.
+<https://stad.gent/id/concept/550006398/2021-10-31T18:22:24.890Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006398>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:22:24.890Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007275>;
+    <http://www.w3.org/ns/adms#identifier> _:df_664_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Riggisberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005889>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005889> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_664_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006398"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006398/2021-10-31T18:22:24.890Z>.
+<https://stad.gent/id/concept/550005501/2021-10-31T17:52:45.476Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005501>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:52:45.476Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046012>;
+    <http://www.w3.org/ns/adms#identifier> _:df_874_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine ronde banden die om de vinger worden gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ring (sieraad)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005497>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005497> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraden gedragen aan de armen en handen"@nl.
+_:df_874_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005501"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005501/2021-10-31T17:52:45.476Z>.
+<https://stad.gent/id/concept/550005366/2021-10-31T17:47:51.534Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005366>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:47:51.534Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210002>;
+    <http://www.w3.org/ns/adms#identifier> _:df_910_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Buigzame banden die rond het middel of de heupen worden gedragen en meestal een soort sluiting hebben, bijvoorbeeld een gesp. Worden gedragen ter decoratie, steun of om geld, documenten of dergelijke te bevatten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "riem (kledingaccessoire)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007781>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550003147>, <https://stad.gent/id/concept/550008348>, <https://stad.gent/id/concept/550008255>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008255> <http://www.w3.org/2004/02/skos/core#prefLabel> "patroongordel"@nl.
+<https://stad.gent/id/concept/550008348> <http://www.w3.org/2004/02/skos/core#prefLabel> "degenkoppel"@nl.
+<https://stad.gent/id/concept/550003147> <http://www.w3.org/2004/02/skos/core#prefLabel> "ceintuur"@nl.
+<https://stad.gent/id/concept/550007781> <http://www.w3.org/2004/02/skos/core#prefLabel> "op het lichaam gedragen kledingaccessoires"@nl.
+_:df_910_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005366"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005366/2021-10-31T17:47:51.534Z>.
+<https://stad.gent/id/concept/550003919/2021-10-31T17:08:55.210Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003919>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:08:55.210Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011878>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1186_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verschillende soorten hoge grassen die met name in moerasgebieden groeien.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "riet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008731>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008731> <http://www.w3.org/2004/02/skos/core#prefLabel> "gras"@nl.
+_:df_1186_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003919"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003919/2021-10-31T17:08:55.210Z>.
+<https://stad.gent/id/concept/530010591/2021-10-31T16:04:52.940Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010591>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:04:52.940Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1642_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een ribbank is een soort versierde lage kast uit eikenhout of ebbenhout. Dit soort kasten komt men al tegen in de renaissance maar werd bijzonder populair in de 17e eeuw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ribbank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005153>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005153> <http://www.w3.org/2004/02/skos/core#prefLabel> "kastmeubel"@nl, "kastmeubel"@nl.
+_:df_1642_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010591"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010591/2021-10-31T16:04:52.940Z>.
+<https://stad.gent/id/concept/530010523/2021-10-31T16:00:14.668Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010523>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:00:14.668Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q494359>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1675_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rijssen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009320>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Overijssel"@nl.
+_:df_1675_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010523"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010523/2021-10-31T16:00:14.668Z>.
+<https://stad.gent/id/concept/530010428/2021-10-31T15:53:29.567Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010428>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:53:29.567Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026696>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1723_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rijkevorsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002920>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_1723_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010428"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010428/2021-10-31T15:53:29.567Z>.
+<https://stad.gent/id/concept/530010404/2021-10-31T15:51:48.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010404>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:51:48.376Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1735_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "RIC"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1735_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010404"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010404/2021-10-31T15:51:48.376Z>.
+<https://stad.gent/id/concept/530010357/2021-10-31T15:48:14.420Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010357>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:48:14.420Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014333>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1759_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Richland Center (Wisconsin)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl, "Verenigde Staten"@nl.
+_:df_1759_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010357"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010357/2021-10-31T15:48:14.420Z>.
+<https://stad.gent/id/concept/530010120/2021-10-31T15:28:40.009Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010120>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:28:40.009Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1900_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "RIM"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1900_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010120"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010120/2021-10-31T15:28:40.009Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ri.ttl>.

@@ -210,3 +210,21 @@ _:df_1903_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550008935"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008935/2021-10-31T20:00:28.353Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/zw.ttl>.
+<https://stad.gent/id/concept/550000723/2021-10-31T16:20:34.347Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000723>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:20:34.347Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037048>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1531_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Blanke wapens voorzien van een gevest in plaats van een stok om alles vast te houden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zwaard (gevestwapen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550000676>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007932>, <https://stad.gent/id/concept/550002730>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550002730> <http://www.w3.org/2004/02/skos/core#prefLabel> "tweelingzwaard"@nl.
+<https://stad.gent/id/concept/550007932> <http://www.w3.org/2004/02/skos/core#prefLabel> "blanke gevestwapens naar vorm"@nl.
+<https://stad.gent/id/concept/550000676> <http://www.w3.org/2004/02/skos/core#prefLabel> "blank wapen"@nl.
+_:df_1531_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000723"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000723/2021-10-31T16:20:34.347Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/zw.ttl>.

@@ -508,3 +508,311 @@ _:df_1_491 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/pol.ttl>;
     <https://w3id.org/tree#value> "pol".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/po.ttl>.
+<https://stad.gent/id/concept/550008259/2021-10-31T19:25:53.676Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008259>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:25:53.676Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_214_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pons (gereedschap)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007772>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005199>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005199> <http://www.w3.org/2004/02/skos/core#prefLabel> "naald"@nl.
+<https://stad.gent/id/concept/550007772> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar proces"@nl.
+_:df_214_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008259"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008259/2021-10-31T19:25:53.676Z>.
+<https://stad.gent/id/concept/550007997/2021-10-31T19:04:16.130Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007997>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:04:16.130Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300138191>;
+    <http://www.w3.org/ns/adms#identifier> _:df_367_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Foto's waarvan de tonen en kleuren overeenkomen met hun voorkomen in de natuur, meestal afdrukken op papier of dia's. Gebruikt ter onderscheiding van 'negatieven'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "positief (foto)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007998>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007996>, <https://stad.gent/id/concept/550008587>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008587> <http://www.w3.org/2004/02/skos/core#prefLabel> "glaspositief"@nl.
+<https://stad.gent/id/concept/550007996> <http://www.w3.org/2004/02/skos/core#prefLabel> "direct positief"@nl.
+<https://stad.gent/id/concept/550007998> <http://www.w3.org/2004/02/skos/core#prefLabel> "foto's naar vorm"@nl.
+_:df_367_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007997"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007997> <http://www.w3.org/2004/02/skos/core#prefLabel> "positief (foto)"@nl, "positief (foto)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007997/2021-10-31T19:04:16.130Z>.
+<https://stad.gent/id/concept/550007789/2021-10-31T18:47:05.347Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007789>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:47:05.347Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300395567>;
+    <http://www.w3.org/ns/adms#identifier> _:df_490_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een metalen constructie ter ondersteuning van een in de nek hoogopstaande kraag.Gebruikt in de 16e en 17e eeuw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "portefraes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005305>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005305> <http://www.w3.org/2004/02/skos/core#prefLabel> "accessoires die boven het middel gedragen worden"@nl.
+_:df_490_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007789"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007789/2021-10-31T18:47:05.347Z>.
+<https://stad.gent/id/concept/550007574/2021-10-31T18:41:30.910Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007574>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:41:30.910Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014492>;
+    <http://www.w3.org/ns/adms#identifier> _:df_529_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een helder plastic of stug schuim, een polymeer van styreen, die hoofdzakelijk wordt gebruikt als isolatiemateriaal in koelkasten en airconditioningsapparaten, en als verpakkingsmateriaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "polystyreen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008815>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008815> <http://www.w3.org/2004/02/skos/core#prefLabel> "thermoplast"@nl.
+_:df_529_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007574"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007574/2021-10-31T18:41:30.910Z>.
+<https://stad.gent/id/concept/550007545/2021-10-31T18:40:34.897Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007545>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:40:34.897Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014546>;
+    <http://www.w3.org/ns/adms#identifier> _:df_535_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "polyester"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008835>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008835> <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic naar eigenschap : thermoplastisch of thermoharder"@nl.
+_:df_535_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007545"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007545/2021-10-31T18:40:34.897Z>.
+<https://stad.gent/id/concept/550005693/2021-10-31T17:57:54.527Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005693>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:57:54.527Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_838_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pottenbakker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_838_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005693"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005693/2021-10-31T17:57:54.527Z>.
+<https://stad.gent/id/concept/550005248/2021-10-31T17:42:52.629Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005248>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:42:52.629Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031537>;
+    <http://www.w3.org/ns/adms#identifier> _:df_946_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Penning waarin iemands portret is geslagen, meestal in profiel. geen verwijzing naar een hulde";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "portretpenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008058>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008058> <http://www.w3.org/2004/02/skos/core#prefLabel> "gelegenheidspenning"@nl, "gelegenheidspenning"@nl.
+_:df_946_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005248"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005248/2021-10-31T17:42:52.629Z>.
+<https://stad.gent/id/concept/550005113/2021-10-31T17:37:18.287Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005113>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:37:18.287Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046230>;
+    <http://www.w3.org/ns/adms#identifier> _:df_985_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Platte, vaak opvouwbare houders, met name diegene die groot genoeg zijn om papiergeld, credit cards, rijbewijs en dergelijke te kunnen bevatten, soms met een vakje voor munten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "portefeuille"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007961>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007961> <http://www.w3.org/2004/02/skos/core#prefLabel> "houders voor persoonlijke zaken"@nl.
+_:df_985_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005113"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005113/2021-10-31T17:37:18.287Z>.
+<https://stad.gent/id/concept/550004914/2021-10-31T17:33:39.769Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004914>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:33:39.769Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010662>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1012_33;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een soort keramiek van vuurbestendige witte klei, of 'kaolien', en een veldspaathoudende steen die tijdens het bakken reageert. De klei zorgt ervoor dat het voorwerp de vorm behoudt, terwijl de steen wordt omgezet in natuurlijk glas. In China verwijst dit naar alle soorten aardewerk die zo hard worden gebakken dat er een rinkelend geluid ontstaat als het kapot wordt geslagen. In Europa verwijst het alleen naar hardgebakken doorschijnende keramiek.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "porselein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008724>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008425>, <https://stad.gent/id/concept/550003291>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003291> <http://www.w3.org/2004/02/skos/core#prefLabel> "zacht porselein"@nl.
+<https://stad.gent/id/concept/550008425> <http://www.w3.org/2004/02/skos/core#prefLabel> "eierschaalporselein"@nl.
+<https://stad.gent/id/concept/550008724> <http://www.w3.org/2004/02/skos/core#prefLabel> "keramisch materiaal"@nl, "keramisch materiaal"@nl.
+_:df_1012_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004914"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004914/2021-10-31T17:33:39.769Z>.
+<https://stad.gent/id/concept/550004817/2021-10-31T17:31:02.608Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004817>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:31:02.608Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200095>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1030_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lepelvormig gerei met een diep komvormig gedeelte en een relatief lang handvat dat wordt gebruikt voor het optillen, overbrengen of opdienen van room, soep, bowl of andere vloeibare stoffen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pollepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008186>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004814>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004814> <http://www.w3.org/2004/02/skos/core#prefLabel> "punchlepel"@nl.
+<https://stad.gent/id/concept/550008186> <http://www.w3.org/2004/02/skos/core#prefLabel> "gerei voor het opdienen van voedsel"@nl.
+_:df_1030_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004817"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550004817> <http://www.w3.org/2004/02/skos/core#prefLabel> "pollepel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004817/2021-10-31T17:31:02.608Z>.
+<https://stad.gent/id/concept/550004642/2021-10-31T17:24:32.149Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004642>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:24:32.149Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000090>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1075_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Portugal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006655>, <https://stad.gent/id/concept/550004730>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004730> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lissabon"@nl.
+<https://stad.gent/id/concept/550006655> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aveiro"@nl.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_1075_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004642"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004642/2021-10-31T17:24:32.149Z>.
+<https://stad.gent/id/concept/550004616/2021-10-31T17:23:41.567Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:23:41.567Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011282>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1081_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Poole"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006140>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl, "Engeland"@nl, "Engeland"@nl.
+_:df_1081_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004616/2021-10-31T17:23:41.567Z>.
+<https://stad.gent/id/concept/550002419/2021-10-31T16:47:03.258Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002419>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:47:03.258Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069189>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1342_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Doorgangen door hekken of muren die twee aparte ruimten scheiden, of de bouwwerken of ornamentele constructies die zulke doorgangen afsluiten. Gebruik 'poortgebouwen' voor toegangsgebouwen die ook ruimte bieden aan een woning of stallen e.d.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "poort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008302>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008302> <http://www.w3.org/2004/02/skos/core#prefLabel> "poorten en poortonderdelen"@nl.
+_:df_1342_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002419"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002419/2021-10-31T16:47:03.258Z>.
+<https://stad.gent/id/concept/550001895/2021-10-31T16:38:47.162Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001895>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:38:47.162Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024648>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1402_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Werktuigen die worden gebruikt om een vuur op te rakelen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pook"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007771>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007771> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuurmakende en beheersende uitrusting"@nl.
+_:df_1402_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001895"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001895/2021-10-31T16:38:47.162Z>.
+<https://stad.gent/id/concept/550001814/2021-10-31T16:37:46.596Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001814>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:37:46.596Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006366>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1408_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Polen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009118>, <https://stad.gent/id/concept/550006521>, <https://stad.gent/id/concept/550006614>, <https://stad.gent/id/concept/550006416>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006416> <http://www.w3.org/2004/02/skos/core#prefLabel> "Warschau"@nl.
+<https://stad.gent/id/concept/550006614> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lodz"@nl.
+<https://stad.gent/id/concept/550006521> <http://www.w3.org/2004/02/skos/core#prefLabel> "Krakow"@nl.
+<https://stad.gent/id/concept/550009118> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gdansk"@nl.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_1408_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001814"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001814/2021-10-31T16:37:46.596Z>.
+<https://stad.gent/id/concept/550001006/2021-10-31T16:24:47.684Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001006>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:24:47.684Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007975>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1501_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Poperinge"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004834>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004834> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_1501_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001006"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001006/2021-10-31T16:24:47.684Z>.
+<https://stad.gent/id/concept/550000955/2021-10-31T16:23:41.251Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000955>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:23:41.251Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045697>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1507_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houders in allerlei grootte en vorm, maar meestal rond, hoofdzakelijk gebruikt voor huishoudelijke doeleinden. Ze zijn er ook van metaal.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007852>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007852> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk (houder)"@nl.
+_:df_1507_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000955"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000955/2021-10-31T16:23:41.251Z>.
+<https://stad.gent/id/concept/550000224/2021-10-31T16:16:36.379Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000224>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:16:36.379Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300410334>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1558_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "potloodtekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007970>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007970> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekeningen naar materiaal of techniek"@nl.
+_:df_1558_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000224"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000224/2021-10-31T16:16:36.379Z>.
+<https://stad.gent/id/concept/530010470/2021-10-31T15:56:31.568Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010470>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:56:31.568Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026821>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1702_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kaarten waar al een postzegel op is afgedrukt en worden verkocht in het postkantoor.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "postkaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008575>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008575> <http://www.w3.org/2004/02/skos/core#prefLabel> "informatievorm"@nl.
+_:df_1702_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010470"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010470/2021-10-31T15:56:31.568Z>.
+<https://stad.gent/id/concept/530010371/2021-10-31T15:49:25.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010371>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:49:25.747Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1048701>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1753_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Porsgrunn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005642>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005642> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noorwegen"@nl.
+_:df_1753_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010371"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010371/2021-10-31T15:49:25.747Z>.
+<https://KasperZutterman.github.io///thesaurus/po.ttl> <https://w3id.org/tree#relation> _:df_1_517.
+_:df_1_517 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/por.ttl>;
+    <https://w3id.org/tree#value> "por".
+<https://KasperZutterman.github.io///thesaurus/po.ttl> <https://w3id.org/tree#relation> _:df_1_518.
+_:df_1_518 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pom.ttl>;
+    <https://w3id.org/tree#value> "pom".
+<https://KasperZutterman.github.io///thesaurus/po.ttl> <https://w3id.org/tree#relation> _:df_1_519.
+_:df_1_519 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pol.ttl>;
+    <https://w3id.org/tree#value> "pol".
+<https://KasperZutterman.github.io///thesaurus/po.ttl> <https://w3id.org/tree#relation> _:df_1_520.
+_:df_1_520 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/poe.ttl>;
+    <https://w3id.org/tree#value> "poe".
+<https://KasperZutterman.github.io///thesaurus/po.ttl> <https://w3id.org/tree#relation> _:df_1_521.
+_:df_1_521 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/pow.ttl>;
+    <https://w3id.org/tree#value> "pow".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/po.ttl>.

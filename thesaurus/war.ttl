@@ -48,3 +48,44 @@ _:df_1897_22 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550008967"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008967/2021-10-31T20:01:29.006Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/war.ttl>.
+<https://stad.gent/id/concept/550001229/2021-10-31T16:27:54.488Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001229>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:27:54.488Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204854>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1477_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gewatteerde bedekkingen die over voedsel worden geplaatst om zo de warmte vast te houden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "warmhouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008382>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008382> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen voor voedsel"@nl.
+_:df_1477_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001229"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001229/2021-10-31T16:27:54.488Z>.
+<https://stad.gent/id/concept/530010384/2021-10-31T15:50:26.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010384>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:50:26.363Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7273833>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1744_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Warmond"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009316>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009316> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuid-Holland"@nl.
+_:df_1744_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010384"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010384/2021-10-31T15:50:26.363Z>.
+<https://stad.gent/id/concept/530010049/2021-10-31T15:23:21.272Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010049>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:23:21.272Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026795>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1936_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Waremme"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009330>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_1936_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010049"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010049/2021-10-31T15:23:21.272Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/war.ttl>.
