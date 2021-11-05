@@ -63,3 +63,28 @@ _:df_1765_20 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010350"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010350/2021-10-31T15:47:39.411Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/del.ttl>.
+<https://stad.gent/id/concept/530003656/2021-10-31T11:09:29.580Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003656>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:09:29.580Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006804>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1780_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Delft"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009316>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009316> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuid-Holland"@nl.
+_:df_1780_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003656"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003656/2021-10-31T11:09:29.580Z>.
+<https://stad.gent/id/concept/470009723/2021-10-31T08:35:56.613Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009723>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:35:56.613Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006804>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2869_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Delft"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2869_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009723"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009723/2021-10-31T08:35:56.613Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/del.ttl>.

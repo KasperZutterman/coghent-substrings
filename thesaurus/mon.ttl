@@ -152,3 +152,224 @@ _:df_1945_26 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010038"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010038/2021-10-31T15:22:25.531Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mon.ttl>.
+<https://stad.gent/id/concept/530005807/2021-10-31T12:18:11.180Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005807>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:18:11.180Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1291_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "in elkaar zetten";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monteren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008680>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008680> <http://www.w3.org/2004/02/skos/core#prefLabel> "additieve- en verbindingstechniek"@nl.
+_:df_1291_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005807"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005807/2021-10-31T12:18:11.180Z>.
+<https://stad.gent/id/concept/530005141/2021-10-31T11:51:59.269Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005141>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:51:59.269Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009353>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1477_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Montereau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_1477_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005141"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005141/2021-10-31T11:51:59.269Z>.
+<https://stad.gent/id/concept/530004761/2021-10-31T11:43:57.875Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004761>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:43:57.875Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005758>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1534_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Monaco"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002310>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009897>;
+    <http://www.w3.org/2004/02/skos/core#note> "land"@nl, "country"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009897> <http://www.w3.org/2004/02/skos/core#prefLabel> "Monte Carlo"@nl.
+<https://stad.gent/id/concept/530002310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_1534_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004761"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004761/2021-10-31T11:43:57.875Z>.
+<https://stad.gent/id/concept/530004166/2021-10-31T11:19:22.911Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:19:22.911Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013286>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1708_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Montmartre"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006417>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006417> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parijs"@nl.
+_:df_1708_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004166/2021-10-31T11:19:22.911Z>.
+<https://stad.gent/id/concept/530002752/2021-10-31T10:36:56.409Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002752>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:36:56.409Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013051>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2011_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Montreal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004847>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004847> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canada"@nl.
+_:df_2011_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002752"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002752/2021-10-31T10:36:56.409Z>.
+<https://stad.gent/id/concept/530002050/2021-10-31T10:31:01.301Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002050>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:31:01.301Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004046>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2053_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Monte San Giusto"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_2053_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002050"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002050/2021-10-31T10:31:01.301Z>.
+<https://stad.gent/id/concept/530000345/2021-10-31T09:27:28.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000345>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:27:28.334Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006164>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2503_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Montelupo Fiorentino"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_2503_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000345"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000345/2021-10-31T09:27:28.334Z>.
+<https://stad.gent/id/concept/470010941/2021-10-31T09:08:03.118Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010941>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:08:03.118Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300262982>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2641_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Overdracht van feiten en culturele kennis, regels, overtuigingen en verhalen die meer in mondelinge dan schriftelijke vorm plaatsvindt. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mondelinge bron"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2641_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010941"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010941/2021-10-31T09:08:03.118Z>.
+<https://stad.gent/id/concept/470009918/2021-10-31T08:42:36.119Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009918>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:42:36.119Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005759>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2824_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Monte Carlo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2824_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009918"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009918/2021-10-31T08:42:36.119Z>.
+<https://stad.gent/id/concept/470009227/2021-10-31T08:19:04.163Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009227>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:19:04.163Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013051>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2989_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Montréal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2989_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009227"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009227/2021-10-31T08:19:04.163Z>.
+<https://stad.gent/id/concept/470008593/2021-10-31T08:03:48.123Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008593>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:03:48.123Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006958>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3097_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3097_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008593"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008593/2021-10-31T08:03:48.123Z>.
+<https://stad.gent/id/concept/470007904/2021-10-31T07:42:52.729Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007904>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:42:52.729Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005758>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3247_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Monaco"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470000059>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470000059> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_3247_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007904"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007904/2021-10-31T07:42:52.729Z>.
+<https://stad.gent/id/concept/470007161/2021-10-31T07:26:20.344Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007161>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:26:20.344Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042500>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3364_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mondstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3364_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007161"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007161/2021-10-31T07:26:20.344Z>.
+<https://stad.gent/id/concept/670001294/2021-10-30T07:57:48.592Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001294>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-30T07:57:48.592Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300025765>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3457_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monnik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3457_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001294"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001294/2021-10-30T07:57:48.592Z>.
+<https://stad.gent/id/concept/670001269/2021-10-28T16:39:00.816Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:39:00.816Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300007031>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3472_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "monument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3472_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001269/2021-10-28T16:39:00.816Z>.
+<https://stad.gent/id/concept/570024947/2021-10-28T14:52:45.120Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024947>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:52:45.120Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013051>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4198_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Montreal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018115>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018115> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canada"@nl.
+_:df_4198_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024947"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024947/2021-10-28T14:52:45.120Z>.
+<https://stad.gent/id/concept/570024864/2021-10-28T14:48:27.110Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024864>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:48:27.110Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4007432>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4228_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Montemurlo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_4228_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024864"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024864/2021-10-28T14:48:27.110Z>.
+<https://stad.gent/id/concept/570024838/2021-10-28T14:47:29.945Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024838>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:47:29.945Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4234_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "montagehallen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4234_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024838"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024838/2021-10-28T14:47:29.945Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mon.ttl>.

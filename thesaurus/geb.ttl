@@ -99,3 +99,146 @@ _:df_1729_8 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010414"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010414/2021-10-31T15:52:33.945Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/geb.ttl>.
+<https://stad.gent/id/concept/530001568/2021-10-31T10:12:32.673Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:12:32.673Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900032476>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2182_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Zilveren lepels met toepasselijke versiering die vroeger vaak aan een jonggeborene (resp. zijn moeder) ten geschenke werden gegeven.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geboortelepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008800>, <https://stad.gent/id/concept/530007905>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530007905> <http://www.w3.org/2004/02/skos/core#prefLabel> "lepel"@nl.
+<https://stad.gent/id/concept/530008800> <http://www.w3.org/2004/02/skos/core#prefLabel> "aandenken"@nl.
+_:df_2182_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001568/2021-10-31T10:12:32.673Z>.
+<https://stad.gent/id/concept/530000782/2021-10-31T09:47:38.471Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000782>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:47:38.471Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043000>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2359_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schalen voor het serveren van gebak.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gebakschaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003520>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001540>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001540> <http://www.w3.org/2004/02/skos/core#prefLabel> "petitfourschaal"@nl.
+<https://stad.gent/id/concept/530003520> <http://www.w3.org/2004/02/skos/core#prefLabel> "schaal"@nl.
+_:df_2359_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000782"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000782/2021-10-31T09:47:38.471Z>.
+<https://stad.gent/id/concept/530000651/2021-10-31T09:43:20.416Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000651>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:43:20.416Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026476>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2392_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Boeken met gebeden en andere vormen van godsdienstoefening.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gebedenboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008799>, <https://stad.gent/id/concept/530000740>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000740> <http://www.w3.org/2004/02/skos/core#prefLabel> "religieus object"@nl.
+<https://stad.gent/id/concept/530008799> <http://www.w3.org/2004/02/skos/core#prefLabel> "boek (objectnaam)"@nl.
+_:df_2392_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000651"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000651/2021-10-31T09:43:20.416Z>.
+<https://stad.gent/id/concept/530000633/2021-10-31T09:42:24.804Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000633>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:42:24.804Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263722>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2398_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar werken van gekleurd glas, over het algemeen in de vorm van een venster, zelfstandig paneel of lampenkap, waarvan het ontwerp bedoeld is om te worden bekeken door gebroken licht en de uitwerking in hoge mate afhangt van de hoedanigheid van het licht. De fasen van het productieproces zijn in een handboek uit de vroege twaalfde eeuw beschreven door de monnik Theofilus en het proces is sindsdien nauwelijks veranderd. Het glasobject wordt gemaakt door stukken gekleurd glas te snijden op basis van een karton op ware grootte en de stukken vervolgens te vatten in stroken lood. Op het glasoppervlak kunnen details worden geschilderd die worden gebrand in een oven voordat de glasstukken worden samengevoegd. De methode waarmee het glas waterdicht wordt gemaakt en wordt bevestigd in een raam is vaak zeer decoratief en vormt een belangrijk onderdeel van het ontwerp. Als hoogtepunten van gebrandschilderd glas worden de werken uit de Europese gotiek en de 19de-eeuwse neogotiek beschouwd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gebrandschilderd glas (object)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005468>, <https://stad.gent/id/concept/530003816>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003816> <http://www.w3.org/2004/02/skos/core#prefLabel> "glas-in-loodraam"@nl.
+<https://stad.gent/id/concept/530005468> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal"@nl.
+_:df_2398_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000633"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000633/2021-10-31T09:42:24.804Z>.
+<https://stad.gent/id/concept/530000242/2021-10-31T09:21:38.633Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000242>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:21:38.633Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2545_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gebakvork"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000864>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000864> <http://www.w3.org/2004/02/skos/core#prefLabel> "vork"@nl, "vork"@nl.
+_:df_2545_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000242"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000242/2021-10-31T09:21:38.633Z>.
+<https://stad.gent/id/concept/530000239/2021-10-31T09:21:23.628Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000239>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:21:23.628Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2548_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gebakschep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006105>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006105> <http://www.w3.org/2004/02/skos/core#prefLabel> "schep (serveermateriaal)"@nl, "schep (serveermateriaal)"@nl, "schep (serveermateriaal)"@nl.
+_:df_2548_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000239"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000239/2021-10-31T09:21:23.628Z>.
+<https://stad.gent/id/concept/470009613/2021-10-31T08:32:14.118Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009613>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:32:14.118Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300265772>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2896_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "geboortekaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470000347>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470000347> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaart (informatiedrager)"@nl.
+_:df_2896_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009613"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009613/2021-10-31T08:32:14.118Z>.
+<https://stad.gent/id/concept/470007488/2021-10-31T07:35:06.475Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007488>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:35:06.475Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300263722>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3301_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gebrandschilderd glas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3301_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007488"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007488/2021-10-31T07:35:06.475Z>.
+<https://stad.gent/id/concept/470007181/2021-10-31T07:27:05.919Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007181>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:27:05.919Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026476>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3358_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Boeken met gebeden en andere vormen van godsdienstoefening.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gebedenboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3358_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007181"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007181/2021-10-31T07:27:05.919Z>.
+<https://stad.gent/id/concept/670000109/2021-10-28T15:09:07.487Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000109>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:09:07.487Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/2737>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4084_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gebroeders Van Eyckstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4084_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000109"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000109/2021-10-28T15:09:07.487Z>.
+<https://stad.gent/id/concept/670000110/2021-10-28T15:09:12.488Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000110>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:09:12.488Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/2872>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4084_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gebroeders Vandeveldestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4084_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000110"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000110/2021-10-28T15:09:12.488Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/geb.ttl>.

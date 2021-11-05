@@ -25,3 +25,33 @@ _:df_1009_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550004920"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004920/2021-10-31T17:33:44.770Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/uu.ttl>.
+<https://stad.gent/id/concept/530001269/2021-10-31T10:03:36.062Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:03:36.062Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041573>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2248_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten voor het meten en vastleggen van het verstrijken van tijd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "uurwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000669>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009463>, <https://stad.gent/id/concept/530001699>, <https://stad.gent/id/concept/530008846>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008846> <http://www.w3.org/2004/02/skos/core#prefLabel> "uurwerkonderdeel"@nl.
+<https://stad.gent/id/concept/530001699> <http://www.w3.org/2004/02/skos/core#prefLabel> "klok (uurwerk)"@nl.
+<https://stad.gent/id/concept/530009463> <http://www.w3.org/2004/02/skos/core#prefLabel> "horloge"@nl.
+<https://stad.gent/id/concept/530000669> <http://www.w3.org/2004/02/skos/core#prefLabel> "meetinstrument"@nl.
+_:df_2248_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001269/2021-10-31T10:03:36.062Z>.
+<https://stad.gent/id/concept/470010499/2021-10-31T09:01:03.385Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:01:03.385Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041573>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2692_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "uurwerken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2692_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010499"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010499/2021-10-31T09:01:03.385Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/uu.ttl>.

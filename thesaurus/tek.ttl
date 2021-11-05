@@ -87,3 +87,75 @@ _:df_1804_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570000610"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570000610/2021-10-31T20:14:27.333Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/tek.ttl>.
+<https://stad.gent/id/concept/530000703/2021-10-31T09:45:26.600Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000703>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:45:26.600Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300033973>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2377_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Visuele werken die gemaakt zijn door te tekenen, wat wil zeggen de toepassing van lijnen op een oppervlak (vaak papier) met een potlood, pen, krijt, of een ander tekeninstrument. Hierin wordt geconcentreerd op de afbakening van de vorm en minder op de kleurgeving.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003070>, <https://stad.gent/id/concept/530005471>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005471> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontwerptekening"@nl.
+<https://stad.gent/id/concept/530003070> <http://www.w3.org/2004/02/skos/core#prefLabel> "architectuurtekening"@nl.
+_:df_2377_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000703"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000703/2021-10-31T09:45:26.600Z>.
+<https://stad.gent/id/concept/470009335/2021-10-31T08:22:06.672Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009335>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:22:06.672Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300123627>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2968_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten voor tekenen en meten, zoals linialen, weegschalen, gradenbogen, pennen en potloden en dergelijke. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenbenodigdheden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2968_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009335"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009335/2021-10-31T08:22:06.672Z>.
+<https://stad.gent/id/concept/470008306/2021-10-31T07:55:42.553Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008306>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:55:42.553Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q15296811>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3154_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3154_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008306"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008306/2021-10-31T07:55:42.553Z>.
+<https://stad.gent/id/concept/670000456/2021-10-28T15:37:21.328Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000456>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:37:21.328Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300112172>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3892_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3892_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000456"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000456/2021-10-28T15:37:21.328Z>.
+<https://stad.gent/id/concept/570024650/2021-10-28T14:38:47.411Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024650>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:38:47.411Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4294_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenbureau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4294_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024650"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024650/2021-10-28T14:38:47.411Z>.
+<https://stad.gent/id/concept/570024651/2021-10-28T14:38:52.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024651>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:38:52.412Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025059>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4294_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Personen die zijn geschoold in het maken van technische tekeningen, zoals van een bouwwerk of machine. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenaar technisch"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4294_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024651"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024651/2021-10-28T14:38:52.412Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/tek.ttl>.

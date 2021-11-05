@@ -39,3 +39,84 @@ _:df_1240_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550003596"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003596/2021-10-31T17:01:14.661Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ts.ttl>.
+<https://stad.gent/id/concept/530005656/2021-10-31T12:11:25.602Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005656>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:11:25.602Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000065>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1339_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "An area in central Europe encompassing the historic lands of Bohemia, Moravia, and Slovakia, comprising the modern nations of Slovakia and the Czech Republic. They were formerly united as one nation, Czechoslovakia, from 1918 to 1993.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjecho-Slowakije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002310>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009679>, <https://stad.gent/id/concept/530009910>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "onderwerp"@nl, "subject"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009910> <http://www.w3.org/2004/02/skos/core#prefLabel> "Holice"@nl.
+<https://stad.gent/id/concept/530009679> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ceske Budejovice"@nl.
+<https://stad.gent/id/concept/530002310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_1339_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005656"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005656/2021-10-31T12:11:25.602Z>.
+<https://stad.gent/id/concept/530005587/2021-10-31T12:07:57.621Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005587>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:07:57.621Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1001780>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1363_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjechië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002310>, <https://stad.gent/id/concept/530008417>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006426>, <https://stad.gent/id/concept/530007442>, <https://stad.gent/id/concept/530004064>, <https://stad.gent/id/concept/530001740>, <https://stad.gent/id/concept/530010499>, <https://stad.gent/id/concept/530005624>, <https://stad.gent/id/concept/530009652>, <https://stad.gent/id/concept/530009854>, <https://stad.gent/id/concept/530005592>, <https://stad.gent/id/concept/530005683>, <https://stad.gent/id/concept/530009533>, <https://stad.gent/id/concept/530009725>, <https://stad.gent/id/concept/530005412>, <https://stad.gent/id/concept/530010498>, <https://stad.gent/id/concept/530007443>, <https://stad.gent/id/concept/530010036>, <https://stad.gent/id/concept/530007316>, <https://stad.gent/id/concept/530003735>, <https://stad.gent/id/concept/530006050>, <https://stad.gent/id/concept/530009523>, <https://stad.gent/id/concept/530009952>, <https://stad.gent/id/concept/530003667>, <https://stad.gent/id/concept/530010612>, <https://stad.gent/id/concept/530010317>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "onderwerp"@nl, "subject"@en, "land"@nl, "country"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010317> <http://www.w3.org/2004/02/skos/core#prefLabel> "Červený Hrádek"@nl.
+<https://stad.gent/id/concept/530010612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Děčín"@nl.
+<https://stad.gent/id/concept/530003667> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zlin"@nl.
+<https://stad.gent/id/concept/530009952> <http://www.w3.org/2004/02/skos/core#prefLabel> "Železný Brod"@nl.
+<https://stad.gent/id/concept/530009523> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vsetín"@nl.
+<https://stad.gent/id/concept/530006050> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vimperk"@nl.
+<https://stad.gent/id/concept/530003735> <http://www.w3.org/2004/02/skos/core#prefLabel> "Praag"@nl.
+<https://stad.gent/id/concept/530007316> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plzen"@nl.
+<https://stad.gent/id/concept/530010036> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pirkenhammer"@nl.
+<https://stad.gent/id/concept/530007443> <http://www.w3.org/2004/02/skos/core#prefLabel> "Olomouc"@nl.
+<https://stad.gent/id/concept/530010498> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nový Bor"@nl.
+<https://stad.gent/id/concept/530005412> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loket"@nl.
+<https://stad.gent/id/concept/530009725> <http://www.w3.org/2004/02/skos/core#prefLabel> "Litovel"@nl.
+<https://stad.gent/id/concept/530009533> <http://www.w3.org/2004/02/skos/core#prefLabel> "Litomerice"@nl.
+<https://stad.gent/id/concept/530005683> <http://www.w3.org/2004/02/skos/core#prefLabel> "Klášterský Mlýn (voormalig Klostermühle)"@nl.
+<https://stad.gent/id/concept/530005592> <http://www.w3.org/2004/02/skos/core#prefLabel> "Karlsbad (Tsjechië)"@nl.
+<https://stad.gent/id/concept/530009854> <http://www.w3.org/2004/02/skos/core#prefLabel> "Havlíčkův Brod"@nl.
+<https://stad.gent/id/concept/530009652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cvikov"@nl.
+<https://stad.gent/id/concept/530005624> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chodov"@nl.
+<https://stad.gent/id/concept/530010499> <http://www.w3.org/2004/02/skos/core#prefLabel> "Česká Lípa"@nl.
+<https://stad.gent/id/concept/530001740> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brtnice (Pirnitz)"@nl.
+<https://stad.gent/id/concept/530004064> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brno"@nl.
+<https://stad.gent/id/concept/530007442> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brna"@nl.
+<https://stad.gent/id/concept/530006426> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bohemen"@nl, "Bohemen"@nl.
+<https://stad.gent/id/concept/530008417> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midden-Europa"@nl.
+<https://stad.gent/id/concept/530002310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_1363_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005587"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530005587> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjechië"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005587/2021-10-31T12:07:57.621Z>.
+<https://stad.gent/id/concept/530005320/2021-10-31T11:57:48.979Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005320>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:57:48.979Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004827>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1435_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsu"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006090>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Japan"@nl.
+_:df_1435_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005320"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005320/2021-10-31T11:57:48.979Z>.
+<https://stad.gent/id/concept/530005003/2021-10-31T11:49:27.067Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005003>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:49:27.067Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1495_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjechisch"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "taal"@nl, "language"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1495_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005003"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005003/2021-10-31T11:49:27.067Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ts.ttl>.

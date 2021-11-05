@@ -36,3 +36,93 @@ _:df_1630_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010611"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010611/2021-10-31T16:06:24.176Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/lak.ttl>.
+<https://stad.gent/id/concept/530005751/2021-10-31T12:16:14.812Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005751>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:16:14.812Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014916>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1306_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemene term voor verf of vernis die met een hoogglans opdroogt en voor schellak of iedere andere deklaag die droogt door verdamping van het oplosmiddel. In de meeste laksoorten is hars opgelost in een vluchtig oplosmiddel of drogende olie, waarbij het hars verhardt door verdamping.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008467>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008542>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008542> <http://www.w3.org/2004/02/skos/core#prefLabel> "lakverf"@nl.
+<https://stad.gent/id/concept/530008467> <http://www.w3.org/2004/02/skos/core#prefLabel> "deklaag (materiaal)"@nl.
+_:df_1306_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005751"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005751/2021-10-31T12:16:14.812Z>.
+<https://stad.gent/id/concept/530005679/2021-10-31T12:12:36.959Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005679>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:12:36.959Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1330_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lakwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001904>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001904> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coromandel-lakwerk"@nl.
+_:df_1330_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005679"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005679/2021-10-31T12:12:36.959Z>.
+<https://stad.gent/id/concept/530004585/2021-10-31T11:36:27.182Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:36:27.182Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053796>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1588_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het oppervlak van iets, zoals een meubelstuk of klein voorwerp, bedekken met lak, waarmee vaak dessins of afbeeldingen worden aangebracht.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lakken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008606>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008606> <http://www.w3.org/2004/02/skos/core#prefLabel> "coaten"@nl.
+_:df_1588_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004585/2021-10-31T11:36:27.182Z>.
+<https://stad.gent/id/concept/470008279/2021-10-31T07:54:51.908Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008279>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:54:51.908Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204598>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3160_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bedekkingen voor bedden, meestal van katoen of linnen. Doorgaans gebruikt per paar: een om het matras te bedekken en een om degene die in bed ligt te bedekken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "laken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3160_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008279"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008279/2021-10-31T07:54:51.908Z>.
+<https://stad.gent/id/concept/670001143/2021-10-28T16:30:58.986Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001143>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:30:58.986Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/24556>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3526_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lakenhal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3526_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001143"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001143/2021-10-28T16:30:58.986Z>.
+<https://stad.gent/id/concept/670000339/2021-10-28T15:28:07.572Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000339>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:28:07.572Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q5135542>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3955_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lakenhandelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3955_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000339"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000339/2021-10-28T15:28:07.572Z>.
+<https://stad.gent/id/concept/570024489/2021-10-28T14:34:38.364Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024489>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:34:38.364Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7016995>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4324_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Laken (Brussel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023204>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussel Hoofdstedelijk Gewest"@nl.
+_:df_4324_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024489"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024489/2021-10-28T14:34:38.364Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/lak.ttl>.

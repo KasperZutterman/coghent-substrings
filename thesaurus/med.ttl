@@ -90,3 +90,49 @@ _:df_1858_26 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010194"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010194/2021-10-31T15:34:39.407Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/med.ttl>.
+<https://stad.gent/id/concept/530001952/2021-10-31T10:26:33.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:26:33.079Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006001>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2083_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meda"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl, "Italië"@nl, "Italië"@nl.
+_:df_2083_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001952/2021-10-31T10:26:33.079Z>.
+<https://stad.gent/id/concept/530001370/2021-10-31T10:05:37.340Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001370>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:05:37.340Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300077357>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2233_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebruik voor grote herdenkingsmedailles.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medaillon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000493>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530002995>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002995> <http://www.w3.org/2004/02/skos/core#prefLabel> "fotohanger"@nl.
+<https://stad.gent/id/concept/530000493> <http://www.w3.org/2004/02/skos/core#prefLabel> "medaille"@nl.
+_:df_2233_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001370"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001370/2021-10-31T10:05:37.340Z>.
+<https://stad.gent/id/concept/530000493/2021-10-31T09:34:59.187Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000493>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:34:59.187Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046025>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2449_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine, doorgaans ronde en platte objecten van metaal, meestal brons, zilver of goud met daarop een reliëf op één of beide zijden, bedoeld als aandenken; ze worden niet gebruikt als ruilmiddel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "medaille"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005468>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001370>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001370> <http://www.w3.org/2004/02/skos/core#prefLabel> "medaillon"@nl.
+<https://stad.gent/id/concept/530005468> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal"@nl.
+_:df_2449_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000493"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000493/2021-10-31T09:34:59.187Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/med.ttl>.

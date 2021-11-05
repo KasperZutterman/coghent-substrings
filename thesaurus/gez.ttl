@@ -9,3 +9,30 @@ _:df_1648_10 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570019636"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019636/2021-11-01T01:11:13.991Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/gez.ttl>.
+<https://stad.gent/id/concept/470007606/2021-10-31T07:37:43.805Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007606>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:37:43.805Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055133>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3283_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het welzijn van een organisme of gedeelte hiervan, gekenmerkt door normaal functioneren en de afwezigheid van ziekte.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gezondheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470002906>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002906> <http://www.w3.org/2004/02/skos/core#prefLabel> "geestelijke gezondheid"@nl.
+_:df_3283_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007606"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007606/2021-10-31T07:37:43.805Z>.
+<https://stad.gent/id/concept/470007607/2021-10-31T07:37:48.806Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007607>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:37:48.806Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300404582>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3283_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De zorg voor de algemene gezondheid van een persoon of gemeenschap, met name wanneer deze wordt geboden door een georganiseerde gezondheidsvoorziening.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gezondheidszorg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3283_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007607"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007607/2021-10-31T07:37:48.806Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/gez.ttl>.

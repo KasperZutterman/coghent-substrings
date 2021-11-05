@@ -821,3 +821,372 @@ _:df_1_487 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/len.ttl>;
     <https://w3id.org/tree#value> "len".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/le.ttl>.
+<https://stad.gent/id/concept/530009528/2021-10-31T14:41:08.069Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009528>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:41:08.069Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7139780>;
+    <http://www.w3.org/ns/adms#identifier> _:df_277_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuchtenburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_277_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009528"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009528/2021-10-31T14:41:08.069Z>.
+<https://stad.gent/id/concept/530008664/2021-10-31T13:52:28.450Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:52:28.450Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300235759>;
+    <http://www.w3.org/ns/adms#identifier> _:df_622_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leesbenodigdheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008780>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008663>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008663> <http://www.w3.org/2004/02/skos/core#prefLabel> "boekenlegger"@nl.
+<https://stad.gent/id/concept/530008780> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting (objectnaam)"@nl.
+_:df_622_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530008664> <http://www.w3.org/2004/02/skos/core#prefLabel> "leesbenodigdheid"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008664/2021-10-31T13:52:28.450Z>.
+<https://stad.gent/id/concept/530008416/2021-10-31T13:34:32.132Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008416>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:34:32.132Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209923>;
+    <http://www.w3.org/ns/adms#identifier> _:df_748_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Doeken rond de lendenen, in warme klimaten vaak als enige kleding gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lendendoek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008726>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008726> <http://www.w3.org/2004/02/skos/core#prefLabel> "bovenkleding"@nl.
+_:df_748_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008416"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008416/2021-10-31T13:34:32.132Z>.
+<https://stad.gent/id/concept/530008318/2021-10-31T13:31:44.704Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008318>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:31:44.704Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026552>;
+    <http://www.w3.org/ns/adms#identifier> _:df_769_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lebbeke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005209>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000115>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000115> <http://www.w3.org/2004/02/skos/core#prefLabel> "Denderbelle"@nl.
+<https://stad.gent/id/concept/530005209> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_769_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008318"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008318/2021-10-31T13:31:44.704Z>.
+<https://stad.gent/id/concept/530008223/2021-10-31T13:27:06.121Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008223>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:27:06.121Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026553>;
+    <http://www.w3.org/ns/adms#identifier> _:df_802_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lede"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005209>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005209> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_802_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008223"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008223/2021-10-31T13:27:06.121Z>.
+<https://stad.gent/id/concept/530007922/2021-10-31T13:19:40.458Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007922>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:19:40.458Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7136594>;
+    <http://www.w3.org/ns/adms#identifier> _:df_856_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leste"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_856_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007922"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007922/2021-10-31T13:19:40.458Z>.
+<https://stad.gent/id/concept/530007905/2021-10-31T13:19:14.626Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007905>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:19:14.626Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043149>;
+    <http://www.w3.org/ns/adms#identifier> _:df_859_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Keukengerei voor het bereiden, opdienen of nuttigen van voedsel; bestaat uit een komvormige schep aan een steel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "lepel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003859>, <https://stad.gent/id/concept/530006173>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008208>, <https://stad.gent/id/concept/530000279>, <https://stad.gent/id/concept/530001702>, <https://stad.gent/id/concept/530006551>, <https://stad.gent/id/concept/530000276>, <https://stad.gent/id/concept/530000298>, <https://stad.gent/id/concept/530000278>, <https://stad.gent/id/concept/530001568>, <https://stad.gent/id/concept/530000274>, <https://stad.gent/id/concept/530000497>, <https://stad.gent/id/concept/530000297>, <https://stad.gent/id/concept/530000486>, <https://stad.gent/id/concept/530002022>, <https://stad.gent/id/concept/530006378>, <https://stad.gent/id/concept/530000370>, <https://stad.gent/id/concept/530000423>, <https://stad.gent/id/concept/530002872>, <https://stad.gent/id/concept/530009257>, <https://stad.gent/id/concept/530009296>, <https://stad.gent/id/concept/530001932>, <https://stad.gent/id/concept/530000237>, <https://stad.gent/id/concept/530006317>, <https://stad.gent/id/concept/530006546>, <https://stad.gent/id/concept/530001468>, <https://stad.gent/id/concept/530000308>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000308> <http://www.w3.org/2004/02/skos/core#prefLabel> "zuurlepel"@nl.
+<https://stad.gent/id/concept/530001468> <http://www.w3.org/2004/02/skos/core#prefLabel> "zoutlepel"@nl.
+<https://stad.gent/id/concept/530006546> <http://www.w3.org/2004/02/skos/core#prefLabel> "theezaklepel"@nl.
+<https://stad.gent/id/concept/530006317> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafellepel"@nl.
+<https://stad.gent/id/concept/530000237> <http://www.w3.org/2004/02/skos/core#prefLabel> "suikerschep"@nl.
+<https://stad.gent/id/concept/530001932> <http://www.w3.org/2004/02/skos/core#prefLabel> "slalepel (schepwerk)"@nl.
+<https://stad.gent/id/concept/530009296> <http://www.w3.org/2004/02/skos/core#prefLabel> "slabestek"@nl.
+<https://stad.gent/id/concept/530009257> <http://www.w3.org/2004/02/skos/core#prefLabel> "serveerlepel"@nl.
+<https://stad.gent/id/concept/530002872> <http://www.w3.org/2004/02/skos/core#prefLabel> "opscheplepel"@nl.
+<https://stad.gent/id/concept/530000423> <http://www.w3.org/2004/02/skos/core#prefLabel> "mosterdlepel"@nl.
+<https://stad.gent/id/concept/530000370> <http://www.w3.org/2004/02/skos/core#prefLabel> "menulepel"@nl.
+<https://stad.gent/id/concept/530006378> <http://www.w3.org/2004/02/skos/core#prefLabel> "maatlepel"@nl.
+<https://stad.gent/id/concept/530002022> <http://www.w3.org/2004/02/skos/core#prefLabel> "likeurlepel"@nl.
+<https://stad.gent/id/concept/530000486> <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderlepel"@nl.
+<https://stad.gent/id/concept/530000297> <http://www.w3.org/2004/02/skos/core#prefLabel> "jamlepel"@nl.
+<https://stad.gent/id/concept/530000497> <http://www.w3.org/2004/02/skos/core#prefLabel> "hors-d'oeuvre lepel"@nl.
+<https://stad.gent/id/concept/530000274> <http://www.w3.org/2004/02/skos/core#prefLabel> "gemberlepel"@nl.
+<https://stad.gent/id/concept/530001568> <http://www.w3.org/2004/02/skos/core#prefLabel> "geboortelepel"@nl.
+<https://stad.gent/id/concept/530000278> <http://www.w3.org/2004/02/skos/core#prefLabel> "vorklepel"@nl.
+<https://stad.gent/id/concept/530000298> <http://www.w3.org/2004/02/skos/core#prefLabel> "fruitlepel"@nl.
+<https://stad.gent/id/concept/530000276> <http://www.w3.org/2004/02/skos/core#prefLabel> "compotelepel"@nl.
+<https://stad.gent/id/concept/530006551> <http://www.w3.org/2004/02/skos/core#prefLabel> "spork"@nl.
+<https://stad.gent/id/concept/530001702> <http://www.w3.org/2004/02/skos/core#prefLabel> "boterlepel"@nl.
+<https://stad.gent/id/concept/530000279> <http://www.w3.org/2004/02/skos/core#prefLabel> "bonbonlepel"@nl.
+<https://stad.gent/id/concept/530008208> <http://www.w3.org/2004/02/skos/core#prefLabel> "aperitieflepel"@nl.
+<https://stad.gent/id/concept/530006173> <http://www.w3.org/2004/02/skos/core#prefLabel> "schepwerk"@nl.
+<https://stad.gent/id/concept/530003859> <http://www.w3.org/2004/02/skos/core#prefLabel> "bestek"@nl.
+_:df_859_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007905"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007905/2021-10-31T13:19:14.626Z>.
+<https://stad.gent/id/concept/530007300/2021-10-31T13:12:23.764Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007300>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:12:23.764Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012570>;
+    <http://www.w3.org/ns/adms#identifier> _:df_907_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leinfelden-Echterdingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_907_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007300"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007300/2021-10-31T13:12:23.764Z>.
+<https://stad.gent/id/concept/530007218/2021-10-31T13:09:36.669Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:09:36.669Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7598185>;
+    <http://www.w3.org/ns/adms#identifier> _:df_925_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "l'Equerre"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_925_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007218"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007218/2021-10-31T13:09:36.669Z>.
+<https://stad.gent/id/concept/530007231/2021-10-31T13:09:51.674Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007231>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:09:51.674Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7253065>;
+    <http://www.w3.org/ns/adms#identifier> _:df_925_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lennik"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009325>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009325> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant"@nl.
+_:df_925_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007231"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007231/2021-10-31T13:09:51.674Z>.
+<https://stad.gent/id/concept/530007162/2021-10-31T13:08:05.280Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:08:05.280Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010948>;
+    <http://www.w3.org/ns/adms#identifier> _:df_937_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leicester"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009323>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009323> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl.
+_:df_937_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007162/2021-10-31T13:08:05.280Z>.
+<https://stad.gent/id/concept/530007129/2021-10-31T13:07:24.577Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:07:24.577Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011856>;
+    <http://www.w3.org/ns/adms#identifier> _:df_943_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leigh-on-Sea"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009323>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009323> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl.
+_:df_943_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007129/2021-10-31T13:07:24.577Z>.
+<https://stad.gent/id/concept/530007055/2021-10-31T13:05:53.777Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007055>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:05:53.777Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008494>;
+    <http://www.w3.org/ns/adms#identifier> _:df_952_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Le Mans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_952_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007055"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007055/2021-10-31T13:05:53.777Z>.
+<https://stad.gent/id/concept/530006828/2021-10-31T12:59:38.258Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006828>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:59:38.258Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009270>;
+    <http://www.w3.org/ns/adms#identifier> _:df_997_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Le Cannet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl, "Frankrijk"@nl, "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_997_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006828"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006828/2021-10-31T12:59:38.258Z>.
+<https://stad.gent/id/concept/530006590/2021-10-31T12:52:52.426Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006590>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:52:52.426Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006809>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1045_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leiden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009316>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009316> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuid-Holland"@nl.
+_:df_1045_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006590"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006590/2021-10-31T12:52:52.426Z>.
+<https://stad.gent/id/concept/530006591/2021-10-31T12:52:57.427Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006591>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:52:57.427Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1034027>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1045_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Levallois"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl.
+_:df_1045_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006591"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006591/2021-10-31T12:52:57.427Z>.
+<https://stad.gent/id/concept/530006092/2021-10-31T12:29:51.034Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006092>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:29:51.034Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1207_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leerdam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009316>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009316> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuid-Holland"@nl.
+_:df_1207_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006092"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006092/2021-10-31T12:29:51.034Z>.
+<https://stad.gent/id/concept/530006054/2021-10-31T12:28:09.375Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006054>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:28:09.375Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7264170>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1219_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leusden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009331>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009331> <http://www.w3.org/2004/02/skos/core#prefLabel> "Utrecht (provincie)"@nl.
+_:df_1219_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006054"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006054/2021-10-31T12:28:09.375Z>.
+<https://stad.gent/id/concept/530005789/2021-10-31T12:17:20.479Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005789>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:17:20.479Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026556>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1297_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leopoldsburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009328>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009328> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie, België)"@nl.
+_:df_1297_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005789"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005789/2021-10-31T12:17:20.479Z>.
+<https://stad.gent/id/concept/530005434/2021-10-31T12:02:48.256Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005434>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:02:48.256Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011845>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1399_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De huid of het vel van een dier, die is gelooid om hem tegen bederf te beschermen en in droge toestand relatief zacht en soepel te maken.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "leer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008443>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530007895>, <https://stad.gent/id/concept/530009215>, <https://stad.gent/id/concept/530008471>, <https://stad.gent/id/concept/530005815>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005815> <http://www.w3.org/2004/02/skos/core#prefLabel> "zeemleer"@nl.
+<https://stad.gent/id/concept/530008471> <http://www.w3.org/2004/02/skos/core#prefLabel> "suède"@nl.
+<https://stad.gent/id/concept/530009215> <http://www.w3.org/2004/02/skos/core#prefLabel> "segrijn (leder)"@nl.
+<https://stad.gent/id/concept/530007895> <http://www.w3.org/2004/02/skos/core#prefLabel> "kalfsleer"@nl.
+<https://stad.gent/id/concept/530008443> <http://www.w3.org/2004/02/skos/core#prefLabel> "dierlijk materiaal"@nl.
+_:df_1399_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005434"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005434/2021-10-31T12:02:48.256Z>.
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_601.
+_:df_1_601 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/let.ttl>;
+    <https://w3id.org/tree#value> "let".
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_602.
+_:df_1_602 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/lee.ttl>;
+    <https://w3id.org/tree#value> "lee".
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_603.
+_:df_1_603 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/le+p.ttl>;
+    <https://w3id.org/tree#value> "le", "p".
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_604.
+_:df_1_604 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/lem.ttl>;
+    <https://w3id.org/tree#value> "lem".
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_605.
+_:df_1_605 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/led.ttl>;
+    <https://w3id.org/tree#value> "led".
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_606.
+_:df_1_606 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/leu.ttl>;
+    <https://w3id.org/tree#value> "leu".
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_607.
+_:df_1_607 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ler.ttl>;
+    <https://w3id.org/tree#value> "ler".
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_608.
+_:df_1_608 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/len.ttl>;
+    <https://w3id.org/tree#value> "len".
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_609.
+_:df_1_609 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/les.ttl>;
+    <https://w3id.org/tree#value> "les".
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_610.
+_:df_1_610 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/lez.ttl>;
+    <https://w3id.org/tree#value> "lez".
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_611.
+_:df_1_611 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/lei.ttl>;
+    <https://w3id.org/tree#value> "lei".
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_612.
+_:df_1_612 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/lep.ttl>;
+    <https://w3id.org/tree#value> "lep".
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_613.
+_:df_1_613 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/leg.ttl>;
+    <https://w3id.org/tree#value> "leg".
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_614.
+_:df_1_614 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/lel.ttl>;
+    <https://w3id.org/tree#value> "lel".
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_615.
+_:df_1_615 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/lev.ttl>;
+    <https://w3id.org/tree#value> "lev".
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_616.
+_:df_1_616 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/le+m.ttl>;
+    <https://w3id.org/tree#value> "le", "m".
+<https://KasperZutterman.github.io///thesaurus/le.ttl> <https://w3id.org/tree#relation> _:df_1_617.
+_:df_1_617 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/le+h.ttl>;
+    <https://w3id.org/tree#value> "le", "h".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/le.ttl>.

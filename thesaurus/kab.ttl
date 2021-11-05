@@ -47,3 +47,57 @@ _:df_835_21 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550005712"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005712/2021-10-31T17:58:25.337Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kab.ttl>.
+<https://stad.gent/id/concept/530004029/2021-10-31T11:15:54.228Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004029>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:15:54.228Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.antiek-encyclopedie.nl/categorieen/meubelen/meubelen/300038888>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1732_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Meubelstuk (vanaf begin 17de eeuw) vaak van kostbaar hout, oorspronkelijk een kast met deuren (waarachter vakjes) op een hoog voetstuk. Later met laden van onderen (of geheel met deuren gesloten) waarachter zich laden en vakjes bevinden, om papieren, pronkstukken en kunstvoorwerpen op te bergen. \r\n\r\nBergmeubilair dat uit een aantal planken, kleine laadjes of vakjes bestaat waar één of meer deuren voor zitten. Ze zijn bestemd als opslagruimte en soms voor het vertonen van kleine voorwerpen. Er bestaan ook soortgelijke, vaste of ingebouwde kasten die vaak voor bepaalde doeleinden worden ontworpen zoals in een keuken of badkamer.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kabinet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005153>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000947>, <https://stad.gent/id/concept/530010636>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010636> <http://www.w3.org/2004/02/skos/core#prefLabel> "schrijfkabinet"@nl.
+<https://stad.gent/id/concept/530000947> <http://www.w3.org/2004/02/skos/core#prefLabel> "buikkabinet"@nl.
+<https://stad.gent/id/concept/530005153> <http://www.w3.org/2004/02/skos/core#prefLabel> "kastmeubel"@nl.
+_:df_1732_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004029"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004029/2021-10-31T11:15:54.228Z>.
+<https://stad.gent/id/concept/530003246/2021-10-31T10:59:31.116Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003246>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:59:31.116Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1719645>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1849_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kabelgoot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008780>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008780> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting (objectnaam)"@nl.
+_:df_1849_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003246"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003246/2021-10-31T10:59:31.116Z>.
+<https://stad.gent/id/concept/470010975/2021-10-31T09:09:29.272Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010975>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:09:29.272Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300250956>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2632_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor vervoerssystemen die bestaan uit bovengelegen bedrading, kabels of rails die hangende cabines dragen en voorttrekken, meestal langs een gesloten circuit; over het algemeen om passagiers langs stijle hellingen of over diepe dalen of watermassa's heen te vervoeren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kabelbaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2632_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010975"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010975/2021-10-31T09:09:29.272Z>.
+<https://stad.gent/id/concept/570024923/2021-10-28T14:51:00.134Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024923>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:51:00.134Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300250956>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4210_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kabelbaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4210_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024923"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024923/2021-10-28T14:51:00.134Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kab.ttl>.

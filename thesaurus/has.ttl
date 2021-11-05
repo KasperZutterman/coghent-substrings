@@ -40,3 +40,32 @@ _:df_1378_24 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550001981"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001981/2021-10-31T16:42:09.503Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/has.ttl>.
+<https://stad.gent/id/concept/530003845/2021-10-31T11:13:02.197Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:13:02.197Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006947>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1753_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hasselt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009328>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010648>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010648> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuringen"@nl.
+<https://stad.gent/id/concept/530009328> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie, België)"@nl.
+_:df_1753_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003845/2021-10-31T11:13:02.197Z>.
+<https://stad.gent/id/concept/570025061/2021-10-28T14:59:08.896Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025061>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:59:08.896Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q514641>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4153_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hastière"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001129>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl.
+_:df_4153_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025061"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025061/2021-10-28T14:59:08.896Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/has.ttl>.

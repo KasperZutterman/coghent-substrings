@@ -590,3 +590,282 @@ _:df_1903_13 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010111"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010111/2021-10-31T15:28:09.997Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ga.ttl>.
+<https://stad.gent/id/concept/530008873/2021-10-31T14:07:15.306Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008873>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:07:15.306Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300201092>;
+    <http://www.w3.org/ns/adms#identifier> _:df_517_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Keukengerei dat wordt gebruikt voor het klutsen, roeren en kloppen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/50003610>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/50003610> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei"@nl.
+_:df_517_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008873"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008873/2021-10-31T14:07:15.306Z>.
+<https://stad.gent/id/concept/530008698/2021-10-31T13:55:10.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008698>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:55:10.310Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053981>;
+    <http://www.w3.org/ns/adms#identifier> _:df_604_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Procedé waarbij een beschermende zinklaag wordt aangebracht op staal of ijzer om het tegen roest te beschermen.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "galvaniseren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008697>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008697> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaalbekledingstechniek"@nl.
+_:df_604_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008698"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530008698> <http://www.w3.org/2004/02/skos/core#prefLabel> "galvaniseren"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008698/2021-10-31T13:55:10.310Z>.
+<https://stad.gent/id/concept/530008453/2021-10-31T13:36:39.478Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008453>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:36:39.478Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014252>;
+    <http://www.w3.org/ns/adms#identifier> _:df_733_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003150>, <https://stad.gent/id/concept/530006563>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008898>, <https://stad.gent/id/concept/530008454>, <https://stad.gent/id/concept/530004489>, <https://stad.gent/id/concept/530004293>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004293> <http://www.w3.org/2004/02/skos/core#prefLabel> "vlasgaren"@nl.
+<https://stad.gent/id/concept/530004489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lurex"@nl.
+<https://stad.gent/id/concept/530008454> <http://www.w3.org/2004/02/skos/core#prefLabel> "kamgaren"@nl.
+<https://stad.gent/id/concept/530008898> <http://www.w3.org/2004/02/skos/core#prefLabel> "chenille"@nl.
+<https://stad.gent/id/concept/530006563> <http://www.w3.org/2004/02/skos/core#prefLabel> "textiel (materiaal)"@nl, "textiel (materiaal)"@nl.
+<https://stad.gent/id/concept/530003150> <http://www.w3.org/2004/02/skos/core#prefLabel> "koord (vezelproduct)"@nl, "koord (vezelproduct)"@nl.
+_:df_733_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008453"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530008453> <http://www.w3.org/2004/02/skos/core#prefLabel> "garen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008453/2021-10-31T13:36:39.478Z>.
+<https://stad.gent/id/concept/530008193/2021-10-31T13:26:04.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008193>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:26:04.950Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006044>;
+    <http://www.w3.org/ns/adms#identifier> _:df_808_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gallarate"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_808_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008193"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008193/2021-10-31T13:26:04.950Z>.
+<https://stad.gent/id/concept/530007049/2021-10-31T13:05:48.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007049>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:05:48.151Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2069328>;
+    <http://www.w3.org/ns/adms#identifier> _:df_952_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Garden City (New York)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_952_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007049"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007049/2021-10-31T13:05:48.151Z>.
+<https://stad.gent/id/concept/530005774/2021-10-31T12:17:00.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005774>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:17:00.472Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008823>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1300_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ganshoren (Vlaams-Brabant)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009325>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009325> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant"@nl.
+_:df_1300_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005774"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005774/2021-10-31T12:17:00.472Z>.
+<https://stad.gent/id/concept/530004730/2021-10-31T11:42:46.516Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004730>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:42:46.516Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1543_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garantiemerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010482>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010482> <http://www.w3.org/2004/02/skos/core#prefLabel> "merkteken (symbool)"@nl.
+_:df_1543_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004730"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004730/2021-10-31T11:42:46.516Z>.
+<https://stad.gent/id/concept/530003169/2021-10-31T10:55:43.487Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003169>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:55:43.487Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1876_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het gaspedaal is een pedaal dat in motorvoertuigen gebruikt wordt om het vermogen van de motor te regelen, door het beperken van de toevoer van brandstof en bij een mengselmotor lucht, te regelen. Hierdoor kan de snelheid van het voertuig verhoogd of verlaagd worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gaspedaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008798>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008798> <http://www.w3.org/2004/02/skos/core#prefLabel> "voertuigonderdeel"@nl.
+_:df_1876_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003169"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003169/2021-10-31T10:55:43.487Z>.
+<https://stad.gent/id/concept/530003025/2021-10-31T10:49:42.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003025>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:49:42.927Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1918_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Aansteker voor gasvuur.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gasaansteker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002953>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002953> <http://www.w3.org/2004/02/skos/core#prefLabel> "aansteker"@nl.
+_:df_1918_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003025"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003025/2021-10-31T10:49:42.927Z>.
+<https://stad.gent/id/concept/530002857/2021-10-31T10:41:26.037Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002857>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:41:26.037Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2011510>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1978_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gardena (California)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_1978_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002857"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002857/2021-10-31T10:41:26.037Z>.
+<https://stad.gent/id/concept/530000881/2021-10-31T09:50:46.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000881>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:50:46.472Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1493309>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2338_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gamtofte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005982>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Denemarken"@nl.
+_:df_2338_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000881"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000881/2021-10-31T09:50:46.472Z>.
+<https://stad.gent/id/concept/470010346/2021-10-31T08:56:19.998Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010346>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:56:19.998Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300257177>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2725_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor pan om grote hoeveelheden in te koken met name gebruikt voor soldaten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "gamel (kookgerei)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2725_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010346"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010346/2021-10-31T08:56:19.998Z>.
+<https://stad.gent/id/concept/470010018/2021-10-31T08:47:08.920Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010018>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:47:08.920Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1062999>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2791_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gävle"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2791_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010018"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010018/2021-10-31T08:47:08.920Z>.
+<https://stad.gent/id/concept/470009464/2021-10-31T08:27:05.467Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009464>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:27:05.467Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7238572>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2932_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Galmaarden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2932_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009464"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009464/2021-10-31T08:27:05.467Z>.
+<https://stad.gent/id/concept/470009378/2021-10-31T08:23:22.306Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009378>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:23:22.306Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008880>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2959_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gaasbeek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2959_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009378"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009378/2021-10-31T08:23:22.306Z>.
+<https://stad.gent/id/concept/470008722/2021-10-31T08:07:20.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008722>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:07:20.740Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300207793>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3073_48;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Klein, vaak van draad gemaakt keukengerei dat wordt gebruikt voor het handmatig kloppen van voedsel, zoals eieren, room of aardappelen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003528>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470003528> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei voor mixen"@nl.
+_:df_3073_48 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008722"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008722/2021-10-31T08:07:20.740Z>.
+<https://stad.gent/id/concept/470007282/2021-10-31T07:30:43.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007282>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:30:43.472Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379131>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3331_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een oud Frans bordspel dat vooral in de middeleeuwen populair was in Europa, al zegt men dat het is afgeleid van een Griekse voorloper. Het spel wordt gespeeld met pionnen op een bord, waarop een 'ganzentuin' is afgebeeld. Het bord is onderverdeeld in vakken, waarvan sommige een afbeelding van een gans dragen. Op andere vakken staan een herberg, een doodshoofd, een brug en een labyrint. Het doel van het spel is om de eigen pion op vak 63 te krijgen. Het spel werd indertijd doorgaans om geld gespeeld, en er werden speciale boetes gerekend als de pionnen op bepaalde vakken terechtkwamen. Aan het einde van de 18e eeuw werd een variant van dit spel ook wel 'jeu de la revolution française' ('spel van de Franse Revolutie') genoemd. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ganzenbordspel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470004311>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004311> <http://www.w3.org/2004/02/skos/core#prefLabel> "bordspel"@nl.
+_:df_3331_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007282"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007282/2021-10-31T07:30:43.472Z>.
+<https://stad.gent/id/concept/470006851/2021-10-31T07:15:12.609Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470006851>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:15:12.609Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/3186>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3442_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gasmeterlaan (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3442_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470006851"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470006851/2021-10-31T07:15:12.609Z>.
+<https://stad.gent/id/concept/670000916/2021-10-28T16:15:57.512Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:15:57.512Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/2871>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3628_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Garensteeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3628_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000916/2021-10-28T16:15:57.512Z>.
+<https://stad.gent/id/concept/670000917/2021-10-28T16:16:02.513Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000917>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:16:02.513Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/3186>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3628_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gasmeterlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3628_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000917"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000917/2021-10-28T16:16:02.513Z>.
+<https://KasperZutterman.github.io///thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_1139.
+_:df_1_1139 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gas.ttl>;
+    <https://w3id.org/tree#value> "gas".
+<https://KasperZutterman.github.io///thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_1140.
+_:df_1_1140 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gan.ttl>;
+    <https://w3id.org/tree#value> "gan".
+<https://KasperZutterman.github.io///thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_1141.
+_:df_1_1141 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gau.ttl>;
+    <https://w3id.org/tree#value> "gau".
+<https://KasperZutterman.github.io///thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_1142.
+_:df_1_1142 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gal.ttl>;
+    <https://w3id.org/tree#value> "gal".
+<https://KasperZutterman.github.io///thesaurus/ga.ttl> <https://w3id.org/tree#relation> _:df_1_1143.
+_:df_1_1143 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/gar.ttl>;
+    <https://w3id.org/tree#value> "gar".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ga.ttl>.

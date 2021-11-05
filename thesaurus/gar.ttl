@@ -61,3 +61,14 @@ _:df_1486_11 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570008720"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008720/2021-10-31T20:59:22.911Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/gar.ttl>.
+<https://stad.gent/id/concept/670000288/2021-10-28T15:24:25.924Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:24:25.924Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3979_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "garentwijnder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3979_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000288/2021-10-28T15:24:25.924Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/gar.ttl>.

@@ -871,3 +871,328 @@ _:df_1_94 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tl.ttl>;
     <https://w3id.org/tree#value> "tl".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/t.ttl>.
+<https://stad.gent/id/concept/530009962/2021-10-31T15:16:00.440Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009962>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:16:00.440Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053001>;
+    <http://www.w3.org/ns/adms#identifier> _:df_31_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "techniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009963>, <https://stad.gent/id/concept/530009966>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009966> <http://www.w3.org/2004/02/skos/core#prefLabel> "specifieke techniek"@nl.
+<https://stad.gent/id/concept/530009963> <http://www.w3.org/2004/02/skos/core#prefLabel> "algemene techniek"@nl.
+_:df_31_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009962"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530009962> <http://www.w3.org/2004/02/skos/core#prefLabel> "techniek"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009962/2021-10-31T15:16:00.440Z>.
+<https://stad.gent/id/concept/530009958/2021-10-31T15:15:40.433Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009958>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:15:40.433Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009962>;
+    <http://www.w3.org/ns/adms#identifier> _:df_34_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Turku"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006015>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006015> <http://www.w3.org/2004/02/skos/core#prefLabel> "Finland"@nl.
+_:df_34_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009958"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009958/2021-10-31T15:15:40.433Z>.
+<https://stad.gent/id/concept/530009914/2021-10-31T15:12:12.606Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009914>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:12:12.606Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1063753>;
+    <http://www.w3.org/ns/adms#identifier> _:df_58_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tranås"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006450>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweden"@nl.
+_:df_58_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009914"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009914/2021-10-31T15:12:12.606Z>.
+<https://stad.gent/id/concept/530009810/2021-10-31T15:03:41.540Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009810>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:03:41.540Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026772>;
+    <http://www.w3.org/ns/adms#identifier> _:df_118_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tubize"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009327>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009327> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant"@nl.
+_:df_118_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009810"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009810/2021-10-31T15:03:41.540Z>.
+<https://stad.gent/id/concept/530009793/2021-10-31T15:02:15.120Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009793>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:02:15.120Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1048806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_127_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trysil"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005642>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005642> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noorwegen"@nl.
+_:df_127_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009793"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009793/2021-10-31T15:02:15.120Z>.
+<https://stad.gent/id/concept/530009737/2021-10-31T14:57:35.736Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009737>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:57:35.736Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1037821>;
+    <http://www.w3.org/ns/adms#identifier> _:df_160_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Taucha"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl, "Duitsland"@nl.
+_:df_160_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009737"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009737/2021-10-31T14:57:35.736Z>.
+<https://stad.gent/id/concept/530009681/2021-10-31T14:53:17.288Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009681>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:53:17.288Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_193_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tsjecho-Slowaaks"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_193_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009681"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009681/2021-10-31T14:53:17.288Z>.
+<https://stad.gent/id/concept/530009671/2021-10-31T14:52:11.594Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009671>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:52:11.594Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005773>;
+    <http://www.w3.org/ns/adms#identifier> _:df_199_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Torda"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000358>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000358> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hongarije"@nl.
+_:df_199_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009671"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009671/2021-10-31T14:52:11.594Z>.
+<https://stad.gent/id/concept/530009625/2021-10-31T14:48:33.930Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009625>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:48:33.930Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011182>;
+    <http://www.w3.org/ns/adms#identifier> _:df_223_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Thessaloniki"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002761>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002761> <http://www.w3.org/2004/02/skos/core#prefLabel> "Griekenland"@nl.
+_:df_223_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009625"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009625/2021-10-31T14:48:33.930Z>.
+<https://stad.gent/id/concept/530009627/2021-10-31T14:48:38.931Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:48:38.931Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014378>;
+    <http://www.w3.org/ns/adms#identifier> _:df_223_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Toledo (Ohio)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_223_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009627/2021-10-31T14:48:38.931Z>.
+<https://stad.gent/id/concept/530009615/2021-10-31T14:47:48.301Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009615>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:47:48.301Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/8705086>;
+    <http://www.w3.org/ns/adms#identifier> _:df_229_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tafers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003380>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003380> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_229_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009615"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009615/2021-10-31T14:47:48.301Z>.
+<https://stad.gent/id/concept/530009616/2021-10-31T14:47:53.302Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:47:53.302Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013974>;
+    <http://www.w3.org/ns/adms#identifier> _:df_229_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tampa (Florida)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_229_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009616/2021-10-31T14:47:53.302Z>.
+<https://stad.gent/id/concept/530009617/2021-10-31T14:47:58.303Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009617>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:47:58.303Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009960>;
+    <http://www.w3.org/ns/adms#identifier> _:df_229_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tampere"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006015>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006015> <http://www.w3.org/2004/02/skos/core#prefLabel> "Finland"@nl.
+_:df_229_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009617"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009617/2021-10-31T14:47:58.303Z>.
+<https://stad.gent/id/concept/530009550/2021-10-31T14:42:39.388Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009550>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:42:39.388Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1035852>;
+    <http://www.w3.org/ns/adms#identifier> _:df_265_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Thiers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_265_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009550"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009550/2021-10-31T14:42:39.388Z>.
+<https://stad.gent/id/concept/530009487/2021-10-31T14:38:26.242Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009487>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:38:26.242Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300255591>;
+    <http://www.w3.org/ns/adms#identifier> _:df_295_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote vorken in een couvert die worden gebruikt voor het nuttigen van het hoofdgerecht van een maaltijd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tafelvork"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002989>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002989> <http://www.w3.org/2004/02/skos/core#prefLabel> "vork behorend bij een couvert"@nl.
+_:df_295_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009487"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009487/2021-10-31T14:38:26.242Z>.
+<https://stad.gent/id/concept/530009462/2021-10-31T14:36:30.005Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009462>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:36:30.005Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043196>;
+    <http://www.w3.org/ns/adms#identifier> _:df_310_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verzamelnaam voor voorwerpen die worden gebruikt voor het opdienen van eten aan tafel, met inbegrip van verschillende soorten borden, bestek, potten en pannen, schalen en accessoires zoals onderzetters en servetringen, die niet persé tot het serviesgoed behoren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tafelgerei (objectnaam)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008614>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001637>, <https://stad.gent/id/concept/530009161>, <https://stad.gent/id/concept/530005735>, <https://stad.gent/id/concept/530000481>, <https://stad.gent/id/concept/530000300>, <https://stad.gent/id/concept/530004294>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004294> <http://www.w3.org/2004/02/skos/core#prefLabel> "vingerkom"@nl.
+<https://stad.gent/id/concept/530000300> <http://www.w3.org/2004/02/skos/core#prefLabel> "vingerdoekring"@nl.
+<https://stad.gent/id/concept/530000481> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafelborstel"@nl.
+<https://stad.gent/id/concept/530005735> <http://www.w3.org/2004/02/skos/core#prefLabel> "servies"@nl.
+<https://stad.gent/id/concept/530009161> <http://www.w3.org/2004/02/skos/core#prefLabel> "servetring"@nl.
+<https://stad.gent/id/concept/530001637> <http://www.w3.org/2004/02/skos/core#prefLabel> "aperitiefhapjesstaander"@nl.
+<https://stad.gent/id/concept/530008614> <http://www.w3.org/2004/02/skos/core#prefLabel> "culinaire uitrusting"@nl.
+_:df_310_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009462"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009462/2021-10-31T14:36:30.005Z>.
+<https://stad.gent/id/concept/530009426/2021-10-31T14:33:58.027Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009426>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:33:58.027Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/8703938>;
+    <http://www.w3.org/ns/adms#identifier> _:df_328_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Triengen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003380>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003380> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl, "Zwitserland"@nl, "Zwitserland"@nl.
+_:df_328_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009426"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009426/2021-10-31T14:33:58.027Z>.
+<https://stad.gent/id/concept/530009346/2021-10-31T14:27:32.240Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009346>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:27:32.240Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009760>;
+    <http://www.w3.org/ns/adms#identifier> _:df_373_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Toscane (regio)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010557>, <https://stad.gent/id/concept/530010706>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010706> <http://www.w3.org/2004/02/skos/core#prefLabel> "Malgrate"@nl.
+<https://stad.gent/id/concept/530010557> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pisa (provincie)"@nl.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_373_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009346"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009346/2021-10-31T14:27:32.240Z>.
+<https://stad.gent/id/concept/530009301/2021-10-31T14:23:58.891Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009301>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:23:58.891Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233436>;
+    <http://www.w3.org/ns/adms#identifier> _:df_397_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ondoorzichtig glazuur dat een tinoxide of tinas bevat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tinglazuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006467>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006467> <http://www.w3.org/2004/02/skos/core#prefLabel> "glazuur"@nl.
+_:df_397_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009301"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009301/2021-10-31T14:23:58.891Z>.
+<https://stad.gent/id/concept/530009242/2021-10-31T14:19:25.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009242>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:19:25.481Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300216691>;
+    <http://www.w3.org/ns/adms#identifier> _:df_430_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tafelbedekking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008250>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009118>, <https://stad.gent/id/concept/530002968>, <https://stad.gent/id/concept/530002970>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002970> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafellaken"@nl.
+<https://stad.gent/id/concept/530002968> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafelkleed"@nl.
+<https://stad.gent/id/concept/530009118> <http://www.w3.org/2004/02/skos/core#prefLabel> "placemat"@nl.
+<https://stad.gent/id/concept/530008250> <http://www.w3.org/2004/02/skos/core#prefLabel> "bedekkingen en voorhangen"@nl.
+_:df_430_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009242"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009242/2021-10-31T14:19:25.481Z>.
+<https://KasperZutterman.github.io///thesaurus/t.ttl> <https://w3id.org/tree#relation> _:df_1_220.
+_:df_1_220 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tr.ttl>;
+    <https://w3id.org/tree#value> "tr".
+<https://KasperZutterman.github.io///thesaurus/t.ttl> <https://w3id.org/tree#relation> _:df_1_221.
+_:df_1_221 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ta.ttl>;
+    <https://w3id.org/tree#value> "ta".
+<https://KasperZutterman.github.io///thesaurus/t.ttl> <https://w3id.org/tree#relation> _:df_1_222.
+_:df_1_222 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tu.ttl>;
+    <https://w3id.org/tree#value> "tu".
+<https://KasperZutterman.github.io///thesaurus/t.ttl> <https://w3id.org/tree#relation> _:df_1_223.
+_:df_1_223 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/te.ttl>;
+    <https://w3id.org/tree#value> "te".
+<https://KasperZutterman.github.io///thesaurus/t.ttl> <https://w3id.org/tree#relation> _:df_1_224.
+_:df_1_224 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/to.ttl>;
+    <https://w3id.org/tree#value> "to".
+<https://KasperZutterman.github.io///thesaurus/t.ttl> <https://w3id.org/tree#relation> _:df_1_225.
+_:df_1_225 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ti.ttl>;
+    <https://w3id.org/tree#value> "ti".
+<https://KasperZutterman.github.io///thesaurus/t.ttl> <https://w3id.org/tree#relation> _:df_1_226.
+_:df_1_226 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/th.ttl>;
+    <https://w3id.org/tree#value> "th".
+<https://KasperZutterman.github.io///thesaurus/t.ttl> <https://w3id.org/tree#relation> _:df_1_227.
+_:df_1_227 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tw.ttl>;
+    <https://w3id.org/tree#value> "tw".
+<https://KasperZutterman.github.io///thesaurus/t.ttl> <https://w3id.org/tree#relation> _:df_1_228.
+_:df_1_228 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ts.ttl>;
+    <https://w3id.org/tree#value> "ts".
+<https://KasperZutterman.github.io///thesaurus/t.ttl> <https://w3id.org/tree#relation> _:df_1_229.
+_:df_1_229 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/t+s.ttl>;
+    <https://w3id.org/tree#value> "t", "s".
+<https://KasperZutterman.github.io///thesaurus/t.ttl> <https://w3id.org/tree#relation> _:df_1_230.
+_:df_1_230 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ty.ttl>;
+    <https://w3id.org/tree#value> "ty".
+<https://KasperZutterman.github.io///thesaurus/t.ttl> <https://w3id.org/tree#relation> _:df_1_231.
+_:df_1_231 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/t+g.ttl>;
+    <https://w3id.org/tree#value> "t", "g".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/t.ttl>.

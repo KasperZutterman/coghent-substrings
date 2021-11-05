@@ -215,3 +215,232 @@ _:df_1900_8 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010117"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010117/2021-10-31T15:28:30.006Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pro.ttl>.
+<https://stad.gent/id/concept/530001151/2021-10-31T09:59:58.574Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001151>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:59:58.574Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2272_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productienummer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2272_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001151"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001151/2021-10-31T09:59:58.574Z>.
+<https://stad.gent/id/concept/530000280/2021-10-31T09:23:55.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:23:55.334Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2530_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productnummer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000043>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000043> <http://www.w3.org/2004/02/skos/core#prefLabel> "opschrift"@nl.
+_:df_2530_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000280/2021-10-31T09:23:55.334Z>.
+<https://stad.gent/id/concept/470009702/2021-10-31T08:35:41.607Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:35:41.607Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069290>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2872_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor gelegenheden waarbij een groep mensen ordelijk achter elkaar loopt in formeel, ceremonieel verband. Gebruik 'optochten' voor grote openbare processies met een feestelijk karakter, vaak met wagens en fanfare en gehouden ter ere van een gedenkdag, persoon of gebeurtenis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "processie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008889>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470002299>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002299> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heilig-Bloedprocessie"@nl.
+<https://stad.gent/id/concept/470008889> <http://www.w3.org/2004/02/skos/core#prefLabel> "optocht"@nl.
+_:df_2872_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009702/2021-10-31T08:35:41.607Z>.
+<https://stad.gent/id/concept/470009565/2021-10-31T08:30:27.906Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009565>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:30:27.906Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7250384>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2908_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Proven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2908_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009565"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009565/2021-10-31T08:30:27.906Z>.
+<https://stad.gent/id/concept/470008429/2021-10-31T07:59:09.787Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008429>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:59:09.787Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027240>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3130_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Korte uiteenzettingen of verklaringen omtrent een te volgen procedure, over deelnamecriteria of over de onderwerpen die bij een bepaald evenement of een bepaalde onderneming aan de orde komen. Hieronder vallen onder meer opsommingen van de werkzaamheden die een (toneel)uitvoering met zich meebrengt, inclusief de namen van de uitvoerenden. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "programma"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470004542>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaalsoort"@nl, "document type"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004542> <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwprogramma"@nl.
+_:df_3130_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008429"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008429/2021-10-31T07:59:09.787Z>.
+<https://stad.gent/id/concept/470007808/2021-10-31T07:41:11.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007808>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:41:11.536Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132472>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3259_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het openlijk uiten van bezwaar, afkeuring of een afwijkende mening.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "protesteren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3259_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007808"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007808/2021-10-31T07:41:11.536Z>.
+<https://stad.gent/id/concept/670001292/2021-10-30T07:57:38.588Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001292>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-30T07:57:38.588Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q121594>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3460_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "professor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3460_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001292"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001292/2021-10-30T07:57:38.588Z>.
+<https://stad.gent/id/concept/670001171/2021-10-28T16:32:21.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001171>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:32:21.702Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q56009113>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3517_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Provinciale Tentoonstelling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3517_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001171"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001171/2021-10-28T16:32:21.702Z>.
+<https://stad.gent/id/concept/670000991/2021-10-28T16:22:29.647Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000991>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:22:29.647Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/3105>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3586_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Provenierstersstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3586_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000991"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000991/2021-10-28T16:22:29.647Z>.
+<https://stad.gent/id/concept/670000478/2021-10-28T15:39:17.360Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000478>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:39:17.360Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3880_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> " procureur schepenbank van gedele"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3880_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000478"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000478/2021-10-28T15:39:17.360Z>.
+<https://stad.gent/id/concept/670000395/2021-10-28T15:32:22.720Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000395>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:32:22.720Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025630>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3925_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "procureur keure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3925_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000395"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000395/2021-10-28T15:32:22.720Z>.
+<https://stad.gent/id/concept/670000396/2021-10-28T15:32:27.721Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000396>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:32:27.721Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025630>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3925_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "procureur Raad van Vlaanderen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3925_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000396"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000396/2021-10-28T15:32:27.721Z>.
+<https://stad.gent/id/concept/670000397/2021-10-28T15:32:32.723Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000397>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:32:32.723Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025630>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3925_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "procureur van de schepenen van gedele"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3925_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000397"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000397/2021-10-28T15:32:32.723Z>.
+<https://stad.gent/id/concept/670000398/2021-10-28T15:32:37.724Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000398>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:32:37.724Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300237375>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3925_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proost"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3925_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000398"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000398/2021-10-28T15:32:37.724Z>.
+<https://stad.gent/id/concept/670000393/2021-10-28T15:32:12.716Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000393>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:32:12.716Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025471>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3928_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "procurator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3928_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000393"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000393/2021-10-28T15:32:12.716Z>.
+<https://stad.gent/id/concept/670000394/2021-10-28T15:32:17.718Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000394>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:32:17.718Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025630>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3928_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "procureur gedele"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3928_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000394"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000394/2021-10-28T15:32:17.718Z>.
+<https://stad.gent/id/concept/670000053/2021-10-28T15:04:26.798Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000053>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:04:26.798Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025630>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4117_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "procureur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4117_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000053"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000053/2021-10-28T15:04:26.798Z>.
+<https://stad.gent/id/concept/570024758/2021-10-28T14:43:40.061Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024758>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:43:40.061Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4261_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "proefstukken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4261_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024758"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024758/2021-10-28T14:43:40.061Z>.
+<https://stad.gent/id/concept/570024119/2021-10-28T14:13:07.451Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024119>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:13:07.451Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4468_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "productfiche"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4468_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024119"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024119/2021-10-28T14:13:07.451Z>.
+<https://stad.gent/id/concept/570024103/2021-10-28T14:11:55.083Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024103>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:11:55.083Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4477_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "projectiepaneel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4477_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024103"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024103/2021-10-28T14:11:55.083Z>.
+<https://KasperZutterman.github.io///thesaurus/pro.ttl> <https://w3id.org/tree#relation> _:df_1_1199.
+_:df_1_1199 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/prod.ttl>;
+    <https://w3id.org/tree#value> "prod".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pro.ttl>.

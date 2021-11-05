@@ -70,3 +70,52 @@ _:df_1429_8 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550001596"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001596/2021-10-31T16:34:44.876Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/spo.ttl>.
+<https://stad.gent/id/concept/530002057/2021-10-31T10:31:21.942Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002057>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:31:21.942Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300180323>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2050_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verlichtingsmiddelen met een lens of lenssysteem die een geconcentreerde, sterke lichtbundel maakt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spotlicht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009469>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009469> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddel"@nl.
+_:df_2050_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002057"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002057/2021-10-31T10:31:21.942Z>.
+<https://stad.gent/id/concept/470009783/2021-10-31T08:37:32.970Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:37:32.970Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300222725>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2860_38;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor spelen waarbij een redelijk hoeveelheid individuele vaardigheid en lichamelijke bekwaamheid zijn gemoeid.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "sport"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470001867>, <https://stad.gent/id/concept/470004525>, <https://stad.gent/id/concept/470001734>, <https://stad.gent/id/concept/470008511>, <https://stad.gent/id/concept/470007584>, <https://stad.gent/id/concept/470001910>, <https://stad.gent/id/concept/470009318>, <https://stad.gent/id/concept/470008608>, <https://stad.gent/id/concept/470008647>, <https://stad.gent/id/concept/470007589>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470007589> <http://www.w3.org/2004/02/skos/core#prefLabel> "wielrennen"@nl.
+<https://stad.gent/id/concept/470008647> <http://www.w3.org/2004/02/skos/core#prefLabel> "voetbal"@nl.
+<https://stad.gent/id/concept/470008608> <http://www.w3.org/2004/02/skos/core#prefLabel> "turnen"@nl.
+<https://stad.gent/id/concept/470009318> <http://www.w3.org/2004/02/skos/core#prefLabel> "surfen"@nl.
+<https://stad.gent/id/concept/470001910> <http://www.w3.org/2004/02/skos/core#prefLabel> "rolschaatsen"@nl.
+<https://stad.gent/id/concept/470007584> <http://www.w3.org/2004/02/skos/core#prefLabel> "roeien"@nl.
+<https://stad.gent/id/concept/470008511> <http://www.w3.org/2004/02/skos/core#prefLabel> "paardenrennen"@nl.
+<https://stad.gent/id/concept/470001734> <http://www.w3.org/2004/02/skos/core#prefLabel> "motorsport"@nl.
+<https://stad.gent/id/concept/470004525> <http://www.w3.org/2004/02/skos/core#prefLabel> "boksen"@nl.
+<https://stad.gent/id/concept/470001867> <http://www.w3.org/2004/02/skos/core#prefLabel> "basketbal"@nl.
+_:df_2860_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009783/2021-10-31T08:37:32.970Z>.
+<https://stad.gent/id/concept/470007002/2021-10-31T07:20:46.077Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:20:46.077Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300008591>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3403_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "spoorwegen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3403_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007002/2021-10-31T07:20:46.077Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/spo.ttl>.

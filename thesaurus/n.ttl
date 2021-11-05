@@ -825,3 +825,293 @@ _:df_1_251 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/nr.ttl>;
     <https://w3id.org/tree#value> "nr".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/n.ttl>.
+<https://stad.gent/id/concept/530009947/2021-10-31T15:14:54.629Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009947>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:14:54.629Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007965>;
+    <http://www.w3.org/ns/adms#identifier> _:df_37_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuwpoort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530007350>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530007350> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_37_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009947"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009947/2021-10-31T15:14:54.629Z>.
+<https://stad.gent/id/concept/530009948/2021-10-31T15:14:59.630Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009948>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:14:59.630Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7250070>;
+    <http://www.w3.org/ns/adms#identifier> _:df_37_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nossegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009383>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009383> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaventem"@nl.
+_:df_37_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009948"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009948/2021-10-31T15:14:59.630Z>.
+<https://stad.gent/id/concept/530009921/2021-10-31T15:12:47.615Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009921>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:12:47.615Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014218>;
+    <http://www.w3.org/ns/adms#identifier> _:df_52_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Newark (New Jersey)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_52_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009921"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009921/2021-10-31T15:12:47.615Z>.
+<https://stad.gent/id/concept/530009901/2021-10-31T15:11:06.471Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009901>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:11:06.471Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2081118>;
+    <http://www.w3.org/ns/adms#identifier> _:df_64_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "North Olmsted"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_64_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009901"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009901/2021-10-31T15:11:06.471Z>.
+<https://stad.gent/id/concept/530009868/2021-10-31T15:08:24.552Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009868>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:08:24.552Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1005183>;
+    <http://www.w3.org/ns/adms#identifier> _:df_85_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neustadt (Bremen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005992>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005992> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bremen"@nl.
+_:df_85_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009868"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009868/2021-10-31T15:08:24.552Z>.
+<https://stad.gent/id/concept/530009858/2021-10-31T15:07:33.934Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:07:33.934Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003576>;
+    <http://www.w3.org/ns/adms#identifier> _:df_91_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Næstved"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005982>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Denemarken"@nl, "Denemarken"@nl.
+_:df_91_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009858/2021-10-31T15:07:33.934Z>.
+<https://stad.gent/id/concept/530009831/2021-10-31T15:05:27.631Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009831>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:05:27.631Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1040391>;
+    <http://www.w3.org/ns/adms#identifier> _:df_106_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nagold"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_106_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009831"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009831/2021-10-31T15:05:27.631Z>.
+<https://stad.gent/id/concept/530009817/2021-10-31T15:04:16.551Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009817>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:04:16.551Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7303402>;
+    <http://www.w3.org/ns/adms#identifier> _:df_115_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Navàs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005644>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005644> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spanje"@nl.
+_:df_115_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009817"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009817/2021-10-31T15:04:16.551Z>.
+<https://stad.gent/id/concept/530009807/2021-10-31T15:03:25.743Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009807>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:03:25.743Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q27996474>;
+    <http://www.w3.org/ns/adms#identifier> _:df_121_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Noordelijke Nederlanden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000679>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en, "land"@nl, "country"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000679> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederlanden"@nl.
+_:df_121_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009807"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009807/2021-10-31T15:03:25.743Z>.
+<https://stad.gent/id/concept/530009780/2021-10-31T15:01:09.438Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009780>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:01:09.438Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007964>;
+    <http://www.w3.org/ns/adms#identifier> _:df_136_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nijvel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009327>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009327> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant"@nl.
+_:df_136_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009780"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009780/2021-10-31T15:01:09.438Z>.
+<https://stad.gent/id/concept/530009674/2021-10-31T14:52:42.278Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009674>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:52:42.278Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003048>;
+    <http://www.w3.org/ns/adms#identifier> _:df_196_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Noale"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_196_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009674"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009674/2021-10-31T14:52:42.278Z>.
+<https://stad.gent/id/concept/530009663/2021-10-31T14:51:31.581Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:51:31.581Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7010911>;
+    <http://www.w3.org/ns/adms#identifier> _:df_202_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Northampton (Northamptonshire)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009323>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009323> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl.
+_:df_202_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009663/2021-10-31T14:51:31.581Z>.
+<https://stad.gent/id/concept/530009643/2021-10-31T14:49:55.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009643>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:49:55.355Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005474>;
+    <http://www.w3.org/ns/adms#identifier> _:df_214_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nienburg/Weser"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_214_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009643"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009643/2021-10-31T14:49:55.355Z>.
+<https://stad.gent/id/concept/530009560/2021-10-31T14:43:25.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009560>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:43:25.081Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047991>;
+    <http://www.w3.org/ns/adms#identifier> _:df_259_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Noordwijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009316>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009316> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zuid-Holland"@nl.
+_:df_259_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009560"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009560/2021-10-31T14:43:25.081Z>.
+<https://stad.gent/id/concept/530009562/2021-10-31T14:43:35.083Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:43:35.083Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009891>;
+    <http://www.w3.org/ns/adms#identifier> _:df_259_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nuutajärvi"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006015>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006015> <http://www.w3.org/2004/02/skos/core#prefLabel> "Finland"@nl.
+_:df_259_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009562/2021-10-31T14:43:35.083Z>.
+<https://stad.gent/id/concept/530009554/2021-10-31T14:42:59.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009554>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:42:59.396Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007960>;
+    <http://www.w3.org/ns/adms#identifier> _:df_262_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009334>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009861>, <https://stad.gent/id/concept/530009932>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009932> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gochenée"@nl.
+<https://stad.gent/id/concept/530009861> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eghezée"@nl.
+<https://stad.gent/id/concept/530009334> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl.
+_:df_262_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009554"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009554/2021-10-31T14:42:59.396Z>.
+<https://stad.gent/id/concept/530009556/2021-10-31T14:43:10.076Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009556>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:43:10.076Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026631>;
+    <http://www.w3.org/ns/adms#identifier> _:df_262_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neerpelt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009328>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009328> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie, België)"@nl.
+_:df_262_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009556"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009556/2021-10-31T14:43:10.076Z>.
+<https://stad.gent/id/concept/530009557/2021-10-31T14:43:15.077Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009557>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:43:15.077Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004978>;
+    <http://www.w3.org/ns/adms#identifier> _:df_262_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neuss"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_262_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009557"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009557/2021-10-31T14:43:15.077Z>.
+<https://stad.gent/id/concept/530009559/2021-10-31T14:43:20.080Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009559>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:43:20.080Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014214>;
+    <http://www.w3.org/ns/adms#identifier> _:df_262_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "New Orleans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_262_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009559"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009559/2021-10-31T14:43:20.080Z>.
+<https://stad.gent/id/concept/530009553/2021-10-31T14:42:54.393Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009553>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:42:54.393Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1005150>;
+    <http://www.w3.org/ns/adms#identifier> _:df_265_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nagytétény"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000358>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000358> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hongarije"@nl.
+_:df_265_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009553"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009553/2021-10-31T14:42:54.393Z>.
+<https://KasperZutterman.github.io///thesaurus/n.ttl> <https://w3id.org/tree#relation> _:df_1_200.
+_:df_1_200 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ne.ttl>;
+    <https://w3id.org/tree#value> "ne".
+<https://KasperZutterman.github.io///thesaurus/n.ttl> <https://w3id.org/tree#relation> _:df_1_201.
+_:df_1_201 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/na.ttl>;
+    <https://w3id.org/tree#value> "na".
+<https://KasperZutterman.github.io///thesaurus/n.ttl> <https://w3id.org/tree#relation> _:df_1_202.
+_:df_1_202 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/no.ttl>;
+    <https://w3id.org/tree#value> "no".
+<https://KasperZutterman.github.io///thesaurus/n.ttl> <https://w3id.org/tree#relation> _:df_1_203.
+_:df_1_203 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/nu.ttl>;
+    <https://w3id.org/tree#value> "nu".
+<https://KasperZutterman.github.io///thesaurus/n.ttl> <https://w3id.org/tree#relation> _:df_1_204.
+_:df_1_204 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ni.ttl>;
+    <https://w3id.org/tree#value> "ni".
+<https://KasperZutterman.github.io///thesaurus/n.ttl> <https://w3id.org/tree#relation> _:df_1_205.
+_:df_1_205 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ny.ttl>;
+    <https://w3id.org/tree#value> "ny".
+<https://KasperZutterman.github.io///thesaurus/n.ttl> <https://w3id.org/tree#relation> _:df_1_206.
+_:df_1_206 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ns.ttl>;
+    <https://w3id.org/tree#value> "ns".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/n.ttl>.

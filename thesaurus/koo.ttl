@@ -116,3 +116,202 @@ _:df_1393_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550001923"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001923/2021-10-31T16:39:53.355Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/koo.ttl>.
+<https://stad.gent/id/concept/530006459/2021-10-31T12:47:00.538Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006459>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:47:00.538Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1087_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kookwekker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000105>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000105> <http://www.w3.org/2004/02/skos/core#prefLabel> "wekker"@nl.
+_:df_1087_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006459"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006459/2021-10-31T12:47:00.538Z>.
+<https://stad.gent/id/concept/530005884/2021-10-31T12:20:53.054Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005884>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:20:53.054Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264720>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1273_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Element dat de structuur bepaalt van alle plantaardige en dierlijke weefsels. Chemisch symbool C, atoomnummer 6. Koolstof kan in allerlei vormen voorkomen: als diamant, grafiet, steenkool, carbonzwart of fullereen. Koolstof komt in hoge concentraties voor in steenkool, cokes, benzine en aardgas. Ook eiwitten zoals haar, vlees en zijde bevatten koolstof, naast andere elementen. Er bestaan meer dan zes en een half miljoen verschillende koolstofverbindingen, waaronder suiker, zetmeel en papier.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koolstof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003235>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003079>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003079> <http://www.w3.org/2004/02/skos/core#prefLabel> "koolstofvezel"@nl.
+<https://stad.gent/id/concept/530003235> <http://www.w3.org/2004/02/skos/core#prefLabel> "anorganisch materiaal"@nl.
+_:df_1273_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005884"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005884/2021-10-31T12:20:53.054Z>.
+<https://stad.gent/id/concept/530004403/2021-10-31T11:28:45.967Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004403>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:28:45.967Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210429>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1642_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lange, halfronde cape-achtige kledingstukken die bij de hals worden gesloten met een gesp en met een rijkversierde kap; gedragen door geestelijken bij processies en andere ceremoniële gelegenheden. Ook soortgelijke kleding die wordt gedragen door leken als kronings- of processiegewaad.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koorkap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001363>, <https://stad.gent/id/concept/530008862>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008393>, <https://stad.gent/id/concept/530008409>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008409> <http://www.w3.org/2004/02/skos/core#prefLabel> "koorkapschild"@nl.
+<https://stad.gent/id/concept/530008393> <http://www.w3.org/2004/02/skos/core#prefLabel> "aurifrisium"@nl.
+<https://stad.gent/id/concept/530008862> <http://www.w3.org/2004/02/skos/core#prefLabel> "liturgische kledij"@nl.
+<https://stad.gent/id/concept/530001363> <http://www.w3.org/2004/02/skos/core#prefLabel> "cape"@nl.
+_:df_1642_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004403"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004403/2021-10-31T11:28:45.967Z>.
+<https://stad.gent/id/concept/530004266/2021-10-31T11:23:41.613Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004266>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:23:41.613Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010907>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1678_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Staal zonder vastgesteld minimumgehalte aan legeringelementen. De term kan ook verwijzen naar staal dat niet meer dan 0,4% koper bevat of naar staal met een maximumgehalte van 1,65% mangaan, 0,6% silicium en 0,6% koper.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koolstofstaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001667>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001667> <http://www.w3.org/2004/02/skos/core#prefLabel> "staal (materiaal)"@nl.
+_:df_1678_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004266"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004266/2021-10-31T11:23:41.613Z>.
+<https://stad.gent/id/concept/530003150/2021-10-31T10:54:52.874Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003150>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:54:52.874Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014247>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1882_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een lange, dunne, buigzame, ietwat cilindervormige constructie van vezelachtig materiaal, meestal gemaakt van meerdere strengen die zijn samengevlochten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koord (vezelproduct)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008456>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008538>, <https://stad.gent/id/concept/530008453>, <https://stad.gent/id/concept/530004583>, <https://stad.gent/id/concept/530002065>, <https://stad.gent/id/concept/530001869>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001869> <http://www.w3.org/2004/02/skos/core#prefLabel> "touw (materiaal)"@nl.
+<https://stad.gent/id/concept/530002065> <http://www.w3.org/2004/02/skos/core#prefLabel> "papierkoord"@nl.
+<https://stad.gent/id/concept/530004583> <http://www.w3.org/2004/02/skos/core#prefLabel> "goudkoord"@nl.
+<https://stad.gent/id/concept/530008453> <http://www.w3.org/2004/02/skos/core#prefLabel> "garen"@nl.
+<https://stad.gent/id/concept/530008538> <http://www.w3.org/2004/02/skos/core#prefLabel> "draad"@nl.
+<https://stad.gent/id/concept/530008456> <http://www.w3.org/2004/02/skos/core#prefLabel> "vezelproduct"@nl.
+_:df_1882_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003150"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003150/2021-10-31T10:54:52.874Z>.
+<https://stad.gent/id/concept/530003079/2021-10-31T10:51:59.763Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003079>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:51:59.763Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q5860>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1903_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Koolstofvezel is een materiaal dat bestaat uit extreem dunne vezels van koolstof. De vezels met een dikte van ca. 5 - 10 micrometer bestaan uit langgerekte koolstofkristallen die min of meer evenwijdig zijn met de vezelas. De vezel kenmerkt zich door een zeer kleine rek voordat de vezel breekt (minder dan een kwart van die van aramidevezel). Enige duizenden vezels worden getwijnd tot garen, dat als zodanig toegepast wordt, of eerst tot matten geweven wordt. De vezels en de matten worden voornamelijk gebruikt als versterking in kunsthars voor de fabricage van zeer sterke en lichte composieten. Koolstofvezel wordt soms \"grafietvezel\" genoemd. Dit is incorrect omdat grafiet een zeer zachte vorm van koolstof is die geen vezelstructuur heeft.\r\n\r\nKoolstofvezels worden gemaakt uit acrylvezels die door middel van pyrolyse bij temperaturen tot 3000 °C verkoold worden.\r\n\r\nKoolstofvezel heeft als eigenschap dat het niet oxideert onder invloed van water en zuurstof. Het heeft een aanmerkelijk lagere dichtheid dan staal, een grote treksterkte en een lage uitzettingscoëfficiënt. Deze eigenschappen maken koolstofvezel-composieten zeer geschikt voor toepassingen waar een laag gewicht, grote sterkte en grote stijfheid nodig zijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koolstofvezel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001126>, <https://stad.gent/id/concept/530005884>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005884> <http://www.w3.org/2004/02/skos/core#prefLabel> "koolstof"@nl.
+<https://stad.gent/id/concept/530001126> <http://www.w3.org/2004/02/skos/core#prefLabel> "acryl"@nl.
+_:df_1903_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003079"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003079/2021-10-31T10:51:59.763Z>.
+<https://stad.gent/id/concept/530001914/2021-10-31T10:25:06.918Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001914>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:25:06.918Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300196395>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2095_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote, open vaten, vooral die welke boven een open vuur worden gehangen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kookpot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008268>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008268> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaatwerk (culinaire houder)"@nl.
+_:df_2095_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001914"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001914/2021-10-31T10:25:06.918Z>.
+<https://stad.gent/id/concept/470009667/2021-10-31T08:34:10.196Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009667>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:34:10.196Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026539>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2881_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koolskamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2881_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009667"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009667/2021-10-31T08:34:10.196Z>.
+<https://stad.gent/id/concept/470008422/2021-10-31T07:58:49.183Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008422>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:58:49.183Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026109>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3133_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kookboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008247>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "materiaalsoort"@nl, "document type"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008247> <http://www.w3.org/2004/02/skos/core#prefLabel> "boek"@nl.
+_:df_3133_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008422"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008422/2021-10-31T07:58:49.183Z>.
+<https://stad.gent/id/concept/470007150/2021-10-31T07:25:54.551Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007150>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:25:54.551Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210429>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3367_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koorkap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3367_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007150"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007150/2021-10-31T07:25:54.551Z>.
+<https://stad.gent/id/concept/470006843/2021-10-31T07:14:46.866Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470006843>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:14:46.866Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300391214>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3445_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kool (groente)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3445_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470006843"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470006843/2021-10-31T07:14:46.866Z>.
+<https://stad.gent/id/concept/670000166/2021-10-28T15:14:04.001Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:14:04.001Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/2774>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4051_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koolsteeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4051_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000166/2021-10-28T15:14:04.001Z>.
+<https://stad.gent/id/concept/670000167/2021-10-28T15:14:09.003Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000167>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:14:09.003Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/2913>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4051_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koophandelsplein"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4051_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000167"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000167/2021-10-28T15:14:09.003Z>.
+<https://stad.gent/id/concept/570024853/2021-10-28T14:48:12.106Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:48:12.106Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q31029>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4228_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4228_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024853/2021-10-28T14:48:12.106Z>.
+<https://stad.gent/id/concept/570024484/2021-10-28T14:34:16.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:34:16.840Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4327_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kooktoestellen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4327_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024484/2021-10-28T14:34:16.840Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/koo.ttl>.

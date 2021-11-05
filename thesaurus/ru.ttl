@@ -251,3 +251,251 @@ _:df_1660_27 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010559"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010559/2021-10-31T16:02:25.884Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ru.ttl>.
+<https://stad.gent/id/concept/530009404/2021-10-31T14:32:11.675Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009404>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:32:11.675Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7255786>;
+    <http://www.w3.org/ns/adms#identifier> _:df_340_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rumes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008347>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006570>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006570> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taintignies"@nl.
+<https://stad.gent/id/concept/530008347> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl, "Henegouwen"@nl, "Henegouwen"@nl.
+_:df_340_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009404"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009404/2021-10-31T14:32:11.675Z>.
+<https://stad.gent/id/concept/530009095/2021-10-31T14:11:33.670Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:11:33.670Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7255680>;
+    <http://www.w3.org/ns/adms#identifier> _:df_487_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ruisbroek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003124>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003124> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint-Pieters-Leeuw"@nl.
+_:df_487_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009095/2021-10-31T14:11:33.670Z>.
+<https://stad.gent/id/concept/530008628/2021-10-31T13:49:51.205Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008628>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:49:51.205Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037221>;
+    <http://www.w3.org/ns/adms#identifier> _:df_640_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "ie Ruilmiddelen bevat descriptoren voor objecten waaraan een specifieke waarde is toegekend en die bedoeld zijn voor gebruik bij het uitwisselen van goederen en diensten, en het vereffenen van schulden. Hieronder vallen objecten die in allerlei situaties bruikbaar zijn, in de algemene circulatie (bijvoorbeeld 'munten'), en objecten die beperkt bruikbaar zijn en vaak zijn bedoeld voor de uitwisseling van specifieke goederen en diensten (bijvoorbeeld 'betalingsbewijzen'). Het grootste deel van de descriptoren betreft benamingen van munten. Relatie met andere hiërarchieën: descriptoren voor groepen ruilmiddelen (bijvoorbeeld 'plate number blocks') bevinden zich in de hiërarchie Objectgroepen en systemen. Descriptoren die als omschrijving dienen van materialen welke bij de vervaardiging van ruilmiddelen worden gebruikt (bijvoorbeeld 'cupronikkel') zijn ondergebracht in de hiërarchie Materialen, terwijl descriptoren die verwijzen naar de wijze van vervaardiging van ruilmiddelen (bijvoorbeeld 'munten (procedés)') deel uitmaken van de hiërarchie Procedés en Technieken. In de hiërarchie Informatievormen vindt u descriptoren voor de verschillende identificerende symbolen of afkortingen die op diverse typen ruilmiddelen voorkomen (bijvoorbeeld 'munttekens') alsmede descriptoren voor zakelijke en financiële stukken (bijvoorbeeld 'aandelen').";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ruilmiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008629>, <https://stad.gent/id/concept/530005611>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005611> <http://www.w3.org/2004/02/skos/core#prefLabel> "postzegel"@nl.
+<https://stad.gent/id/concept/530008629> <http://www.w3.org/2004/02/skos/core#prefLabel> "geld"@nl.
+_:df_640_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008628"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530008628> <http://www.w3.org/2004/02/skos/core#prefLabel> "ruilmiddel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008628/2021-10-31T13:49:51.205Z>.
+<https://stad.gent/id/concept/530004157/2021-10-31T11:18:52.163Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004157>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:18:52.163Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7002435>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1711_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rusland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002419>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005235>, <https://stad.gent/id/concept/530007249>, <https://stad.gent/id/concept/530009779>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "land"@nl, "country"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009779> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gradizsk"@nl.
+<https://stad.gent/id/concept/530007249> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint Petersburg"@nl.
+<https://stad.gent/id/concept/530005235> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moskou"@nl.
+<https://stad.gent/id/concept/530002419> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl.
+_:df_1711_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004157"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004157/2021-10-31T11:18:52.163Z>.
+<https://stad.gent/id/concept/530003540/2021-10-31T11:07:58.128Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003540>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:07:58.128Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7102165>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1789_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ruit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1789_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003540"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003540/2021-10-31T11:07:58.128Z>.
+<https://stad.gent/id/concept/530002990/2021-10-31T10:47:26.114Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002990>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:47:26.114Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1936_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Russisch"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "taal"@nl, "language"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1936_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002990"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002990/2021-10-31T10:47:26.114Z>.
+<https://stad.gent/id/concept/530002797/2021-10-31T10:39:03.700Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002797>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:39:03.700Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046216>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1996_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tassen van canvas, nylon, leer of ander flexibel materiaal die op de rug gedragen worden door middel van een band over iedere schouder.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rugzak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009244>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009244> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder voor persoonlijk gebruik"@nl.
+_:df_1996_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002797"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002797/2021-10-31T10:39:03.700Z>.
+<https://stad.gent/id/concept/530002732/2021-10-31T10:35:45.703Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002732>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:35:45.703Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026706>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2017_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rumbeke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003118>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003118> <http://www.w3.org/2004/02/skos/core#prefLabel> "Roeselare"@nl.
+_:df_2017_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002732"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002732/2021-10-31T10:35:45.703Z>.
+<https://stad.gent/id/concept/530002001/2021-10-31T10:28:55.035Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002001>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:28:55.035Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012941>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2068_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Product dat wordt gewonnen door het verwerken van het melkachtige sap van verschillende tropische bomen en andere planten, 'caoutchouc' genaamd. Geproduceerd in verschillende maten van hardheid en gewaardeerd om de elastische eigenschappen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rubber"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008554>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008554> <http://www.w3.org/2004/02/skos/core#prefLabel> "gomharsproduct"@nl.
+_:df_2068_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002001"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002001/2021-10-31T10:28:55.035Z>.
+<https://stad.gent/id/concept/470009447/2021-10-31T08:26:09.940Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009447>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:26:09.940Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7255680>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2938_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ruisbroek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2938_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009447"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009447/2021-10-31T08:26:09.940Z>.
+<https://stad.gent/id/concept/470009122/2021-10-31T08:16:27.570Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009122>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:16:27.570Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/4009514>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3007_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rupelmonde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3007_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009122"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009122/2021-10-31T08:16:27.570Z>.
+<https://stad.gent/id/concept/470007069/2021-10-31T07:23:38.253Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007069>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:23:38.253Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026704>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3382_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ruddervoorde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3382_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007069"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007069/2021-10-31T07:23:38.253Z>.
+<https://stad.gent/id/concept/470007007/2021-10-31T07:21:01.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007007>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:21:01.081Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026706>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3400_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rumbeke"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3400_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007007"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007007/2021-10-31T07:21:01.081Z>.
+<https://stad.gent/id/concept/470006893/2021-10-31T07:17:18.872Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470006893>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:17:18.872Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026705>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3427_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ruiselede"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3427_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470006893"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470006893/2021-10-31T07:17:18.872Z>.
+<https://stad.gent/id/concept/670000997/2021-10-28T16:22:54.654Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000997>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:22:54.654Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3583_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rue de l'Empereur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3583_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000997"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000997/2021-10-28T16:22:54.654Z>.
+<https://stad.gent/id/concept/670000493/2021-10-28T15:40:29.314Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000493>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:40:29.314Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q696982>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3871_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ruiselede"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3871_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000493"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000493/2021-10-28T15:40:29.314Z>.
+<https://stad.gent/id/concept/570024711/2021-10-28T14:41:36.941Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024711>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:41:36.941Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209968>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4276_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ruimtepak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4276_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024711"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024711/2021-10-28T14:41:36.941Z>.
+<https://stad.gent/id/concept/570024703/2021-10-28T14:41:00.651Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024703>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:41:00.651Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046216>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4279_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "rugzak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4279_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024703"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024703/2021-10-28T14:41:00.651Z>.
+<https://stad.gent/id/concept/570024335/2021-10-28T14:25:39.754Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024335>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:25:39.754Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7255688>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4384_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ruien"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_4384_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024335"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024335/2021-10-28T14:25:39.754Z>.
+<https://stad.gent/id/concept/570024322/2021-10-28T14:24:41.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024322>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:24:41.405Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7100779>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4390_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rutesheim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_4390_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024322"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024322/2021-10-28T14:24:41.405Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ru.ttl>.

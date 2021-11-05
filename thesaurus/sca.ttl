@@ -48,3 +48,32 @@ _:df_1729_25 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010418"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010418/2021-10-31T15:52:48.953Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sca.ttl>.
+<https://stad.gent/id/concept/530004136/2021-10-31T11:18:16.474Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004136>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:18:16.474Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7016881>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1717_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Scandinavië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002310>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005982>, <https://stad.gent/id/concept/530005642>, <https://stad.gent/id/concept/530006450>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweden"@nl.
+<https://stad.gent/id/concept/530005642> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noorwegen"@nl.
+<https://stad.gent/id/concept/530005982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Denemarken"@nl.
+<https://stad.gent/id/concept/530002310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_1717_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004136"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004136/2021-10-31T11:18:16.474Z>.
+<https://stad.gent/id/concept/470008202/2021-10-31T07:51:59.414Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008202>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:51:59.414Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1682439>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3181_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Scaldia"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3181_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008202"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008202/2021-10-31T07:51:59.414Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sca.ttl>.

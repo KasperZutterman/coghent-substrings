@@ -277,3 +277,264 @@ _:df_1366_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550002041"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002041/2021-10-31T16:43:30.658Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/boe.ttl>.
+<https://stad.gent/id/concept/530008663/2021-10-31T13:52:23.449Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:52:23.449Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300235760>;
+    <http://www.w3.org/ns/adms#identifier> _:df_622_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorwerpen die tussen de bladzijden van een boek worden gelegd om aan te geven waar men was. Te onderscheiden van 'registers (boekonderdelen)' die aan boeken vastzitten.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekenlegger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008664>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008664> <http://www.w3.org/2004/02/skos/core#prefLabel> "leesbenodigdheid"@nl.
+_:df_622_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530008663> <http://www.w3.org/2004/02/skos/core#prefLabel> "boekenlegger"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008663/2021-10-31T13:52:23.449Z>.
+<https://stad.gent/id/concept/530008597/2021-10-31T13:47:23.693Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008597>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:47:23.693Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300234771>;
+    <http://www.w3.org/ns/adms#identifier> _:df_658_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekbinden en boekbindtechnieken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009972>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530004597>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004597> <http://www.w3.org/2004/02/skos/core#prefLabel> "boekbinden"@nl.
+<https://stad.gent/id/concept/530009972> <http://www.w3.org/2004/02/skos/core#prefLabel> "voorwerpvervaardigingstechniek"@nl.
+_:df_658_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008597"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008597/2021-10-31T13:47:23.693Z>.
+<https://stad.gent/id/concept/530008049/2021-10-31T13:23:03.037Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008049>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:23:03.037Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q890857>;
+    <http://www.w3.org/ns/adms#identifier> _:df_832_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boenmachine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008670>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008670> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderhoudsgereedschap"@nl.
+_:df_832_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008049"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008049/2021-10-31T13:23:03.037Z>.
+<https://stad.gent/id/concept/530006371/2021-10-31T12:41:36.221Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006371>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:41:36.221Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1126_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekovertrek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1126_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006371"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006371/2021-10-31T12:41:36.221Z>.
+<https://stad.gent/id/concept/530006272/2021-10-31T12:37:58.576Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006272>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:37:58.576Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1125338>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1150_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekomslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008669>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008669> <http://www.w3.org/2004/02/skos/core#prefLabel> "omslag"@nl.
+_:df_1150_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006272"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006272/2021-10-31T12:37:58.576Z>.
+<https://stad.gent/id/concept/530006205/2021-10-31T12:35:20.562Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006205>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:35:20.562Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053130>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1168_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In algemene zin het gebruik van kneedbaar materiaal zoals was of klei om een driedimensionale vorm te creëren. In de keramische kunst verwijst het specifiek naar de vorming van een origineel keramisch object of het model of de maquette waarvan een mal wordt gemaakt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boetseren (vormgeven)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002768>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002768> <http://www.w3.org/2004/02/skos/core#prefLabel> "vormgevingstechniek"@nl, "vormgevingstechniek"@nl.
+_:df_1168_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006205"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006205/2021-10-31T12:35:20.562Z>.
+<https://stad.gent/id/concept/530006091/2021-10-31T12:29:46.033Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006091>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:29:46.033Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1210_59;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verzamelingen van houten of ivoren tabletten, of vellen papier, perkament of soortgelijk materiaal, die blanco, beschreven of bedrukt zijn, en die aan elkaar zijn geregen of gebonden. Gewoonlijk vele gevouwen en gebonden bladen met ononderbroken drukwerk of tekst; wanneer het gedrukt materiaal betreft gaat het vooral om een gebonden band of een band van redelijke formaat.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en, "onderwerp"@nl, "subject"@en, "uitleencategorie"@nl, "loan category"@en, "bibliografische vorm"@nl, "biblographical form"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1210_59 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006091"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006091/2021-10-31T12:29:46.033Z>.
+<https://stad.gent/id/concept/530005591/2021-10-31T12:08:07.624Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005591>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:08:07.624Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7017994>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1363_55;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Boedapest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000358>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000358> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hongarije"@nl.
+_:df_1363_55 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005591"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005591/2021-10-31T12:08:07.624Z>.
+<https://stad.gent/id/concept/530004597/2021-10-31T11:37:07.853Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004597>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:37:07.853Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053592>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1582_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Procedé om bladen of katernen aan elkaar te bevestigen, meestal in een kaft, om zo een boek te maken. Hiervoor worden uiteenlopende handmatige en machinale procedures toegepast.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekbinden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008597>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008597> <http://www.w3.org/2004/02/skos/core#prefLabel> "boekbinden en boekbindtechnieken"@nl.
+_:df_1582_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004597"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004597/2021-10-31T11:37:07.853Z>.
+<https://stad.gent/id/concept/530001636/2021-10-31T10:15:25.210Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:15:25.210Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300143716>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2164_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kasten om boeken in te zetten waarbij meestal meerdere planken door een deur worden ingesloten. Ze verschillen van 'boekenplanken' die een openkast-systeem hebben waar boeken op staan.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekenkast"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005153>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008657>, <https://stad.gent/id/concept/530008849>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008849> <http://www.w3.org/2004/02/skos/core#prefLabel> "kantoorkast"@nl.
+<https://stad.gent/id/concept/530008657> <http://www.w3.org/2004/02/skos/core#prefLabel> "bibliotheek (kast)"@nl.
+<https://stad.gent/id/concept/530005153> <http://www.w3.org/2004/02/skos/core#prefLabel> "kastmeubel"@nl.
+_:df_2164_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001636/2021-10-31T10:15:25.210Z>.
+<https://stad.gent/id/concept/530000654/2021-10-31T09:43:30.419Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000654>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:43:30.419Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2389_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekentas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2389_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000654"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000654/2021-10-31T09:43:30.419Z>.
+<https://stad.gent/id/concept/470010365/2021-10-31T08:56:45.534Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010365>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:56:45.534Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300248053>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2722_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekensteun"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2722_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010365"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010365/2021-10-31T08:56:45.534Z>.
+<https://stad.gent/id/concept/470009875/2021-10-31T08:40:14.558Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009875>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:40:14.558Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7248715>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2839_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Boechout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2839_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009875"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009875/2021-10-31T08:40:14.558Z>.
+<https://stad.gent/id/concept/470008883/2021-10-31T08:11:33.872Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008883>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:11:33.872Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053592>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3043_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekbinden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3043_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008883"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008883/2021-10-31T08:11:33.872Z>.
+<https://stad.gent/id/concept/470008857/2021-10-31T08:10:43.251Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008857>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:10:43.251Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005297>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3049_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor winkels waar boeken de belangrijkste koopwaar zijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekhandel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470000969>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470000969> <http://www.w3.org/2004/02/skos/core#prefLabel> "winkel naar verhandeld artikel"@nl, "winkel naar verhandeld artikel"@nl.
+_:df_3049_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008857"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008857/2021-10-31T08:10:43.251Z>.
+<https://stad.gent/id/concept/470008681/2021-10-31T08:06:05.057Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008681>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:06:05.057Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027480>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3082_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekhouding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3082_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008681"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008681/2021-10-31T08:06:05.057Z>.
+<https://stad.gent/id/concept/470008247/2021-10-31T07:53:55.761Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008247>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:53:55.761Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028051>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3166_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verzamelingen van houten of ivoren tabletten, of vellen papier, perkament of soortgelijk materiaal, die blanco, beschreven of bedrukt zijn, en die aan elkaar zijn geregen of gebonden. Gewoonlijk vele gevouwen en gebonden bladen met ononderbroken drukwerk of tekst; wanneer het gedrukt materiaal betreft gaat het vooral om een gebonden band of een band van redelijke formaat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470002285>, <https://stad.gent/id/concept/470005643>, <https://stad.gent/id/concept/470004626>, <https://stad.gent/id/concept/470001385>, <https://stad.gent/id/concept/470005676>, <https://stad.gent/id/concept/470004052>, <https://stad.gent/id/concept/470004139>, <https://stad.gent/id/concept/470004685>, <https://stad.gent/id/concept/470000201>, <https://stad.gent/id/concept/470000737>, <https://stad.gent/id/concept/470000442>, <https://stad.gent/id/concept/470008422>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "uitleencategorie"@nl, "loan category"@en, "onderwerp"@nl, "subject"@en, "materiaalsoort"@nl, "document type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008422> <http://www.w3.org/2004/02/skos/core#prefLabel> "kookboek"@nl.
+<https://stad.gent/id/concept/470000442> <http://www.w3.org/2004/02/skos/core#prefLabel> "zakboek"@nl.
+<https://stad.gent/id/concept/470000737> <http://www.w3.org/2004/02/skos/core#prefLabel> "schoolboek"@nl.
+<https://stad.gent/id/concept/470000201> <http://www.w3.org/2004/02/skos/core#prefLabel> "rekenboek"@nl.
+<https://stad.gent/id/concept/470004685> <http://www.w3.org/2004/02/skos/core#prefLabel> "prentenboek"@nl.
+<https://stad.gent/id/concept/470004139> <http://www.w3.org/2004/02/skos/core#prefLabel> "plakboek"@nl.
+<https://stad.gent/id/concept/470004052> <http://www.w3.org/2004/02/skos/core#prefLabel> "notitieboek"@nl.
+<https://stad.gent/id/concept/470005676> <http://www.w3.org/2004/02/skos/core#prefLabel> "misboek"@nl.
+<https://stad.gent/id/concept/470001385> <http://www.w3.org/2004/02/skos/core#prefLabel> "kerkboek"@nl.
+<https://stad.gent/id/concept/470004626> <http://www.w3.org/2004/02/skos/core#prefLabel> "intentieboek"@nl.
+<https://stad.gent/id/concept/470005643> <http://www.w3.org/2004/02/skos/core#prefLabel> "getijdenboek"@nl.
+<https://stad.gent/id/concept/470002285> <http://www.w3.org/2004/02/skos/core#prefLabel> "adresboek"@nl.
+_:df_3166_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008247"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008247/2021-10-31T07:53:55.761Z>.
+<https://stad.gent/id/concept/670000257/2021-10-28T15:21:48.045Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000257>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:21:48.045Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025244>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3997_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekhandelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3997_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000257"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000257/2021-10-28T15:21:48.045Z>.
+<https://stad.gent/id/concept/670000258/2021-10-28T15:21:53.047Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000258>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:21:53.047Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024985>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3997_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekhouder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3997_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000258"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000258/2021-10-28T15:21:53.047Z>.
+<https://stad.gent/id/concept/670000256/2021-10-28T15:21:43.044Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000256>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:21:43.044Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025732>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4000_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekdrukker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4000_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000256"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000256/2021-10-28T15:21:43.044Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/boe.ttl>.

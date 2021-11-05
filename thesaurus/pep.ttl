@@ -73,3 +73,66 @@ _:df_1495_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550001036"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001036/2021-10-31T16:25:22.693Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pep.ttl>.
+<https://stad.gent/id/concept/530003009/2021-10-31T10:48:36.894Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:48:36.894Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300203662>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1927_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine handbediende apparaatjes die worden gebruikt voor het opslaan en vermalen van peperkorrels.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pepermolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008885>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008885> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukenmolen"@nl.
+_:df_1927_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003009/2021-10-31T10:48:36.894Z>.
+<https://stad.gent/id/concept/530001644/2021-10-31T10:15:55.217Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001644>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:15:55.217Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2158_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "peperbus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2158_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001644"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001644/2021-10-31T10:15:55.217Z>.
+<https://stad.gent/id/concept/530000049/2021-10-31T09:13:37.327Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000049>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:13:37.327Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043086>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2602_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vaten met een geperforeerde bovenkant voor het strooien van peper op voedsel. Worden gemaakt in een verscheidenheid van vormen en materialen en vormen vaak een paar met een zoutvaatje.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pepervat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006544>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006141>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006141> <http://www.w3.org/2004/02/skos/core#prefLabel> "peperstrooier"@nl.
+<https://stad.gent/id/concept/530006544> <http://www.w3.org/2004/02/skos/core#prefLabel> "specerijvat"@nl.
+_:df_2602_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000049"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000049/2021-10-31T09:13:37.327Z>.
+<https://stad.gent/id/concept/670001213/2021-10-28T16:35:01.960Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001213>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:35:01.960Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/200809>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3499_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Peperbus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3499_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001213"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001213/2021-10-28T16:35:01.960Z>.
+<https://stad.gent/id/concept/670000718/2021-10-28T15:59:11.499Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000718>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:59:11.499Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/3101>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3742_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Peperstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3742_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000718"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000718/2021-10-28T15:59:11.499Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pep.ttl>.

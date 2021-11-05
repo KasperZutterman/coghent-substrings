@@ -33,3 +33,27 @@ _:df_1795_17 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010298"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010298/2021-10-31T15:43:26.168Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pet.ttl>.
+<https://stad.gent/id/concept/530001540/2021-10-31T10:11:32.106Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001540>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:11:32.106Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2191_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "petitfourschaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000782>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000782> <http://www.w3.org/2004/02/skos/core#prefLabel> "gebakschaal"@nl.
+_:df_2191_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001540"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001540/2021-10-31T10:11:32.106Z>.
+<https://stad.gent/id/concept/470007163/2021-10-31T07:26:25.346Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:26:25.346Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046094>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3364_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3364_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007163/2021-10-31T07:26:25.346Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pet.ttl>.

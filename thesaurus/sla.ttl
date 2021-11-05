@@ -51,3 +51,62 @@ _:df_1582_27 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010703"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010703/2021-10-31T16:13:28.953Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sla.ttl>.
+<https://stad.gent/id/concept/530000495/2021-10-31T09:35:04.189Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000495>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:35:04.189Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300043116>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2449_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vork om sla/salade mee op te scheppen. (Annelies De Mey)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "slavork (schepwerk)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009296>, <https://stad.gent/id/concept/530000864>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000864> <http://www.w3.org/2004/02/skos/core#prefLabel> "vork"@nl, "vork"@nl.
+<https://stad.gent/id/concept/530009296> <http://www.w3.org/2004/02/skos/core#prefLabel> "slabestek"@nl.
+_:df_2449_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000495"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000495/2021-10-31T09:35:04.189Z>.
+<https://stad.gent/id/concept/530000040/2021-10-31T09:13:16.660Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000040>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:13:16.660Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2605_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "slakkenbord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006241>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006241> <http://www.w3.org/2004/02/skos/core#prefLabel> "bord (vaatwerk)"@nl.
+_:df_2605_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000040"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000040/2021-10-31T09:13:16.660Z>.
+<https://stad.gent/id/concept/470010497/2021-10-31T09:00:58.384Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010497>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:00:58.384Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006354>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2692_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "slachthuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2692_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010497"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010497/2021-10-31T09:00:58.384Z>.
+<https://stad.gent/id/concept/470008296/2021-10-31T07:55:26.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008296>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:55:26.917Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011856>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3157_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "slagtand"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3157_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008296"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008296/2021-10-31T07:55:26.917Z>.
+<https://stad.gent/id/concept/670001192/2021-10-28T16:33:25.023Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001192>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:33:25.023Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1887251>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3511_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Slachthuisbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3511_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001192"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001192/2021-10-28T16:33:25.023Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sla.ttl>.

@@ -944,3 +944,323 @@ _:df_1_159 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/og.ttl>;
     <https://w3id.org/tree#value> "og".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/o.ttl>.
+<https://stad.gent/id/concept/530009969/2021-10-31T15:16:36.144Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:16:36.144Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_25_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oekraieens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_25_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009969/2021-10-31T15:16:36.144Z>.
+<https://stad.gent/id/concept/530009967/2021-10-31T15:16:26.140Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009967>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:16:26.140Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006660>;
+    <http://www.w3.org/ns/adms#identifier> _:df_28_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oekraine"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002310>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009968>;
+    <http://www.w3.org/2004/02/skos/core#note> "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009968> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lutsk"@nl.
+<https://stad.gent/id/concept/530002310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_28_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009967"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530009967> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oekraine"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009967/2021-10-31T15:16:26.140Z>.
+<https://stad.gent/id/concept/530009917/2021-10-31T15:12:27.610Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009917>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:12:27.610Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005658>;
+    <http://www.w3.org/ns/adms#identifier> _:df_55_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oleggio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_55_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009917"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009917/2021-10-31T15:12:27.610Z>.
+<https://stad.gent/id/concept/530009832/2021-10-31T15:05:32.631Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009832>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:05:32.631Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q68323625>;
+    <http://www.w3.org/ns/adms#identifier> _:df_106_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ordrup"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005982>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Denemarken"@nl.
+_:df_106_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009832"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009832/2021-10-31T15:05:32.631Z>.
+<https://stad.gent/id/concept/530009775/2021-10-31T15:00:43.704Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009775>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:00:43.704Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_139_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "onbekend"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "verwervingsmethode"@nl, "acquisition method"@en, "afstotingsmethode"@nl, "disposal method"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_139_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009775"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009775/2021-10-31T15:00:43.704Z>.
+<https://stad.gent/id/concept/530009745/2021-10-31T14:58:16.418Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009745>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:58:16.418Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q217234>;
+    <http://www.w3.org/ns/adms#identifier> _:df_157_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ota-ku"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004179>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004179> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tokyo"@nl.
+_:df_157_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009745"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009745/2021-10-31T14:58:16.418Z>.
+<https://stad.gent/id/concept/530009702/2021-10-31T14:54:58.645Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:54:58.645Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1045746>;
+    <http://www.w3.org/ns/adms#identifier> _:df_181_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Omegna"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_181_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009702/2021-10-31T14:54:58.645Z>.
+<https://stad.gent/id/concept/530009632/2021-10-31T14:48:59.507Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009632>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:48:59.507Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7014304>;
+    <http://www.w3.org/ns/adms#identifier> _:df_220_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Orlando (Florida)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_220_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009632"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009632/2021-10-31T14:48:59.507Z>.
+<https://stad.gent/id/concept/530009565/2021-10-31T14:43:50.087Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009565>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:43:50.087Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1063452>;
+    <http://www.w3.org/ns/adms#identifier> _:df_256_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Orrefors"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006450>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweden"@nl.
+_:df_256_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009565"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009565/2021-10-31T14:43:50.087Z>.
+<https://stad.gent/id/concept/530009566/2021-10-31T14:43:55.660Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009566>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:43:55.660Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005252>;
+    <http://www.w3.org/ns/adms#identifier> _:df_256_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Osnabrück"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_256_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009566"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009566/2021-10-31T14:43:55.660Z>.
+<https://stad.gent/id/concept/530009567/2021-10-31T14:44:00.662Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009567>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:44:00.662Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006848>;
+    <http://www.w3.org/ns/adms#identifier> _:df_256_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oss"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009317>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009317> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord-Brabant"@nl.
+_:df_256_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009567"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009567/2021-10-31T14:44:00.662Z>.
+<https://stad.gent/id/concept/530009568/2021-10-31T14:44:05.665Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:44:05.665Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013088>;
+    <http://www.w3.org/ns/adms#identifier> _:df_256_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ottawa (Canada)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004847>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004847> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canada"@nl.
+_:df_256_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009568/2021-10-31T14:44:05.665Z>.
+<https://stad.gent/id/concept/530009569/2021-10-31T14:44:10.666Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009569>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:44:10.666Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7249416>;
+    <http://www.w3.org/ns/adms#identifier> _:df_256_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oudenburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530007350>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530007350> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_256_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009569"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009569/2021-10-31T14:44:10.666Z>.
+<https://stad.gent/id/concept/530009563/2021-10-31T14:43:40.084Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009563>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:43:40.084Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003411>;
+    <http://www.w3.org/ns/adms#identifier> _:df_259_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Odense (Denemarken)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005982>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Denemarken"@nl.
+_:df_259_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009563"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009563/2021-10-31T14:43:40.084Z>.
+<https://stad.gent/id/concept/530009564/2021-10-31T14:43:45.086Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009564>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:43:45.086Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007583>;
+    <http://www.w3.org/ns/adms#identifier> _:df_259_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Olsztyn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000339>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000339> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polen"@nl.
+_:df_259_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009564"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009564/2021-10-31T14:43:45.086Z>.
+<https://stad.gent/id/concept/530009520/2021-10-31T14:40:38.059Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009520>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:40:38.059Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300218781>;
+    <http://www.w3.org/ns/adms#identifier> _:df_280_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ontspanning (ok)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_280_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009520"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009520/2021-10-31T14:40:38.059Z>.
+<https://stad.gent/id/concept/530009522/2021-10-31T14:40:43.060Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009522>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:40:43.060Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_280_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostenrijks"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_280_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009522"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009522/2021-10-31T14:40:43.060Z>.
+<https://stad.gent/id/concept/530009480/2021-10-31T14:37:55.653Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009480>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:37:55.653Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008337>;
+    <http://www.w3.org/ns/adms#identifier> _:df_298_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Orleans"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_298_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009480"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009480/2021-10-31T14:37:55.653Z>.
+<https://stad.gent/id/concept/530009436/2021-10-31T14:34:48.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009436>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:34:48.702Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_322_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oprichter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_322_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009436"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009436/2021-10-31T14:34:48.702Z>.
+<https://stad.gent/id/concept/530009410/2021-10-31T14:32:41.686Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009410>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:32:41.686Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q329642>;
+    <http://www.w3.org/ns/adms#identifier> _:df_337_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ottignies-Louvain-la-Neuve"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009327>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008289>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008289> <http://www.w3.org/2004/02/skos/core#prefLabel> "Louvain-La-Neuve"@nl.
+<https://stad.gent/id/concept/530009327> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waals-Brabant"@nl, "Waals-Brabant"@nl.
+_:df_337_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009410"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009410/2021-10-31T14:32:41.686Z>.
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_163.
+_:df_1_163 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/oh.ttl>;
+    <https://w3id.org/tree#value> "oh".
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_164.
+_:df_1_164 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/oc.ttl>;
+    <https://w3id.org/tree#value> "oc".
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_165.
+_:df_1_165 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ov.ttl>;
+    <https://w3id.org/tree#value> "ov".
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_166.
+_:df_1_166 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/op.ttl>;
+    <https://w3id.org/tree#value> "op".
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_167.
+_:df_1_167 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/on.ttl>;
+    <https://w3id.org/tree#value> "on".
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_168.
+_:df_1_168 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ob.ttl>;
+    <https://w3id.org/tree#value> "ob".
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_169.
+_:df_1_169 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/om.ttl>;
+    <https://w3id.org/tree#value> "om".
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_170.
+_:df_1_170 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/or.ttl>;
+    <https://w3id.org/tree#value> "or".
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_171.
+_:df_1_171 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/of.ttl>;
+    <https://w3id.org/tree#value> "of".
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_172.
+_:df_1_172 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/oo.ttl>;
+    <https://w3id.org/tree#value> "oo".
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_173.
+_:df_1_173 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ox.ttl>;
+    <https://w3id.org/tree#value> "ox".
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_174.
+_:df_1_174 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/oe.ttl>;
+    <https://w3id.org/tree#value> "oe".
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_175.
+_:df_1_175 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ou.ttl>;
+    <https://w3id.org/tree#value> "ou".
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_176.
+_:df_1_176 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/os.ttl>;
+    <https://w3id.org/tree#value> "os".
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_177.
+_:df_1_177 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ot.ttl>;
+    <https://w3id.org/tree#value> "ot".
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_178.
+_:df_1_178 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ol.ttl>;
+    <https://w3id.org/tree#value> "ol".
+<https://KasperZutterman.github.io///thesaurus/o.ttl> <https://w3id.org/tree#relation> _:df_1_179.
+_:df_1_179 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ok.ttl>;
+    <https://w3id.org/tree#value> "ok".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/o.ttl>.

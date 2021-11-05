@@ -708,3 +708,323 @@ _:df_1_496 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/inj.ttl>;
     <https://w3id.org/tree#value> "inj".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/in.ttl>.
+<https://stad.gent/id/concept/530008502/2021-10-31T13:39:52.697Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008502>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:39:52.697Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q185929>;
+    <http://www.w3.org/ns/adms#identifier> _:df_712_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Indantreen is de merknaam van een synthetische blauwe kleurstof waarmee katoen wordt geverfd. Het is een blauwe, wateronoplosbare kristallijne vaste stof. Het is ook een pigment in verven en lakken.\r\n\r\nIndantreen is een merknaam van BASF, maar de stof wordt door vele andere producenten verkocht onder andere merknamen. Een algemene aanduiding is indantron of indanthrone. Ze werd in januari 1901 voor het eerst bereid door de Duitse scheikundige René Bohn (1862-1922) in een bewuste poging een synthetische vervanger voor indigo te vinden. De naam is een samentrekking van \"indigo\" en \"anthraceen\".\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "indantron"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005707>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005707> <http://www.w3.org/2004/02/skos/core#prefLabel> "pigment"@nl, "pigment"@nl.
+_:df_712_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008502"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008502/2021-10-31T13:39:52.697Z>.
+<https://stad.gent/id/concept/530008174/2021-10-31T13:24:59.341Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008174>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:24:59.341Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_817_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "insectenbestrijding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530007947>, <https://stad.gent/id/concept/530005822>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005822> <http://www.w3.org/2004/02/skos/core#prefLabel> "motbestrijding"@nl.
+<https://stad.gent/id/concept/530007947> <http://www.w3.org/2004/02/skos/core#prefLabel> "anoxie"@nl.
+_:df_817_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008174"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008174/2021-10-31T13:24:59.341Z>.
+<https://stad.gent/id/concept/530007940/2021-10-31T13:20:10.468Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007940>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:20:10.468Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000116>;
+    <http://www.w3.org/ns/adms#identifier> _:df_850_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Indonesië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002419>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005571>, <https://stad.gent/id/concept/530007099>, <https://stad.gent/id/concept/530001764>, <https://stad.gent/id/concept/530001134>, <https://stad.gent/id/concept/530001124>, <https://stad.gent/id/concept/530010448>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010448> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sumatra (Indonesie)"@nl.
+<https://stad.gent/id/concept/530001124> <http://www.w3.org/2004/02/skos/core#prefLabel> "Surakarta"@nl.
+<https://stad.gent/id/concept/530001134> <http://www.w3.org/2004/02/skos/core#prefLabel> "Java"@nl.
+<https://stad.gent/id/concept/530001764> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sumba"@nl.
+<https://stad.gent/id/concept/530007099> <http://www.w3.org/2004/02/skos/core#prefLabel> "Djakarta"@nl.
+<https://stad.gent/id/concept/530005571> <http://www.w3.org/2004/02/skos/core#prefLabel> "Makassar"@nl.
+<https://stad.gent/id/concept/530002419> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl.
+_:df_850_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007940"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007940/2021-10-31T13:20:10.468Z>.
+<https://stad.gent/id/concept/530006331/2021-10-31T12:40:40.651Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:40:40.651Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300025203>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1132_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "industrieel vormgever"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004239>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004239> <http://www.w3.org/2004/02/skos/core#prefLabel> "vormgever"@nl.
+_:df_1132_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006331/2021-10-31T12:40:40.651Z>.
+<https://stad.gent/id/concept/530005934/2021-10-31T12:22:29.268Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005934>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:22:29.268Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300395661>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1261_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurarchitect"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005251>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005251> <http://www.w3.org/2004/02/skos/core#prefLabel> "architect"@nl.
+_:df_1261_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005934"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005934/2021-10-31T12:22:29.268Z>.
+<https://stad.gent/id/concept/530005778/2021-10-31T12:17:10.476Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:17:10.476Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015012>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1297_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een vloeibare stof die wordt gebruikt voor tekeningenof overtrektekeningen. Een ondoorzichtig, doorgaans zwart pigment wordt vermengd met een oplosmiddel, zoals water, om een vloeistof te verkrijgen die met een pen of inkt kan worden aangebracht. Tot het eind van de 19de eeuw werd inkt droog aangeleverd, in de vorm van een tablet of staafje dat naar behoeven werd vermalen en opgelost in water. Aan het begin van de 20ste eeuw ging men over op bereide inkt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inkt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008467>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003080>, <https://stad.gent/id/concept/530005008>, <https://stad.gent/id/concept/530006168>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006168> <http://www.w3.org/2004/02/skos/core#prefLabel> "sepia"@nl.
+<https://stad.gent/id/concept/530005008> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Indische inkt"@nl.
+<https://stad.gent/id/concept/530003080> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chinese inkt"@nl.
+<https://stad.gent/id/concept/530008467> <http://www.w3.org/2004/02/skos/core#prefLabel> "deklaag (materiaal)"@nl.
+_:df_1297_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005778/2021-10-31T12:17:10.476Z>.
+<https://stad.gent/id/concept/530005702/2021-10-31T12:13:37.518Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:13:37.518Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012924>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1324_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Indianapolis (Indiana)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_1324_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005702/2021-10-31T12:13:37.518Z>.
+<https://stad.gent/id/concept/530005680/2021-10-31T12:12:41.960Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005680>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:12:41.960Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1330_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurtextiel (objectcategorie) (ok)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004805>, <https://stad.gent/id/concept/530009309>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009309> <http://www.w3.org/2004/02/skos/core#prefLabel> "textilia (objectcategorie)"@nl.
+<https://stad.gent/id/concept/530004805> <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurinrichting (objectcategorie) (ok)"@nl.
+_:df_1330_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005680"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005680/2021-10-31T12:12:41.960Z>.
+<https://stad.gent/id/concept/530005437/2021-10-31T12:02:53.257Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005437>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:02:53.257Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1399_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interbellum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1399_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005437"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005437/2021-10-31T12:02:53.257Z>.
+<https://stad.gent/id/concept/530005319/2021-10-31T11:57:43.978Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005319>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:57:43.978Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1435_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "invoegen nieuw spiegelglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1435_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005319"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005319/2021-10-31T11:57:43.978Z>.
+<https://stad.gent/id/concept/530004805/2021-10-31T11:46:19.303Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004805>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:46:19.303Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037336>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1516_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurinrichting (objectcategorie) (ok)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005680>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005680> <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurtextiel (objectcategorie) (ok)"@nl.
+_:df_1516_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004805"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004805/2021-10-31T11:46:19.303Z>.
+<https://stad.gent/id/concept/530004793/2021-10-31T11:45:39.287Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004793>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:45:39.287Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7017035>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1522_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ingolstadt"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_1522_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004793"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004793/2021-10-31T11:45:39.287Z>.
+<https://stad.gent/id/concept/530004576/2021-10-31T11:35:56.670Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004576>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:35:56.670Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300013055>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1591_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een blauwe plantaardige kleurstof die als verfstof of pigment wordt gebruikt; enigszins vergelijkbaar met wede.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "indigo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008503>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008503> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleurmiddel"@nl.
+_:df_1591_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004576"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004576/2021-10-31T11:35:56.670Z>.
+<https://stad.gent/id/concept/530004517/2021-10-31T11:33:09.473Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004517>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:33:09.473Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300123227>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1612_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor iets dat is ingevoegd in een groter geheel, zoals een lap stof in een kledingstuk of een vervangend gedeelte van een tekening.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inzetstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008736>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008736> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenre"@nl.
+_:df_1612_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004517"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004517/2021-10-31T11:33:09.473Z>.
+<https://stad.gent/id/concept/530004406/2021-10-31T11:28:55.970Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004406>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:28:55.970Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300013305>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1642_38;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Indantreen is de merknaam van een synthetische blauwe kleurstof waarmee katoen wordt geverfd. Het is een blauwe, wateronoplosbare kristallijne vaste stof. Het is ook een pigment in verven en lakken.\r\n\r\nIndantreen is een merknaam van BASF, maar de stof wordt door vele andere producenten verkocht onder andere merknamen. Een algemene aanduiding is indantron of indanthrone. Ze werd in januari 1901 voor het eerst bereid door de Duitse scheikundige René Bohn (1862-1922) in een bewuste poging een synthetische vervanger voor indigo te vinden. De naam is een samentrekking van \"indigo\" en \"anthraceen\".\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "indantreenblauw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005707>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005707> <http://www.w3.org/2004/02/skos/core#prefLabel> "pigment"@nl.
+_:df_1642_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004406"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004406/2021-10-31T11:28:55.970Z>.
+<https://stad.gent/id/concept/530003508/2021-10-31T11:07:12.501Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003508>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:07:12.501Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300047896>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1795_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor werken, gemaakt vanaf de jaren 60 van de 20ste eeuw, waarbij de tentoonstellingsruimte deel uitmaakt van het ontwerp en die actieve betrokkenheid vragen van de kijkers. Installaties worden vaak gemaakt door kunstenaars die zich verzetten tegen het idee dat kunstwerken blijvend moeten zijn of dat kunst handelswaar is.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "installatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005468>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005468> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal"@nl.
+_:df_1795_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003508"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003508/2021-10-31T11:07:12.501Z>.
+<https://stad.gent/id/concept/530003436/2021-10-31T11:05:10.951Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003436>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:05:10.951Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003249>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1810_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Innsbrück"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006067>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006067> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oostenrijk"@nl.
+_:df_1810_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003436"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003436/2021-10-31T11:05:10.951Z>.
+<https://stad.gent/id/concept/530003198/2021-10-31T10:57:09.232Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003198>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:57:09.232Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1867_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inox"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1867_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003198"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003198/2021-10-31T10:57:09.232Z>.
+<https://stad.gent/id/concept/530002821/2021-10-31T10:39:59.510Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002821>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:39:59.510Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026510>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1987_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ingelmunster"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530007350>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530007350> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_1987_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002821"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002821/2021-10-31T10:39:59.510Z>.
+<https://stad.gent/id/concept/530002736/2021-10-31T10:36:00.709Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002736>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:36:00.709Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028702>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2017_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor gegraveerde of gebeitelde opschriften, met name met documentatie of herdenking als doel. Bij afdrukken wordt de term gebruikt voor de inhoud van de inscriptie, die meestal geen deel uitmaakt van een langere tekst. Wanneer de term wordt gebruikt in verband met materiaal uit de oudheid, dan kan deze van toepassing zijn op de meeste bewaard gebleven geschreven stukken, ongeacht de lengte, met uitzondering van papyrusrollen. Gebruik 'merktekens' voor gestandaardiseerde symbolen of opschriften die officiële informatie bevatten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inscriptie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2017_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002736"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002736/2021-10-31T10:36:00.709Z>.
+<https://KasperZutterman.github.io///thesaurus/in.ttl> <https://w3id.org/tree#relation> _:df_1_842.
+_:df_1_842 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ink.ttl>;
+    <https://w3id.org/tree#value> "ink".
+<https://KasperZutterman.github.io///thesaurus/in.ttl> <https://w3id.org/tree#relation> _:df_1_843.
+_:df_1_843 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/inb.ttl>;
+    <https://w3id.org/tree#value> "inb".
+<https://KasperZutterman.github.io///thesaurus/in.ttl> <https://w3id.org/tree#relation> _:df_1_844.
+_:df_1_844 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/inv.ttl>;
+    <https://w3id.org/tree#value> "inv".
+<https://KasperZutterman.github.io///thesaurus/in.ttl> <https://w3id.org/tree#relation> _:df_1_845.
+_:df_1_845 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/int.ttl>;
+    <https://w3id.org/tree#value> "int".
+<https://KasperZutterman.github.io///thesaurus/in.ttl> <https://w3id.org/tree#relation> _:df_1_846.
+_:df_1_846 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/inl.ttl>;
+    <https://w3id.org/tree#value> "inl".
+<https://KasperZutterman.github.io///thesaurus/in.ttl> <https://w3id.org/tree#relation> _:df_1_847.
+_:df_1_847 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/inh.ttl>;
+    <https://w3id.org/tree#value> "inh".
+<https://KasperZutterman.github.io///thesaurus/in.ttl> <https://w3id.org/tree#relation> _:df_1_848.
+_:df_1_848 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/inn.ttl>;
+    <https://w3id.org/tree#value> "inn".
+<https://KasperZutterman.github.io///thesaurus/in.ttl> <https://w3id.org/tree#relation> _:df_1_849.
+_:df_1_849 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ing.ttl>;
+    <https://w3id.org/tree#value> "ing".
+<https://KasperZutterman.github.io///thesaurus/in.ttl> <https://w3id.org/tree#relation> _:df_1_850.
+_:df_1_850 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ind.ttl>;
+    <https://w3id.org/tree#value> "ind".
+<https://KasperZutterman.github.io///thesaurus/in.ttl> <https://w3id.org/tree#relation> _:df_1_851.
+_:df_1_851 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ins.ttl>;
+    <https://w3id.org/tree#value> "ins".
+<https://KasperZutterman.github.io///thesaurus/in.ttl> <https://w3id.org/tree#relation> _:df_1_852.
+_:df_1_852 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/in+h.ttl>;
+    <https://w3id.org/tree#value> "in", "h".
+<https://KasperZutterman.github.io///thesaurus/in.ttl> <https://w3id.org/tree#relation> _:df_1_853.
+_:df_1_853 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/in+c.ttl>;
+    <https://w3id.org/tree#value> "in", "c".
+<https://KasperZutterman.github.io///thesaurus/in.ttl> <https://w3id.org/tree#relation> _:df_1_854.
+_:df_1_854 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/inf.ttl>;
+    <https://w3id.org/tree#value> "inf".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/in.ttl>.

@@ -25,3 +25,18 @@ _:df_1132_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550004443"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004443/2021-10-31T17:16:26.046Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/py.ttl>.
+<https://stad.gent/id/concept/530008457/2021-10-31T13:36:54.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008457>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:36:54.481Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010801>;
+    <http://www.w3.org/ns/adms#identifier> _:df_733_31;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een borosilicaat-glassoort met een laag uitzettingsvermogen.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pyrex"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008212>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008212> <http://www.w3.org/2004/02/skos/core#prefLabel> "borosilicaatglas"@nl.
+_:df_733_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008457"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008457/2021-10-31T13:36:54.481Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/py.ttl>.

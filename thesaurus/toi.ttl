@@ -9,3 +9,69 @@ _:df_1897_25 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570018860"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018860/2021-11-01T00:36:23.752Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/toi.ttl>.
+<https://stad.gent/id/concept/530001558/2021-10-31T10:12:12.667Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001558>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:12:12.667Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2185_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een toiletborstel, ook wc-borstel of pleeborstel genoemd, is een borstel die wordt gebruikt om de binnenkant van een toiletpot te reinigen.\r\n\r\nEen toiletborstel bestaat uit een steel met handgreep en een kop met een harde borstel. Soms is ook een kleine borstel aan de zijkant aanwezig om de onderzijde van de rand van de toiletpot te kunnen reinigen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toiletborstel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008670>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008670> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderhoudsgereedschap"@nl.
+_:df_2185_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001558"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001558/2021-10-31T10:12:12.667Z>.
+<https://stad.gent/id/concept/530000447/2021-10-31T09:32:32.427Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000447>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:32:32.427Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300220808>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2467_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Dozen die uitgerust zijn met laden, opbergbakjes of van elkaar afgescheiden gedeelten en meestal een spiegel; bedoeld voor toiletartikelen en soms schrijfmaterialen, met name voor op reis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toiletdoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003095>, <https://stad.gent/id/concept/530009244>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009244> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder voor persoonlijk gebruik"@nl, "houder voor persoonlijk gebruik"@nl.
+<https://stad.gent/id/concept/530003095> <http://www.w3.org/2004/02/skos/core#prefLabel> "doos (houder)"@nl, "doos (houder)"@nl.
+_:df_2467_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000447"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000447/2021-10-31T09:32:32.427Z>.
+<https://stad.gent/id/concept/530000147/2021-10-31T09:17:35.214Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000147>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:17:35.214Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264538>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2575_58;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar lage ladekasten met daarop een spiegel die doorgaans in slaap- of kleedkamers worden gebruikt voor de uiterlijke verzorging en om kledingstukken en toiletartikelen in op te bergen. In deze context wordt de term vooral gebruikt in de Verenigde Staten, en de Engelse term 'dresser' is afgeleid van het Europese begrip 'keukenkast (wandkast)', dat bestaat uit laden met planken daarop, maar wordt gebruikt om keukengerei in op te bergen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toilettafel (ladekast)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002646>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002646> <http://www.w3.org/2004/02/skos/core#prefLabel> "ladekast"@nl.
+_:df_2575_58 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000147"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000147/2021-10-31T09:17:35.214Z>.
+<https://stad.gent/id/concept/470009772/2021-10-31T08:37:02.133Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009772>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:37:02.133Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300404592>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2863_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemene term voor verschillende artikelen, cosmetica en andere producten die gebruikt worden voor het wassen, het aankleden en de persoonlijke hygiëne.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toiletartikel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2863_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009772"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009772/2021-10-31T08:37:02.133Z>.
+<https://stad.gent/id/concept/470007602/2021-10-31T07:37:33.802Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007602>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:37:33.802Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052638>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3283_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toilet (sanitair)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3283_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007602"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007602/2021-10-31T07:37:33.802Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/toi.ttl>.

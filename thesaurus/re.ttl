@@ -815,3 +815,321 @@ _:df_1_511 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rek.ttl>;
     <https://w3id.org/tree#value> "rek".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/re.ttl>.
+<https://stad.gent/id/concept/530008679/2021-10-31T13:53:44.091Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008679>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:53:44.091Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300199639>;
+    <http://www.w3.org/ns/adms#identifier> _:df_613_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reliëfdruktechniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008590>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005526>, <https://stad.gent/id/concept/530008733>, <https://stad.gent/id/concept/530006021>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006021> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtsnede (druktechniek)"@nl.
+<https://stad.gent/id/concept/530008733> <http://www.w3.org/2004/02/skos/core#prefLabel> "boekdruk"@nl.
+<https://stad.gent/id/concept/530005526> <http://www.w3.org/2004/02/skos/core#prefLabel> "blokdruk"@nl.
+<https://stad.gent/id/concept/530008590> <http://www.w3.org/2004/02/skos/core#prefLabel> "druktechniek"@nl, "druktechniek"@nl.
+_:df_613_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008679"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008679/2021-10-31T13:53:44.091Z>.
+<https://stad.gent/id/concept/530008652/2021-10-31T13:51:32.799Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:51:32.799Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006191>;
+    <http://www.w3.org/ns/adms#identifier> _:df_628_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor plaatsen of vergaarbakken waar vloeistoffen worden verzameld en vastgehouden tot ze nodig zijn.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reservoir"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008780>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008780> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting (objectnaam)"@nl.
+_:df_628_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008652"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008652/2021-10-31T13:51:32.799Z>.
+<https://stad.gent/id/concept/530008304/2021-10-31T13:31:09.056Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:31:09.056Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011918>;
+    <http://www.w3.org/ns/adms#identifier> _:df_772_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reading"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009323>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009323> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl.
+_:df_772_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008304/2021-10-31T13:31:09.056Z>.
+<https://stad.gent/id/concept/530008184/2021-10-31T13:25:49.945Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:25:49.945Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_811_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "retoucheren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008175>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008175> <http://www.w3.org/2004/02/skos/core#prefLabel> "oppervlaktebehandeling"@nl.
+_:df_811_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008184"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008184/2021-10-31T13:25:49.945Z>.
+<https://stad.gent/id/concept/530006826/2021-10-31T12:59:28.255Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006826>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:59:28.255Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008263>;
+    <http://www.w3.org/ns/adms#identifier> _:df_997_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rennes (Bretagne)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl, "Frankrijk"@nl, "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_997_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006826"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006826/2021-10-31T12:59:28.255Z>.
+<https://stad.gent/id/concept/530006812/2021-10-31T12:59:08.250Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006812>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:59:08.250Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012667>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1000_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reinbek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl, "Duitsland"@nl.
+_:df_1000_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006812"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006812/2021-10-31T12:59:08.250Z>.
+<https://stad.gent/id/concept/530006783/2021-10-31T12:58:32.387Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:58:32.387Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7251644>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1006_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rekkem (Menen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003065>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003065> <http://www.w3.org/2004/02/skos/core#prefLabel> "Menen"@nl.
+_:df_1006_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006783/2021-10-31T12:58:32.387Z>.
+<https://stad.gent/id/concept/530006774/2021-10-31T12:58:01.664Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006774>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:58:01.664Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005083>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1009_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Recklinghausen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1009_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006774"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006774/2021-10-31T12:58:01.664Z>.
+<https://stad.gent/id/concept/530006641/2021-10-31T12:54:08.671Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006641>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:54:08.671Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1048058>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1036_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reuver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009326>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009326> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie, Nederland)"@nl.
+_:df_1036_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006641"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006641/2021-10-31T12:54:08.671Z>.
+<https://stad.gent/id/concept/530006380/2021-10-31T12:42:06.230Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:42:06.230Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300102842>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1120_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "restaurator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1120_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006380"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006380/2021-10-31T12:42:06.230Z>.
+<https://stad.gent/id/concept/530006218/2021-10-31T12:36:01.250Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:36:01.250Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300172861>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1165_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar de stijl in de Westerse kunst die bestond van het midden tot het eind van de 19de eeuw. Deze stijl kwam tot ontwikkeling als een reactie op de romantiek en kenmerkt zich door de onderwerpkeuze, afbeeldingen van figuren, de de techniek die de realiteit benadrukt met precisie en levendigheid voor details, inclusief onaangename kenmerken, in tegenstelling tot wat men beschouwde als de geïdealiseerde , zuivere in mooie romantische visie op de wereld. De term word in breder verband ook gebruikt om verwijzen naar iedere phase in artistieke geschiedenis waarin nadruk ligt op het naturalistische in plaats van op het geïdealiseerde.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "realisme"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009881>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009881> <http://www.w3.org/2004/02/skos/core#prefLabel> "moderne Europese stijlen en stromingen"@nl.
+_:df_1165_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006218"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006218/2021-10-31T12:36:01.250Z>.
+<https://stad.gent/id/concept/530005999/2021-10-31T12:25:32.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005999>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:25:32.249Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1050252>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1240_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Resita"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005998>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005998> <http://www.w3.org/2004/02/skos/core#prefLabel> "Roemenië"@nl.
+_:df_1240_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005999"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530005999> <http://www.w3.org/2004/02/skos/core#prefLabel> "Resita"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005999/2021-10-31T12:25:32.249Z>.
+<https://stad.gent/id/concept/530005344/2021-10-31T11:58:34.694Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005344>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:58:34.694Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1064323>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1429_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Renens"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003380>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003380> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwitserland"@nl.
+_:df_1429_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005344"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005344/2021-10-31T11:58:34.694Z>.
+<https://stad.gent/id/concept/530005316/2021-10-31T11:57:28.975Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:57:28.975Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1438_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "redelijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "toestand"@nl, "condition"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1438_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005316"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005316/2021-10-31T11:57:28.975Z>.
+<https://stad.gent/id/concept/530004579/2021-10-31T11:36:11.675Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004579>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:36:11.675Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1588_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reinigen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008172>, <https://stad.gent/id/concept/530008173>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008173> <http://www.w3.org/2004/02/skos/core#prefLabel> "vochtig reinigen"@nl.
+<https://stad.gent/id/concept/530008172> <http://www.w3.org/2004/02/skos/core#prefLabel> "droog reinigen"@nl.
+_:df_1588_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004579"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004579/2021-10-31T11:36:11.675Z>.
+<https://stad.gent/id/concept/530004174/2021-10-31T11:19:47.921Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004174>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:19:47.921Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7013496>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1705_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Regensburg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1705_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004174"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004174/2021-10-31T11:19:47.921Z>.
+<https://stad.gent/id/concept/530004161/2021-10-31T11:19:07.166Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004161>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:19:07.166Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300021089>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1711_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kunstnijverheidsstijl in zwang ten tijde van het regentschap in Frankrijk (1715-1723).";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "régence"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009882>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000959>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en, "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000959> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luikse-Akense meubelstijl"@nl.
+<https://stad.gent/id/concept/530009882> <http://www.w3.org/2004/02/skos/core#prefLabel> "Renaissance- en Barokstijlen"@nl.
+_:df_1711_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004161"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004161/2021-10-31T11:19:07.166Z>.
+<https://stad.gent/id/concept/530004058/2021-10-31T11:16:29.907Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004058>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:16:29.907Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1040868>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1729_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Remscheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1729_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004058"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004058/2021-10-31T11:16:29.907Z>.
+<https://stad.gent/id/concept/530003532/2021-10-31T11:07:48.125Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003532>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:07:48.125Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7251520>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1792_47;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rekem (Limburg)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002853>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002853> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lanaken"@nl.
+_:df_1792_47 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003532"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003532/2021-10-31T11:07:48.125Z>.
+<https://stad.gent/id/concept/530003515/2021-10-31T11:07:17.503Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003515>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:07:17.503Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025526>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1795_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Personen die de inhoud of stijl van literaire, artistieke of muzikale werken van andere mensen herzien, corrigeren of ordenen voor publicatie of presentatie. De term verwijst ook naar personen die elektronische documentatie bewerken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "redacteur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010437>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003516>, <https://stad.gent/id/concept/530005244>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005244> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoofdredacteur"@nl.
+<https://stad.gent/id/concept/530003516> <http://www.w3.org/2004/02/skos/core#prefLabel> "eindredacteur"@nl.
+<https://stad.gent/id/concept/530010437> <http://www.w3.org/2004/02/skos/core#prefLabel> "personen in beroepen met betrekking tot literatuur"@nl.
+_:df_1795_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003515"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530003515> <http://www.w3.org/2004/02/skos/core#prefLabel> "redacteur"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003515/2021-10-31T11:07:17.503Z>.
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_803.
+_:df_1_803 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/reu.ttl>;
+    <https://w3id.org/tree#value> "reu".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_804.
+_:df_1_804 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rek.ttl>;
+    <https://w3id.org/tree#value> "rek".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_805.
+_:df_1_805 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rec.ttl>;
+    <https://w3id.org/tree#value> "rec".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_806.
+_:df_1_806 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rel.ttl>;
+    <https://w3id.org/tree#value> "rel".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_807.
+_:df_1_807 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ren.ttl>;
+    <https://w3id.org/tree#value> "ren".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_808.
+_:df_1_808 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/res.ttl>;
+    <https://w3id.org/tree#value> "res".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_809.
+_:df_1_809 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rev.ttl>;
+    <https://w3id.org/tree#value> "rev".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_810.
+_:df_1_810 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rep.ttl>;
+    <https://w3id.org/tree#value> "rep".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_811.
+_:df_1_811 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ret.ttl>;
+    <https://w3id.org/tree#value> "ret".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_812.
+_:df_1_812 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/red.ttl>;
+    <https://w3id.org/tree#value> "red".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_813.
+_:df_1_813 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ree.ttl>;
+    <https://w3id.org/tree#value> "ree".
+<https://KasperZutterman.github.io///thesaurus/re.ttl> <https://w3id.org/tree#relation> _:df_1_814.
+_:df_1_814 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/reg.ttl>;
+    <https://w3id.org/tree#value> "reg".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/re.ttl>.

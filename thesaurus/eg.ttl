@@ -55,3 +55,60 @@ _:df_1543_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550000488"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000488/2021-10-31T16:18:48.170Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/eg.ttl>.
+<https://stad.gent/id/concept/530008696/2021-10-31T13:55:00.306Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008696>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:55:00.306Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053129>;
+    <http://www.w3.org/ns/adms#identifier> _:df_604_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "egaliseren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002768>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002768> <http://www.w3.org/2004/02/skos/core#prefLabel> "vormgevingstechniek"@nl.
+_:df_604_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008696"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008696/2021-10-31T13:55:00.306Z>.
+<https://stad.gent/id/concept/530003784/2021-10-31T11:11:51.570Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003784>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:11:51.570Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1036631>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1762_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Egeln"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1762_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003784"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003784/2021-10-31T11:11:51.570Z>.
+<https://stad.gent/id/concept/530001724/2021-10-31T10:18:47.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001724>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:18:47.536Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7016833>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2140_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Egypte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002312>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010568>, <https://stad.gent/id/concept/530009705>, <https://stad.gent/id/concept/530006910>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006910> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kaïro"@nl.
+<https://stad.gent/id/concept/530009705> <http://www.w3.org/2004/02/skos/core#prefLabel> "Caïro"@nl.
+<https://stad.gent/id/concept/530010568> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alexandrië"@nl.
+<https://stad.gent/id/concept/530002312> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afrika"@nl.
+_:df_2140_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001724"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001724/2021-10-31T10:18:47.536Z>.
+<https://stad.gent/id/concept/570025055/2021-10-28T14:58:43.889Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025055>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:58:43.889Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/1026268>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4156_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eghezée"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001129>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namen (provincie)"@nl, "Namen (provincie)"@nl, "Namen (provincie)"@nl, "Namen (provincie)"@nl, "Namen (provincie)"@nl.
+_:df_4156_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025055"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025055/2021-10-28T14:58:43.889Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/eg.ttl>.

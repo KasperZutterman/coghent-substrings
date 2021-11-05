@@ -46,3 +46,18 @@ _:df_1645_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010583"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010583/2021-10-31T16:04:17.297Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/lap.ttl>.
+<https://stad.gent/id/concept/530004026/2021-10-31T11:15:49.227Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004026>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:15:49.227Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300168350>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1735_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Microcomputers die zo compact zijn dat ze op schoot kunnen worden bediend.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "laptop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008752>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008752> <http://www.w3.org/2004/02/skos/core#prefLabel> "computer"@nl.
+_:df_1735_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004026"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004026/2021-10-31T11:15:49.227Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/lap.ttl>.

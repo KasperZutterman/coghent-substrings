@@ -10,3 +10,86 @@ _:df_1525_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570008574"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008574/2021-10-31T20:53:57.465Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io/coghent-substrings//thesaurus/int.ttl>.
+<https://stad.gent/id/concept/530001019/2021-10-31T09:56:15.207Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001019>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:56:15.207Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2299_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurweefsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008855>, <https://stad.gent/id/concept/530003014>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003014> <http://www.w3.org/2004/02/skos/core#prefLabel> "weefsel"@nl.
+<https://stad.gent/id/concept/530008855> <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurtextiel (objectnaam)"@nl.
+_:df_2299_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001019"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001019/2021-10-31T09:56:15.207Z>.
+<https://stad.gent/id/concept/530000697/2021-10-31T09:45:06.593Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:45:06.593Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300124520>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2377_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorstellingen, afbeeldingen of foto's van een gebouw, huis, vertrek van binnen, bepaaldelijk met de aankleding (stoffering en meubilering).";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005468>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005468> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal"@nl.
+_:df_2377_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000697/2021-10-31T09:45:06.593Z>.
+<https://stad.gent/id/concept/470010560/2021-10-31T09:02:28.980Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010560>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:02:28.980Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q46034607>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2680_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interviewer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2680_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010560"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010560/2021-10-31T09:02:28.980Z>.
+<https://stad.gent/id/concept/470009095/2021-10-31T08:16:02.563Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:16:02.563Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037336>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3010_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieurinrichting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3010_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009095/2021-10-31T08:16:02.563Z>.
+<https://stad.gent/id/concept/470008176/2021-10-31T07:50:43.530Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008176>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:50:43.530Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041338>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3190_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "intagliodruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3190_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008176"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008176/2021-10-31T07:50:43.530Z>.
+<https://stad.gent/id/concept/470007396/2021-10-31T07:33:00.352Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007396>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:33:00.352Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300124520>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3316_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het inwendige van een gebouw, huis, vertrek, auto e.d., m.n. wat de aan­kleding, meubilering en stoffering betreft.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "interieur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3316_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007396"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007396/2021-10-31T07:33:00.352Z>.
+<https://stad.gent/id/concept/670000315/2021-10-28T15:26:39.143Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:26:39.143Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300235094>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3964_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "intendant van de hospitalen van de Engelse koning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3964_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000315/2021-10-28T15:26:39.143Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/int.ttl>.

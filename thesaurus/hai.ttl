@@ -39,3 +39,57 @@ _:df_1939_8 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010045"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010045/2021-10-31T15:23:01.265Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hai.ttl>.
+<https://stad.gent/id/concept/530006997/2021-10-31T13:04:17.367Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006997>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:04:17.367Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7241142>;
+    <http://www.w3.org/ns/adms#identifier> _:df_964_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Haillot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009406>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009406> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ohey"@nl.
+_:df_964_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006997"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006997/2021-10-31T13:04:17.367Z>.
+<https://stad.gent/id/concept/530006239/2021-10-31T12:36:36.979Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006239>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:36:36.979Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1003757>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1159_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Area in modern Belgium (Hainaut province) and northern France (Nord department); was a county of the Low Countries from 9th century; united successively with Flanders, Holland, and Bavaria; annexed by Burgundy 1433; annexed by Spanish and then Austrian Netherlands.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hainaut (historische regio)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002310>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_1159_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006239"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006239/2021-10-31T12:36:36.979Z>.
+<https://stad.gent/id/concept/530003067/2021-10-31T10:51:29.753Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003067>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:51:29.753Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005502>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1906_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Haïti"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004612>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009718>;
+    <http://www.w3.org/2004/02/skos/core#note> "land"@nl, "country"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009718> <http://www.w3.org/2004/02/skos/core#prefLabel> "Croix-des-Bouquets"@nl.
+<https://stad.gent/id/concept/530004612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord- en Centraal Amerika"@nl.
+_:df_1906_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003067"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003067/2021-10-31T10:51:29.753Z>.
+<https://stad.gent/id/concept/470008315/2021-10-31T07:55:47.554Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:55:47.554Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7241133>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3154_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Haine-Saint-Pierre"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3154_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008315/2021-10-31T07:55:47.554Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hai.ttl>.

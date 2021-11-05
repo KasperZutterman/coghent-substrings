@@ -361,3 +361,292 @@ _:df_1909_18 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010102"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010102/2021-10-31T15:27:24.422Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/fi.ttl>.
+<https://stad.gent/id/concept/530008319/2021-10-31T13:31:49.705Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008319>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:31:49.705Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300212636>;
+    <http://www.w3.org/ns/adms#identifier> _:df_769_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voertuigen met twee wielen achter elkaar, die worden aangedreven door de berijder die schrijlings op een frame zit dat de wielen en het stuur bij elkaar houdt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fiets"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008778>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001969>, <https://stad.gent/id/concept/530003220>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003220> <http://www.w3.org/2004/02/skos/core#prefLabel> "fietsvork"@nl.
+<https://stad.gent/id/concept/530001969> <http://www.w3.org/2004/02/skos/core#prefLabel> "fietsstuur"@nl.
+<https://stad.gent/id/concept/530008778> <http://www.w3.org/2004/02/skos/core#prefLabel> "transportmiddel"@nl.
+_:df_769_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008319"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008319/2021-10-31T13:31:49.705Z>.
+<https://stad.gent/id/concept/530006662/2021-10-31T12:54:43.680Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006662>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:54:43.680Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000457>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1033_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Firenze (Italië)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_1033_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006662"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006662/2021-10-31T12:54:43.680Z>.
+<https://stad.gent/id/concept/530006015/2021-10-31T12:25:57.255Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006015>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:25:57.255Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000069>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1237_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Finland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002310>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009203>, <https://stad.gent/id/concept/530009361>, <https://stad.gent/id/concept/530007037>, <https://stad.gent/id/concept/530009642>, <https://stad.gent/id/concept/530009202>, <https://stad.gent/id/concept/530003068>, <https://stad.gent/id/concept/530007378>, <https://stad.gent/id/concept/530004507>, <https://stad.gent/id/concept/530010588>, <https://stad.gent/id/concept/530004365>, <https://stad.gent/id/concept/530007211>, <https://stad.gent/id/concept/530003748>, <https://stad.gent/id/concept/530007261>, <https://stad.gent/id/concept/530009597>, <https://stad.gent/id/concept/530004223>, <https://stad.gent/id/concept/530008275>, <https://stad.gent/id/concept/530003391>, <https://stad.gent/id/concept/530004016>, <https://stad.gent/id/concept/530003317>, <https://stad.gent/id/concept/530009894>, <https://stad.gent/id/concept/530009562>, <https://stad.gent/id/concept/530007405>, <https://stad.gent/id/concept/530009685>, <https://stad.gent/id/concept/530004067>, <https://stad.gent/id/concept/530005247>, <https://stad.gent/id/concept/530005265>, <https://stad.gent/id/concept/530008296>, <https://stad.gent/id/concept/530009617>, <https://stad.gent/id/concept/530009958>, <https://stad.gent/id/concept/530005261>, <https://stad.gent/id/concept/530003839>, <https://stad.gent/id/concept/530010334>, <https://stad.gent/id/concept/530009801>, <https://stad.gent/id/concept/530010685>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "land"@nl, "country"@en, "onderwerp"@nl, "subject"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010685> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pieksämäki"@nl.
+<https://stad.gent/id/concept/530009801> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vyborg"@nl.
+<https://stad.gent/id/concept/530010334> <http://www.w3.org/2004/02/skos/core#prefLabel> "Viipurin maalaiskunta"@nl.
+<https://stad.gent/id/concept/530003839> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vammala"@nl.
+<https://stad.gent/id/concept/530005261> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tyrnävä"@nl.
+<https://stad.gent/id/concept/530009958> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turku"@nl.
+<https://stad.gent/id/concept/530009617> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tampere"@nl.
+<https://stad.gent/id/concept/530008296> <http://www.w3.org/2004/02/skos/core#prefLabel> "Suomenlinna"@nl.
+<https://stad.gent/id/concept/530005265> <http://www.w3.org/2004/02/skos/core#prefLabel> "Riihimäki"@nl.
+<https://stad.gent/id/concept/530005247> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rantasalmi"@nl.
+<https://stad.gent/id/concept/530004067> <http://www.w3.org/2004/02/skos/core#prefLabel> "Porvoo"@nl.
+<https://stad.gent/id/concept/530009685> <http://www.w3.org/2004/02/skos/core#prefLabel> "Porin maalaiskunta"@nl.
+<https://stad.gent/id/concept/530007405> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pori"@nl.
+<https://stad.gent/id/concept/530009562> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nuutajärvi"@nl.
+<https://stad.gent/id/concept/530009894> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mariehamn"@nl.
+<https://stad.gent/id/concept/530003317> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mäntyharju"@nl.
+<https://stad.gent/id/concept/530004016> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lahti"@nl.
+<https://stad.gent/id/concept/530003391> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuortane (Finland)"@nl.
+<https://stad.gent/id/concept/530008275> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuopio"@nl.
+<https://stad.gent/id/concept/530004223> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kukkila"@nl.
+<https://stad.gent/id/concept/530009597> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kirkkonummi"@nl.
+<https://stad.gent/id/concept/530007261> <http://www.w3.org/2004/02/skos/core#prefLabel> "Keuruu"@nl.
+<https://stad.gent/id/concept/530003748> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jyväskylä"@nl.
+<https://stad.gent/id/concept/530007211> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huhmari"@nl.
+<https://stad.gent/id/concept/530004365> <http://www.w3.org/2004/02/skos/core#prefLabel> "Helsinki"@nl.
+<https://stad.gent/id/concept/530010588> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heinola"@nl.
+<https://stad.gent/id/concept/530004507> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hanko"@nl.
+<https://stad.gent/id/concept/530007378> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hamina"@nl.
+<https://stad.gent/id/concept/530003068> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hämeenlinna"@nl.
+<https://stad.gent/id/concept/530009202> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hämeenkyrö"@nl.
+<https://stad.gent/id/concept/530009642> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fiskars"@nl.
+<https://stad.gent/id/concept/530007037> <http://www.w3.org/2004/02/skos/core#prefLabel> "Espoo"@nl.
+<https://stad.gent/id/concept/530009361> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arabianranta"@nl.
+<https://stad.gent/id/concept/530009203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aitoo"@nl.
+<https://stad.gent/id/concept/530002310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_1237_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006015"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006015/2021-10-31T12:25:57.255Z>.
+<https://stad.gent/id/concept/530005589/2021-10-31T12:08:02.622Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005589>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:08:02.622Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7190705>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1363_47;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fischbach"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_1363_47 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005589"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005589/2021-10-31T12:08:02.622Z>.
+<https://stad.gent/id/concept/530003683/2021-10-31T11:10:15.213Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:10:15.213Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1774_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fins"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "taal"@nl, "language"@en, "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1774_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003683"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003683/2021-10-31T11:10:15.213Z>.
+<https://stad.gent/id/concept/530003220/2021-10-31T10:58:09.766Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003220>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:58:09.766Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q651103>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1858_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fietsvork"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008319>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008319> <http://www.w3.org/2004/02/skos/core#prefLabel> "fiets"@nl.
+_:df_1858_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003220"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003220/2021-10-31T10:58:09.766Z>.
+<https://stad.gent/id/concept/530001969/2021-10-31T10:27:28.695Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:27:28.695Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2077_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fietsstuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008319>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008319> <http://www.w3.org/2004/02/skos/core#prefLabel> "fiets"@nl.
+_:df_2077_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001969/2021-10-31T10:27:28.695Z>.
+<https://stad.gent/id/concept/530000085/2021-10-31T09:15:08.083Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000085>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:15:08.083Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300189808>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2590_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Alle beeldende werken waarin mensen, dieren of mythische beesten de hoofdvoorstelling vormen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "figuurvoorstelling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005468>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000579>, <https://stad.gent/id/concept/530002099>, <https://stad.gent/id/concept/530006535>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006535> <http://www.w3.org/2004/02/skos/core#prefLabel> "vrouwenfiguur"@nl.
+<https://stad.gent/id/concept/530002099> <http://www.w3.org/2004/02/skos/core#prefLabel> "kop (figuurvoorstelling)"@nl.
+<https://stad.gent/id/concept/530000579> <http://www.w3.org/2004/02/skos/core#prefLabel> "buste"@nl.
+<https://stad.gent/id/concept/530005468> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldmateriaal"@nl.
+_:df_2590_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000085"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000085/2021-10-31T09:15:08.083Z>.
+<https://stad.gent/id/concept/470010496/2021-10-31T09:00:53.383Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010496>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:00:53.383Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400779>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2692_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "filmspoel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2692_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010496"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010496/2021-10-31T09:00:53.383Z>.
+<https://stad.gent/id/concept/470009304/2021-10-31T08:20:50.360Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:20:50.360Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015133>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2977_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "filter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2977_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009304/2021-10-31T08:20:50.360Z>.
+<https://stad.gent/id/concept/470008088/2021-10-31T07:49:17.530Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008088>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:49:17.530Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q27597>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3199_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fiat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3199_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008088"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008088/2021-10-31T07:49:17.530Z>.
+<https://stad.gent/id/concept/470007910/2021-10-31T07:43:13.533Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007910>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:43:13.533Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000069>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3244_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Finland"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3244_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007910"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007910/2021-10-31T07:43:13.533Z>.
+<https://stad.gent/id/concept/470007553/2021-10-31T07:36:33.168Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007553>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:36:33.168Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1414443>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3292_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "filmmaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3292_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007553"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007553/2021-10-31T07:36:33.168Z>.
+<https://stad.gent/id/concept/470007538/2021-10-31T07:36:02.302Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007538>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:36:02.302Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300264704>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3295_18;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Systemen die zijn ontwikkeld voor het projecteren van speelfilms op een scherm. De werking van deze systemen berust op het sturen van een lichtstraal door bewegende, belichte film, waarna het beeld vergroot wordt geprojecteerd op een filmdoek in een theater, in een daarvoor geschikt formaat. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "filmprojector"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470004238>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004238> <http://www.w3.org/2004/02/skos/core#prefLabel> "projector"@nl.
+_:df_3295_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007538"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007538/2021-10-31T07:36:02.302Z>.
+<https://stad.gent/id/concept/470007063/2021-10-31T07:23:27.710Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007063>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:23:27.710Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300212636>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3385_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voertuigen met twee wielen achter elkaar, die worden aangedreven door de berijder die schrijlings op een frame zit dat de wielen en het stuur bij elkaar houdt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fiets"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3385_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007063"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007063/2021-10-31T07:23:27.710Z>.
+<https://stad.gent/id/concept/470007024/2021-10-31T07:21:46.603Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007024>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:21:46.603Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300136900>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3397_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor werken die bestaan uit een reeks plaatjes op fotografische film, die zo snel achter elkaar worden vertoond dat ze de illusie geven van een natuurlijke beweging. Voor het maken van films en de studie daarvan en voor films als kunst en vorm van expressie wordt 'film (uitvoerende kunsten)' gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "film"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470010597>, <https://stad.gent/id/concept/470010600>, <https://stad.gent/id/concept/470010596>, <https://stad.gent/id/concept/470010598>, <https://stad.gent/id/concept/470010599>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en, "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470010599> <http://www.w3.org/2004/02/skos/core#prefLabel> "super8 film"@nl.
+<https://stad.gent/id/concept/470010598> <http://www.w3.org/2004/02/skos/core#prefLabel> "9,5mm film"@nl.
+<https://stad.gent/id/concept/470010596> <http://www.w3.org/2004/02/skos/core#prefLabel> "8mm film"@nl.
+<https://stad.gent/id/concept/470010600> <http://www.w3.org/2004/02/skos/core#prefLabel> "35mm film"@nl.
+<https://stad.gent/id/concept/470010597> <http://www.w3.org/2004/02/skos/core#prefLabel> "16mm film"@nl.
+_:df_3397_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007024"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007024/2021-10-31T07:21:46.603Z>.
+<https://stad.gent/id/concept/670000287/2021-10-28T15:24:20.922Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000287>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:24:20.922Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411314>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3982_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fijnschilder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3982_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000287"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000287/2021-10-28T15:24:20.922Z>.
+<https://stad.gent/id/concept/570024708/2021-10-28T14:41:26.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024708>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:41:26.937Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411763>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4276_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleding die men draagt tijdens het fietsen, in zwang vanaf de 19e eeuw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "fietskleding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4276_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024708"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024708/2021-10-28T14:41:26.937Z>.
+<https://stad.gent/id/concept/570024371/2021-10-28T14:27:35.450Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024371>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:27:35.450Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400779>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4372_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Rond voorwerp om film- en geluidsbanden omheen te wikkelen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "filmspoel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4372_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024371"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024371/2021-10-28T14:27:35.450Z>.
+<https://stad.gent/id/concept/570024166/2021-10-28T14:15:52.117Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:15:52.117Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4450_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "filmfragment"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4450_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024166/2021-10-28T14:15:52.117Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/fi.ttl>.

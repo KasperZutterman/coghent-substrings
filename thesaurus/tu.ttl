@@ -433,3 +433,305 @@ _:df_1507_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550000959"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000959/2021-10-31T16:23:51.975Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/tu.ttl>.
+<https://stad.gent/id/concept/530009073/2021-10-31T14:10:53.055Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009073>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:10:53.055Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300165810>;
+    <http://www.w3.org/ns/adms#identifier> _:df_490_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Benaming die meestal wordt gebruikt voor allerlei soorten meubilair, dat speciaal is ontworpen voor gebruik buitenshuis.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tuinmeubilair"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006321>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530004349>, <https://stad.gent/id/concept/530002960>, <https://stad.gent/id/concept/530001182>, <https://stad.gent/id/concept/530001713>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001713> <http://www.w3.org/2004/02/skos/core#prefLabel> "tuintafel"@nl.
+<https://stad.gent/id/concept/530001182> <http://www.w3.org/2004/02/skos/core#prefLabel> "tuinstoel"@nl.
+<https://stad.gent/id/concept/530002960> <http://www.w3.org/2004/02/skos/core#prefLabel> "tuinbank"@nl.
+<https://stad.gent/id/concept/530004349> <http://www.w3.org/2004/02/skos/core#prefLabel> "picknicktafel"@nl.
+<https://stad.gent/id/concept/530006321> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair (objectnaam)"@nl.
+_:df_490_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009073"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009073/2021-10-31T14:10:53.055Z>.
+<https://stad.gent/id/concept/530008771/2021-10-31T14:00:09.833Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008771>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:00:09.833Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197224>;
+    <http://www.w3.org/ns/adms#identifier> _:df_568_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Buisvormig uitsteeksel waardoor de inhoud van een vat kan worden geschonken, of soms gedronken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tuit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006466>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006466> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder"@nl, "houder"@nl.
+_:df_568_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008771"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008771/2021-10-31T14:00:09.833Z>.
+<https://stad.gent/id/concept/530006859/2021-10-31T13:01:29.731Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006859>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:01:29.731Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2082277>;
+    <http://www.w3.org/ns/adms#identifier> _:df_985_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tuscon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_985_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006859"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006859/2021-10-31T13:01:29.731Z>.
+<https://stad.gent/id/concept/530006457/2021-10-31T12:46:50.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006457>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:46:50.536Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011164>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1087_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een triclien mineraal in de kleuren blauw, blauwgroen of geelgroen.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "turkoois"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008556>, <https://stad.gent/id/concept/530006318>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006318> <http://www.w3.org/2004/02/skos/core#prefLabel> "mineraal"@nl.
+<https://stad.gent/id/concept/530008556> <http://www.w3.org/2004/02/skos/core#prefLabel> "edelsteen"@nl.
+_:df_1087_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006457"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006457/2021-10-31T12:46:50.536Z>.
+<https://stad.gent/id/concept/530006375/2021-10-31T12:41:51.225Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:41:51.225Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005688>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1123_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Turijn"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_1123_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006375"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006375/2021-10-31T12:41:51.225Z>.
+<https://stad.gent/id/concept/530006194/2021-10-31T12:35:00.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006194>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:35:00.557Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1171_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een tulpenvaas (ook bloempiramide of bloemhouder) is een vaas die gemaakt is om snijbloemen en in het bijzonder tulpen in te zetten, maar dient vooral als decorstuk. In de 17e eeuw kwamen de (keramische) tulpenvazen uit Delft en waren met een Delfts blauw of Chinees decor versierd. Tulpenvazen zijn in China nagemaakt en door de Vereenigde Oostindische Compagnie geïmporteerd.\r\n\r\nTulpenvazen werden destijds bloempiramides of bloemhouders genoemd. Ze werden als pronkstukken midden op tafel neergezet, ook zonder bloemen.\r\nPas een eeuw later sprak men over tulpenvazen";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tulpenvaas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008411>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008411> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaas"@nl.
+_:df_1171_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006194"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006194/2021-10-31T12:35:00.557Z>.
+<https://stad.gent/id/concept/530005730/2021-10-31T12:15:14.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005730>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:15:14.089Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1644445>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1312_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tuften is een methode om hoogpolig textiel, zoals fluweel, velours, pluche en hoogpolig tapijt, te vervaardigen. De techniek is ontstaan in de jaren 1950 in de Verenigde Staten. Tuften kan zowel automatisch als handmatig (met handtuftgereedschap).";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tuften"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008599>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530004590>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004590> <http://www.w3.org/2004/02/skos/core#prefLabel> "handmatig tuften"@nl.
+<https://stad.gent/id/concept/530008599> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielvervaardigingstechniek"@nl.
+_:df_1312_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005730"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005730/2021-10-31T12:15:14.089Z>.
+<https://stad.gent/id/concept/530004708/2021-10-31T11:41:50.869Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004708>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:41:50.869Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300215505>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1549_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drinkgerei met meestal één langgerekte tuit, zonder deksel, voor het voeren van kinderen of zieken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tuitbeker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006118>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006118> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkbeker"@nl.
+_:df_1549_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004708"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004708/2021-10-31T11:41:50.869Z>.
+<https://stad.gent/id/concept/530004663/2021-10-31T11:40:04.722Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:40:04.722Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209869>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1561_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Eenvoudige instap-kledingstukken met of zonder mouwen, meestal tot aan de knieën en met een riem rond het middel worden gebonden; vooral die gedragen werden door mannen en vrouwen in het oude Griekenland en Rome. Ook kledingstukken van de hals tot de taille of langer, meestal met een hoge boord en gedragen over andere kledingstukken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tuniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008726>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008726> <http://www.w3.org/2004/02/skos/core#prefLabel> "bovenkleding"@nl.
+_:df_1561_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004663/2021-10-31T11:40:04.722Z>.
+<https://stad.gent/id/concept/530004219/2021-10-31T11:21:24.397Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004219>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:21:24.397Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000144>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1693_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Turkije"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009389>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005269>, <https://stad.gent/id/concept/530006756>, <https://stad.gent/id/concept/530009349>, <https://stad.gent/id/concept/530001313>, <https://stad.gent/id/concept/530000963>, <https://stad.gent/id/concept/530000966>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000966> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kula"@nl.
+<https://stad.gent/id/concept/530000963> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chiraz"@nl.
+<https://stad.gent/id/concept/530001313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sumak"@nl.
+<https://stad.gent/id/concept/530009349> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kazak"@nl.
+<https://stad.gent/id/concept/530006756> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ankara"@nl.
+<https://stad.gent/id/concept/530005269> <http://www.w3.org/2004/02/skos/core#prefLabel> "Istanbul"@nl.
+<https://stad.gent/id/concept/530009389> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eurazië"@nl.
+_:df_1693_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004219"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004219/2021-10-31T11:21:24.397Z>.
+<https://stad.gent/id/concept/530004181/2021-10-31T11:20:07.930Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004181>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:20:07.930Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008018>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1702_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Turnhout"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002920>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_1702_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004181"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004181/2021-10-31T11:20:07.930Z>.
+<https://stad.gent/id/concept/530003863/2021-10-31T11:13:17.201Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003863>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:13:17.201Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1753_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tupperware"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1753_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003863"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003863/2021-10-31T11:13:17.201Z>.
+<https://stad.gent/id/concept/530002960/2021-10-31T10:45:34.732Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002960>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:45:34.732Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300172457>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1948_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tuinbank"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009073>, <https://stad.gent/id/concept/530000956>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000956> <http://www.w3.org/2004/02/skos/core#prefLabel> "zitbank (meubilair)"@nl.
+<https://stad.gent/id/concept/530009073> <http://www.w3.org/2004/02/skos/core#prefLabel> "tuinmeubilair"@nl.
+_:df_1948_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002960"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002960/2021-10-31T10:45:34.732Z>.
+<https://stad.gent/id/concept/530002036/2021-10-31T10:30:31.290Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002036>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:30:31.290Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2056_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tuinverlichting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009469>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009469> <http://www.w3.org/2004/02/skos/core#prefLabel> "verlichtingsmiddel"@nl.
+_:df_2056_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002036"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002036/2021-10-31T10:30:31.290Z>.
+<https://stad.gent/id/concept/530001947/2021-10-31T10:26:08.071Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001947>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:26:08.071Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047235>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2086_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Turate"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_2086_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001947"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001947/2021-10-31T10:26:08.071Z>.
+<https://stad.gent/id/concept/530001713/2021-10-31T10:18:21.992Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001713>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:18:21.992Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q65660742>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2143_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tuintafel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006175>, <https://stad.gent/id/concept/530009073>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009073> <http://www.w3.org/2004/02/skos/core#prefLabel> "tuinmeubilair"@nl.
+<https://stad.gent/id/concept/530006175> <http://www.w3.org/2004/02/skos/core#prefLabel> "tafel (dragend meubilair)"@nl.
+_:df_2143_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001713"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001713/2021-10-31T10:18:21.992Z>.
+<https://stad.gent/id/concept/530001182/2021-10-31T10:00:59.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001182>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:00:59.249Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031128>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2266_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tuinstoel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008405>, <https://stad.gent/id/concept/530009073>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009073> <http://www.w3.org/2004/02/skos/core#prefLabel> "tuinmeubilair"@nl.
+<https://stad.gent/id/concept/530008405> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoel"@nl.
+_:df_2266_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001182"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001182/2021-10-31T10:00:59.249Z>.
+<https://stad.gent/id/concept/530001121/2021-10-31T09:58:11.538Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001121>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:58:11.538Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1000205>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2284_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tunesie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000631>, <https://stad.gent/id/concept/530002312>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002312> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afrika"@nl.
+<https://stad.gent/id/concept/530000631> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord-Afrika"@nl.
+_:df_2284_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001121"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001121/2021-10-31T09:58:11.538Z>.
+<https://stad.gent/id/concept/530000880/2021-10-31T09:50:41.471Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000880>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:50:41.471Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900026663>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2338_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tuinvaas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008411>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008411> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaas"@nl.
+_:df_2338_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000880"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000880/2021-10-31T09:50:41.471Z>.
+<https://stad.gent/id/concept/530000621/2021-10-31T09:41:54.180Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000621>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:41:54.180Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004426>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2401_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tübingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2401_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000621"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000621/2021-10-31T09:41:54.180Z>.
+<https://KasperZutterman.github.io///thesaurus/tu.ttl> <https://w3id.org/tree#relation> _:df_1_941.
+_:df_1_941 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tur.ttl>;
+    <https://w3id.org/tree#value> "tur".
+<https://KasperZutterman.github.io///thesaurus/tu.ttl> <https://w3id.org/tree#relation> _:df_1_942.
+_:df_1_942 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tub.ttl>;
+    <https://w3id.org/tree#value> "tub".
+<https://KasperZutterman.github.io///thesaurus/tu.ttl> <https://w3id.org/tree#relation> _:df_1_943.
+_:df_1_943 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tui.ttl>;
+    <https://w3id.org/tree#value> "tui".
+<https://KasperZutterman.github.io///thesaurus/tu.ttl> <https://w3id.org/tree#relation> _:df_1_944.
+_:df_1_944 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tus.ttl>;
+    <https://w3id.org/tree#value> "tus".
+<https://KasperZutterman.github.io///thesaurus/tu.ttl> <https://w3id.org/tree#relation> _:df_1_945.
+_:df_1_945 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tun.ttl>;
+    <https://w3id.org/tree#value> "tun".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/tu.ttl>.

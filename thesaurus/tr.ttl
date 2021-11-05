@@ -668,3 +668,307 @@ _:df_1_499 a <https://w3id.org/tree#SubstringRelation>;
     <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tri.ttl>;
     <https://w3id.org/tree#value> "tri".
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/tr.ttl>.
+<https://stad.gent/id/concept/530009190/2021-10-31T14:16:47.604Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009190>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:16:47.604Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_448_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "textiel met brandverdragende functie";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trevira"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005544>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005544> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststof"@nl.
+_:df_448_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009190"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009190/2021-10-31T14:16:47.604Z>.
+<https://stad.gent/id/concept/530009164/2021-10-31T14:15:31.895Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:15:31.895Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300255177>;
+    <http://www.w3.org/ns/adms#identifier> _:df_457_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Japonnen die door bruiden worden gedragen tijdens het huwelijk en het daaropvolgende feest; in vele stijlen en kleuren, soms met een sleep.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trouwjurk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008795>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008795> <http://www.w3.org/2004/02/skos/core#prefLabel> "japon"@nl.
+_:df_457_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009164/2021-10-31T14:15:31.895Z>.
+<https://stad.gent/id/concept/530008778/2021-10-31T14:00:39.842Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:00:39.842Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300219258>;
+    <http://www.w3.org/ns/adms#identifier> _:df_565_39;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Algemeen te gebruiken voor toestellen of apparaten waarmee mensen of voorwerpen worden vervoerd of gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "transportmiddel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008582>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001307>, <https://stad.gent/id/concept/530001942>, <https://stad.gent/id/concept/530000675>, <https://stad.gent/id/concept/530008319>, <https://stad.gent/id/concept/530003284>, <https://stad.gent/id/concept/530009094>, <https://stad.gent/id/concept/530001923>, <https://stad.gent/id/concept/530008906>, <https://stad.gent/id/concept/530001791>, <https://stad.gent/id/concept/530002046>, <https://stad.gent/id/concept/530008798>, <https://stad.gent/id/concept/530005098>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005098> <http://www.w3.org/2004/02/skos/core#prefLabel> "zeilboot"@nl.
+<https://stad.gent/id/concept/530008798> <http://www.w3.org/2004/02/skos/core#prefLabel> "voertuigonderdeel"@nl.
+<https://stad.gent/id/concept/530002046> <http://www.w3.org/2004/02/skos/core#prefLabel> "velg"@nl.
+<https://stad.gent/id/concept/530001791> <http://www.w3.org/2004/02/skos/core#prefLabel> "treinstel"@nl.
+<https://stad.gent/id/concept/530008906> <http://www.w3.org/2004/02/skos/core#prefLabel> "ski"@nl.
+<https://stad.gent/id/concept/530001923> <http://www.w3.org/2004/02/skos/core#prefLabel> "motorfiets"@nl.
+<https://stad.gent/id/concept/530009094> <http://www.w3.org/2004/02/skos/core#prefLabel> "koets"@nl.
+<https://stad.gent/id/concept/530003284> <http://www.w3.org/2004/02/skos/core#prefLabel> "kinderwagen"@nl.
+<https://stad.gent/id/concept/530008319> <http://www.w3.org/2004/02/skos/core#prefLabel> "fiets"@nl.
+<https://stad.gent/id/concept/530000675> <http://www.w3.org/2004/02/skos/core#prefLabel> "draagstoel"@nl.
+<https://stad.gent/id/concept/530001942> <http://www.w3.org/2004/02/skos/core#prefLabel> "auto"@nl.
+<https://stad.gent/id/concept/530001307> <http://www.w3.org/2004/02/skos/core#prefLabel> "arreslede"@nl.
+<https://stad.gent/id/concept/530008582> <http://www.w3.org/2004/02/skos/core#prefLabel> "vervoermiddel (objectnaam)"@nl.
+_:df_565_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008778/2021-10-31T14:00:39.842Z>.
+<https://stad.gent/id/concept/530008324/2021-10-31T13:31:54.707Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008324>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:31:54.707Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300400594>;
+    <http://www.w3.org/ns/adms#identifier> _:df_769_33;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kettingfluweel met een korte pool uit wol (meestal mohair). Deze kostbare stof werd omwille van zijn warme en rijke aanzien veel gebruikt om wandkleden, galakleding en meubelkleding uit te maken wegens zijn.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trijp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008475>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008475> <http://www.w3.org/2004/02/skos/core#prefLabel> "poolkettingweefsel"@nl.
+_:df_769_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008324"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008324/2021-10-31T13:31:54.707Z>.
+<https://stad.gent/id/concept/530008267/2021-10-31T13:29:02.757Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:29:02.757Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008350>;
+    <http://www.w3.org/ns/adms#identifier> _:df_787_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Troyes"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006462>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frankrijk"@nl, "Frankrijk"@nl.
+_:df_787_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008267/2021-10-31T13:29:02.757Z>.
+<https://stad.gent/id/concept/530008027/2021-10-31T13:22:27.328Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008027>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:22:27.328Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053922>;
+    <http://www.w3.org/ns/adms#identifier> _:df_835_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Proces van het versieren van keramiek met gegraveerde ontwerpen die eerst zijn afgedrukt op papier of ander materiaal met behulp van een speciale keramische inkt en vaak doormiddel van verhitting. Het proces werd rond 1750 in Engeland uitgevonden. Het papier wordt tegen het oppervlak van de keramiek, email of glas gedrukt en het ontwerp wordt zo overgedragen. De werkwijze wordt ook gebruikt voor email en glas.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "transferdruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003449>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003449> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukken"@nl.
+_:df_835_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008027"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008027/2021-10-31T13:22:27.328Z>.
+<https://stad.gent/id/concept/530007062/2021-10-31T13:06:08.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007062>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:06:08.783Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7009596>;
+    <http://www.w3.org/ns/adms#identifier> _:df_952_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trondheim"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005642>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005642> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noorwegen"@nl.
+_:df_952_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007062"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007062/2021-10-31T13:06:08.783Z>.
+<https://stad.gent/id/concept/530006844/2021-10-31T13:00:39.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006844>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:00:39.081Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005539>;
+    <http://www.w3.org/ns/adms#identifier> _:df_991_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trieste"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_991_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006844"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006844/2021-10-31T13:00:39.081Z>.
+<https://stad.gent/id/concept/530006740/2021-10-31T12:57:15.770Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006740>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:57:15.770Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003297>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1015_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Treviso"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_1015_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006740"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006740/2021-10-31T12:57:15.770Z>.
+<https://stad.gent/id/concept/530006621/2021-10-31T12:53:23.039Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006621>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:53:23.039Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011889>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1042_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tring"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009323>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009323> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engeland"@nl, "Engeland"@nl, "Engeland"@nl.
+_:df_1042_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006621"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006621/2021-10-31T12:53:23.039Z>.
+<https://stad.gent/id/concept/530006503/2021-10-31T12:49:28.460Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006503>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:49:28.460Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209900>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1069_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gebreide of gehaakte kledingstukken voor het bovenlichaam, die over het hoofd worden aangetrokken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trui"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008726>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008726> <http://www.w3.org/2004/02/skos/core#prefLabel> "bovenkleding"@nl.
+_:df_1069_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006503"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006503/2021-10-31T12:49:28.460Z>.
+<https://stad.gent/id/concept/530006461/2021-10-31T12:47:10.542Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006461>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:47:10.542Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1084_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Triënnale voor Vormgeving"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "gebeurtenis"@nl, "event"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1084_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006461"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006461/2021-10-31T12:47:10.542Z>.
+<https://stad.gent/id/concept/530006042/2021-10-31T12:27:18.664Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006042>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:27:18.664Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1225_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De vormgeving is niet gerelateerd aan eigentijdse welomschreven stijlen, maar kadert in een doorlopende traditie die zich kan uitstrekken over diverse eeuwen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "traditionele stijl"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1225_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006042"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006042/2021-10-31T12:27:18.664Z>.
+<https://stad.gent/id/concept/530005684/2021-10-31T12:12:51.964Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005684>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:12:51.964Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003849>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1330_34;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trapani"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_1330_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005684"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005684/2021-10-31T12:12:51.964Z>.
+<https://stad.gent/id/concept/530003283/2021-10-31T11:00:26.920Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003283>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:00:26.920Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300012849>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1843_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Houten platen die bestaan uit een aantal dunne lagen roterend geschild fineer, die zodanig aan elkaar zijn gelijmd dat de draad van elke laag loodrecht op de draad van de aangrenzende laag ligt.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "triplex"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008447>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001871>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001871> <http://www.w3.org/2004/02/skos/core#prefLabel> "berkentriplex"@nl.
+<https://stad.gent/id/concept/530008447> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtproduct"@nl.
+_:df_1843_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003283"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003283/2021-10-31T11:00:26.920Z>.
+<https://stad.gent/id/concept/530003196/2021-10-31T10:56:59.230Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003196>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:56:59.230Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300003228>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1867_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een opeenvolging van treden of meerdere reeksen treden verbonden door middel van overlopen, bedoeld om van de ene verdieping naar de andere te komen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006189>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530004698>, <https://stad.gent/id/concept/530002016>, <https://stad.gent/id/concept/530010459>, <https://stad.gent/id/concept/530001886>, <https://stad.gent/id/concept/530010670>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010670> <http://www.w3.org/2004/02/skos/core#prefLabel> "beddenbankje"@nl.
+<https://stad.gent/id/concept/530001886> <http://www.w3.org/2004/02/skos/core#prefLabel> "traptrede"@nl.
+<https://stad.gent/id/concept/530010459> <http://www.w3.org/2004/02/skos/core#prefLabel> "trapleuning"@nl.
+<https://stad.gent/id/concept/530002016> <http://www.w3.org/2004/02/skos/core#prefLabel> "trapaanzet"@nl.
+<https://stad.gent/id/concept/530004698> <http://www.w3.org/2004/02/skos/core#prefLabel> "slingertrap"@nl.
+<https://stad.gent/id/concept/530006189> <http://www.w3.org/2004/02/skos/core#prefLabel> "architecturaal element"@nl.
+_:df_1867_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003196"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003196/2021-10-31T10:56:59.230Z>.
+<https://stad.gent/id/concept/530003184/2021-10-31T10:56:28.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:56:28.500Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1048806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1870_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trysi"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005642>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005642> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noorwegen"@nl.
+_:df_1870_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003184"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003184/2021-10-31T10:56:28.500Z>.
+<https://stad.gent/id/concept/530003086/2021-10-31T10:52:14.766Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003086>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:52:14.766Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300200490>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1900_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Constructies bestaande uit een omgekeerde kegel met een nauwe buis aan de top; gebruikt voor het geleiden van vloeistoffen of andere substanties van de ene opvangbak naar de andere, meestal met een nauwere opening, soms gecombineerd met filters";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trechter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001486>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001486> <http://www.w3.org/2004/02/skos/core#prefLabel> "keukengerei (objectnaam)"@nl.
+_:df_1900_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003086"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003086/2021-10-31T10:52:14.766Z>.
+<https://stad.gent/id/concept/530002750/2021-10-31T10:36:46.407Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002750>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:36:46.407Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004447>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2011_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Trier"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_2011_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002750"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002750/2021-10-31T10:36:46.407Z>.
+<https://stad.gent/id/concept/530002016/2021-10-31T10:29:25.044Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002016>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:29:25.044Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2062_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "trapaanzet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003196>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003196> <http://www.w3.org/2004/02/skos/core#prefLabel> "trap"@nl.
+_:df_2062_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002016"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002016/2021-10-31T10:29:25.044Z>.
+<https://KasperZutterman.github.io///thesaurus/tr.ttl> <https://w3id.org/tree#relation> _:df_1_855.
+_:df_1_855 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tra.ttl>;
+    <https://w3id.org/tree#value> "tra".
+<https://KasperZutterman.github.io///thesaurus/tr.ttl> <https://w3id.org/tree#relation> _:df_1_856.
+_:df_1_856 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tre.ttl>;
+    <https://w3id.org/tree#value> "tre".
+<https://KasperZutterman.github.io///thesaurus/tr.ttl> <https://w3id.org/tree#relation> _:df_1_857.
+_:df_1_857 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tri.ttl>;
+    <https://w3id.org/tree#value> "tri".
+<https://KasperZutterman.github.io///thesaurus/tr.ttl> <https://w3id.org/tree#relation> _:df_1_858.
+_:df_1_858 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tro.ttl>;
+    <https://w3id.org/tree#value> "tro".
+<https://KasperZutterman.github.io///thesaurus/tr.ttl> <https://w3id.org/tree#relation> _:df_1_859.
+_:df_1_859 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tru.ttl>;
+    <https://w3id.org/tree#value> "tru".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/tr.ttl>.

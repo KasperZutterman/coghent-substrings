@@ -201,3 +201,182 @@ _:df_1708_13 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010454"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010454/2021-10-31T15:55:35.934Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kop.ttl>.
+<https://stad.gent/id/concept/530006382/2021-10-31T12:42:17.093Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006382>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:42:17.093Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011020>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1120_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor het zuivere metaalelement met het symbool Cu en het atoomnummer 29; het is roodachtig van kleur en is zeer smeedbaar en kneedbaar. \r\nOok te gebruiken voor het metaal wanneer het woirdt bewerkt en gevormd om, meestal in combinatie met andere stoffen, verschillende voorwerpen en materialen te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008458>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008458> <http://www.w3.org/2004/02/skos/core#prefLabel> "koper en koperlegering"@nl.
+_:df_1120_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006382"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006382/2021-10-31T12:42:17.093Z>.
+<https://stad.gent/id/concept/530006312/2021-10-31T12:39:50.033Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006312>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:39:50.033Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300043202>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1138_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Drinkgerei, vaak met één handvat, maar soms met twee of geen handvatten, gewoonlijk op een lage voetring; naar boven toe minder wijd uitlopend dan 'kommen'.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kop (drinkgerei)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006475>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006138>, <https://stad.gent/id/concept/530005152>, <https://stad.gent/id/concept/530000467>, <https://stad.gent/id/concept/530001851>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001851> <http://www.w3.org/2004/02/skos/core#prefLabel> "theekop"@nl.
+<https://stad.gent/id/concept/530000467> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontbijtkop"@nl.
+<https://stad.gent/id/concept/530005152> <http://www.w3.org/2004/02/skos/core#prefLabel> "koffiekop"@nl.
+<https://stad.gent/id/concept/530006138> <http://www.w3.org/2004/02/skos/core#prefLabel> "beker op voet"@nl.
+<https://stad.gent/id/concept/530006475> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinkgerei"@nl.
+_:df_1138_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006312"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006312/2021-10-31T12:39:50.033Z>.
+<https://stad.gent/id/concept/530003222/2021-10-31T10:58:15.440Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003222>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:58:15.440Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1858_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koppelstuk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004640>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004640> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdeel"@nl.
+_:df_1858_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003222"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003222/2021-10-31T10:58:15.440Z>.
+<https://stad.gent/id/concept/530002099/2021-10-31T10:33:08.171Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002099>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:33:08.171Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300262520>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2038_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Voorstellingen van hoofden van mensen, dieren of van wezens uit de mythologie of legenden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kop (figuurvoorstelling)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000085>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001744>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001744> <http://www.w3.org/2004/02/skos/core#prefLabel> "portretkop"@nl.
+<https://stad.gent/id/concept/530000085> <http://www.w3.org/2004/02/skos/core#prefLabel> "figuurvoorstelling"@nl.
+_:df_2038_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002099"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002099/2021-10-31T10:33:08.171Z>.
+<https://stad.gent/id/concept/530001262/2021-10-31T10:03:21.058Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001262>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:03:21.058Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041340>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2248_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gravures waarbij de afbeelding is gesneden in een koperen plaat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kopergravure"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005497>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005497> <http://www.w3.org/2004/02/skos/core#prefLabel> "gravure"@nl.
+_:df_2248_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001262"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001262/2021-10-31T10:03:21.058Z>.
+<https://stad.gent/id/concept/530000666/2021-10-31T09:44:01.061Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000666>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:44:01.061Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010942>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2386_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koperlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008458>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006298>, <https://stad.gent/id/concept/530008435>, <https://stad.gent/id/concept/530005081>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005081> <http://www.w3.org/2004/02/skos/core#prefLabel> "messing"@nl.
+<https://stad.gent/id/concept/530008435> <http://www.w3.org/2004/02/skos/core#prefLabel> "koper-nikkellegering"@nl.
+<https://stad.gent/id/concept/530006298> <http://www.w3.org/2004/02/skos/core#prefLabel> "brons"@nl.
+<https://stad.gent/id/concept/530008458> <http://www.w3.org/2004/02/skos/core#prefLabel> "koper en koperlegering"@nl.
+_:df_2386_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000666"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000666/2021-10-31T09:44:01.061Z>.
+<https://stad.gent/id/concept/530000338/2021-10-31T09:26:57.397Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000338>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:26:57.397Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003474>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2506_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kopenhagen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005982>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Denemarken"@nl.
+_:df_2506_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000338"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000338/2021-10-31T09:26:57.397Z>.
+<https://stad.gent/id/concept/530000052/2021-10-31T09:13:52.330Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000052>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:13:52.330Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2599_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kopje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2599_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000052"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000052/2021-10-31T09:13:52.330Z>.
+<https://stad.gent/id/concept/470007933/2021-10-31T07:44:14.210Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007933>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:44:14.210Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011020>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3235_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koper"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3235_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007933"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007933/2021-10-31T07:44:14.210Z>.
+<https://stad.gent/id/concept/470007365/2021-10-31T07:32:24.718Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007365>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:32:24.718Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015640>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3319_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kopie (afgeleid object)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3319_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007365"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007365/2021-10-31T07:32:24.718Z>.
+<https://stad.gent/id/concept/670000967/2021-10-28T16:20:28.600Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000967>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:20:28.600Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/3073>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3598_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koperstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3598_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000967"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000967/2021-10-28T16:20:28.600Z>.
+<https://stad.gent/id/concept/670000335/2021-10-28T15:27:47.568Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000335>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:27:47.568Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025315>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3958_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koperslager"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3958_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000335"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000335/2021-10-28T15:27:47.568Z>.
+<https://stad.gent/id/concept/570024257/2021-10-28T14:20:54.437Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024257>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:20:54.437Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4417_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koppelstekker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4417_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024257"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024257/2021-10-28T14:20:54.437Z>.
+<https://stad.gent/id/concept/570024180/2021-10-28T14:16:22.124Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024180>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:16:22.124Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4447_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koppelcontactstop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4447_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024180"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024180/2021-10-28T14:16:22.124Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kop.ttl>.

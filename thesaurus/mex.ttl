@@ -37,3 +37,21 @@ _:df_1777_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010328"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010328/2021-10-31T15:45:53.182Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mex.ttl>.
+<https://stad.gent/id/concept/530004498/2021-10-31T11:32:13.800Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004498>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:32:13.800Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005560>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1618_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mexico"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004612>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006868>, <https://stad.gent/id/concept/530007094>, <https://stad.gent/id/concept/530010328>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010328> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mexico City"@nl.
+<https://stad.gent/id/concept/530007094> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tolentino"@nl.
+<https://stad.gent/id/concept/530006868> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yucatàn"@nl.
+<https://stad.gent/id/concept/530004612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord- en Centraal Amerika"@nl.
+_:df_1618_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004498"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004498/2021-10-31T11:32:13.800Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mex.ttl>.

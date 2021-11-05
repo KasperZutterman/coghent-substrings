@@ -142,3 +142,239 @@ _:df_1336_8 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550002476"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002476/2021-10-31T16:47:48.899Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kor.ttl>.
+<https://stad.gent/id/concept/530005752/2021-10-31T12:16:19.813Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005752>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:16:19.813Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007934>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1303_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kortrijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530007350>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000006>, <https://stad.gent/id/concept/530004378>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004378> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heule (Kortrijk)"@nl.
+<https://stad.gent/id/concept/530000006> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aalbeke"@nl.
+<https://stad.gent/id/concept/530007350> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen"@nl.
+_:df_1303_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005752"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005752/2021-10-31T12:16:19.813Z>.
+<https://stad.gent/id/concept/530002822/2021-10-31T10:40:04.512Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002822>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:40:04.512Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7030437>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1987_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kortenberg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009325>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009325> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams-Brabant"@nl.
+_:df_1987_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002822"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002822/2021-10-31T10:40:04.512Z>.
+<https://stad.gent/id/concept/530001694/2021-10-31T10:17:41.983Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001694>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:17:41.983Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010942>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2146_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hard materiaal bestaande uit calciumcarbonaat; de skeletafzetting van bepaalde zeedieren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "koraal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008540>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008540> <http://www.w3.org/2004/02/skos/core#prefLabel> "combinatie anorganisch/organisch dierlijk materiaal"@nl.
+_:df_2146_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001694"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001694/2021-10-31T10:17:41.983Z>.
+<https://stad.gent/id/concept/530000795/2021-10-31T09:48:03.479Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000795>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:48:03.479Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2356_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kornetvaas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2356_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000795"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000795/2021-10-31T09:48:03.479Z>.
+<https://stad.gent/id/concept/530000785/2021-10-31T09:47:43.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:47:43.472Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7059230>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2359_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Historical country on the Korean Penninsula in East Asia; was divided into North Korea and South Korea in the mid-20th century. From the mid-7th century CE to the mid-20th century it had a history of racial and cultural homogeneity and of political unity, fostering the evolution of a distinctive language and culture. It had a unique geographical position between two powerful neighbors, China and Japan, exposing it to invasion and occupation by both sides; it was a cultural conduit between the two. From 1392 to 1910 it flourished under the Chosŭn Dynasty (also known as the Yi Dynasty). In 1910, Korea was annexed by Japan and under Japanese control until Japan's defeat in World War II, in 1945.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korea"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002419>, <https://stad.gent/id/concept/530000803>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000803> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Azië"@nl.
+<https://stad.gent/id/concept/530002419> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azië"@nl, "Azië"@nl.
+_:df_2359_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000785/2021-10-31T09:47:43.472Z>.
+<https://stad.gent/id/concept/530000570/2021-10-31T09:39:02.332Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000570>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:39:02.332Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2422_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stoel met een rugleuning van zorgvuldig gebogen en gerangschikte spijlen in de vorm van een gestileerde korenschoof. Frans. Eind 18de-begin 19de eeuw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "korenaarstoel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008405>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008405> <http://www.w3.org/2004/02/skos/core#prefLabel> "stoel"@nl, "stoel"@nl.
+_:df_2422_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000570"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000570/2021-10-31T09:39:02.332Z>.
+<https://stad.gent/id/concept/470011032/2021-10-31T09:10:49.797Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470011032>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:10:49.797Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/3380>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2623_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kortrijksesteenweg (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "trefwoord"@nl, "keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2623_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470011032"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470011032/2021-10-31T09:10:49.797Z>.
+<https://stad.gent/id/concept/470009662/2021-10-31T08:33:55.190Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009662>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:33:55.190Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7242922>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2884_43;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kortessem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2884_43 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009662"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009662/2021-10-31T08:33:55.190Z>.
+<https://stad.gent/id/concept/470008961/2021-10-31T08:13:25.823Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008961>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:13:25.823Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300210582>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3028_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "korset"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3028_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008961"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008961/2021-10-31T08:13:25.823Z>.
+<https://stad.gent/id/concept/470007265/2021-10-31T07:30:02.796Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007265>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:30:02.796Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7242717>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3337_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kortemark"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3337_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007265"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007265/2021-10-31T07:30:02.796Z>.
+<https://stad.gent/id/concept/670001142/2021-10-28T16:30:50.836Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001142>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:30:50.836Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/24758>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3529_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korenstapelhuis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3529_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001142"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001142/2021-10-28T16:30:50.836Z>.
+<https://stad.gent/id/concept/670000968/2021-10-28T16:20:33.601Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000968>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:20:33.601Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/3074>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3598_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korianderstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3598_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000968"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000968/2021-10-28T16:20:33.601Z>.
+<https://stad.gent/id/concept/670000969/2021-10-28T16:20:38.603Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:20:38.603Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3598_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korte Begijnhofstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3598_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000969/2021-10-28T16:20:38.603Z>.
+<https://stad.gent/id/concept/670000970/2021-10-28T16:20:43.604Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:20:43.604Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3598_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korte Kazernestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3598_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000970/2021-10-28T16:20:43.604Z>.
+<https://stad.gent/id/concept/670000672/2021-10-28T15:55:10.626Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000672>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:55:10.626Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3769_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korte Kammerstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3769_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000672"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000672/2021-10-28T15:55:10.626Z>.
+<https://stad.gent/id/concept/670000673/2021-10-28T15:55:15.627Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000673>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:55:15.627Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3769_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korte Meulenbergstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3769_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000673"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000673/2021-10-28T15:55:15.627Z>.
+<https://stad.gent/id/concept/670000674/2021-10-28T15:55:20.629Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000674>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:55:20.629Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3769_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korte Ridderstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3769_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000674"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000674/2021-10-28T15:55:20.629Z>.
+<https://stad.gent/id/concept/670000675/2021-10-28T15:55:25.630Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000675>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:55:25.630Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3769_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korte Schipgracht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3769_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000675"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000675/2021-10-28T15:55:25.630Z>.
+<https://stad.gent/id/concept/670000676/2021-10-28T15:55:30.631Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000676>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:55:30.631Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3769_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korte Wijngaardstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3769_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000676"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000676/2021-10-28T15:55:30.631Z>.
+<https://stad.gent/id/concept/670000671/2021-10-28T15:55:05.625Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000671>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:55:05.625Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3772_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korte Donkersteeg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3772_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000671"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000671/2021-10-28T15:55:05.625Z>.
+<https://KasperZutterman.github.io///thesaurus/kor.ttl> <https://w3id.org/tree#relation> _:df_1_1166.
+_:df_1_1166 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kore.ttl>;
+    <https://w3id.org/tree#value> "kore".
+<https://KasperZutterman.github.io///thesaurus/kor.ttl> <https://w3id.org/tree#relation> _:df_1_1167.
+_:df_1_1167 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kort.ttl>;
+    <https://w3id.org/tree#value> "kort".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kor.ttl>.

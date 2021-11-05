@@ -13,3 +13,18 @@ _:df_1702_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010465"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010465/2021-10-31T15:56:16.565Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hak.ttl>.
+<https://stad.gent/id/concept/530004431/2021-10-31T11:29:46.649Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004431>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:29:46.649Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053632>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1636_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Textieltechniek waarbij lussen met elkaar verbonden worden, gebruik makend van een enkele draad of koord en een enkele haaknaald";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "haken (handwerktechniek)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008599>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008599> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielvervaardigingstechniek"@nl.
+_:df_1636_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004431"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004431/2021-10-31T11:29:46.649Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hak.ttl>.

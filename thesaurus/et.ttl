@@ -187,3 +187,110 @@ _:df_1855_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530010197"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010197/2021-10-31T15:34:54.924Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/et.ttl>.
+<https://stad.gent/id/concept/530008181/2021-10-31T13:25:34.942Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008181>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:25:34.942Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_814_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ethanol"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008180>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008180> <http://www.w3.org/2004/02/skos/core#prefLabel> "solvent"@nl.
+_:df_814_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008181"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530008181> <http://www.w3.org/2004/02/skos/core#prefLabel> "ethanol"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008181/2021-10-31T13:25:34.942Z>.
+<https://stad.gent/id/concept/530006367/2021-10-31T12:41:26.217Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006367>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:41:26.217Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008814>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1126_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Etterbeek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009329>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009329> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brussels Hoofdstedelijk Gewest"@nl.
+_:df_1126_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006367"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006367/2021-10-31T12:41:26.217Z>.
+<https://stad.gent/id/concept/530005710/2021-10-31T12:14:12.530Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005710>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:14:12.530Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053840>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1318_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Tekens aanbrengen in het oppervlak van een hard materiaal, zoals metaal of glas, door corrosieve zuren op dat oppervlak te laten inbijten. Gebruik 'etsen (drukprocédé)' voor de reeks stappen die het drukken van een ingebeten plaat behelst.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "etsen (inbijten)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008644>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008702>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008702> <http://www.w3.org/2004/02/skos/core#prefLabel> "matteren"@nl.
+<https://stad.gent/id/concept/530008644> <http://www.w3.org/2004/02/skos/core#prefLabel> "subtractieve techniek"@nl.
+_:df_1318_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005710"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005710/2021-10-31T12:14:12.530Z>.
+<https://stad.gent/id/concept/530002019/2021-10-31T10:29:40.660Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002019>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:29:40.660Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7031666>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2062_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Etikhove"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009373>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009373> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maarkedal"@nl.
+_:df_2062_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002019"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002019/2021-10-31T10:29:40.660Z>.
+<https://stad.gent/id/concept/530001293/2021-10-31T10:04:31.605Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001293>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:04:31.605Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300039770>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2239_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "étagère"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008714>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008714> <http://www.w3.org/2004/02/skos/core#prefLabel> "standaard (ondersteunend meubilair)"@nl.
+_:df_2239_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001293"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001293/2021-10-31T10:04:31.605Z>.
+<https://stad.gent/id/concept/530000646/2021-10-31T09:43:05.410Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000646>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:43:05.410Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300221557>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2392_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Doosjes, meestal ornamenteel, die zijn bedoeld om persoonlijke artikelen zoals haarspelden en tandenstokers op te bergen. Vroeger ook doosjes voor chirurgische instrumenten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "etui"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006466>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010693>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010693> <http://www.w3.org/2004/02/skos/core#prefLabel> "fotohouder"@nl.
+<https://stad.gent/id/concept/530006466> <http://www.w3.org/2004/02/skos/core#prefLabel> "houder"@nl.
+_:df_2392_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000646"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000646/2021-10-31T09:43:05.410Z>.
+<https://stad.gent/id/concept/470008177/2021-10-31T07:50:48.531Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008177>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:50:48.531Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3190_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ets (prent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3190_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008177"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008177/2021-10-31T07:50:48.531Z>.
+<https://stad.gent/id/concept/470007479/2021-10-31T07:34:56.473Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:34:56.473Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028730>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3301_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "etiket"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "inscriptie positie"@nl, "inscription position"@en, "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3301_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007479/2021-10-31T07:34:56.473Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/et.ttl>.
