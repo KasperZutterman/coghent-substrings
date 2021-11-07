@@ -8,7 +8,7 @@ concurrency: ci-${{ github.ref }}
 on:
   # - on schedule, every 4 hours
   schedule:
-   - cron: '* */2 * * *'
+   - cron: '* */8 * * *'
   workflow_dispatch:
 
 jobs:
@@ -29,6 +29,6 @@ jobs:
           storage: 'thesaurus'
           fragmentation_strategy: 'substring'
           fragmentation_page_size: 20
-          timeout: 3600000
+          timeout: 10800000
           property_path: '<http://www.w3.org/2004/02/skos/core#prefLabel>'
           stream_data: "true"
