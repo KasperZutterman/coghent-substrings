@@ -29,3 +29,224 @@ _:df_3679_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550005755"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005755/2021-10-28T05:13:14.794Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/afs.ttl>.
+<https://stad.gent/id/concept/550008010/2021-10-31T19:05:21.714Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008010>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:05:21.714Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300246367>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4246_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afsluitingsmiddelen en hun onderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007904>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005755>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005755> <http://www.w3.org/2004/02/skos/core#prefLabel> "afsluitingsmiddelen"@nl.
+<https://stad.gent/id/concept/550007904> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerkingsijzerwaar"@nl.
+_:df_4246_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008010"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008010/2021-10-31T19:05:21.714Z>.
+<https://stad.gent/id/concept/550007542/2021-10-31T18:40:24.251Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007542>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:40:24.251Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7245365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4423_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afsnee"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_4423_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007542"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007542/2021-10-31T18:40:24.251Z>.
+<https://stad.gent/id/concept/550005755/2021-10-31T17:59:41.070Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005755>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:59:41.070Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300080839>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4711_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afsluitingsmiddelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008010>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008123>, <https://stad.gent/id/concept/550005221>, <https://stad.gent/id/concept/550005148>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005148> <http://www.w3.org/2004/02/skos/core#prefLabel> "slot (afsluitingsmiddel)"@nl.
+<https://stad.gent/id/concept/550005221> <http://www.w3.org/2004/02/skos/core#prefLabel> "klink"@nl.
+<https://stad.gent/id/concept/550008123> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurgrendel"@nl.
+<https://stad.gent/id/concept/550008010> <http://www.w3.org/2004/02/skos/core#prefLabel> "afsluitingsmiddelen en hun onderdelen"@nl.
+_:df_4711_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005755"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005755/2021-10-31T17:59:41.070Z>.
+<https://stad.gent/id/concept/550001495/2021-10-31T16:32:17.960Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001495>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:32:17.960Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300389721>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5332_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Groeven van eender welke vorm in een stuk hout, metaal, steen of ander materiaal, met name wanneer deze groef zo gemaakt is dat er een ander stuk in past. Hieronder vallen ook sponningen: groeven of geulen die langs de rand of oppervlak van een object zijn gesneden, of rechthoekige groeven die langs een uitstekende hoek zijn aangebracht om een trede of schouder te vormen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5332_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001495"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001495/2021-10-31T16:32:17.960Z>.
+<https://stad.gent/id/concept/530008789/2021-10-31T14:01:20.490Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008789>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:01:20.490Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300429899>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6403_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Devices designed to control equipment from a distance, usually by means of radio or infrared signals. Most often refers to those used for operating domestic appliances such as television receivers.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afstandsbediening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010667>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010667> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdeel van telecommunicatiesysteem"@nl.
+_:df_6403_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008789"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008789/2021-10-31T14:01:20.490Z>.
+<https://stad.gent/id/concept/530002928/2021-10-31T10:43:58.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002928>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:43:58.405Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7804_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afsluitdop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7804_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002928"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002928/2021-10-31T10:43:58.405Z>.
+<https://stad.gent/id/concept/570016782/2021-10-28T11:17:18.619Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016782>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:17:18.619Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7245365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_11524_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afsnee"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11524_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016782"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016782/2021-10-28T11:17:18.619Z>.
+<https://stad.gent/id/concept/570013165/2021-10-28T09:50:44.223Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013165>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:50:44.223Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_12124_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afspijkerkam"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12124_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013165"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013165/2021-10-28T09:50:44.223Z>.
+<https://stad.gent/id/concept/550008640/2021-10-28T07:04:16.893Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008640>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:04:16.893Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002547>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13255_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor objecten die dienen om ruimten binnenshuis onder te verdelen, waarbij vaak gebruik gemaakt wordt van boekenplanken of kastjes. Gebruik 'tussenwanden' voor al dan niet permanente binnenmuren die het ene gedeelte van een gebouw van het andere afscheiden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afscheiding (binnenruimte)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008086>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008086> <http://www.w3.org/2004/02/skos/core#prefLabel> "omsluitende structurele elementen"@nl.
+_:df_13255_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008640"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008640/2021-10-28T07:04:16.893Z>.
+<https://stad.gent/id/concept/550008010/2021-10-28T06:22:37.161Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008010>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:22:37.161Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300246367>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13537_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afsluitingsmiddelen en hun onderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007904>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005755>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005755> <http://www.w3.org/2004/02/skos/core#prefLabel> "afsluitingsmiddelen"@nl.
+<https://stad.gent/id/concept/550007904> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerkingsijzerwaar"@nl, "afwerkingsijzerwaar"@nl.
+_:df_13537_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008010"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008010/2021-10-28T06:22:37.161Z>.
+<https://stad.gent/id/concept/550007542/2021-10-28T05:55:53.235Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007542>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:55:53.235Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7245365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13714_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afsnee"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004313>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen"@nl.
+_:df_13714_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007542"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007542/2021-10-28T05:55:53.235Z>.
+<https://stad.gent/id/concept/550005755/2021-10-28T05:13:14.794Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005755>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:13:14.794Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300080839>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14002_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afsluitingsmiddelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008010>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008123>, <https://stad.gent/id/concept/550005221>, <https://stad.gent/id/concept/550005148>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005148> <http://www.w3.org/2004/02/skos/core#prefLabel> "slot (afsluitingsmiddel)"@nl.
+<https://stad.gent/id/concept/550005221> <http://www.w3.org/2004/02/skos/core#prefLabel> "klink"@nl.
+<https://stad.gent/id/concept/550008123> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurgrendel"@nl.
+<https://stad.gent/id/concept/550008010> <http://www.w3.org/2004/02/skos/core#prefLabel> "afsluitingsmiddelen en hun onderdelen"@nl.
+_:df_14002_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005755"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005755/2021-10-28T05:13:14.794Z>.
+<https://stad.gent/id/concept/550001495/2021-10-28T03:40:07.049Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001495>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:40:07.049Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300389721>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14623_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Groeven van eender welke vorm in een stuk hout, metaal, steen of ander materiaal, met name wanneer deze groef zo gemaakt is dat er een ander stuk in past. Hieronder vallen ook sponningen: groeven of geulen die langs de rand of oppervlak van een object zijn gesneden, of rechthoekige groeven die langs een uitstekende hoek zijn aangebracht om een trede of schouder te vormen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_14623_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001495"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001495/2021-10-28T03:40:07.049Z>.
+<https://stad.gent/id/concept/530008789/2021-10-28T00:58:50.768Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008789>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:58:50.768Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300429899>;
+    <http://www.w3.org/ns/adms#identifier> _:df_15694_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Devices designed to control equipment from a distance, usually by means of radio or infrared signals. Most often refers to those used for operating domestic appliances such as television receivers.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afstandsbediening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010667>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010667> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdeel van telecommunicatiesysteem"@nl.
+_:df_15694_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008789"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008789/2021-10-28T00:58:50.768Z>.
+<https://stad.gent/id/concept/530002928/2021-10-27T21:29:51.445Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002928>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:29:51.445Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_17095_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afsluitdop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_17095_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002928"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002928/2021-10-27T21:29:51.445Z>.
+<https://stad.gent/id/concept/470003752/2021-10-27T16:54:44.933Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003752>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:54:44.933Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005043>;
+    <http://www.w3.org/ns/adms#identifier> _:df_19009_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Objecten of verzamelingen objecten die afscheiden, apart houden, afbakenen of dienst doen als barricades.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afsluiting"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_19009_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003752"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003752/2021-10-27T16:54:44.933Z>.
+<https://stad.gent/id/concept/470000625/2021-10-27T15:10:54.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000625>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:10:54.885Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7245365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_19705_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afsnee"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_19705_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000625"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000625/2021-10-27T15:10:54.885Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/afs.ttl>.

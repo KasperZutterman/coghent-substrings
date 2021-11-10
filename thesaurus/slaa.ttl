@@ -1,0 +1,25 @@
+<https://stad.gent/id/concept/570014064/2021-10-28T10:09:19.790Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014064>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:09:19.790Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046101>;
+    <http://www.w3.org/ns/adms#identifier> _:df_11998_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "slaapmuts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11998_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014064"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014064/2021-10-28T10:09:19.790Z>.
+<https://stad.gent/id/concept/470002728/2021-10-27T16:25:59.791Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002728>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:25:59.791Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300004364>;
+    <http://www.w3.org/ns/adms#identifier> _:df_19210_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "slaapkamer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470005637>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005637> <http://www.w3.org/2004/02/skos/core#prefLabel> "woonhuis"@nl.
+_:df_19210_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002728"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002728/2021-10-27T16:25:59.791Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/slaa.ttl>.

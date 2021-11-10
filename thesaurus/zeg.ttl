@@ -42,3 +42,110 @@ _:df_3577_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530000400"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000400/2021-10-27T20:13:08.842Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/zeg.ttl>.
+<https://stad.gent/id/concept/570009522/2021-10-31T21:25:22.821Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009522>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:25:22.821Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q162919>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3253_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zegel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3253_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009522"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009522/2021-10-31T21:25:22.821Z>.
+<https://stad.gent/id/concept/550006160/2021-10-31T18:13:12.200Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006160>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:13:12.200Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900033171>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4615_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een stempel met ingesneden reliëf met voorstelling en/of tekst waarmee een zegel in was of lak wordt afgedrukt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zegelstempel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005043>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005043> <http://www.w3.org/2004/02/skos/core#prefLabel> "stempel"@nl.
+_:df_4615_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006160"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006160/2021-10-31T18:13:12.200Z>.
+<https://stad.gent/id/concept/550006129/2021-10-31T18:11:30.827Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:11:30.827Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028877>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4627_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar artefacten voorzien van monogrammen, teksten, getallen, symbolen of ontwerpen in intaglio waarmee een reliëfafdruk wordt gemaakt in klei of was, of een andere zachte, taaie substantie. Zegels kunnen vlak of cilindervormig zijn; in het laatste geval wordt de afdruk gemaakt door het zegel over het oppervlak te rollen. De term verwijst ook naar afdrukken die zijn gemaakt in was, klei of een ander zacht materiaal, door contact met een zegel of een ander hard, gegraveerd oppervlak. Zegels worden meestal gebruikt om de authenticiteit van documenten te bevestigen, of als decoratie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zegel (identificatiedrager)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008050>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008050> <http://www.w3.org/2004/02/skos/core#prefLabel> "identificatiedrager"@nl.
+_:df_4627_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006129/2021-10-31T18:11:30.827Z>.
+<https://stad.gent/id/concept/530000400/2021-10-31T09:30:10.409Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000400>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:30:10.409Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028877>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8329_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een stempel met ingesneden reliëf met voorstelling en/of tekst waarmee een zegel in was of lak wordt afgedrukt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zegelstempel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003303>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003303> <http://www.w3.org/2004/02/skos/core#prefLabel> "stempel"@nl.
+_:df_8329_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000400"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000400/2021-10-31T09:30:10.409Z>.
+<https://stad.gent/id/concept/570009522/2021-10-28T08:49:20.173Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009522>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:49:20.173Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q162919>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12544_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zegel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12544_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009522"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009522/2021-10-28T08:49:20.173Z>.
+<https://stad.gent/id/concept/550006160/2021-10-28T05:27:19.764Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006160>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:27:19.764Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900033171>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13906_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een stempel met ingesneden reliëf met voorstelling en/of tekst waarmee een zegel in was of lak wordt afgedrukt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zegelstempel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005043>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005043> <http://www.w3.org/2004/02/skos/core#prefLabel> "stempel"@nl.
+_:df_13906_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006160"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006160/2021-10-28T05:27:19.764Z>.
+<https://stad.gent/id/concept/550006129/2021-10-28T05:25:34.958Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:25:34.958Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028877>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13918_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar artefacten voorzien van monogrammen, teksten, getallen, symbolen of ontwerpen in intaglio waarmee een reliëfafdruk wordt gemaakt in klei of was, of een andere zachte, taaie substantie. Zegels kunnen vlak of cilindervormig zijn; in het laatste geval wordt de afdruk gemaakt door het zegel over het oppervlak te rollen. De term verwijst ook naar afdrukken die zijn gemaakt in was, klei of een ander zacht materiaal, door contact met een zegel of een ander hard, gegraveerd oppervlak. Zegels worden meestal gebruikt om de authenticiteit van documenten te bevestigen, of als decoratie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zegel (identificatiedrager)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008050>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008050> <http://www.w3.org/2004/02/skos/core#prefLabel> "identificatiedrager"@nl.
+_:df_13918_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006129/2021-10-28T05:25:34.958Z>.
+<https://stad.gent/id/concept/530000400/2021-10-27T20:13:08.842Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000400>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:13:08.842Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300028877>;
+    <http://www.w3.org/ns/adms#identifier> _:df_17620_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een stempel met ingesneden reliëf met voorstelling en/of tekst waarmee een zegel in was of lak wordt afgedrukt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zegelstempel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003303>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003303> <http://www.w3.org/2004/02/skos/core#prefLabel> "stempel"@nl.
+_:df_17620_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000400"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000400/2021-10-27T20:13:08.842Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/zeg.ttl>.

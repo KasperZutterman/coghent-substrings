@@ -11,3 +11,91 @@ _:df_4228_12 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024860"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024860/2021-10-28T14:48:22.109Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/non.ttl>.
+<https://stad.gent/id/concept/530008436/2021-10-31T13:35:38.663Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008436>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:35:38.663Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011014>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6586_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metaal waarvan ijzer niet het belangrijkste bestanddeel is.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "non-ferrometaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006424>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008523>, <https://stad.gent/id/concept/530008468>, <https://stad.gent/id/concept/530008488>, <https://stad.gent/id/concept/530008458>, <https://stad.gent/id/concept/530008522>, <https://stad.gent/id/concept/530008528>, <https://stad.gent/id/concept/530010677>, <https://stad.gent/id/concept/530008815>, <https://stad.gent/id/concept/530008562>, <https://stad.gent/id/concept/530003114>, <https://stad.gent/id/concept/530008567>, <https://stad.gent/id/concept/530008568>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008568> <http://www.w3.org/2004/02/skos/core#prefLabel> "zink en zinklegering"@nl.
+<https://stad.gent/id/concept/530008567> <http://www.w3.org/2004/02/skos/core#prefLabel> "zilver en zilverlegering"@nl.
+<https://stad.gent/id/concept/530003114> <http://www.w3.org/2004/02/skos/core#prefLabel> "titanium"@nl.
+<https://stad.gent/id/concept/530008562> <http://www.w3.org/2004/02/skos/core#prefLabel> "tin en tinlegering"@nl.
+<https://stad.gent/id/concept/530008815> <http://www.w3.org/2004/02/skos/core#prefLabel> "platina"@nl.
+<https://stad.gent/id/concept/530010677> <http://www.w3.org/2004/02/skos/core#prefLabel> "nikkel en nikkellegering"@nl.
+<https://stad.gent/id/concept/530008528> <http://www.w3.org/2004/02/skos/core#prefLabel> "magnesium en magnesiumlegering"@nl.
+<https://stad.gent/id/concept/530008522> <http://www.w3.org/2004/02/skos/core#prefLabel> "lood en loodlegering"@nl.
+<https://stad.gent/id/concept/530008458> <http://www.w3.org/2004/02/skos/core#prefLabel> "koper en koperlegering"@nl.
+<https://stad.gent/id/concept/530008488> <http://www.w3.org/2004/02/skos/core#prefLabel> "goud en goudlegering"@nl.
+<https://stad.gent/id/concept/530008468> <http://www.w3.org/2004/02/skos/core#prefLabel> "chroom en chroomlegering"@nl.
+<https://stad.gent/id/concept/530008523> <http://www.w3.org/2004/02/skos/core#prefLabel> "aluminium en aluminiumlegering"@nl.
+<https://stad.gent/id/concept/530006424> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_6586_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008436"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008436/2021-10-31T13:35:38.663Z>.
+<https://stad.gent/id/concept/570024860/2021-10-28T14:48:22.109Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024860>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:48:22.109Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300379480>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10072_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Natuurlijke of kunstmatige stoffen die op een andere manier dan het gebruikelijke weven, breien of spinnen aaneengehecht worden. De term verwijst ook naar textiel dat van niet-geweven stof gemaakt wordt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "non-woven textiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10072_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024860"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024860/2021-10-28T14:48:22.109Z>.
+<https://stad.gent/id/concept/550008794/2021-10-28T07:12:28.571Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008794>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:12:28.571Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011014>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13201_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metaal waarvan ijzer niet het belangrijkste bestanddeel is.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "non-ferrometaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008772>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008793>, <https://stad.gent/id/concept/550008799>, <https://stad.gent/id/concept/550008812>, <https://stad.gent/id/concept/550005373>, <https://stad.gent/id/concept/550008877>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008877> <http://www.w3.org/2004/02/skos/core#prefLabel> "zilver en zilverlegering"@nl.
+<https://stad.gent/id/concept/550005373> <http://www.w3.org/2004/02/skos/core#prefLabel> "tin en tinlegering"@nl.
+<https://stad.gent/id/concept/550008812> <http://www.w3.org/2004/02/skos/core#prefLabel> "nikkel en nikkellegering"@nl.
+<https://stad.gent/id/concept/550008799> <http://www.w3.org/2004/02/skos/core#prefLabel> "lood en loodlegering"@nl.
+<https://stad.gent/id/concept/550008793> <http://www.w3.org/2004/02/skos/core#prefLabel> "koper en koperlegering"@nl.
+<https://stad.gent/id/concept/550008772> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal naar samenstelling of herkomst"@nl.
+_:df_13201_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008794"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008794> <http://www.w3.org/2004/02/skos/core#prefLabel> "non-ferrometaal"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008794/2021-10-28T07:12:28.571Z>.
+<https://stad.gent/id/concept/530008436/2021-10-28T00:31:18.037Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008436>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:31:18.037Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011014>;
+    <http://www.w3.org/ns/adms#identifier> _:df_15877_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metaal waarvan ijzer niet het belangrijkste bestanddeel is.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "non-ferrometaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006424>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008523>, <https://stad.gent/id/concept/530008468>, <https://stad.gent/id/concept/530008488>, <https://stad.gent/id/concept/530008458>, <https://stad.gent/id/concept/530008522>, <https://stad.gent/id/concept/530008528>, <https://stad.gent/id/concept/530010677>, <https://stad.gent/id/concept/530008815>, <https://stad.gent/id/concept/530008562>, <https://stad.gent/id/concept/530003114>, <https://stad.gent/id/concept/530008567>, <https://stad.gent/id/concept/530008568>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008568> <http://www.w3.org/2004/02/skos/core#prefLabel> "zink en zinklegering"@nl.
+<https://stad.gent/id/concept/530008567> <http://www.w3.org/2004/02/skos/core#prefLabel> "zilver en zilverlegering"@nl.
+<https://stad.gent/id/concept/530003114> <http://www.w3.org/2004/02/skos/core#prefLabel> "titanium"@nl.
+<https://stad.gent/id/concept/530008562> <http://www.w3.org/2004/02/skos/core#prefLabel> "tin en tinlegering"@nl.
+<https://stad.gent/id/concept/530008815> <http://www.w3.org/2004/02/skos/core#prefLabel> "platina"@nl.
+<https://stad.gent/id/concept/530010677> <http://www.w3.org/2004/02/skos/core#prefLabel> "nikkel en nikkellegering"@nl.
+<https://stad.gent/id/concept/530008528> <http://www.w3.org/2004/02/skos/core#prefLabel> "magnesium en magnesiumlegering"@nl.
+<https://stad.gent/id/concept/530008522> <http://www.w3.org/2004/02/skos/core#prefLabel> "lood en loodlegering"@nl.
+<https://stad.gent/id/concept/530008458> <http://www.w3.org/2004/02/skos/core#prefLabel> "koper en koperlegering"@nl.
+<https://stad.gent/id/concept/530008488> <http://www.w3.org/2004/02/skos/core#prefLabel> "goud en goudlegering"@nl.
+<https://stad.gent/id/concept/530008468> <http://www.w3.org/2004/02/skos/core#prefLabel> "chroom en chroomlegering"@nl.
+<https://stad.gent/id/concept/530008523> <http://www.w3.org/2004/02/skos/core#prefLabel> "aluminium en aluminiumlegering"@nl.
+<https://stad.gent/id/concept/530006424> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_15877_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008436"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008436/2021-10-28T00:31:18.037Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/non.ttl>.

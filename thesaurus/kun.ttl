@@ -174,3 +174,307 @@ _:df_4354_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470007760"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007760/2021-10-27T18:22:35.710Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kun.ttl>.
+<https://stad.gent/id/concept/530010385/2021-10-31T15:50:31.365Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010385>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:50:31.365Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025103>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5629_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Met name te gebruiken voor mensen die beeldende kunstwerken produceren. Gebruik 'uitvoerend kunstenaars' voor personen die zich bezighouden met de uitvoerende kunsten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstenaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010432>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009661>, <https://stad.gent/id/concept/530002865>, <https://stad.gent/id/concept/530000038>, <https://stad.gent/id/concept/530006510>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006510> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekenaar"@nl.
+<https://stad.gent/id/concept/530000038> <http://www.w3.org/2004/02/skos/core#prefLabel> "schilder"@nl.
+<https://stad.gent/id/concept/530002865> <http://www.w3.org/2004/02/skos/core#prefLabel> "fotograaf"@nl.
+<https://stad.gent/id/concept/530009661> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwer"@nl.
+<https://stad.gent/id/concept/530010432> <http://www.w3.org/2004/02/skos/core#prefLabel> "personen in de kunsten"@nl.
+_:df_5629_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010385"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010385/2021-10-31T15:50:31.365Z>.
+<https://stad.gent/id/concept/530009986/2021-10-31T15:18:02.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009986>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:18:02.363Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5860_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststofverstevigingstechniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009981>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010131>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010131> <http://www.w3.org/2004/02/skos/core#prefLabel> "handlamineren"@nl.
+<https://stad.gent/id/concept/530009981> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststoftechniek"@nl.
+_:df_5860_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009986"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009986/2021-10-31T15:18:02.363Z>.
+<https://stad.gent/id/concept/530009981/2021-10-31T15:17:36.765Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009981>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:17:36.765Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5863_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststoftechniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009964>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009986>, <https://stad.gent/id/concept/530009982>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009982> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststofvervaardigingstechniek"@nl.
+<https://stad.gent/id/concept/530009986> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststofverstevigingstechniek"@nl.
+<https://stad.gent/id/concept/530009964> <http://www.w3.org/2004/02/skos/core#prefLabel> "materiaalspecifieke techniek"@nl.
+_:df_5863_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009981"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530009981> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststoftechniek"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009981/2021-10-31T15:17:36.765Z>.
+<https://stad.gent/id/concept/530009982/2021-10-31T15:17:41.767Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009982>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:17:41.767Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5863_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststofvervaardigingstechniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009981>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010063>, <https://stad.gent/id/concept/530010077>, <https://stad.gent/id/concept/530010079>, <https://stad.gent/id/concept/530010082>, <https://stad.gent/id/concept/530010085>, <https://stad.gent/id/concept/530010086>, <https://stad.gent/id/concept/530010087>, <https://stad.gent/id/concept/530010088>, <https://stad.gent/id/concept/530010099>, <https://stad.gent/id/concept/530010103>, <https://stad.gent/id/concept/530010105>, <https://stad.gent/id/concept/530010113>, <https://stad.gent/id/concept/530010115>, <https://stad.gent/id/concept/530010116>, <https://stad.gent/id/concept/530010119>, <https://stad.gent/id/concept/530010133>, <https://stad.gent/id/concept/530010137>, <https://stad.gent/id/concept/530010138>, <https://stad.gent/id/concept/530010144>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010144> <http://www.w3.org/2004/02/skos/core#prefLabel> "transferpersen"@nl.
+<https://stad.gent/id/concept/530010138> <http://www.w3.org/2004/02/skos/core#prefLabel> "thermovormen"@nl.
+<https://stad.gent/id/concept/530010137> <http://www.w3.org/2004/02/skos/core#prefLabel> "slush molding"@nl.
+<https://stad.gent/id/concept/530010133> <http://www.w3.org/2004/02/skos/core#prefLabel> "rotatiegieten"@nl.
+<https://stad.gent/id/concept/530010119> <http://www.w3.org/2004/02/skos/core#prefLabel> "reactiespuitgieten"@nl.
+<https://stad.gent/id/concept/530010116> <http://www.w3.org/2004/02/skos/core#prefLabel> "pultrusie (kunststof)"@nl.
+<https://stad.gent/id/concept/530010115> <http://www.w3.org/2004/02/skos/core#prefLabel> "powder molding"@nl.
+<https://stad.gent/id/concept/530010113> <http://www.w3.org/2004/02/skos/core#prefLabel> "lamineren (kunststof)"@nl.
+<https://stad.gent/id/concept/530010105> <http://www.w3.org/2004/02/skos/core#prefLabel> "spuitgieten (kunststof)"@nl.
+<https://stad.gent/id/concept/530010103> <http://www.w3.org/2004/02/skos/core#prefLabel> "schuimen (kunststof procedé)"@nl.
+<https://stad.gent/id/concept/530010099> <http://www.w3.org/2004/02/skos/core#prefLabel> "filament extrusie"@nl.
+<https://stad.gent/id/concept/530010088> <http://www.w3.org/2004/02/skos/core#prefLabel> "extrusie (kunststof)"@nl.
+<https://stad.gent/id/concept/530010087> <http://www.w3.org/2004/02/skos/core#prefLabel> "dip molding (kunststof)"@nl.
+<https://stad.gent/id/concept/530010086> <http://www.w3.org/2004/02/skos/core#prefLabel> "dip casting (kunststof)"@nl.
+<https://stad.gent/id/concept/530010085> <http://www.w3.org/2004/02/skos/core#prefLabel> "cold forming"@nl.
+<https://stad.gent/id/concept/530010082> <http://www.w3.org/2004/02/skos/core#prefLabel> "persgieten"@nl.
+<https://stad.gent/id/concept/530010079> <http://www.w3.org/2004/02/skos/core#prefLabel> "gieten (kunststof)"@nl.
+<https://stad.gent/id/concept/530010077> <http://www.w3.org/2004/02/skos/core#prefLabel> "kalanderen (kunststof)"@nl.
+<https://stad.gent/id/concept/530010063> <http://www.w3.org/2004/02/skos/core#prefLabel> "blaasvormen (kunststof)"@nl.
+<https://stad.gent/id/concept/530009981> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststoftechniek"@nl.
+_:df_5863_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009982"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530009982> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststofvervaardigingstechniek"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009982/2021-10-31T15:17:41.767Z>.
+<https://stad.gent/id/concept/530009983/2021-10-31T15:17:46.770Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009983>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:17:46.770Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5863_49;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststofprocedé en -techniek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5863_49 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009983"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009983/2021-10-31T15:17:46.770Z>.
+<https://stad.gent/id/concept/530006501/2021-10-31T12:49:23.459Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006501>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:49:23.459Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6913_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstleer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6913_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006501"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006501/2021-10-31T12:49:23.459Z>.
+<https://stad.gent/id/concept/530006216/2021-10-31T12:35:56.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006216>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:35:56.249Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300386253>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7009_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunsthandelaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7009_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006216"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006216/2021-10-31T12:35:56.249Z>.
+<https://stad.gent/id/concept/530005667/2021-10-31T12:12:01.302Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005667>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:12:01.302Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300131099>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7180_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Materiaal dat is gemaakt om ivoor te na te bootsen; meestal bestaande uit celluloid, een synthetische hars. Voor 1881 werd gewoonlijk keramiek gebruikt.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstivoor"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000532>, <https://stad.gent/id/concept/530008501>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008501> <http://www.w3.org/2004/02/skos/core#prefLabel> "imitatiemateriaal"@nl.
+<https://stad.gent/id/concept/530000532> <http://www.w3.org/2004/02/skos/core#prefLabel> "celluloïd"@nl.
+_:df_7180_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005667"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005667/2021-10-31T12:12:01.302Z>.
+<https://stad.gent/id/concept/530005544/2021-10-31T12:06:06.182Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005544>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:06:06.182Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014570>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7222_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kunststoffen zijn chemische verbindingen die door niet-natuurlijke scheikundige processen worden gemaakt. Kunststof is een organisch materiaal dat is opgebouwd uit zeer grote moleculen die ontstaan door synthese (een reactie waardoor er een nieuwe stof ontstaat) van grondstoffen. Deze grondstoffen gaan covalente of ionaire bindingen aan en vormen zo amorfe of kristallijne stoffen.\r\n\r\nIn plaats van kunststof wordt ook de benaming plastic gebruikt. In het Engels is dat de gebruikelijke benaming. Die naam komt ook terug in vele materialen, thermoplasten genaamd. Thermoplasten vallen ook onder de definitie van kunststoffen.\r\n\r\nEr zijn 3 soorten:\r\n- Thermoplasten Deze materialen worden onder de invloed van druk en warmte vloeibaar en worden dan in een gietvorm geperst. Dit materiaal kan meerdere malen gerecycled worden.\r\n- Thermoharders en\r\n- Elastomeren Deze materialen kunnen slechts eenmalig tot een product gemaakt worden. Opnieuw verhitting leidt tot ontbinding\r\nSoms worden kunststoffen versterkt, vooral door inbedding van glasvezel, ook met nieuwe kunststofvezels zoals Kevlar, Twaron en Dyneema. (Wikipedia)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststof"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008415>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003170>, <https://stad.gent/id/concept/530000189>, <https://stad.gent/id/concept/530002718>, <https://stad.gent/id/concept/530004296>, <https://stad.gent/id/concept/530008482>, <https://stad.gent/id/concept/530002802>, <https://stad.gent/id/concept/530001620>, <https://stad.gent/id/concept/530008441>, <https://stad.gent/id/concept/530003423>, <https://stad.gent/id/concept/530009190>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009190> <http://www.w3.org/2004/02/skos/core#prefLabel> "trevira"@nl.
+<https://stad.gent/id/concept/530003423> <http://www.w3.org/2004/02/skos/core#prefLabel> "thermoplast"@nl.
+<https://stad.gent/id/concept/530008441> <http://www.w3.org/2004/02/skos/core#prefLabel> "thermoharder"@nl.
+<https://stad.gent/id/concept/530001620> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstvezel"@nl.
+<https://stad.gent/id/concept/530002802> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunsthars"@nl.
+<https://stad.gent/id/concept/530008482> <http://www.w3.org/2004/02/skos/core#prefLabel> "glasvezelversterkt kunststof"@nl.
+<https://stad.gent/id/concept/530004296> <http://www.w3.org/2004/02/skos/core#prefLabel> "glasvezel"@nl.
+<https://stad.gent/id/concept/530002718> <http://www.w3.org/2004/02/skos/core#prefLabel> "elastomeer"@nl.
+<https://stad.gent/id/concept/530000189> <http://www.w3.org/2004/02/skos/core#prefLabel> "composiet (materiaal)"@nl.
+<https://stad.gent/id/concept/530003170> <http://www.w3.org/2004/02/skos/core#prefLabel> "cellulosevezel"@nl.
+<https://stad.gent/id/concept/530008415> <http://www.w3.org/2004/02/skos/core#prefLabel> "organisch materiaal"@nl.
+_:df_7222_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005544"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005544/2021-10-31T12:06:06.182Z>.
+<https://stad.gent/id/concept/530005447/2021-10-31T12:03:29.106Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005447>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:03:29.106Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031514>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7240_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Nagemaakte bloemen, vervaardigd van papier, was, kunststof, veren enz.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstbloem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008902>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008902> <http://www.w3.org/2004/02/skos/core#prefLabel> "afgeleid object"@nl.
+_:df_7240_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005447"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005447/2021-10-31T12:03:29.106Z>.
+<https://stad.gent/id/concept/530002802/2021-10-31T10:39:13.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002802>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:39:13.702Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1418040>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7837_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunsthars"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008501>, <https://stad.gent/id/concept/530005544>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005544> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststof"@nl.
+<https://stad.gent/id/concept/530008501> <http://www.w3.org/2004/02/skos/core#prefLabel> "imitatiemateriaal"@nl.
+_:df_7837_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002802"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002802/2021-10-31T10:39:13.702Z>.
+<https://stad.gent/id/concept/530002708/2021-10-31T10:34:49.836Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002708>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:34:49.836Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7870_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststof (vezel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7870_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002708"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002708/2021-10-31T10:34:49.836Z>.
+<https://stad.gent/id/concept/530001620/2021-10-31T10:14:39.618Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001620>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:14:39.618Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014058>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8011_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstvezel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005544>, <https://stad.gent/id/concept/530008470>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008207>, <https://stad.gent/id/concept/530001149>, <https://stad.gent/id/concept/530000347>, <https://stad.gent/id/concept/530003166>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003166> <http://www.w3.org/2004/02/skos/core#prefLabel> "polyamide"@nl.
+<https://stad.gent/id/concept/530000347> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstzijde"@nl.
+<https://stad.gent/id/concept/530001149> <http://www.w3.org/2004/02/skos/core#prefLabel> "dacron (TM)"@nl.
+<https://stad.gent/id/concept/530008207> <http://www.w3.org/2004/02/skos/core#prefLabel> "Curv®"@nl.
+<https://stad.gent/id/concept/530008470> <http://www.w3.org/2004/02/skos/core#prefLabel> "vezel"@nl.
+<https://stad.gent/id/concept/530005544> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunststof"@nl.
+_:df_8011_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001620"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001620/2021-10-31T10:14:39.618Z>.
+<https://stad.gent/id/concept/530000347/2021-10-31T09:27:38.336Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000347>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:27:38.336Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014059>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8347_24;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kunstzijde is de verouderde benaming voor rayon, tegenwoordig meestal aangeduid met de modernere naam viscose. Het is een kunstmatig vervaardigde vezel op basis van een natuurlijke grondstof, cellulose, die bijvoorbeeld wordt gewonnen uit houtpulp. De techniek werd in 1884 uitgevonden door de Franse scheikundige Graaf Hilaire de Chardonnet (1839-1924) uit Besançon. Kunstzijde moet niet worden verward met de veel modernere stoffen, vervaardigd uit synthetische vezels. (Wikipedia)";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstzijde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008463>, <https://stad.gent/id/concept/530001620>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008732>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008732> <http://www.w3.org/2004/02/skos/core#prefLabel> "halflinnen"@nl.
+<https://stad.gent/id/concept/530001620> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstvezel"@nl.
+<https://stad.gent/id/concept/530008463> <http://www.w3.org/2004/02/skos/core#prefLabel> "celluloseproduct"@nl.
+_:df_8347_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000347"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000347/2021-10-31T09:27:38.336Z>.
+<https://stad.gent/id/concept/470009965/2021-10-31T08:44:52.941Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009965>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:44:52.941Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012527>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8650_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Künzelsau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8650_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009965"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009965/2021-10-31T08:44:52.941Z>.
+<https://stad.gent/id/concept/470008561/2021-10-31T08:03:07.275Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008561>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:03:07.275Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025103>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8947_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstenaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8947_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008561"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008561/2021-10-31T08:03:07.275Z>.
+<https://stad.gent/id/concept/470008483/2021-10-31T08:00:46.037Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008483>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:00:46.037Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300375244>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8962_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstbloem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8962_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008483"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008483/2021-10-31T08:00:46.037Z>.
+<https://stad.gent/id/concept/470007760/2021-10-31T07:40:31.523Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007760>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:40:31.523Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054138>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9106_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar hoogwaardige kunst die verfijnde creatieve vaardigheden vereist. Meestal betreft het schilderkunst, tekeningen of beeldhouwkunst. Het kan ook verwijzen naar architectuur en vormgeving. In bredere zin wordt de term ook gebruikt voor dichtkunst, muziek en filmkunst. Het begrip onderscheidt zich van 'toegepaste kunst' omdat esthetische en intellectuele expressie in beeldende kunsten belangrijker zijn dan de gebruiksdoeleinden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunst"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470004686>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470004686> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldende kunst"@nl.
+_:df_9106_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007760"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007760/2021-10-31T07:40:31.523Z>.
+<https://stad.gent/id/concept/670000974/2021-10-28T16:21:03.608Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000974>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:21:03.608Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/3079>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9439_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstlaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9439_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000974"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000974/2021-10-28T16:21:03.608Z>.
+<https://stad.gent/id/concept/670000338/2021-10-28T15:28:02.571Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000338>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:28:02.571Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025136>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9799_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstschilder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9799_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000338"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000338/2021-10-28T15:28:02.571Z>.
+<https://KasperZutterman.github.io///thesaurus/kun.ttl> <https://w3id.org/tree#relation> _:df_1_3341.
+_:df_1_3341 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kuns.ttl>;
+    <https://w3id.org/tree#value> "kuns".
+<https://KasperZutterman.github.io///thesaurus/kun.ttl> <https://w3id.org/tree#relation> _:df_1_3342.
+_:df_1_3342 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/kunz.ttl>;
+    <https://w3id.org/tree#value> "kunz".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kun.ttl>.

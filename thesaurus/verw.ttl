@@ -113,3 +113,279 @@ _:df_3808_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470010387"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010387/2021-10-27T19:39:45.528Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/verw.ttl>.
+<https://stad.gent/id/concept/550008586/2021-10-31T19:40:56.380Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:40:56.380Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163404>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3991_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hiermee worden bronnen aangeduid die in de eerste plaats zijn bedoeld als naslagwerk, en niet om achter elkaar uit te lezen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwijsbron"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007877>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008585>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008585> <http://www.w3.org/2004/02/skos/core#prefLabel> "stalenboek"@nl.
+<https://stad.gent/id/concept/550007877> <http://www.w3.org/2004/02/skos/core#prefLabel> "soorten documenten naar functie"@nl.
+_:df_3991_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008586/2021-10-31T19:40:56.380Z>.
+<https://stad.gent/id/concept/550008175/2021-10-31T19:19:07.979Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008175>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:19:07.979Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4147_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestellen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008176>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004268>, <https://stad.gent/id/concept/550001901>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001901> <http://www.w3.org/2004/02/skos/core#prefLabel> "voetstoof"@nl.
+<https://stad.gent/id/concept/550004268> <http://www.w3.org/2004/02/skos/core#prefLabel> "kachel (verwarmingstoestel)"@nl.
+<https://stad.gent/id/concept/550008176> <http://www.w3.org/2004/02/skos/core#prefLabel> "koel-, verwarm- en bevochtigingsuitrusting"@nl.
+_:df_4147_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008175"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008175> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestellen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008175/2021-10-31T19:19:07.979Z>.
+<https://stad.gent/id/concept/550008135/2021-10-31T19:15:50.087Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:15:50.087Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300076657>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4171_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmings- en kookelementen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007810>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008134>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008134> <http://www.w3.org/2004/02/skos/core#prefLabel> "haardsteden en haardstedeonderdelen"@nl, "haardsteden en haardstedeonderdelen"@nl.
+<https://stad.gent/id/concept/550007810> <http://www.w3.org/2004/02/skos/core#prefLabel> "architecturaal element"@nl.
+_:df_4171_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008135> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmings- en kookelementen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008135/2021-10-31T19:15:50.087Z>.
+<https://stad.gent/id/concept/530006338/2021-10-31T12:41:00.657Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006338>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:41:00.657Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6973_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009468>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008774>, <https://stad.gent/id/concept/530000657>, <https://stad.gent/id/concept/530002068>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002068> <http://www.w3.org/2004/02/skos/core#prefLabel> "radiator"@nl.
+<https://stad.gent/id/concept/530000657> <http://www.w3.org/2004/02/skos/core#prefLabel> "kachel"@nl.
+<https://stad.gent/id/concept/530008774> <http://www.w3.org/2004/02/skos/core#prefLabel> "fornuis"@nl.
+<https://stad.gent/id/concept/530009468> <http://www.w3.org/2004/02/skos/core#prefLabel> "koel-, verwarm- en bevochtigingsuitrusting"@nl.
+_:df_6973_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006338"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006338/2021-10-31T12:41:00.657Z>.
+<https://stad.gent/id/concept/530006309/2021-10-31T12:39:40.031Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006309>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:39:40.031Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6982_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwante glazuren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6982_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006309"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006309/2021-10-31T12:39:40.031Z>.
+<https://stad.gent/id/concept/470010387/2021-10-31T08:57:31.045Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010387>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:57:31.045Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8560_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestellen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8560_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010387"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010387/2021-10-31T08:57:31.045Z>.
+<https://stad.gent/id/concept/570024453/2021-10-28T14:32:32.138Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024453>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:32:32.138Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053885>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10183_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000727>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000727> <http://www.w3.org/2004/02/skos/core#prefLabel> "wonen"@nl, "wonen"@nl.
+_:df_10183_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024453"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024453/2021-10-28T14:32:32.138Z>.
+<https://stad.gent/id/concept/570023432/2021-10-28T13:41:15.143Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023432>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:41:15.143Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_10528_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingselement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10528_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023432"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023432/2021-10-28T13:41:15.143Z>.
+<https://stad.gent/id/concept/570019885/2021-10-28T12:49:08.524Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019885>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:49:08.524Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10882_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestellen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10882_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019885"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019885/2021-10-28T12:49:08.524Z>.
+<https://stad.gent/id/concept/570017933/2021-10-28T11:57:10.695Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017933>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:57:10.695Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300051479>;
+    <http://www.w3.org/ns/adms#identifier> _:df_11248_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stelsels van onderling verbonden toestellen, bedoeld om gebouwen en andere constructies van warmte te voorzien. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarming"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11248_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017933"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017933/2021-10-28T11:57:10.695Z>.
+<https://stad.gent/id/concept/570016856/2021-10-28T11:20:30.047Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016856>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:20:30.047Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_11503_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingskap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11503_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016856"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016856/2021-10-28T11:20:30.047Z>.
+<https://stad.gent/id/concept/570016601/2021-10-28T11:11:09.730Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016601>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:11:09.730Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_11566_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11566_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016601"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016601/2021-10-28T11:11:09.730Z>.
+<https://stad.gent/id/concept/550008586/2021-10-28T07:00:05.693Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:00:05.693Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163404>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13285_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Hiermee worden bronnen aangeduid die in de eerste plaats zijn bedoeld als naslagwerk, en niet om achter elkaar uit te lezen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwijsbron"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007877>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008585>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008585> <http://www.w3.org/2004/02/skos/core#prefLabel> "stalenboek"@nl.
+<https://stad.gent/id/concept/550007877> <http://www.w3.org/2004/02/skos/core#prefLabel> "soorten documenten naar functie"@nl.
+_:df_13285_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008586> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwijsbron"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008586/2021-10-28T07:00:05.693Z>.
+<https://stad.gent/id/concept/550008175/2021-10-28T06:37:11.818Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008175>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:37:11.818Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13438_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestellen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008176>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004268>, <https://stad.gent/id/concept/550001901>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001901> <http://www.w3.org/2004/02/skos/core#prefLabel> "voetstoof"@nl.
+<https://stad.gent/id/concept/550004268> <http://www.w3.org/2004/02/skos/core#prefLabel> "kachel (verwarmingstoestel)"@nl.
+<https://stad.gent/id/concept/550008176> <http://www.w3.org/2004/02/skos/core#prefLabel> "koel-, verwarm- en bevochtigingsuitrusting"@nl.
+_:df_13438_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008175"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008175> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestellen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008175/2021-10-28T06:37:11.818Z>.
+<https://stad.gent/id/concept/550008135/2021-10-28T06:33:43.737Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:33:43.737Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300076657>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13462_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmings- en kookelementen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007810>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008134>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008134> <http://www.w3.org/2004/02/skos/core#prefLabel> "haardsteden en haardstedeonderdelen"@nl, "haardsteden en haardstedeonderdelen"@nl.
+<https://stad.gent/id/concept/550007810> <http://www.w3.org/2004/02/skos/core#prefLabel> "architecturaal element"@nl.
+_:df_13462_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008135> <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmings- en kookelementen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008135/2021-10-28T06:33:43.737Z>.
+<https://stad.gent/id/concept/530006338/2021-10-27T23:33:03.915Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006338>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:33:03.915Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_16264_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009468>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008774>, <https://stad.gent/id/concept/530000657>, <https://stad.gent/id/concept/530002068>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002068> <http://www.w3.org/2004/02/skos/core#prefLabel> "radiator"@nl.
+<https://stad.gent/id/concept/530000657> <http://www.w3.org/2004/02/skos/core#prefLabel> "kachel"@nl.
+<https://stad.gent/id/concept/530008774> <http://www.w3.org/2004/02/skos/core#prefLabel> "fornuis"@nl.
+<https://stad.gent/id/concept/530009468> <http://www.w3.org/2004/02/skos/core#prefLabel> "koel-, verwarm- en bevochtigingsuitrusting"@nl.
+_:df_16264_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006338"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006338/2021-10-27T23:33:03.915Z>.
+<https://stad.gent/id/concept/530006309/2021-10-27T23:31:34.622Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006309>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:31:34.622Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_16273_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwante glazuren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_16273_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006309"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006309/2021-10-27T23:31:34.622Z>.
+<https://stad.gent/id/concept/470010387/2021-10-27T19:39:45.528Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010387>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:39:45.528Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_17851_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestellen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_17851_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010387"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010387/2021-10-27T19:39:45.528Z>.
+<https://stad.gent/id/concept/470003624/2021-10-27T16:51:24.330Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003624>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:51:24.330Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300163292>;
+    <http://www.w3.org/ns/adms#identifier> _:df_19033_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Toestel om iets, m.n. een gebouw te verwarmen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarmingstoestel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470004481>, <https://stad.gent/id/concept/470004477>, <https://stad.gent/id/concept/470004476>, <https://stad.gent/id/concept/470008032>, <https://stad.gent/id/concept/470000756>, <https://stad.gent/id/concept/470004516>, <https://stad.gent/id/concept/470003813>, <https://stad.gent/id/concept/470004495>, <https://stad.gent/id/concept/470005127>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005127> <http://www.w3.org/2004/02/skos/core#prefLabel> "voetstoof"@nl.
+<https://stad.gent/id/concept/470004495> <http://www.w3.org/2004/02/skos/core#prefLabel> "radiator"@nl.
+<https://stad.gent/id/concept/470003813> <http://www.w3.org/2004/02/skos/core#prefLabel> "komfoor"@nl.
+<https://stad.gent/id/concept/470004516> <http://www.w3.org/2004/02/skos/core#prefLabel> "kachel"@nl.
+<https://stad.gent/id/concept/470000756> <http://www.w3.org/2004/02/skos/core#prefLabel> "infraroodlamp"@nl.
+<https://stad.gent/id/concept/470008032> <http://www.w3.org/2004/02/skos/core#prefLabel> "fornuis"@nl.
+<https://stad.gent/id/concept/470004476> <http://www.w3.org/2004/02/skos/core#prefLabel> "brander (verhittingsgereedschap)"@nl.
+<https://stad.gent/id/concept/470004477> <http://www.w3.org/2004/02/skos/core#prefLabel> "boiler"@nl.
+<https://stad.gent/id/concept/470004481> <http://www.w3.org/2004/02/skos/core#prefLabel> "beddenwarmer"@nl.
+_:df_19033_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003624"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003624/2021-10-27T16:51:24.330Z>.
+<https://stad.gent/id/concept/470002942/2021-10-27T16:31:01.990Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002942>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:31:01.990Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300051479>;
+    <http://www.w3.org/ns/adms#identifier> _:df_19174_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Stelsels van onderling verbonden toestellen, bedoeld om gebouwen en andere constructies van warmte te voorzien.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verwarming"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_19174_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002942"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002942/2021-10-27T16:31:01.990Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/verw.ttl>.

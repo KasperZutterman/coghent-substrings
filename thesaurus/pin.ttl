@@ -29,3 +29,135 @@ _:df_3274_16 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530001580"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001580/2021-10-27T20:57:28.513Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pin.ttl>.
+<https://stad.gent/id/concept/550005625/2021-10-31T17:55:48.290Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005625>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:55:48.290Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024743>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4738_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gereedschap dat bestaat uit twee samengevoegde delen, elk bestaande uit een (halve) bek en een handvat. Wordt gebruikt voor het pakken of vasthouden van voorwerpen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pincet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008299>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008299> <http://www.w3.org/2004/02/skos/core#prefLabel> "grijp- en klemgereedschap"@nl.
+_:df_4738_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005625"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005625/2021-10-31T17:55:48.290Z>.
+<https://stad.gent/id/concept/530010653/2021-10-31T16:09:36.693Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010653>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:09:36.693Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1046018>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5494_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pinzano al Tagliamento"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_5494_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010653"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010653/2021-10-31T16:09:36.693Z>.
+<https://stad.gent/id/concept/530001580/2021-10-31T10:12:48.280Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001580>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:12:48.280Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_8026_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pindastel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005322>, <https://stad.gent/id/concept/530004811>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001527>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001527> <http://www.w3.org/2004/02/skos/core#prefLabel> "pindabord"@nl.
+<https://stad.gent/id/concept/530004811> <http://www.w3.org/2004/02/skos/core#prefLabel> "stel"@nl.
+<https://stad.gent/id/concept/530005322> <http://www.w3.org/2004/02/skos/core#prefLabel> "serveergerei"@nl.
+_:df_8026_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001580"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001580/2021-10-31T10:12:48.280Z>.
+<https://stad.gent/id/concept/570016976/2021-10-28T11:26:13.957Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016976>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:26:13.957Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300236788>;
+    <http://www.w3.org/ns/adms#identifier> _:df_11464_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pince-nez"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11464_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016976"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016976/2021-10-28T11:26:13.957Z>.
+<https://stad.gent/id/concept/570013361/2021-10-28T09:55:23.021Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013361>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:55:23.021Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300036423>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12091_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pinnen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12091_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013361"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013361/2021-10-28T09:55:23.021Z>.
+<https://stad.gent/id/concept/570013185/2021-10-28T09:51:35.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013185>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:51:35.376Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024749>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12118_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Diverse kleine, nijptangachtige gereedschappen die worden gebruikt om iets te plukken, vast te houden of te hanteren. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pincet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12118_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013185"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013185/2021-10-28T09:51:35.376Z>.
+<https://stad.gent/id/concept/550005625/2021-10-28T05:09:07.722Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005625>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:09:07.722Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024743>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14029_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gereedschap dat bestaat uit twee samengevoegde delen, elk bestaande uit een (halve) bek en een handvat. Wordt gebruikt voor het pakken of vasthouden van voorwerpen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pincet"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008299>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008299> <http://www.w3.org/2004/02/skos/core#prefLabel> "grijp- en klemgereedschap"@nl.
+_:df_14029_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005625"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005625/2021-10-28T05:09:07.722Z>.
+<https://stad.gent/id/concept/530010653/2021-10-28T03:14:55.546Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010653>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:14:55.546Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1046018>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14785_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pinzano al Tagliamento"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_14785_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010653"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010653/2021-10-28T03:14:55.546Z>.
+<https://stad.gent/id/concept/530001580/2021-10-27T20:57:28.513Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001580>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:57:28.513Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_17317_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pindastel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005322>, <https://stad.gent/id/concept/530004811>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001527>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001527> <http://www.w3.org/2004/02/skos/core#prefLabel> "pindabord"@nl.
+<https://stad.gent/id/concept/530004811> <http://www.w3.org/2004/02/skos/core#prefLabel> "stel"@nl.
+<https://stad.gent/id/concept/530005322> <http://www.w3.org/2004/02/skos/core#prefLabel> "serveergerei"@nl.
+_:df_17317_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001580"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001580/2021-10-27T20:57:28.513Z>.
+<https://stad.gent/id/concept/470003187/2021-10-27T16:39:17.852Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003187>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:39:17.852Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q6502703>;
+    <http://www.w3.org/ns/adms#identifier> _:df_19117_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pinocchio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470006778>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470006778> <http://www.w3.org/2004/02/skos/core#prefLabel> "sprookjesfiguur"@nl.
+_:df_19117_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003187"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003187/2021-10-27T16:39:17.852Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pin.ttl>.

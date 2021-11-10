@@ -1,0 +1,29 @@
+<https://stad.gent/id/concept/530000359/2021-10-27T20:11:13.401Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000359>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:11:13.401Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900024467>;
+    <http://www.w3.org/ns/adms#identifier> _:df_17632_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "siervaas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008411>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001875>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001875> <http://www.w3.org/2004/02/skos/core#prefLabel> "kaststel"@nl.
+<https://stad.gent/id/concept/530008411> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaas"@nl.
+_:df_17632_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000359"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000359/2021-10-27T20:11:13.401Z>.
+<https://stad.gent/id/concept/470001141/2021-10-27T15:32:04.258Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001141>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:32:04.258Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_19588_17;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vaas ter versiering.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "siervaas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470005488>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005488> <http://www.w3.org/2004/02/skos/core#prefLabel> "vaas"@nl.
+_:df_19588_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001141"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001141/2021-10-27T15:32:04.258Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/sierv.ttl>.

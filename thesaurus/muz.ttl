@@ -128,3 +128,299 @@ _:df_4126_49 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008929"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008929/2021-10-27T18:55:08.229Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/muz.ttl>.
+<https://stad.gent/id/concept/570010060/2021-10-31T21:39:29.782Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010060>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:39:29.782Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300419355>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3151_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3151_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010060"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010060/2021-10-31T21:39:29.782Z>.
+<https://stad.gent/id/concept/570006095/2021-10-31T20:37:31.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T20:37:31.997Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054146>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3592_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3592_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006095/2021-10-31T20:37:31.997Z>.
+<https://stad.gent/id/concept/550004708/2021-10-31T17:27:14.340Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004708>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:27:14.340Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4942_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekinstrumenten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4942_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004708"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004708/2021-10-31T17:27:14.340Z>.
+<https://stad.gent/id/concept/550002212/2021-10-31T16:45:16.972Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002212>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:45:16.972Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041620>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5239_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten waarmee muziek gemaakt kan worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekinstrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008157>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008157> <http://www.w3.org/2004/02/skos/core#prefLabel> "geluidsmiddelen naar functie"@nl.
+_:df_5239_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002212"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002212/2021-10-31T16:45:16.972Z>.
+<https://stad.gent/id/concept/530008661/2021-10-31T13:52:12.812Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008661>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:52:12.812Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026421>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6469_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekdocument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008662>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005776>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005776> <http://www.w3.org/2004/02/skos/core#prefLabel> "bladmuziek"@nl.
+<https://stad.gent/id/concept/530008662> <http://www.w3.org/2004/02/skos/core#prefLabel> "document"@nl.
+_:df_6469_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008661"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008661/2021-10-31T13:52:12.812Z>.
+<https://stad.gent/id/concept/530000898/2021-10-31T09:51:42.188Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000898>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:51:42.188Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041620>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8176_21;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten waarmee muziek gemaakt kan worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekinstrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008844>, <https://stad.gent/id/concept/530008660>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000990>, <https://stad.gent/id/concept/530000972>, <https://stad.gent/id/concept/530000989>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000989> <http://www.w3.org/2004/02/skos/core#prefLabel> "snaarinstrument"@nl.
+<https://stad.gent/id/concept/530000972> <http://www.w3.org/2004/02/skos/core#prefLabel> "piano"@nl.
+<https://stad.gent/id/concept/530000990> <http://www.w3.org/2004/02/skos/core#prefLabel> "orgel"@nl.
+<https://stad.gent/id/concept/530008660> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontspanningsmiddel"@nl.
+<https://stad.gent/id/concept/530008844> <http://www.w3.org/2004/02/skos/core#prefLabel> "geluidsmiddel"@nl.
+_:df_8176_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000898"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000898/2021-10-31T09:51:42.188Z>.
+<https://stad.gent/id/concept/470009545/2021-10-31T08:29:32.262Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009545>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:29:32.262Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054146>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8758_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De kunst die zich bezighoudt met het combineren van vocale of instrumentale geluiden binnen een bepaalde tijd om emoties, ideeën of geestestoestanden over te brengen, veelal volgens culturele normen voor ritme, melodie en, in de meeste Westerse muziek, harmonie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en, "gebeurtenis"@nl, "event"@en, "collectie"@nl, "collection"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8758_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009545"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009545/2021-10-31T08:29:32.262Z>.
+<https://stad.gent/id/concept/470008929/2021-10-31T08:12:50.209Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008929>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:12:50.209Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041620>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8878_54;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten waarmee muziek gemaakt kan worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekinstrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470002857>, <https://stad.gent/id/concept/470002264>, <https://stad.gent/id/concept/470002301>, <https://stad.gent/id/concept/470005639>, <https://stad.gent/id/concept/470002205>, <https://stad.gent/id/concept/470001224>, <https://stad.gent/id/concept/470002038>, <https://stad.gent/id/concept/470000003>, <https://stad.gent/id/concept/470005116>, <https://stad.gent/id/concept/470000303>, <https://stad.gent/id/concept/470002534>, <https://stad.gent/id/concept/470000171>, <https://stad.gent/id/concept/470010949>, <https://stad.gent/id/concept/470008397>, <https://stad.gent/id/concept/470003617>, <https://stad.gent/id/concept/470006446>, <https://stad.gent/id/concept/470010460>, <https://stad.gent/id/concept/470009317>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470009317> <http://www.w3.org/2004/02/skos/core#prefLabel> "trombone"@nl.
+<https://stad.gent/id/concept/470010460> <http://www.w3.org/2004/02/skos/core#prefLabel> "banjo"@nl.
+<https://stad.gent/id/concept/470006446> <http://www.w3.org/2004/02/skos/core#prefLabel> "cimbaal"@nl.
+<https://stad.gent/id/concept/470003617> <http://www.w3.org/2004/02/skos/core#prefLabel> "tamboerijn"@nl.
+<https://stad.gent/id/concept/470008397> <http://www.w3.org/2004/02/skos/core#prefLabel> "xylofoon"@nl.
+<https://stad.gent/id/concept/470010949> <http://www.w3.org/2004/02/skos/core#prefLabel> "mandoline"@nl.
+<https://stad.gent/id/concept/470000171> <http://www.w3.org/2004/02/skos/core#prefLabel> "trom"@nl.
+<https://stad.gent/id/concept/470002534> <http://www.w3.org/2004/02/skos/core#prefLabel> "snaardrum"@nl.
+<https://stad.gent/id/concept/470000303> <http://www.w3.org/2004/02/skos/core#prefLabel> "rommelpot"@nl.
+<https://stad.gent/id/concept/470005116> <http://www.w3.org/2004/02/skos/core#prefLabel> "piccolo"@nl.
+<https://stad.gent/id/concept/470000003> <http://www.w3.org/2004/02/skos/core#prefLabel> "piano"@nl.
+<https://stad.gent/id/concept/470002038> <http://www.w3.org/2004/02/skos/core#prefLabel> "luit"@nl.
+<https://stad.gent/id/concept/470001224> <http://www.w3.org/2004/02/skos/core#prefLabel> "klarinet"@nl.
+<https://stad.gent/id/concept/470002205> <http://www.w3.org/2004/02/skos/core#prefLabel> "harp"@nl.
+<https://stad.gent/id/concept/470005639> <http://www.w3.org/2004/02/skos/core#prefLabel> "gitaar"@nl.
+<https://stad.gent/id/concept/470002301> <http://www.w3.org/2004/02/skos/core#prefLabel> "doedelzak"@nl.
+<https://stad.gent/id/concept/470002264> <http://www.w3.org/2004/02/skos/core#prefLabel> "contrabas"@nl.
+<https://stad.gent/id/concept/470002857> <http://www.w3.org/2004/02/skos/core#prefLabel> "accordeon"@nl.
+_:df_8878_54 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008929"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008929/2021-10-31T08:12:50.209Z>.
+<https://stad.gent/id/concept/570023071/2021-10-28T13:25:55.064Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023071>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:25:55.064Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1142040>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10633_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekrol"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10633_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023071"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023071/2021-10-28T13:25:55.064Z>.
+<https://stad.gent/id/concept/570022739/2021-10-28T13:11:13.474Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022739>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:11:13.474Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041620>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10732_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekinstrumenten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10732_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022739"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022739/2021-10-28T13:11:13.474Z>.
+<https://stad.gent/id/concept/570016426/2021-10-28T11:04:42.979Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016426>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:04:42.979Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_11611_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekmeubel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11611_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016426"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016426/2021-10-28T11:04:42.979Z>.
+<https://stad.gent/id/concept/570010060/2021-10-28T09:04:02.517Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010060>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:04:02.517Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300419355>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12442_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12442_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010060"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010060/2021-10-28T09:04:02.517Z>.
+<https://stad.gent/id/concept/570006095/2021-10-28T07:59:36.802Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006095>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:59:36.802Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054146>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12883_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12883_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006095"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006095/2021-10-28T07:59:36.802Z>.
+<https://stad.gent/id/concept/550004708/2021-10-28T04:38:45.590Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004708>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:38:45.590Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_14233_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekinstrumenten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_14233_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004708"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004708/2021-10-28T04:38:45.590Z>.
+<https://stad.gent/id/concept/550002212/2021-10-28T03:54:01.868Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002212>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:54:01.868Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041620>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14530_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten waarmee muziek gemaakt kan worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekinstrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008157>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008157> <http://www.w3.org/2004/02/skos/core#prefLabel> "geluidsmiddelen naar functie"@nl.
+_:df_14530_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002212"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002212/2021-10-28T03:54:01.868Z>.
+<https://stad.gent/id/concept/530008661/2021-10-28T00:49:09.511Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008661>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:49:09.511Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026421>;
+    <http://www.w3.org/ns/adms#identifier> _:df_15760_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekdocument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008662>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005776>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005776> <http://www.w3.org/2004/02/skos/core#prefLabel> "bladmuziek"@nl.
+<https://stad.gent/id/concept/530008662> <http://www.w3.org/2004/02/skos/core#prefLabel> "document"@nl.
+_:df_15760_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008661"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530008661> <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekdocument"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008661/2021-10-28T00:49:09.511Z>.
+<https://stad.gent/id/concept/530000898/2021-10-27T20:35:36.160Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000898>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:35:36.160Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041620>;
+    <http://www.w3.org/ns/adms#identifier> _:df_17467_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten waarmee muziek gemaakt kan worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekinstrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008844>, <https://stad.gent/id/concept/530008660>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530000990>, <https://stad.gent/id/concept/530000972>, <https://stad.gent/id/concept/530000989>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000989> <http://www.w3.org/2004/02/skos/core#prefLabel> "snaarinstrument"@nl.
+<https://stad.gent/id/concept/530000972> <http://www.w3.org/2004/02/skos/core#prefLabel> "piano"@nl.
+<https://stad.gent/id/concept/530000990> <http://www.w3.org/2004/02/skos/core#prefLabel> "orgel"@nl.
+<https://stad.gent/id/concept/530008660> <http://www.w3.org/2004/02/skos/core#prefLabel> "ontspanningsmiddel"@nl.
+<https://stad.gent/id/concept/530008844> <http://www.w3.org/2004/02/skos/core#prefLabel> "geluidsmiddel"@nl.
+_:df_17467_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000898"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000898/2021-10-27T20:35:36.160Z>.
+<https://stad.gent/id/concept/470009545/2021-10-27T19:11:50.731Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009545>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:11:50.731Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054146>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18049_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De kunst die zich bezighoudt met het combineren van vocale of instrumentale geluiden binnen een bepaalde tijd om emoties, ideeën of geestestoestanden over te brengen, veelal volgens culturele normen voor ritme, melodie en, in de meeste Westerse muziek, harmonie.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "trefwoord"@nl, "keyword"@en, "gebeurtenis"@nl, "event"@en, "collectie"@nl, "collection"@en, "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_18049_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009545"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009545/2021-10-27T19:11:50.731Z>.
+<https://stad.gent/id/concept/470008929/2021-10-27T18:55:08.229Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008929>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:55:08.229Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041620>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18169_49;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten waarmee muziek gemaakt kan worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekinstrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470002857>, <https://stad.gent/id/concept/470002264>, <https://stad.gent/id/concept/470002301>, <https://stad.gent/id/concept/470005639>, <https://stad.gent/id/concept/470002205>, <https://stad.gent/id/concept/470001224>, <https://stad.gent/id/concept/470002038>, <https://stad.gent/id/concept/470000003>, <https://stad.gent/id/concept/470005116>, <https://stad.gent/id/concept/470000303>, <https://stad.gent/id/concept/470002534>, <https://stad.gent/id/concept/470000171>, <https://stad.gent/id/concept/470010949>, <https://stad.gent/id/concept/470008397>, <https://stad.gent/id/concept/470003617>, <https://stad.gent/id/concept/470006446>, <https://stad.gent/id/concept/470010460>, <https://stad.gent/id/concept/470009317>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470009317> <http://www.w3.org/2004/02/skos/core#prefLabel> "trombone"@nl.
+<https://stad.gent/id/concept/470010460> <http://www.w3.org/2004/02/skos/core#prefLabel> "banjo"@nl.
+<https://stad.gent/id/concept/470006446> <http://www.w3.org/2004/02/skos/core#prefLabel> "cimbaal"@nl.
+<https://stad.gent/id/concept/470003617> <http://www.w3.org/2004/02/skos/core#prefLabel> "tamboerijn"@nl.
+<https://stad.gent/id/concept/470008397> <http://www.w3.org/2004/02/skos/core#prefLabel> "xylofoon"@nl.
+<https://stad.gent/id/concept/470010949> <http://www.w3.org/2004/02/skos/core#prefLabel> "mandoline"@nl.
+<https://stad.gent/id/concept/470000171> <http://www.w3.org/2004/02/skos/core#prefLabel> "trom"@nl.
+<https://stad.gent/id/concept/470002534> <http://www.w3.org/2004/02/skos/core#prefLabel> "snaardrum"@nl.
+<https://stad.gent/id/concept/470000303> <http://www.w3.org/2004/02/skos/core#prefLabel> "rommelpot"@nl.
+<https://stad.gent/id/concept/470005116> <http://www.w3.org/2004/02/skos/core#prefLabel> "piccolo"@nl.
+<https://stad.gent/id/concept/470000003> <http://www.w3.org/2004/02/skos/core#prefLabel> "piano"@nl.
+<https://stad.gent/id/concept/470002038> <http://www.w3.org/2004/02/skos/core#prefLabel> "luit"@nl.
+<https://stad.gent/id/concept/470001224> <http://www.w3.org/2004/02/skos/core#prefLabel> "klarinet"@nl.
+<https://stad.gent/id/concept/470002205> <http://www.w3.org/2004/02/skos/core#prefLabel> "harp"@nl.
+<https://stad.gent/id/concept/470005639> <http://www.w3.org/2004/02/skos/core#prefLabel> "gitaar"@nl.
+<https://stad.gent/id/concept/470002301> <http://www.w3.org/2004/02/skos/core#prefLabel> "doedelzak"@nl.
+<https://stad.gent/id/concept/470002264> <http://www.w3.org/2004/02/skos/core#prefLabel> "contrabas"@nl.
+<https://stad.gent/id/concept/470002857> <http://www.w3.org/2004/02/skos/core#prefLabel> "accordeon"@nl.
+_:df_18169_49 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008929"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008929/2021-10-27T18:55:08.229Z>.
+<https://stad.gent/id/concept/470004279/2021-10-27T17:06:08.671Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004279>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:06:08.671Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042659>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18931_32;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Mechanische muziekinstrumenten in een doos, waarbij stalen uitsteeksels aan het trillen worden gebracht door bewegende delen, aangedreven door een opwindmechaniek.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muziekdoos"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_18931_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004279"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004279/2021-10-27T17:06:08.671Z>.
+<https://KasperZutterman.github.io///thesaurus/muz.ttl> <https://w3id.org/tree#relation> _:df_1_4446.
+_:df_1_4446 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/muzi.ttl>;
+    <https://w3id.org/tree#value> "muzi".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/muz.ttl>.

@@ -146,3 +146,244 @@ _:df_1309_26 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470000323"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000323/2021-10-27T14:59:48.053Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/res.ttl>.
+<https://stad.gent/id/concept/570013493/2021-10-31T22:32:23.853Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013493>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:32:23.853Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005182>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2776_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "restaurant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2776_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013493"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013493/2021-10-31T22:32:23.853Z>.
+<https://stad.gent/id/concept/570013431/2021-10-31T22:30:38.600Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013431>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:30:38.600Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7255266>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2788_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ressegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_2788_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013431"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013431/2021-10-31T22:30:38.600Z>.
+<https://stad.gent/id/concept/530010403/2021-10-31T15:51:43.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010403>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:51:43.376Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5620_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Resin Identification Code"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5620_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010403"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010403/2021-10-31T15:51:43.376Z>.
+<https://stad.gent/id/concept/530010130/2021-10-31T15:29:30.632Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010130>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:29:30.632Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5779_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "resin transfer molding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010119>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010119> <http://www.w3.org/2004/02/skos/core#prefLabel> "reactiespuitgieten"@nl.
+_:df_5779_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010130"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010130/2021-10-31T15:29:30.632Z>.
+<https://stad.gent/id/concept/530008652/2021-10-31T13:51:32.799Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:51:32.799Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006191>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6472_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor plaatsen of vergaarbakken waar vloeistoffen worden verzameld en vastgehouden tot ze nodig zijn.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reservoir"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008780>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008780> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting (objectnaam)"@nl.
+_:df_6472_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008652"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008652/2021-10-31T13:51:32.799Z>.
+<https://stad.gent/id/concept/530006380/2021-10-31T12:42:06.230Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:42:06.230Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300102842>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6964_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "restaurator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6964_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006380"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006380/2021-10-31T12:42:06.230Z>.
+<https://stad.gent/id/concept/530005999/2021-10-31T12:25:32.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005999>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:25:32.249Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1050252>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7084_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Resita"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005998>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005998> <http://www.w3.org/2004/02/skos/core#prefLabel> "Roemenië"@nl.
+_:df_7084_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005999"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530005999> <http://www.w3.org/2004/02/skos/core#prefLabel> "Resita"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005999/2021-10-31T12:25:32.249Z>.
+<https://stad.gent/id/concept/530000074/2021-10-31T09:14:33.073Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000074>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:14:33.073Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300021276>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8440_26;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar de stijl in de decoratieve kunst in Frankrijk tijdens de rehabilitatie van de Bourbons tussen 1815 en 1830. Hoewel voornamelijk een voortzetting van de Empire stijl, onderscheidt deze stijl zich daarvan door heldere kleuren, loggere vormen, het gebruik van lichtgekleurde houtsoorten, en de groeiende zichtbaarheid van de Troubadour-stijl.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "restauratie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8440_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000074"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000074/2021-10-31T09:14:33.073Z>.
+<https://stad.gent/id/concept/470008211/2021-10-31T07:52:25.056Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:52:25.056Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300021276>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9022_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "restauratie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9022_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008211"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008211/2021-10-31T07:52:25.056Z>.
+<https://stad.gent/id/concept/570022292/2021-10-28T13:07:27.954Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022292>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:07:27.954Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1047832>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10759_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reservoir"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "inscriptie positie"@nl, "inscription position"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10759_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022292"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022292/2021-10-28T13:07:27.954Z>.
+<https://stad.gent/id/concept/570013493/2021-10-28T09:58:45.999Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013493>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:58:45.999Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300005182>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12070_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "restaurant"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12070_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013493"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013493/2021-10-28T09:58:45.999Z>.
+<https://stad.gent/id/concept/570013431/2021-10-28T09:57:02.040Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013431>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:57:02.040Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7255266>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12082_36;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ressegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl, "Oost-Vlaanderen (provincie)"@nl.
+_:df_12082_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013431"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013431/2021-10-28T09:57:02.040Z>.
+<https://stad.gent/id/concept/530010403/2021-10-28T02:56:01.329Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010403>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:56:01.329Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_14911_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Resin Identification Code"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_14911_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010403"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010403/2021-10-28T02:56:01.329Z>.
+<https://stad.gent/id/concept/530010130/2021-10-28T02:32:27.082Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010130>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:32:27.082Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_15070_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "resin transfer molding"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010119>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010119> <http://www.w3.org/2004/02/skos/core#prefLabel> "reactiespuitgieten"@nl.
+_:df_15070_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010130"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010130/2021-10-28T02:32:27.082Z>.
+<https://stad.gent/id/concept/530008652/2021-10-28T00:48:25.611Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:48:25.611Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006191>;
+    <http://www.w3.org/ns/adms#identifier> _:df_15763_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor plaatsen of vergaarbakken waar vloeistoffen worden verzameld en vastgehouden tot ze nodig zijn.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reservoir"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008780>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008780> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting (objectnaam)"@nl.
+_:df_15763_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008652"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008652/2021-10-28T00:48:25.611Z>.
+<https://stad.gent/id/concept/530006380/2021-10-27T23:34:12.837Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:34:12.837Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300102842>;
+    <http://www.w3.org/ns/adms#identifier> _:df_16258_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "restaurator"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_16258_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006380"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006380/2021-10-27T23:34:12.837Z>.
+<https://stad.gent/id/concept/530005999/2021-10-27T23:16:31.469Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005999>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:16:31.469Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1050252>;
+    <http://www.w3.org/ns/adms#identifier> _:df_16375_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Resita"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005998>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005998> <http://www.w3.org/2004/02/skos/core#prefLabel> "Roemenië"@nl.
+_:df_16375_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005999"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/530005999> <http://www.w3.org/2004/02/skos/core#prefLabel> "Resita"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005999/2021-10-27T23:16:31.469Z>.
+<https://stad.gent/id/concept/530000074/2021-10-27T19:56:59.538Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000074>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:56:59.538Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300021276>;
+    <http://www.w3.org/ns/adms#identifier> _:df_17731_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar de stijl in de decoratieve kunst in Frankrijk tijdens de rehabilitatie van de Bourbons tussen 1815 en 1830. Hoewel voornamelijk een voortzetting van de Empire stijl, onderscheidt deze stijl zich daarvan door heldere kleuren, loggere vormen, het gebruik van lichtgekleurde houtsoorten, en de groeiende zichtbaarheid van de Troubadour-stijl.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "restauratie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_17731_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000074"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000074/2021-10-27T19:56:59.538Z>.
+<https://stad.gent/id/concept/470008211/2021-10-27T18:34:33.894Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:34:33.894Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300021276>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18313_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "restauratie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_18313_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008211"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008211/2021-10-27T18:34:33.894Z>.
+<https://stad.gent/id/concept/470006629/2021-10-27T17:48:18.388Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470006629>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:48:18.388Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7255266>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18637_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ressegem"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_18637_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470006629"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470006629/2021-10-27T17:48:18.388Z>.
+<https://KasperZutterman.github.io///thesaurus/res.ttl> <https://w3id.org/tree#relation> _:df_1_4482.
+_:df_1_4482 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/rest.ttl>;
+    <https://w3id.org/tree#value> "rest".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/res.ttl>.

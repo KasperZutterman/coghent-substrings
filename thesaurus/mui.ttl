@@ -73,3 +73,141 @@ _:df_4204_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570024933"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024933/2021-10-28T14:51:52.218Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mui.ttl>.
+<https://stad.gent/id/concept/530005528/2021-10-31T12:05:30.467Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005528>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:05:30.467Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300168291>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7225_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine, met knoppen bediende apparaten die worden bewogen op een plat bureau of tekentableau om de bewegingen van de cursor op het scherm te controleren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muis (computer)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008647>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008647> <http://www.w3.org/2004/02/skos/core#prefLabel> "randapparatuur"@nl.
+_:df_7225_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005528"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005528/2021-10-31T12:05:30.467Z>.
+<https://stad.gent/id/concept/670001155/2021-10-28T16:31:44.000Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001155>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:31:44.000Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q2963968>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9367_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Muidebrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9367_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001155"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001155/2021-10-28T16:31:44.000Z>.
+<https://stad.gent/id/concept/670000981/2021-10-28T16:21:41.206Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000981>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:21:41.206Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/10638>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9433_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Muidepoort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9433_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000981"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000981/2021-10-28T16:21:41.206Z>.
+<https://stad.gent/id/concept/670000980/2021-10-28T16:21:36.205Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000980>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:21:36.205Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_9436_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Muinkpark"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9436_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000980"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000980/2021-10-28T16:21:36.205Z>.
+<https://stad.gent/id/concept/670000690/2021-10-28T15:56:46.975Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000690>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:56:46.975Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_9604_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Muidebrugje"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9604_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000690"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000690/2021-10-28T15:56:46.975Z>.
+<https://stad.gent/id/concept/670000691/2021-10-28T15:56:51.977Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000691>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:56:51.977Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_9604_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Muidevest"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9604_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000691"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000691/2021-10-28T15:56:51.977Z>.
+<https://stad.gent/id/concept/670000201/2021-10-28T15:17:11.923Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:17:11.923Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_9874_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Muidelaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9874_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000201/2021-10-28T15:17:11.923Z>.
+<https://stad.gent/id/concept/570024933/2021-10-28T14:51:52.218Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024933>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:51:52.218Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_10048_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Muide - Meulestede - Afrikalaan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000757>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gent"@nl, "Gent"@nl, "Gent"@nl, "Gent"@nl.
+_:df_10048_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024933"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024933/2021-10-28T14:51:52.218Z>.
+<https://stad.gent/id/concept/570019734/2021-10-28T12:43:37.753Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019734>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:43:37.753Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q658353>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10921_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muizenval"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10921_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019734"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019734/2021-10-28T12:43:37.753Z>.
+<https://stad.gent/id/concept/530005528/2021-10-27T22:55:20.122Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005528>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:55:20.122Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300168291>;
+    <http://www.w3.org/ns/adms#identifier> _:df_16516_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Kleine, met knoppen bediende apparaten die worden bewogen op een plat bureau of tekentableau om de bewegingen van de cursor op het scherm te controleren.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muis (computer)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008647>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008647> <http://www.w3.org/2004/02/skos/core#prefLabel> "randapparatuur"@nl.
+_:df_16516_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005528"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005528/2021-10-27T22:55:20.122Z>.
+<https://stad.gent/id/concept/470006390/2021-10-27T17:41:19.918Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470006390>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:41:19.918Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/3091>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18688_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Muinkkaai (Gent)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_18688_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470006390"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470006390/2021-10-27T17:41:19.918Z>.
+<https://stad.gent/id/concept/470002082/2021-10-27T16:08:05.247Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002082>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:08:05.247Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300250249>;
+    <http://www.w3.org/ns/adms#identifier> _:df_19336_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "muis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008564>;
+    <http://www.w3.org/2004/02/skos/core#note> "dier"@nl, "animal"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008564> <http://www.w3.org/2004/02/skos/core#prefLabel> "dier"@nl, "dier"@nl.
+_:df_19336_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002082"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002082/2021-10-27T16:08:05.247Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/mui.ttl>.

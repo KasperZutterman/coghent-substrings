@@ -33,3 +33,380 @@ _:df_4336_24 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470007919"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007919/2021-10-27T18:25:29.573Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/tin.ttl>.
+<https://stad.gent/id/concept/550008871/2021-10-31T19:57:50.553Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008871>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:57:50.553Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010978>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3871_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tinlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005373>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008427>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008427> <http://www.w3.org/2004/02/skos/core#prefLabel> "witmetaal"@nl.
+<https://stad.gent/id/concept/550005373> <http://www.w3.org/2004/02/skos/core#prefLabel> "tin en tinlegering"@nl.
+_:df_3871_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008871"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008871/2021-10-31T19:57:50.553Z>.
+<https://stad.gent/id/concept/550008417/2021-10-31T19:37:28.848Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008417>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:37:28.848Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233436>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4018_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ondoorzichtig glazuur dat een tinoxide of tinas bevat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tinglazuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008801>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008801> <http://www.w3.org/2004/02/skos/core#prefLabel> "keramiekglazuur naar samenstelling of herkomst"@nl.
+_:df_4018_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008417"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008417/2021-10-31T19:37:28.848Z>.
+<https://stad.gent/id/concept/550005373/2021-10-31T17:48:12.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005373>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:48:12.239Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300241468>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4792_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tin en tinlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008794>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004248>, <https://stad.gent/id/concept/550008871>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008871> <http://www.w3.org/2004/02/skos/core#prefLabel> "tinlegering"@nl.
+<https://stad.gent/id/concept/550004248> <http://www.w3.org/2004/02/skos/core#prefLabel> "tin"@nl.
+<https://stad.gent/id/concept/550008794> <http://www.w3.org/2004/02/skos/core#prefLabel> "non-ferrometaal"@nl.
+_:df_4792_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005373"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005373/2021-10-31T17:48:12.239Z>.
+<https://stad.gent/id/concept/550005121/2021-10-31T17:37:33.292Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005121>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:37:33.292Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4867_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tingieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4867_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005121"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005121/2021-10-31T17:37:33.292Z>.
+<https://stad.gent/id/concept/550004481/2021-10-31T17:17:21.678Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004481>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:17:21.678Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5011_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tin (collectie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5011_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004481"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004481/2021-10-31T17:17:21.678Z>.
+<https://stad.gent/id/concept/550004248/2021-10-31T17:12:02.773Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004248>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:12:02.773Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300133748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5050_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor het zuivere metaalelement met het symbool Sn en het atoomnummer 50. Het zilverachtig witte metaal is zacht en buigzaam. Ook te gebruiken voor dit metaal wanneer het wordt bewerkt en gevormd om, meestal in combinatie met andere stoffen, diverse voorwerpen en materialen te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005373>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005373> <http://www.w3.org/2004/02/skos/core#prefLabel> "tin en tinlegering"@nl.
+_:df_5050_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004248"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004248/2021-10-31T17:12:02.773Z>.
+<https://stad.gent/id/concept/530010053/2021-10-31T15:23:41.280Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010053>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:23:41.280Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1048795>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5821_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tingvoll"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530005642>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005642> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noorwegen"@nl, "Noorwegen"@nl.
+_:df_5821_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010053"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010053/2021-10-31T15:23:41.280Z>.
+<https://stad.gent/id/concept/530009301/2021-10-31T14:23:58.891Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009301>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:23:58.891Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233436>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6241_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ondoorzichtig glazuur dat een tinoxide of tinas bevat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tinglazuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006467>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006467> <http://www.w3.org/2004/02/skos/core#prefLabel> "glazuur"@nl.
+_:df_6241_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009301"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009301/2021-10-31T14:23:58.891Z>.
+<https://stad.gent/id/concept/530008562/2021-10-31T13:44:30.907Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:44:30.907Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300241468>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6523_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tin en tinlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008436>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006047>, <https://stad.gent/id/concept/530002870>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002870> <http://www.w3.org/2004/02/skos/core#prefLabel> "tinlegering"@nl.
+<https://stad.gent/id/concept/530006047> <http://www.w3.org/2004/02/skos/core#prefLabel> "tin"@nl.
+<https://stad.gent/id/concept/530008436> <http://www.w3.org/2004/02/skos/core#prefLabel> "non-ferrometaal"@nl.
+_:df_6523_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008562/2021-10-31T13:44:30.907Z>.
+<https://stad.gent/id/concept/530006193/2021-10-31T12:34:55.556Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006193>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:34:55.556Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010979>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7015_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een legering van tin met lood en antimoon in verschillende verhoudingen en combinaties; soms ook met koper.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tinwerk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002870>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002870> <http://www.w3.org/2004/02/skos/core#prefLabel> "tinlegering"@nl.
+_:df_7015_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006193"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006193/2021-10-31T12:34:55.556Z>.
+<https://stad.gent/id/concept/530006047/2021-10-31T12:27:43.669Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006047>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:27:43.669Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300133748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7066_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor het zuivere metaalelement met het symbool Sn en het atoomnummer 50. Het zilverachtig witte metaal is zacht en buigzaam. Ook te gebruiken voor dit metaal wanneer het wordt bewerkt en gevormd om, meestal in combinatie met andere stoffen, diverse voorwerpen en materialen te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008562>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008562> <http://www.w3.org/2004/02/skos/core#prefLabel> "tin en tinlegering"@nl.
+_:df_7066_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006047"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006047/2021-10-31T12:27:43.669Z>.
+<https://stad.gent/id/concept/530005504/2021-10-31T12:05:00.459Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005504>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:05:00.459Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7228_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tingieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010441>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010441> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaalwerker"@nl.
+_:df_7228_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005504"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005504/2021-10-31T12:05:00.459Z>.
+<https://stad.gent/id/concept/530003479/2021-10-31T11:06:31.609Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:06:31.609Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054051>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7645_37;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Metaalbewerking, voornamelijk bestaand uit het werken met tin.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tingieten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002094>, <https://stad.gent/id/concept/530005793>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005793> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaalgieten"@nl.
+<https://stad.gent/id/concept/530002094> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaalbewerken"@nl.
+_:df_7645_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003479/2021-10-31T11:06:31.609Z>.
+<https://stad.gent/id/concept/530002870/2021-10-31T10:42:06.050Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002870>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:42:06.050Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010978>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7816_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tinlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008562>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006193>, <https://stad.gent/id/concept/530006284>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006284> <http://www.w3.org/2004/02/skos/core#prefLabel> "witmetaal"@nl.
+<https://stad.gent/id/concept/530006193> <http://www.w3.org/2004/02/skos/core#prefLabel> "tinwerk"@nl.
+<https://stad.gent/id/concept/530008562> <http://www.w3.org/2004/02/skos/core#prefLabel> "tin en tinlegering"@nl.
+_:df_7816_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002870"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002870/2021-10-31T10:42:06.050Z>.
+<https://stad.gent/id/concept/470007919/2021-10-31T07:43:23.537Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007919>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:43:23.537Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300133748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9085_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9085_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007919"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007919/2021-10-31T07:43:23.537Z>.
+<https://stad.gent/id/concept/670000788/2021-10-28T16:05:16.024Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000788>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:05:16.024Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/2834>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9547_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tinnenpotstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9547_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000788"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000788/2021-10-28T16:05:16.024Z>.
+<https://stad.gent/id/concept/670000458/2021-10-28T15:37:31.331Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000458>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:37:31.331Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q852718>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9736_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tingieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9736_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000458"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000458/2021-10-28T15:37:31.331Z>.
+<https://stad.gent/id/concept/570022952/2021-10-28T13:20:00.409Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022952>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:20:00.409Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010978>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10672_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tinlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_10672_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022952"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022952/2021-10-28T13:20:00.409Z>.
+<https://stad.gent/id/concept/570008216/2021-10-28T08:11:24.646Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008216>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:11:24.646Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300133748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12802_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000036>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000036> <http://www.w3.org/2004/02/skos/core#prefLabel> "metaal"@nl.
+_:df_12802_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008216"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008216/2021-10-28T08:11:24.646Z>.
+<https://stad.gent/id/concept/550008871/2021-10-28T07:17:55.304Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008871>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:17:55.304Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010978>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13165_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tinlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005373>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008427>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008427> <http://www.w3.org/2004/02/skos/core#prefLabel> "witmetaal"@nl.
+<https://stad.gent/id/concept/550005373> <http://www.w3.org/2004/02/skos/core#prefLabel> "tin en tinlegering"@nl.
+_:df_13165_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008871"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008871/2021-10-28T07:17:55.304Z>.
+<https://stad.gent/id/concept/550008417/2021-10-28T06:56:31.270Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008417>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:56:31.270Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233436>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13309_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ondoorzichtig glazuur dat een tinoxide of tinas bevat.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tinglazuur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008801>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008801> <http://www.w3.org/2004/02/skos/core#prefLabel> "keramiekglazuur naar samenstelling of herkomst"@nl.
+_:df_13309_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008417"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008417/2021-10-28T06:56:31.270Z>.
+<https://stad.gent/id/concept/550005373/2021-10-28T05:01:01.868Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005373>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:01:01.868Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300241468>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14083_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tin en tinlegering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008794>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550004248>, <https://stad.gent/id/concept/550008871>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008871> <http://www.w3.org/2004/02/skos/core#prefLabel> "tinlegering"@nl.
+<https://stad.gent/id/concept/550004248> <http://www.w3.org/2004/02/skos/core#prefLabel> "tin"@nl.
+<https://stad.gent/id/concept/550008794> <http://www.w3.org/2004/02/skos/core#prefLabel> "non-ferrometaal"@nl.
+_:df_14083_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005373"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005373/2021-10-28T05:01:01.868Z>.
+<https://stad.gent/id/concept/550005121/2021-10-28T04:49:47.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005121>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:49:47.536Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_14161_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tingieter"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en, "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_14161_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005121"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005121/2021-10-28T04:49:47.536Z>.
+<https://stad.gent/id/concept/550004481/2021-10-28T04:28:20.882Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004481>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:28:20.882Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_14302_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tin (collectie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_14302_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004481"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004481/2021-10-28T04:28:20.882Z>.
+<https://stad.gent/id/concept/550004248/2021-10-28T04:22:40.551Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004248>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:22:40.551Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300133748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14341_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor het zuivere metaalelement met het symbool Sn en het atoomnummer 50. Het zilverachtig witte metaal is zacht en buigzaam. Ook te gebruiken voor dit metaal wanneer het wordt bewerkt en gevormd om, meestal in combinatie met andere stoffen, diverse voorwerpen en materialen te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005373>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005373> <http://www.w3.org/2004/02/skos/core#prefLabel> "tin en tinlegering"@nl.
+_:df_14341_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004248"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004248/2021-10-28T04:22:40.551Z>.
+<https://stad.gent/id/concept/530006047/2021-10-27T23:18:52.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006047>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:18:52.249Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300133748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_16360_36;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor het zuivere metaalelement met het symbool Sn en het atoomnummer 50. Het zilverachtig witte metaal is zacht en buigzaam. Ook te gebruiken voor dit metaal wanneer het wordt bewerkt en gevormd om, meestal in combinatie met andere stoffen, diverse voorwerpen en materialen te maken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008562>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008562> <http://www.w3.org/2004/02/skos/core#prefLabel> "tin en tinlegering"@nl.
+_:df_16360_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006047"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006047/2021-10-27T23:18:52.249Z>.
+<https://stad.gent/id/concept/470007919/2021-10-27T18:25:29.573Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007919>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:25:29.573Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300133748>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18379_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_18379_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007919"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007919/2021-10-27T18:25:29.573Z>.
+<https://KasperZutterman.github.io///thesaurus/tin.ttl> <https://w3id.org/tree#relation> _:df_1_4041.
+_:df_1_4041 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/ting.ttl>;
+    <https://w3id.org/tree#value> "ting".
+<https://KasperZutterman.github.io///thesaurus/tin.ttl> <https://w3id.org/tree#relation> _:df_1_4042.
+_:df_1_4042 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tin+e.ttl>;
+    <https://w3id.org/tree#value> "tin", "e".
+<https://KasperZutterman.github.io///thesaurus/tin.ttl> <https://w3id.org/tree#relation> _:df_1_4043.
+_:df_1_4043 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tinw.ttl>;
+    <https://w3id.org/tree#value> "tinw".
+<https://KasperZutterman.github.io///thesaurus/tin.ttl> <https://w3id.org/tree#relation> _:df_1_4044.
+_:df_1_4044 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tinl.ttl>;
+    <https://w3id.org/tree#value> "tinl".
+<https://KasperZutterman.github.io///thesaurus/tin.ttl> <https://w3id.org/tree#relation> _:df_1_4045.
+_:df_1_4045 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/tinn.ttl>;
+    <https://w3id.org/tree#value> "tinn".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/tin.ttl>.

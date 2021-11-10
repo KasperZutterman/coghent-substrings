@@ -102,3 +102,288 @@ _:df_4333_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470007923"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007923/2021-10-27T18:25:40.232Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/verv.ttl>.
+<https://stad.gent/id/concept/570006160/2021-10-31T20:38:02.005Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006160>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T20:38:02.005Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053049>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3589_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3589_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006160"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006160/2021-10-31T20:38:02.005Z>.
+<https://stad.gent/id/concept/550008288/2021-10-31T19:28:20.981Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:28:20.981Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015641>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4081_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor gewilde objecten of documenten die worden gemaakt of veranderd om te misleiden; het bedrog kan uiteenlopen van de vervalsing van een heel werk tot het wijzigen van een handtekening of andere zwendel. Wordt onderscheiden van 'kopieën (afgeleide objecten)' door de opzet te misleiden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vervalsing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008289>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008287>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008287> <http://www.w3.org/2004/02/skos/core#prefLabel> "imitatie"@nl.
+<https://stad.gent/id/concept/550008289> <http://www.w3.org/2004/02/skos/core#prefLabel> "kopie (afgeleid object)"@nl, "kopie (afgeleid object)"@nl.
+_:df_4081_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008288> <http://www.w3.org/2004/02/skos/core#prefLabel> "vervalsing"@nl, "vervalsing"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008288/2021-10-31T19:28:20.981Z>.
+<https://stad.gent/id/concept/550008049/2021-10-31T19:08:39.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008049>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:08:39.376Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042930>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4222_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vervoermiddelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008048>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008048> <http://www.w3.org/2004/02/skos/core#prefLabel> "transportmiddel"@nl, "transportmiddel"@nl.
+_:df_4222_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008049"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008049> <http://www.w3.org/2004/02/skos/core#prefLabel> "vervoermiddelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008049/2021-10-31T19:08:39.376Z>.
+<https://stad.gent/id/concept/550005282/2021-10-31T17:44:33.980Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005282>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:44:33.980Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008733>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4819_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verviers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008930>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_4819_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005282"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005282/2021-10-31T17:44:33.980Z>.
+<https://stad.gent/id/concept/530008582/2021-10-31T13:46:12.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:46:12.363Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042929>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6511_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vervoermiddel (objectnaam)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008778>, <https://stad.gent/id/concept/530004334>, <https://stad.gent/id/concept/530003313>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003313> <http://www.w3.org/2004/02/skos/core#prefLabel> "wiel"@nl.
+<https://stad.gent/id/concept/530004334> <http://www.w3.org/2004/02/skos/core#prefLabel> "vliegtuigzetel"@nl.
+<https://stad.gent/id/concept/530008778> <http://www.w3.org/2004/02/skos/core#prefLabel> "transportmiddel"@nl.
+_:df_6511_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008582/2021-10-31T13:46:12.363Z>.
+<https://stad.gent/id/concept/530007930/2021-10-31T13:19:50.461Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007930>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:19:50.461Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053049>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6697_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het aanbrengen van een kleurstof die zich in een solutie of een fijne colloïde bevindt, zodat in ieder geval iets van de kleurvloeistof door de substantie wordt opgenomen.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verven (kleuren)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008692>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008822>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008822> <http://www.w3.org/2004/02/skos/core#prefLabel> "chiné-techniek"@nl.
+<https://stad.gent/id/concept/530008692> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleuren"@nl.
+_:df_6697_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007930"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007930/2021-10-31T13:19:50.461Z>.
+<https://stad.gent/id/concept/530006652/2021-10-31T12:54:33.677Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:54:33.677Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008733>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6877_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verviers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009330>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_6877_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006652"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006652/2021-10-31T12:54:33.677Z>.
+<https://stad.gent/id/concept/530004492/2021-10-31T11:31:58.074Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004492>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:31:58.074Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300161986>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7462_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het aanbrengen van een verflaag op een ondergrond, in de eerste plaats voor bescherming. Gebruik 'schilderen' voor met behulp van verfstoffen gemaakte afbeeldingen die een expressieve of een communicatieve functie hebben.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verven (bedekken)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008606>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008606> <http://www.w3.org/2004/02/skos/core#prefLabel> "coaten"@nl.
+_:df_7462_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004492"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004492/2021-10-31T11:31:58.074Z>.
+<https://stad.gent/id/concept/530003058/2021-10-31T10:51:04.113Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003058>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:51:04.113Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7753_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vervaardiger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7753_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003058"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003058/2021-10-31T10:51:04.113Z>.
+<https://stad.gent/id/concept/470007923/2021-10-31T07:43:33.539Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007923>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:43:33.539Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055244>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9085_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het proces of de handeling waarbij iets naar elders wordt overgebracht.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vervoer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en, "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9085_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007923"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007923/2021-10-31T07:43:33.539Z>.
+<https://stad.gent/id/concept/670000462/2021-10-28T15:37:51.336Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000462>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:37:51.336Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300386200>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9733_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9733_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000462"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000462/2021-10-28T15:37:51.336Z>.
+<https://stad.gent/id/concept/570020797/2021-10-28T13:05:24.876Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020797>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:05:24.876Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008733>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10771_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verviers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023203>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "motief"@nl, "motif"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_10771_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020797"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020797/2021-10-28T13:05:24.876Z>.
+<https://stad.gent/id/concept/570006160/2021-10-28T08:00:10.422Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006160>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:00:10.422Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053049>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12880_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12880_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006160"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006160/2021-10-28T08:00:10.422Z>.
+<https://stad.gent/id/concept/550008288/2021-10-28T06:46:57.956Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:46:57.956Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015641>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13372_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor gewilde objecten of documenten die worden gemaakt of veranderd om te misleiden; het bedrog kan uiteenlopen van de vervalsing van een heel werk tot het wijzigen van een handtekening of andere zwendel. Wordt onderscheiden van 'kopieën (afgeleide objecten)' door de opzet te misleiden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vervalsing"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008289>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008287>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008287> <http://www.w3.org/2004/02/skos/core#prefLabel> "imitatie"@nl.
+<https://stad.gent/id/concept/550008289> <http://www.w3.org/2004/02/skos/core#prefLabel> "kopie (afgeleid object)"@nl, "kopie (afgeleid object)"@nl.
+_:df_13372_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008288> <http://www.w3.org/2004/02/skos/core#prefLabel> "vervalsing"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008288/2021-10-28T06:46:57.956Z>.
+<https://stad.gent/id/concept/550008049/2021-10-28T06:26:04.932Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008049>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:26:04.932Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042930>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13513_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vervoermiddelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008048>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008048> <http://www.w3.org/2004/02/skos/core#prefLabel> "transportmiddel"@nl, "transportmiddel"@nl.
+_:df_13513_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008049"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008049> <http://www.w3.org/2004/02/skos/core#prefLabel> "vervoermiddelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008049/2021-10-28T06:26:04.932Z>.
+<https://stad.gent/id/concept/550005282/2021-10-28T04:57:14.992Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005282>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:57:14.992Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008733>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14110_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verviers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008930>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_14110_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005282"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005282/2021-10-28T04:57:14.992Z>.
+<https://stad.gent/id/concept/530008582/2021-10-28T00:42:39.569Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:42:39.569Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300042929>;
+    <http://www.w3.org/ns/adms#identifier> _:df_15802_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "vervoermiddel (objectnaam)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008778>, <https://stad.gent/id/concept/530004334>, <https://stad.gent/id/concept/530003313>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003313> <http://www.w3.org/2004/02/skos/core#prefLabel> "wiel"@nl.
+<https://stad.gent/id/concept/530004334> <http://www.w3.org/2004/02/skos/core#prefLabel> "vliegtuigzetel"@nl.
+<https://stad.gent/id/concept/530008778> <http://www.w3.org/2004/02/skos/core#prefLabel> "transportmiddel"@nl.
+_:df_15802_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008582/2021-10-28T00:42:39.569Z>.
+<https://stad.gent/id/concept/530007930/2021-10-28T00:14:31.897Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007930>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:14:31.897Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053049>;
+    <http://www.w3.org/ns/adms#identifier> _:df_15988_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het aanbrengen van een kleurstof die zich in een solutie of een fijne colloïde bevindt, zodat in ieder geval iets van de kleurvloeistof door de substantie wordt opgenomen.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verven (kleuren)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008692>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008822>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008822> <http://www.w3.org/2004/02/skos/core#prefLabel> "chiné-techniek"@nl.
+<https://stad.gent/id/concept/530008692> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleuren"@nl.
+_:df_15988_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007930"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007930/2021-10-28T00:14:31.897Z>.
+<https://stad.gent/id/concept/530006652/2021-10-27T23:47:41.961Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:47:41.961Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008733>;
+    <http://www.w3.org/ns/adms#identifier> _:df_16168_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verviers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009330>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luik (provincie)"@nl.
+_:df_16168_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006652"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006652/2021-10-27T23:47:41.961Z>.
+<https://stad.gent/id/concept/530004492/2021-10-27T22:20:03.730Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004492>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:20:03.730Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300161986>;
+    <http://www.w3.org/ns/adms#identifier> _:df_16756_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het aanbrengen van een verflaag op een ondergrond, in de eerste plaats voor bescherming. Gebruik 'schilderen' voor met behulp van verfstoffen gemaakte afbeeldingen die een expressieve of een communicatieve functie hebben.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verven (bedekken)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008606>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008606> <http://www.w3.org/2004/02/skos/core#prefLabel> "coaten"@nl.
+_:df_16756_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004492"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004492/2021-10-27T22:20:03.730Z>.
+<https://KasperZutterman.github.io///thesaurus/verv.ttl> <https://w3id.org/tree#relation> _:df_1_4264.
+_:df_1_4264 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/verva.ttl>;
+    <https://w3id.org/tree#value> "verva".
+<https://KasperZutterman.github.io///thesaurus/verv.ttl> <https://w3id.org/tree#relation> _:df_1_4265.
+_:df_1_4265 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/vervo.ttl>;
+    <https://w3id.org/tree#value> "vervo".
+<https://KasperZutterman.github.io///thesaurus/verv.ttl> <https://w3id.org/tree#relation> _:df_1_4266.
+_:df_1_4266 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/vervi.ttl>;
+    <https://w3id.org/tree#value> "vervi".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/verv.ttl>.

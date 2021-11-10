@@ -12,3 +12,17 @@ _:df_4165_13 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "570025040"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025040/2021-10-28T14:57:28.646Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/noe.ttl>.
+<https://stad.gent/id/concept/570025040/2021-10-28T14:57:28.646Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570025040>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:57:28.646Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7249910>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10009_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Noeveren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl.
+_:df_10009_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025040"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570025040/2021-10-28T14:57:28.646Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/noe.ttl>.

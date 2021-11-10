@@ -60,3 +60,158 @@ _:df_3313_27 a <http://www.w3.org/ns/adms#Identifier>;
 <https://stad.gent/id/concept/550007842> <http://www.w3.org/2004/02/skos/core#prefLabel> "verplaats- en transportbenodigdheden"@nl.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007842/2021-10-28T06:07:42.855Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/verp.ttl>.
+<https://stad.gent/id/concept/570013480/2021-10-31T22:32:18.852Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013480>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:32:18.852Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300254740>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2779_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor materiaal waarmee voorwerpen worden beschermd of ondersteund zodat ze veilig kunnen worden vervoerd of opgeborgen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verpakking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "inscriptie positie"@nl, "inscription position"@en, "objectnaam"@nl, "object name"@en, "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2779_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013480"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013480/2021-10-31T22:32:18.852Z>.
+<https://stad.gent/id/concept/550009134/2021-10-31T20:06:29.298Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009134>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T20:06:29.298Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300254740>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3811_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verpakkingsmateriaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008747>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008747> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar functie"@nl.
+_:df_3811_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009134"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009134/2021-10-31T20:06:29.298Z>.
+<https://stad.gent/id/concept/550007841/2021-10-31T18:51:19.149Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007841>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:51:19.149Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300162804>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4345_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verplaats- en transportgereedschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007842>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001897>, <https://stad.gent/id/concept/550001059>, <https://stad.gent/id/concept/550001221>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001221> <http://www.w3.org/2004/02/skos/core#prefLabel> "trechter"@nl.
+<https://stad.gent/id/concept/550001059> <http://www.w3.org/2004/02/skos/core#prefLabel> "spade"@nl.
+<https://stad.gent/id/concept/550001897> <http://www.w3.org/2004/02/skos/core#prefLabel> "schop"@nl.
+<https://stad.gent/id/concept/550007842> <http://www.w3.org/2004/02/skos/core#prefLabel> "verplaats- en transportbenodigdheden"@nl.
+_:df_4345_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007841"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007841> <http://www.w3.org/2004/02/skos/core#prefLabel> "verplaats- en transportgereedschap"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007841/2021-10-31T18:51:19.149Z>.
+<https://stad.gent/id/concept/550007842/2021-10-31T18:51:24.150Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007842>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:51:24.150Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024783>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4345_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verplaats- en transportbenodigdheden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007772>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007841>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007841> <http://www.w3.org/2004/02/skos/core#prefLabel> "verplaats- en transportgereedschap"@nl.
+<https://stad.gent/id/concept/550007772> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar proces"@nl.
+_:df_4345_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007842"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007842> <http://www.w3.org/2004/02/skos/core#prefLabel> "verplaats- en transportbenodigdheden"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007842/2021-10-31T18:51:24.150Z>.
+<https://stad.gent/id/concept/570023066/2021-10-28T13:25:40.058Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023066>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:25:40.058Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q56604576>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10633_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verpakkingsindustrie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "collectie"@nl, "collection"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10633_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023066"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023066/2021-10-28T13:25:40.058Z>.
+<https://stad.gent/id/concept/570013480/2021-10-28T09:58:40.997Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013480>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:58:40.997Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300254740>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12070_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor materiaal waarmee voorwerpen worden beschermd of ondersteund zodat ze veilig kunnen worden vervoerd of opgeborgen. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verpakking"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "inscriptie positie"@nl, "inscription position"@en, "objectnaam"@nl, "object name"@en, "soort opschrift"@nl, "inscription type"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12070_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013480"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013480/2021-10-28T09:58:40.997Z>.
+<https://stad.gent/id/concept/550009134/2021-10-28T07:27:07.841Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009134>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:27:07.841Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/aat/300254740>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13102_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verpakkingsmateriaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008747>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008747> <http://www.w3.org/2004/02/skos/core#prefLabel> "materialen naar functie"@nl.
+_:df_13102_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009134"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009134/2021-10-28T07:27:07.841Z>.
+<https://stad.gent/id/concept/550007841/2021-10-28T06:07:37.853Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007841>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:07:37.853Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300162804>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13636_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verplaats- en transportgereedschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007842>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001897>, <https://stad.gent/id/concept/550001059>, <https://stad.gent/id/concept/550001221>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001221> <http://www.w3.org/2004/02/skos/core#prefLabel> "trechter"@nl.
+<https://stad.gent/id/concept/550001059> <http://www.w3.org/2004/02/skos/core#prefLabel> "spade"@nl.
+<https://stad.gent/id/concept/550001897> <http://www.w3.org/2004/02/skos/core#prefLabel> "schop"@nl.
+<https://stad.gent/id/concept/550007842> <http://www.w3.org/2004/02/skos/core#prefLabel> "verplaats- en transportbenodigdheden"@nl.
+_:df_13636_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007841"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007841> <http://www.w3.org/2004/02/skos/core#prefLabel> "verplaats- en transportgereedschap"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007841/2021-10-28T06:07:37.853Z>.
+<https://stad.gent/id/concept/550007842/2021-10-28T06:07:42.855Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007842>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:07:42.855Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024783>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13636_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verplaats- en transportbenodigdheden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007772>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007841>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007841> <http://www.w3.org/2004/02/skos/core#prefLabel> "verplaats- en transportgereedschap"@nl.
+<https://stad.gent/id/concept/550007772> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrusting naar proces"@nl.
+_:df_13636_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007842"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007842> <http://www.w3.org/2004/02/skos/core#prefLabel> "verplaats- en transportbenodigdheden"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007842/2021-10-28T06:07:42.855Z>.
+<https://stad.gent/id/concept/470003820/2021-10-27T16:56:19.068Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003820>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:56:19.068Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300254740>;
+    <http://www.w3.org/ns/adms#identifier> _:df_19000_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor materiaal waarmee voorwerpen worden beschermd of ondersteund zodat ze veilig kunnen worden vervoerd of opgeborgen. Gebruik 'produktverpakkingen' voor verpakkingsmateriaal dat is voorzien van informatie over het product.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verpakkingsmateriaal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_19000_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003820"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003820/2021-10-27T16:56:19.068Z>.
+<https://stad.gent/id/concept/470002222/2021-10-27T16:11:53.390Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470002222>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:11:53.390Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300156142>;
+    <http://www.w3.org/ns/adms#identifier> _:df_19309_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "verpleegster"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008987>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008987> <http://www.w3.org/2004/02/skos/core#prefLabel> "figuur"@nl.
+_:df_19309_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002222"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470002222/2021-10-27T16:11:53.390Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/verp.ttl>.

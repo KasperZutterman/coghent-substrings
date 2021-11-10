@@ -1,0 +1,35 @@
+<https://stad.gent/id/concept/530008806/2021-10-28T01:00:04.723Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008806>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:00:04.723Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300217912>;
+    <http://www.w3.org/ns/adms#identifier> _:df_15685_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Spellen waarbij de spelstukken over een bord worden bewogen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bordspel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003959>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001857>, <https://stad.gent/id/concept/530008758>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008758> <http://www.w3.org/2004/02/skos/core#prefLabel> "speelbord"@nl.
+<https://stad.gent/id/concept/530001857> <http://www.w3.org/2004/02/skos/core#prefLabel> "schaakstuk"@nl.
+<https://stad.gent/id/concept/530003959> <http://www.w3.org/2004/02/skos/core#prefLabel> "spel"@nl.
+_:df_15685_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008806"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008806/2021-10-28T01:00:04.723Z>.
+<https://stad.gent/id/concept/470004311/2021-10-27T17:07:10.896Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004311>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:07:10.896Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300217912>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18922_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Spel waarbij de spelstukken over een bord worden bewogen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bordspel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470004276>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470007282>, <https://stad.gent/id/concept/470001955>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470001955> <http://www.w3.org/2004/02/skos/core#prefLabel> "schaakspel"@nl.
+<https://stad.gent/id/concept/470007282> <http://www.w3.org/2004/02/skos/core#prefLabel> "ganzenbordspel"@nl.
+<https://stad.gent/id/concept/470004276> <http://www.w3.org/2004/02/skos/core#prefLabel> "gezelschapsspel"@nl.
+_:df_18922_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004311"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004311/2021-10-27T17:07:10.896Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/bords.ttl>.

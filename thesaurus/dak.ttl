@@ -119,3 +119,274 @@ _:df_3745_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470010886"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010886/2021-10-27T19:48:41.976Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/dak.ttl>.
+<https://stad.gent/id/concept/550008356/2021-10-31T19:33:50.934Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008356>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:33:50.934Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002212>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4042_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dakonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008357>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008355>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008355> <http://www.w3.org/2004/02/skos/core#prefLabel> "externe dakonderdelen"@nl.
+<https://stad.gent/id/concept/550008357> <http://www.w3.org/2004/02/skos/core#prefLabel> "daken en dakonderdelen"@nl.
+_:df_4042_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008356"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008356> <http://www.w3.org/2004/02/skos/core#prefLabel> "dakonderdelen"@nl, "dakonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008356/2021-10-31T19:33:50.934Z>.
+<https://stad.gent/id/concept/550008357/2021-10-31T19:33:55.938Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008357>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:33:55.938Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052266>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4042_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "daken en dakonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008086>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008356>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008356> <http://www.w3.org/2004/02/skos/core#prefLabel> "dakonderdelen"@nl, "dakonderdelen"@nl.
+<https://stad.gent/id/concept/550008086> <http://www.w3.org/2004/02/skos/core#prefLabel> "omsluitende structurele elementen"@nl.
+_:df_4042_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008357"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008357> <http://www.w3.org/2004/02/skos/core#prefLabel> "daken en dakonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008357/2021-10-31T19:33:55.938Z>.
+<https://stad.gent/id/concept/550008354/2021-10-31T19:33:40.304Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008354>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:33:40.304Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300070136>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4045_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "daktoevoegsels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008355>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001959>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001959> <http://www.w3.org/2004/02/skos/core#prefLabel> "torenkruis"@nl.
+<https://stad.gent/id/concept/550008355> <http://www.w3.org/2004/02/skos/core#prefLabel> "externe dakonderdelen"@nl.
+_:df_4045_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008354"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008354/2021-10-31T19:33:40.304Z>.
+<https://stad.gent/id/concept/550005856/2021-10-31T18:02:58.900Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005856>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:02:58.900Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4687_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dakspil"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4687_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005856"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005856/2021-10-31T18:02:58.900Z>.
+<https://stad.gent/id/concept/550005816/2021-10-31T18:01:17.679Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005816>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:01:17.679Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010699>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4699_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "\t\r\nEen tegel voor dakbedekking die meestal is gemaakt van gebakken klei, beton of asbestcement en verkrijgbaar is in vele samenstellingen en soorten zoals platte dakpannen, enkelsnedige dakpannen en tegels die in elkaar grijpen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dakpan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4699_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005816"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005816/2021-10-31T18:01:17.679Z>.
+<https://stad.gent/id/concept/550001370/2021-10-31T16:29:30.642Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001370>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:29:30.642Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5353_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dakbekroning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5353_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001370"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001370/2021-10-31T16:29:30.642Z>.
+<https://stad.gent/id/concept/530008110/2021-10-31T13:23:48.694Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008110>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:23:48.694Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1001658>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6670_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dakar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009343>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009343> <http://www.w3.org/2004/02/skos/core#prefLabel> "Senegal"@nl.
+_:df_6670_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008110"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008110/2021-10-31T13:23:48.694Z>.
+<https://stad.gent/id/concept/530003161/2021-10-31T10:55:17.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003161>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:55:17.885Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7723_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dakrandprofiel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008620>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008620> <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwelement"@nl.
+_:df_7723_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003161"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003161/2021-10-31T10:55:17.885Z>.
+<https://stad.gent/id/concept/530003100/2021-10-31T10:52:50.624Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003100>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:52:50.624Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300105539>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7741_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Lange, ondiepe kanaaltjes die onder en parallel aan de dakrand van een gebouw zijn geplaatst om water van een dak op te vangen en weg te leiden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dakgoot"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008620>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008620> <http://www.w3.org/2004/02/skos/core#prefLabel> "bouwelement"@nl.
+_:df_7741_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003100"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003100/2021-10-31T10:52:50.624Z>.
+<https://stad.gent/id/concept/530002906/2021-10-31T10:42:56.810Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002906>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:42:56.810Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7810_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dakkoffer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008756>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008756> <http://www.w3.org/2004/02/skos/core#prefLabel> "bagage"@nl.
+_:df_7810_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002906"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002906/2021-10-31T10:42:56.810Z>.
+<https://stad.gent/id/concept/470010886/2021-10-31T09:06:27.027Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010886>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:06:27.027Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000427>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8497_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dakar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8497_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010886"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010886/2021-10-31T09:06:27.027Z>.
+<https://stad.gent/id/concept/570019666/2021-10-28T12:41:09.968Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019666>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:41:09.968Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014897>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10939_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Elk materiaal dat wordt gebruikt als een dakbedekking (zoals dakspanen, leisteen, bladmetaal of tegels) om het dak wind- en waterdicht te maken en vaak ook om voor warmte-isolatie te zorgen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dakbedekkingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10939_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019666"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019666/2021-10-28T12:41:09.968Z>.
+<https://stad.gent/id/concept/570014630/2021-10-28T10:22:46.662Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:22:46.662Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025033>;
+    <http://www.w3.org/ns/adms#identifier> _:df_11905_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dakwerker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11905_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014630"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014630/2021-10-28T10:22:46.662Z>.
+<https://stad.gent/id/concept/570013022/2021-10-28T09:47:28.257Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:47:28.257Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1156728>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12148_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dakconstructie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12148_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013022"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013022/2021-10-28T09:47:28.257Z>.
+<https://stad.gent/id/concept/550008356/2021-10-28T06:52:46.920Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008356>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:52:46.920Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300002212>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13333_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dakonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008357>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008355>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008355> <http://www.w3.org/2004/02/skos/core#prefLabel> "externe dakonderdelen"@nl.
+<https://stad.gent/id/concept/550008357> <http://www.w3.org/2004/02/skos/core#prefLabel> "daken en dakonderdelen"@nl.
+_:df_13333_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008356"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008356> <http://www.w3.org/2004/02/skos/core#prefLabel> "dakonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008356/2021-10-28T06:52:46.920Z>.
+<https://stad.gent/id/concept/550008357/2021-10-28T06:52:51.923Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008357>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:52:51.923Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300052266>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13333_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "daken en dakonderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008086>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008356>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008356> <http://www.w3.org/2004/02/skos/core#prefLabel> "dakonderdelen"@nl.
+<https://stad.gent/id/concept/550008086> <http://www.w3.org/2004/02/skos/core#prefLabel> "omsluitende structurele elementen"@nl.
+_:df_13333_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008357"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008357> <http://www.w3.org/2004/02/skos/core#prefLabel> "daken en dakonderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008357/2021-10-28T06:52:51.923Z>.
+<https://stad.gent/id/concept/550008354/2021-10-28T06:52:36.916Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008354>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:52:36.916Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300070136>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13336_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "daktoevoegsels"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008355>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001959>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001959> <http://www.w3.org/2004/02/skos/core#prefLabel> "torenkruis"@nl.
+<https://stad.gent/id/concept/550008355> <http://www.w3.org/2004/02/skos/core#prefLabel> "externe dakonderdelen"@nl.
+_:df_13336_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008354"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008354> <http://www.w3.org/2004/02/skos/core#prefLabel> "daktoevoegsels"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008354/2021-10-28T06:52:36.916Z>.
+<https://stad.gent/id/concept/550005856/2021-10-28T05:16:42.787Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005856>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:16:42.787Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_13978_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dakspil"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_13978_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005856"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005856/2021-10-28T05:16:42.787Z>.
+<https://stad.gent/id/concept/550005816/2021-10-28T05:14:55.985Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005816>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:14:55.985Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300010699>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13990_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "\t\r\nEen tegel voor dakbedekking die meestal is gemaakt van gebakken klei, beton of asbestcement en verkrijgbaar is in vele samenstellingen en soorten zoals platte dakpannen, enkelsnedige dakpannen en tegels die in elkaar grijpen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dakpan"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_13990_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005816"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005816/2021-10-28T05:14:55.985Z>.
+<https://stad.gent/id/concept/550001370/2021-10-28T03:37:11.841Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001370>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:37:11.841Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_14644_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dakbekroning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_14644_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001370"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001370/2021-10-28T03:37:11.841Z>.
+<https://KasperZutterman.github.io///thesaurus/dak.ttl> <https://w3id.org/tree#relation> _:df_1_4162.
+_:df_1_4162 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/daka.ttl>;
+    <https://w3id.org/tree#value> "daka".
+<https://KasperZutterman.github.io///thesaurus/dak.ttl> <https://w3id.org/tree#relation> _:df_1_4163.
+_:df_1_4163 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/dakr.ttl>;
+    <https://w3id.org/tree#value> "dakr".
+<https://KasperZutterman.github.io///thesaurus/dak.ttl> <https://w3id.org/tree#relation> _:df_1_4164.
+_:df_1_4164 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/dakg.ttl>;
+    <https://w3id.org/tree#value> "dakg".
+<https://KasperZutterman.github.io///thesaurus/dak.ttl> <https://w3id.org/tree#relation> _:df_1_4165.
+_:df_1_4165 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/dakk.ttl>;
+    <https://w3id.org/tree#value> "dakk".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/dak.ttl>.

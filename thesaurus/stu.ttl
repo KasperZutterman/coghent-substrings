@@ -255,3 +255,242 @@ _:df_4291_9 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008092"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008092/2021-10-27T18:31:35.705Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/stu.ttl>.
+<https://stad.gent/id/concept/570024263/2021-11-01T02:48:01.583Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024263>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T02:48:01.583Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025909>;
+    <http://www.w3.org/ns/adms#identifier> _:df_967_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "student"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_967_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024263"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024263/2021-11-01T02:48:01.583Z>.
+<https://stad.gent/id/concept/570022752/2021-11-01T01:41:45.391Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022752>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T01:41:45.391Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1435_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "studiolamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1435_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022752"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022752/2021-11-01T01:41:45.391Z>.
+<https://stad.gent/id/concept/570014585/2021-10-31T22:53:50.118Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:53:50.118Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q83790>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2626_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "studieboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2626_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014585/2021-10-31T22:53:50.118Z>.
+<https://stad.gent/id/concept/570004916/2021-10-31T20:32:17.029Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T20:32:17.029Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004425>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3628_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stuttgart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_3628_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004916/2021-10-31T20:32:17.029Z>.
+<https://stad.gent/id/concept/550004654/2021-10-31T17:25:12.157Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004654>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:25:12.157Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004425>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4957_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stuttgart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_4957_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004654"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004654/2021-10-31T17:25:12.157Z>.
+<https://stad.gent/id/concept/550003672/2021-10-31T17:02:20.324Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003672>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:02:20.324Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300412172>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5119_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stuiver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_5119_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003672"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003672/2021-10-31T17:02:20.324Z>.
+<https://stad.gent/id/concept/530010383/2021-10-31T15:50:21.362Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010383>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:50:21.362Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5629_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "student"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5629_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010383"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010383/2021-10-31T15:50:21.362Z>.
+<https://stad.gent/id/concept/530003808/2021-10-31T11:12:21.579Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003808>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:12:21.579Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004425>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7603_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stuttgart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006522>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_7603_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003808"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003808/2021-10-31T11:12:21.579Z>.
+<https://stad.gent/id/concept/470009198/2021-10-31T08:18:44.159Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009198>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:18:44.159Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025909>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8836_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "student"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8836_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009198"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009198/2021-10-31T08:18:44.159Z>.
+<https://stad.gent/id/concept/470008785/2021-10-31T08:08:51.985Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:08:51.985Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300223022>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8905_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Portretten gemaakt in een professionele fotostudio. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "studioportret"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8905_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008785/2021-10-31T08:08:51.985Z>.
+<https://stad.gent/id/concept/470008092/2021-10-31T07:49:27.533Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008092>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:49:27.533Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q938876>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9043_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Studebaker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9043_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008092"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008092/2021-10-31T07:49:27.533Z>.
+<https://stad.gent/id/concept/670001270/2021-10-28T16:39:05.816Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670001270>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:39:05.816Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/thesauri/erfgoedtypes/1941>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9316_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9316_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001270"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670001270/2021-10-28T16:39:05.816Z>.
+<https://stad.gent/id/concept/670000599/2021-10-28T15:49:20.209Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000599>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:49:20.209Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_9655_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stuer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9655_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000599"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000599/2021-10-28T15:49:20.209Z>.
+<https://stad.gent/id/concept/670000600/2021-10-28T15:49:25.210Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000600>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:49:25.210Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_9655_30;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stuerken"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "eigennaam"@nl, "proper name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9655_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000600"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000600/2021-10-28T15:49:25.210Z>.
+<https://stad.gent/id/concept/570024263/2021-10-28T14:21:21.647Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024263>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:21:21.647Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300025909>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10258_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "student"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10258_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024263"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024263/2021-10-28T14:21:21.647Z>.
+<https://stad.gent/id/concept/570022752/2021-10-28T13:12:00.742Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022752>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:12:00.742Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_10726_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "studiolamp"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10726_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022752"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022752/2021-10-28T13:12:00.742Z>.
+<https://stad.gent/id/concept/570014585/2021-10-28T10:20:44.336Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:20:44.336Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q83790>;
+    <http://www.w3.org/ns/adms#identifier> _:df_11917_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "studieboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11917_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014585/2021-10-28T10:20:44.336Z>.
+<https://stad.gent/id/concept/570004916/2021-10-28T07:54:14.834Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570004916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:54:14.834Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004425>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12919_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stuttgart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_12919_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570004916/2021-10-28T07:54:14.834Z>.
+<https://stad.gent/id/concept/550004654/2021-10-28T04:36:37.570Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004654>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:36:37.570Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7004425>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14248_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stuttgart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004734>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550004734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_14248_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004654"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004654/2021-10-28T04:36:37.570Z>.
+<https://stad.gent/id/concept/550003672/2021-10-28T04:12:14.176Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003672>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:12:14.176Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300412172>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14410_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "stuiver"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_14410_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003672"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003672/2021-10-28T04:12:14.176Z>.
+<https://KasperZutterman.github.io///thesaurus/stu.ttl> <https://w3id.org/tree#relation> _:df_1_4023.
+_:df_1_4023 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/stud.ttl>;
+    <https://w3id.org/tree#value> "stud".
+<https://KasperZutterman.github.io///thesaurus/stu.ttl> <https://w3id.org/tree#relation> _:df_1_4024.
+_:df_1_4024 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/stut.ttl>;
+    <https://w3id.org/tree#value> "stut".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/stu.ttl>.

@@ -47,3 +47,118 @@ _:df_3163_28 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530001991"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001991/2021-10-27T21:13:56.598Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/inv.ttl>.
+<https://stad.gent/id/concept/570009329/2021-10-31T21:21:34.945Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009329>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:21:34.945Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3280_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inventarisboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3280_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009329"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009329/2021-10-31T21:21:34.945Z>.
+<https://stad.gent/id/concept/530009697/2021-10-31T14:54:33.640Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:54:33.640Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7052612>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6028_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Invorio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_6028_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009697/2021-10-31T14:54:33.640Z>.
+<https://stad.gent/id/concept/530005319/2021-10-31T11:57:43.978Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005319>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:57:43.978Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7279_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "invoegen nieuw spiegelglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7279_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005319"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005319/2021-10-31T11:57:43.978Z>.
+<https://stad.gent/id/concept/530001991/2021-10-31T10:28:34.428Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001991>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:28:34.428Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7052612>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7912_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Invorio Inferiore"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_7912_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001991"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001991/2021-10-31T10:28:34.428Z>.
+<https://stad.gent/id/concept/570020088/2021-10-28T12:52:37.119Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020088>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:52:37.119Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027045>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10858_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inventaris"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10858_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020088"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020088/2021-10-28T12:52:37.119Z>.
+<https://stad.gent/id/concept/570018828/2021-10-28T12:03:42.024Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018828>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:03:42.024Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1660363>;
+    <http://www.w3.org/ns/adms#identifier> _:df_11203_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "invoerder"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11203_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018828"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018828/2021-10-28T12:03:42.024Z>.
+<https://stad.gent/id/concept/570009329/2021-10-28T08:45:22.349Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009329>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:45:22.349Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_12571_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "inventarisboek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12571_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009329"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009329/2021-10-28T08:45:22.349Z>.
+<https://stad.gent/id/concept/530009697/2021-10-28T01:55:04.627Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:55:04.627Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7052612>;
+    <http://www.w3.org/ns/adms#identifier> _:df_15319_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Invorio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_15319_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009697/2021-10-28T01:55:04.627Z>.
+<https://stad.gent/id/concept/530005319/2021-10-27T22:47:06.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005319>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:47:06.355Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_16573_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "invoegen nieuw spiegelglas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "behandeling"@nl, "method of check/assessment or conservation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_16573_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005319"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005319/2021-10-27T22:47:06.355Z>.
+<https://stad.gent/id/concept/530001991/2021-10-27T21:13:56.598Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001991>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:13:56.598Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7052612>;
+    <http://www.w3.org/ns/adms#identifier> _:df_17206_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Invorio Inferiore"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_17206_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001991"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001991/2021-10-27T21:13:56.598Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/inv.ttl>.

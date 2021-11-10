@@ -81,3 +81,305 @@ _:df_4213_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008466"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008466/2021-10-27T18:42:32.246Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/oor.ttl>.
+<https://stad.gent/id/concept/550008267/2021-10-31T19:26:34.362Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:26:34.362Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045998>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4093_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Oorversieringen die aan een gebogen metaaldraad of dun haakje hangen, in een gaatje dat door de oorlel is geprikt, of die aan de oorlel zijn geklemd of vastgedraaid.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorbel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008268>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006197>, <https://stad.gent/id/concept/550003080>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003080> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorring"@nl.
+<https://stad.gent/id/concept/550006197> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorhanger"@nl.
+<https://stad.gent/id/concept/550008268> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorversiering"@nl, "oorversiering"@nl.
+_:df_4093_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008267> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorbel"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008267/2021-10-31T19:26:34.362Z>.
+<https://stad.gent/id/concept/550008268/2021-10-31T19:26:39.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008268>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:26:39.363Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211279>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4093_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sieraden die in, op of rond het oor worden gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorversiering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008269>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008267>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008267> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorbel"@nl.
+<https://stad.gent/id/concept/550008269> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoofdsieraden"@nl.
+_:df_4093_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008268"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008268> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorversiering"@nl, "oorversiering"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008268/2021-10-31T19:26:39.363Z>.
+<https://stad.gent/id/concept/550006197/2021-10-31T18:14:43.806Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006197>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:14:43.806Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300262088>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4603_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor oorbellen met een hanger.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorhanger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008267>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008267> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorbel"@nl.
+_:df_4603_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006197"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006197/2021-10-31T18:14:43.806Z>.
+<https://stad.gent/id/concept/550004837/2021-10-31T17:31:33.446Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004837>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:31:33.446Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027172>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4912_73;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Schriftelijke getuigenis, opgemaakt in een bepaalde vorm, aangaande handelingen van juridische aard, stammend uit de middeleeuwen. Veelal uit perkament en voorzien van zegels.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorkonde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008270>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008270> <http://www.w3.org/2004/02/skos/core#prefLabel> "chancery documents"@nl.
+_:df_4912_73 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004837"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004837/2021-10-31T17:31:33.446Z>.
+<https://stad.gent/id/concept/550003714/2021-10-31T17:04:32.207Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003714>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:04:32.207Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5104_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007977>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007977> <http://www.w3.org/2004/02/skos/core#prefLabel> "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl, "laat-westerse wereldmunten naar coupure"@nl.
+_:df_5104_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003714"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003714/2021-10-31T17:04:32.207Z>.
+<https://stad.gent/id/concept/550003080/2021-10-31T16:56:20.399Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550003080>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:56:20.399Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046000>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5161_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Oorbellen die zijn bevestigd door een gaatje in de oorlel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorring"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008267>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008267> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorbel"@nl.
+_:df_5161_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550003080"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550003080/2021-10-31T16:56:20.399Z>.
+<https://stad.gent/id/concept/530003155/2021-10-31T10:55:02.879Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003155>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:55:02.879Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045998>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7726_27;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Oorversieringen die aan een gebogen metaaldraad of dun haakje hangen, in een gaatje dat door de oorlel is geprikt, of die aan de oorlel zijn geklemd of vastgedraaid.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorbel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006386>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530002975>, <https://stad.gent/id/concept/530000335>, <https://stad.gent/id/concept/530001594>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530001594> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorring"@nl.
+<https://stad.gent/id/concept/530000335> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorknop"@nl.
+<https://stad.gent/id/concept/530002975> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorhanger"@nl.
+<https://stad.gent/id/concept/530006386> <http://www.w3.org/2004/02/skos/core#prefLabel> "sieraad"@nl.
+_:df_7726_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003155"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003155/2021-10-31T10:55:02.879Z>.
+<https://stad.gent/id/concept/530002975/2021-10-31T10:46:30.498Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002975>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:46:30.498Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300262088>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7786_13;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor oorbellen met een hanger.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorhanger"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003155>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003155> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorbel"@nl.
+_:df_7786_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002975"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002975/2021-10-31T10:46:30.498Z>.
+<https://stad.gent/id/concept/530001594/2021-10-31T10:13:23.287Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001594>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:13:23.287Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046000>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8020_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Oorbellen die zijn bevestigd door een gaatje in de oorlel.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorring"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003155>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003155> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorbel"@nl.
+_:df_8020_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001594"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001594/2021-10-31T10:13:23.287Z>.
+<https://stad.gent/id/concept/530000335/2021-10-31T09:26:52.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000335>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:26:52.396Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411693>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8353_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Oorbel in de vorm van een knopje. Bestaat uit een voorkant met het knopje en een achterkant waarin deze via het oor wordt vastgestoken. Meest voor de hand liggend type oorbel wanneer men gaatjes heeft laten prikken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorknop"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530003155>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003155> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorbel"@nl.
+_:df_8353_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000335"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000335/2021-10-31T09:26:52.396Z>.
+<https://stad.gent/id/concept/470008466/2021-10-31T08:00:20.467Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008466>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:00:20.467Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055314>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8965_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorlog"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470000683>, <https://stad.gent/id/concept/470002251>, <https://stad.gent/id/concept/470002531>, <https://stad.gent/id/concept/470001742>, <https://stad.gent/id/concept/470001929>;
+    <http://www.w3.org/2004/02/skos/core#note> "gebeurtenis"@nl, "event"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470001929> <http://www.w3.org/2004/02/skos/core#prefLabel> "Napoleontische oorlogen"@nl.
+<https://stad.gent/id/concept/470001742> <http://www.w3.org/2004/02/skos/core#prefLabel> "koloniale oorlogen"@nl.
+<https://stad.gent/id/concept/470002531> <http://www.w3.org/2004/02/skos/core#prefLabel> "Honderdjarige oorlog"@nl.
+<https://stad.gent/id/concept/470002251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frans-Pruisische Oorlog"@nl.
+<https://stad.gent/id/concept/470000683> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boerenoorlog"@nl.
+_:df_8965_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008466"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008466/2021-10-31T08:00:20.467Z>.
+<https://stad.gent/id/concept/470007166/2021-10-31T07:26:35.349Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:26:35.349Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300046000>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9205_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorring"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9205_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007166/2021-10-31T07:26:35.349Z>.
+<https://stad.gent/id/concept/470007058/2021-10-31T07:23:12.703Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007058>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:23:12.703Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300027172>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9229_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorkonde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9229_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007058"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007058/2021-10-31T07:23:12.703Z>.
+<https://stad.gent/id/concept/670000693/2021-10-28T15:57:01.981Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000693>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:57:01.981Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_9601_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oordeelbrug"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9601_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000693"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000693/2021-10-28T15:57:01.981Z>.
+<https://stad.gent/id/concept/570016750/2021-10-28T11:16:04.102Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016750>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:16:04.102Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_11533_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oortelefoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11533_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016750"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016750/2021-10-28T11:16:04.102Z>.
+<https://stad.gent/id/concept/570013862/2021-10-28T10:05:02.220Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:05:02.220Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7250973>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12025_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oordegem (Lede)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007044>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007044> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oost-Vlaanderen (provincie)"@nl.
+_:df_12025_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013862/2021-10-28T10:05:02.220Z>.
+<https://stad.gent/id/concept/570009271/2021-10-28T08:43:06.199Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009271>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:43:06.199Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055314>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12586_11;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorlog"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12586_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009271"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009271/2021-10-28T08:43:06.199Z>.
+<https://stad.gent/id/concept/570003286/2021-10-28T07:49:19.291Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003286>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:49:19.291Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q13461885>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12952_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorkonde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12952_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003286"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003286/2021-10-28T07:49:19.291Z>.
+<https://stad.gent/id/concept/550008268/2021-10-28T06:45:09.529Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008268>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:45:09.529Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211279>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13384_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Sieraden die in, op of rond het oor worden gedragen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorversiering"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008269>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008267>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008267> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorbel"@nl.
+<https://stad.gent/id/concept/550008269> <http://www.w3.org/2004/02/skos/core#prefLabel> "hoofdsieraden"@nl.
+_:df_13384_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008268"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008268> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorversiering"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008268/2021-10-28T06:45:09.529Z>.
+<https://stad.gent/id/concept/550008267/2021-10-28T06:45:00.848Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:45:00.848Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300045998>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13387_29;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Oorversieringen die aan een gebogen metaaldraad of dun haakje hangen, in een gaatje dat door de oorlel is geprikt, of die aan de oorlel zijn geklemd of vastgedraaid.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oorbel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008268>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006197>, <https://stad.gent/id/concept/550003080>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550003080> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorring"@nl.
+<https://stad.gent/id/concept/550006197> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorhanger"@nl.
+<https://stad.gent/id/concept/550008268> <http://www.w3.org/2004/02/skos/core#prefLabel> "oorversiering"@nl.
+_:df_13387_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008267/2021-10-28T06:45:00.848Z>.
+<https://KasperZutterman.github.io///thesaurus/oor.ttl> <https://w3id.org/tree#relation> _:df_1_3826.
+_:df_1_3826 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/oorh.ttl>;
+    <https://w3id.org/tree#value> "oorh".
+<https://KasperZutterman.github.io///thesaurus/oor.ttl> <https://w3id.org/tree#relation> _:df_1_3827.
+_:df_1_3827 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/oork.ttl>;
+    <https://w3id.org/tree#value> "oork".
+<https://KasperZutterman.github.io///thesaurus/oor.ttl> <https://w3id.org/tree#relation> _:df_1_3828.
+_:df_1_3828 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/oord.ttl>;
+    <https://w3id.org/tree#value> "oord".
+<https://KasperZutterman.github.io///thesaurus/oor.ttl> <https://w3id.org/tree#relation> _:df_1_3829.
+_:df_1_3829 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/oorr.ttl>;
+    <https://w3id.org/tree#value> "oorr".
+<https://KasperZutterman.github.io///thesaurus/oor.ttl> <https://w3id.org/tree#relation> _:df_1_3830.
+_:df_1_3830 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/oorb.ttl>;
+    <https://w3id.org/tree#value> "oorb".
+<https://KasperZutterman.github.io///thesaurus/oor.ttl> <https://w3id.org/tree#relation> _:df_1_3831.
+_:df_1_3831 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/oorl.ttl>;
+    <https://w3id.org/tree#value> "oorl".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/oor.ttl>.

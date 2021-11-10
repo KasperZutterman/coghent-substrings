@@ -345,3 +345,475 @@ _:df_3994_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470009583"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009583/2021-10-27T19:13:39.731Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hen.ttl>.
+<https://stad.gent/id/concept/570012866/2021-10-31T22:17:47.685Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:17:47.685Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007877>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2881_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007402>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570023196>, <https://stad.gent/id/concept/570023214>, <https://stad.gent/id/concept/570017725>, <https://stad.gent/id/concept/570009227>, <https://stad.gent/id/concept/570005473>, <https://stad.gent/id/concept/570001436>, <https://stad.gent/id/concept/570023169>, <https://stad.gent/id/concept/570017959>, <https://stad.gent/id/concept/570000771>, <https://stad.gent/id/concept/570018090>, <https://stad.gent/id/concept/570012320>, <https://stad.gent/id/concept/570012158>, <https://stad.gent/id/concept/570016703>, <https://stad.gent/id/concept/570016783>, <https://stad.gent/id/concept/570016978>, <https://stad.gent/id/concept/570020033>, <https://stad.gent/id/concept/570015203>, <https://stad.gent/id/concept/570016702>, <https://stad.gent/id/concept/570017740>, <https://stad.gent/id/concept/570014793>, <https://stad.gent/id/concept/570016764>, <https://stad.gent/id/concept/570008793>, <https://stad.gent/id/concept/570015195>, <https://stad.gent/id/concept/570023017>, <https://stad.gent/id/concept/570023149>, <https://stad.gent/id/concept/570015332>, <https://stad.gent/id/concept/570011786>, <https://stad.gent/id/concept/570016129>, <https://stad.gent/id/concept/570016793>, <https://stad.gent/id/concept/570008754>, <https://stad.gent/id/concept/570020704>, <https://stad.gent/id/concept/570019326>, <https://stad.gent/id/concept/570023954>, <https://stad.gent/id/concept/570024267>, <https://stad.gent/id/concept/570024404>, <https://stad.gent/id/concept/570024883>, <https://stad.gent/id/concept/570013946>, <https://stad.gent/id/concept/570025113>, <https://stad.gent/id/concept/570025126>, <https://stad.gent/id/concept/570025112>, <https://stad.gent/id/concept/570025124>, <https://stad.gent/id/concept/570025125>, <https://stad.gent/id/concept/570023882>, <https://stad.gent/id/concept/570025128>, <https://stad.gent/id/concept/570025123>, <https://stad.gent/id/concept/570025121>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570025121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Morlanwelz"@nl.
+<https://stad.gent/id/concept/570025123> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuze-en-Hainaut"@nl.
+<https://stad.gent/id/concept/570025128> <http://www.w3.org/2004/02/skos/core#prefLabel> "Godarville"@nl.
+<https://stad.gent/id/concept/570023882> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elzele"@nl.
+<https://stad.gent/id/concept/570025125> <http://www.w3.org/2004/02/skos/core#prefLabel> "Châtelet"@nl.
+<https://stad.gent/id/concept/570025124> <http://www.w3.org/2004/02/skos/core#prefLabel> "Châtelineau"@nl.
+<https://stad.gent/id/concept/570025112> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bruyelle"@nl.
+<https://stad.gent/id/concept/570025126> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anderlues"@nl.
+<https://stad.gent/id/concept/570025113> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antoing"@nl.
+<https://stad.gent/id/concept/570013946> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amougies"@nl.
+<https://stad.gent/id/concept/570024883> <http://www.w3.org/2004/02/skos/core#prefLabel> "La Croyère"@nl.
+<https://stad.gent/id/concept/570024404> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quaregnon"@nl.
+<https://stad.gent/id/concept/570024267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herseaux"@nl.
+<https://stad.gent/id/concept/570023954> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eugies"@nl.
+<https://stad.gent/id/concept/570019326> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waasten (Komen-Waasten)"@nl.
+<https://stad.gent/id/concept/570020704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thuin"@nl.
+<https://stad.gent/id/concept/570008754> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tertre"@nl.
+<https://stad.gent/id/concept/570016793> <http://www.w3.org/2004/02/skos/core#prefLabel> "Orroir"@nl.
+<https://stad.gent/id/concept/570016129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moeskroen"@nl.
+<https://stad.gent/id/concept/570011786> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marcinelle"@nl.
+<https://stad.gent/id/concept/570015332> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marchienne-au-Pont"@nl.
+<https://stad.gent/id/concept/570023149> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manage"@nl.
+<https://stad.gent/id/concept/570023017> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lodelinsart (Charleroi)"@nl.
+<https://stad.gent/id/concept/570015195> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leval-Trahegnies"@nl.
+<https://stad.gent/id/concept/570008793> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuze"@nl.
+<https://stad.gent/id/concept/570016764> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lessen"@nl.
+<https://stad.gent/id/concept/570014793> <http://www.w3.org/2004/02/skos/core#prefLabel> "La Louvière"@nl.
+<https://stad.gent/id/concept/570017740> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jumet"@nl.
+<https://stad.gent/id/concept/570016702> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jemappes"@nl.
+<https://stad.gent/id/concept/570015203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houdeng-Goegnies"@nl.
+<https://stad.gent/id/concept/570020033> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haine-Saint-Pierre"@nl.
+<https://stad.gent/id/concept/570016978> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gosselies"@nl.
+<https://stad.gent/id/concept/570016783> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ghlin"@nl.
+<https://stad.gent/id/concept/570016703> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frameries"@nl.
+<https://stad.gent/id/concept/570012158> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edingen"@nl.
+<https://stad.gent/id/concept/570012320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dottenijs"@nl.
+<https://stad.gent/id/concept/570018090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Doornik"@nl.
+<https://stad.gent/id/concept/570000771> <http://www.w3.org/2004/02/skos/core#prefLabel> "Charleroi"@nl.
+<https://stad.gent/id/concept/570017959> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boussu"@nl.
+<https://stad.gent/id/concept/570023169> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bois-d'Haine"@nl.
+<https://stad.gent/id/concept/570001436> <http://www.w3.org/2004/02/skos/core#prefLabel> "Binche"@nl.
+<https://stad.gent/id/concept/570005473> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergen"@nl.
+<https://stad.gent/id/concept/570009227> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baudour (Saint-Ghislain)"@nl.
+<https://stad.gent/id/concept/570017725> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ath"@nl.
+<https://stad.gent/id/concept/570023214> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aat"@nl.
+<https://stad.gent/id/concept/570023196> <http://www.w3.org/2004/02/skos/core#prefLabel> "'s-Gravenbrakel"@nl.
+<https://stad.gent/id/concept/570007402> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallonië"@nl.
+_:df_2881_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012866"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012866/2021-10-31T22:17:47.685Z>.
+<https://stad.gent/id/concept/570011807/2021-10-31T22:02:04.838Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011807>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:02:04.838Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014037>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2992_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "henequen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2992_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011807"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011807/2021-10-31T22:02:04.838Z>.
+<https://stad.gent/id/concept/570011808/2021-10-31T22:02:09.839Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011808>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:02:09.839Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014043>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2992_33;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hennep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023697>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023697> <http://www.w3.org/2004/02/skos/core#prefLabel> "plantaardige textielvezel"@nl.
+_:df_2992_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011808"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011808/2021-10-31T22:02:09.839Z>.
+<https://stad.gent/id/concept/550008925/2021-10-31T19:59:47.426Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008925>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:59:47.426Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3859_38;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005683>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006079>, <https://stad.gent/id/concept/550001118>, <https://stad.gent/id/concept/550007653>, <https://stad.gent/id/concept/550005958>, <https://stad.gent/id/concept/550006424>, <https://stad.gent/id/concept/550004562>, <https://stad.gent/id/concept/550004568>, <https://stad.gent/id/concept/550007578>, <https://stad.gent/id/concept/550004561>, <https://stad.gent/id/concept/550009010>, <https://stad.gent/id/concept/550008965>, <https://stad.gent/id/concept/550007748>, <https://stad.gent/id/concept/550004667>, <https://stad.gent/id/concept/550007749>, <https://stad.gent/id/concept/550006391>, <https://stad.gent/id/concept/550006306>, <https://stad.gent/id/concept/550006504>, <https://stad.gent/id/concept/550006339>, <https://stad.gent/id/concept/550006331>, <https://stad.gent/id/concept/550006388>, <https://stad.gent/id/concept/550005287>, <https://stad.gent/id/concept/550009009>, <https://stad.gent/id/concept/550006712>, <https://stad.gent/id/concept/550008953>, <https://stad.gent/id/concept/550009016>, <https://stad.gent/id/concept/550008555>, <https://stad.gent/id/concept/550007529>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007529> <http://www.w3.org/2004/02/skos/core#prefLabel> "Warneton"@nl.
+<https://stad.gent/id/concept/550008555> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thulin"@nl.
+<https://stad.gent/id/concept/550009016> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spiennes"@nl.
+<https://stad.gent/id/concept/550008953> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spiennes"@nl.
+<https://stad.gent/id/concept/550006712> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seneffe"@nl.
+<https://stad.gent/id/concept/550009009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint-Symphorien"@nl.
+<https://stad.gent/id/concept/550005287> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nimy"@nl.
+<https://stad.gent/id/concept/550006388> <http://www.w3.org/2004/02/skos/core#prefLabel> "Morlanwelz-Mariemont"@nl.
+<https://stad.gent/id/concept/550006331> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mont-sur-Marchienne"@nl.
+<https://stad.gent/id/concept/550006339> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mons"@nl.
+<https://stad.gent/id/concept/550006504> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mariemont"@nl.
+<https://stad.gent/id/concept/550006306> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marcinelle"@nl.
+<https://stad.gent/id/concept/550006391> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marais"@nl.
+<https://stad.gent/id/concept/550007749> <http://www.w3.org/2004/02/skos/core#prefLabel> "La Louvière"@nl.
+<https://stad.gent/id/concept/550004667> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jumet"@nl.
+<https://stad.gent/id/concept/550007748> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jemappes"@nl.
+<https://stad.gent/id/concept/550008965> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haulchin"@nl.
+<https://stad.gent/id/concept/550009010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Harmignies"@nl.
+<https://stad.gent/id/concept/550004561> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gosselies"@nl.
+<https://stad.gent/id/concept/550007578> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feluy"@nl.
+<https://stad.gent/id/concept/550004568> <http://www.w3.org/2004/02/skos/core#prefLabel> "Doornik"@nl.
+<https://stad.gent/id/concept/550004562> <http://www.w3.org/2004/02/skos/core#prefLabel> "Charleroi"@nl.
+<https://stad.gent/id/concept/550006424> <http://www.w3.org/2004/02/skos/core#prefLabel> "Braine-le-Comte"@nl.
+<https://stad.gent/id/concept/550005958> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bouffioulx"@nl.
+<https://stad.gent/id/concept/550007653> <http://www.w3.org/2004/02/skos/core#prefLabel> "Binche"@nl.
+<https://stad.gent/id/concept/550001118> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergen"@nl.
+<https://stad.gent/id/concept/550006079> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ath"@nl.
+<https://stad.gent/id/concept/550005683> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallonië"@nl, "Wallonië"@nl.
+_:df_3859_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008925"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008925/2021-10-31T19:59:47.426Z>.
+<https://stad.gent/id/concept/550008011/2021-10-31T19:05:26.715Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008011>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:05:26.715Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233926>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4243_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hendel (afwerkingsijzerwaar)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007904>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550005897>, <https://stad.gent/id/concept/550005222>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005222> <http://www.w3.org/2004/02/skos/core#prefLabel> "handgreep"@nl.
+<https://stad.gent/id/concept/550005897> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurkruk"@nl.
+<https://stad.gent/id/concept/550007904> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerkingsijzerwaar"@nl, "afwerkingsijzerwaar"@nl.
+_:df_4243_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008011"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008011/2021-10-31T19:05:26.715Z>.
+<https://stad.gent/id/concept/530008347/2021-10-31T13:32:40.527Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008347>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:32:40.527Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007877>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6607_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004078>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009974>, <https://stad.gent/id/concept/530001715>, <https://stad.gent/id/concept/530009758>, <https://stad.gent/id/concept/530007002>, <https://stad.gent/id/concept/530006282>, <https://stad.gent/id/concept/530009403>, <https://stad.gent/id/concept/530007035>, <https://stad.gent/id/concept/530006894>, <https://stad.gent/id/concept/530006536>, <https://stad.gent/id/concept/530009401>, <https://stad.gent/id/concept/530009402>, <https://stad.gent/id/concept/530004198>, <https://stad.gent/id/concept/530009757>, <https://stad.gent/id/concept/530000991>, <https://stad.gent/id/concept/530010054>, <https://stad.gent/id/concept/530007912>, <https://stad.gent/id/concept/530005979>, <https://stad.gent/id/concept/530010610>, <https://stad.gent/id/concept/530002801>, <https://stad.gent/id/concept/530000087>, <https://stad.gent/id/concept/530009905>, <https://stad.gent/id/concept/530008333>, <https://stad.gent/id/concept/530004487>, <https://stad.gent/id/concept/530008286>, <https://stad.gent/id/concept/530009572>, <https://stad.gent/id/concept/530009300>, <https://stad.gent/id/concept/530009404>, <https://stad.gent/id/concept/530009400>, <https://stad.gent/id/concept/530004771>, <https://stad.gent/id/concept/530009639>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009639> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wasmuel"@nl.
+<https://stad.gent/id/concept/530004771> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seneffe"@nl.
+<https://stad.gent/id/concept/530009400> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint-Ghislain"@nl.
+<https://stad.gent/id/concept/530009404> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rumes"@nl.
+<https://stad.gent/id/concept/530009300> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rozenaken"@nl.
+<https://stad.gent/id/concept/530009572> <http://www.w3.org/2004/02/skos/core#prefLabel> "Peruwelz"@nl.
+<https://stad.gent/id/concept/530008286> <http://www.w3.org/2004/02/skos/core#prefLabel> "Morlanwelz"@nl.
+<https://stad.gent/id/concept/530004487> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moeskroen"@nl.
+<https://stad.gent/id/concept/530008333> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manage"@nl.
+<https://stad.gent/id/concept/530009905> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lessines"@nl.
+<https://stad.gent/id/concept/530000087> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lasne"@nl.
+<https://stad.gent/id/concept/530002801> <http://www.w3.org/2004/02/skos/core#prefLabel> "La Louvière"@nl, "La Louvière"@nl.
+<https://stad.gent/id/concept/530010610> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haine-Saint-Paul"@nl.
+<https://stad.gent/id/concept/530005979> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frameries"@nl.
+<https://stad.gent/id/concept/530007912> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fleurus"@nl.
+<https://stad.gent/id/concept/530010054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feluy"@nl.
+<https://stad.gent/id/concept/530000991> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ecaussinnes"@nl.
+<https://stad.gent/id/concept/530009757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dour"@nl.
+<https://stad.gent/id/concept/530004198> <http://www.w3.org/2004/02/skos/core#prefLabel> "Doornik (Henegouwen)"@nl.
+<https://stad.gent/id/concept/530009402> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chimay"@nl.
+<https://stad.gent/id/concept/530009401> <http://www.w3.org/2004/02/skos/core#prefLabel> "Châtelet"@nl.
+<https://stad.gent/id/concept/530006536> <http://www.w3.org/2004/02/skos/core#prefLabel> "Charleroi"@nl.
+<https://stad.gent/id/concept/530006894> <http://www.w3.org/2004/02/skos/core#prefLabel> "Casteau"@nl.
+<https://stad.gent/id/concept/530007035> <http://www.w3.org/2004/02/skos/core#prefLabel> "Braine-le-Comte"@nl.
+<https://stad.gent/id/concept/530009403> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boussu"@nl.
+<https://stad.gent/id/concept/530006282> <http://www.w3.org/2004/02/skos/core#prefLabel> "Binche"@nl.
+<https://stad.gent/id/concept/530007002> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergen (Henegouwen)"@nl, "Bergen (Henegouwen)"@nl.
+<https://stad.gent/id/concept/530009758> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baudour"@nl.
+<https://stad.gent/id/concept/530001715> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ath"@nl.
+<https://stad.gent/id/concept/530009974> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amougies"@nl.
+<https://stad.gent/id/concept/530004078> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallonië"@nl.
+_:df_6607_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008347"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008347/2021-10-31T13:32:40.527Z>.
+<https://stad.gent/id/concept/530003120/2021-10-31T10:53:56.627Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003120>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:53:56.627Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031460>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7732_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vistuig, t.w. de hoek waar het aas aan hangt; voorts: roede, snoer, dobber en hoek tezamen; thans (gewoonlijk): hengelroede [WNT].";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hengel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008840>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008840> <http://www.w3.org/2004/02/skos/core#prefLabel> "vislijn"@nl.
+_:df_7732_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003120"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003120/2021-10-31T10:53:56.627Z>.
+<https://stad.gent/id/concept/530001385/2021-10-31T10:06:12.998Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001385>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:06:12.998Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300107250>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8071_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Henri II"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8071_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001385"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001385/2021-10-31T10:06:12.998Z>.
+<https://stad.gent/id/concept/530001374/2021-10-31T10:05:52.993Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001374>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:05:52.993Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/2075050>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8074_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hendersonville (North Carolina)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006278>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verenigde Staten"@nl.
+_:df_8074_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001374"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001374/2021-10-31T10:05:52.993Z>.
+<https://stad.gent/id/concept/530001050/2021-10-31T09:57:00.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001050>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:57:00.840Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014043>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8137_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "\r\nEen vezel afkomstig van de stengel van de Cannabis sativa-plant; wordt vooral gebruikt voor touw, stof, paklinnen en verpakkingsmateriaal en als een vezel voor papier of plastic vulmateriaal.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hennep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008498>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008498> <http://www.w3.org/2004/02/skos/core#prefLabel> "natuurvezel"@nl.
+_:df_8137_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001050"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001050/2021-10-31T09:57:00.840Z>.
+<https://stad.gent/id/concept/530000608/2021-10-31T09:41:08.577Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:41:08.577Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300233926>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8251_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hendel (afwerkingsijzerwaar)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000217>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530002992>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002992> <http://www.w3.org/2004/02/skos/core#prefLabel> "deurkruk"@nl.
+<https://stad.gent/id/concept/530000217> <http://www.w3.org/2004/02/skos/core#prefLabel> "afwerkingsijzerwaar"@nl, "afwerkingsijzerwaar"@nl.
+_:df_8251_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000608/2021-10-31T09:41:08.577Z>.
+<https://stad.gent/id/concept/470009583/2021-10-31T08:31:18.463Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009583>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:31:18.463Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007877>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8746_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8746_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009583"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009583/2021-10-31T08:31:18.463Z>.
+<https://stad.gent/id/concept/670000932/2021-10-28T16:17:21.407Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000932>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:17:21.407Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/3199>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9463_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hendrik van Brederodestraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9463_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000932"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000932/2021-10-28T16:17:21.407Z>.
+<https://stad.gent/id/concept/670000933/2021-10-28T16:17:26.408Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000933>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T16:17:26.408Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/2886>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9463_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwenstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9463_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000933"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000933/2021-10-28T16:17:26.408Z>.
+<https://stad.gent/id/concept/570024159/2021-10-28T14:15:24.218Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024159>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:15:24.218Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/page/tgn/7007877>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10297_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007402>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570025131>, <https://stad.gent/id/concept/570025129>, <https://stad.gent/id/concept/570024981>, <https://stad.gent/id/concept/570025137>, <https://stad.gent/id/concept/570025133>, <https://stad.gent/id/concept/570025138>, <https://stad.gent/id/concept/570024162>, <https://stad.gent/id/concept/570025142>, <https://stad.gent/id/concept/570025127>, <https://stad.gent/id/concept/570025130>, <https://stad.gent/id/concept/570024970>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570024970> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soignies"@nl.
+<https://stad.gent/id/concept/570025130> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seneffe"@nl.
+<https://stad.gent/id/concept/570025127> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rance"@nl.
+<https://stad.gent/id/concept/570025142> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quevauchamps"@nl.
+<https://stad.gent/id/concept/570024162> <http://www.w3.org/2004/02/skos/core#prefLabel> "Komen-Waasten"@nl.
+<https://stad.gent/id/concept/570025138> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estinnes-au-Mont"@nl.
+<https://stad.gent/id/concept/570025133> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dour"@nl.
+<https://stad.gent/id/concept/570025137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Couvelles"@nl.
+<https://stad.gent/id/concept/570024981> <http://www.w3.org/2004/02/skos/core#prefLabel> "Couillet"@nl.
+<https://stad.gent/id/concept/570025129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Comines"@nl.
+<https://stad.gent/id/concept/570025131> <http://www.w3.org/2004/02/skos/core#prefLabel> "Braine-le-Comte"@nl.
+<https://stad.gent/id/concept/570007402> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallonië"@nl.
+_:df_10297_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024159"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/570024159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024159/2021-10-28T14:15:24.218Z>.
+<https://stad.gent/id/concept/570023521/2021-10-28T13:44:59.423Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023521>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:44:59.423Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7266499>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10504_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hengelo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_10504_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023521"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023521/2021-10-28T13:44:59.423Z>.
+<https://stad.gent/id/concept/570012866/2021-10-28T09:43:54.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:43:54.927Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007877>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12172_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007402>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570023196>, <https://stad.gent/id/concept/570023214>, <https://stad.gent/id/concept/570017725>, <https://stad.gent/id/concept/570009227>, <https://stad.gent/id/concept/570005473>, <https://stad.gent/id/concept/570001436>, <https://stad.gent/id/concept/570023169>, <https://stad.gent/id/concept/570017959>, <https://stad.gent/id/concept/570000771>, <https://stad.gent/id/concept/570018090>, <https://stad.gent/id/concept/570012320>, <https://stad.gent/id/concept/570012158>, <https://stad.gent/id/concept/570016703>, <https://stad.gent/id/concept/570016783>, <https://stad.gent/id/concept/570016978>, <https://stad.gent/id/concept/570020033>, <https://stad.gent/id/concept/570015203>, <https://stad.gent/id/concept/570016702>, <https://stad.gent/id/concept/570017740>, <https://stad.gent/id/concept/570014793>, <https://stad.gent/id/concept/570016764>, <https://stad.gent/id/concept/570008793>, <https://stad.gent/id/concept/570015195>, <https://stad.gent/id/concept/570023017>, <https://stad.gent/id/concept/570023149>, <https://stad.gent/id/concept/570015332>, <https://stad.gent/id/concept/570011786>, <https://stad.gent/id/concept/570016129>, <https://stad.gent/id/concept/570016793>, <https://stad.gent/id/concept/570008754>, <https://stad.gent/id/concept/570020704>, <https://stad.gent/id/concept/570019326>, <https://stad.gent/id/concept/570023954>, <https://stad.gent/id/concept/570024267>, <https://stad.gent/id/concept/570024404>, <https://stad.gent/id/concept/570024883>, <https://stad.gent/id/concept/570013946>, <https://stad.gent/id/concept/570025113>, <https://stad.gent/id/concept/570025126>, <https://stad.gent/id/concept/570025112>, <https://stad.gent/id/concept/570025124>, <https://stad.gent/id/concept/570025125>, <https://stad.gent/id/concept/570023882>, <https://stad.gent/id/concept/570025128>, <https://stad.gent/id/concept/570025123>, <https://stad.gent/id/concept/570025121>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570025121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Morlanwelz"@nl.
+<https://stad.gent/id/concept/570025123> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuze-en-Hainaut"@nl.
+<https://stad.gent/id/concept/570025128> <http://www.w3.org/2004/02/skos/core#prefLabel> "Godarville"@nl.
+<https://stad.gent/id/concept/570023882> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elzele"@nl.
+<https://stad.gent/id/concept/570025125> <http://www.w3.org/2004/02/skos/core#prefLabel> "Châtelet"@nl.
+<https://stad.gent/id/concept/570025124> <http://www.w3.org/2004/02/skos/core#prefLabel> "Châtelineau"@nl.
+<https://stad.gent/id/concept/570025112> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bruyelle"@nl.
+<https://stad.gent/id/concept/570025126> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anderlues"@nl.
+<https://stad.gent/id/concept/570025113> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antoing"@nl.
+<https://stad.gent/id/concept/570013946> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amougies"@nl.
+<https://stad.gent/id/concept/570024883> <http://www.w3.org/2004/02/skos/core#prefLabel> "La Croyère"@nl.
+<https://stad.gent/id/concept/570024404> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quaregnon"@nl.
+<https://stad.gent/id/concept/570024267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herseaux"@nl.
+<https://stad.gent/id/concept/570023954> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eugies"@nl.
+<https://stad.gent/id/concept/570019326> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waasten (Komen-Waasten)"@nl.
+<https://stad.gent/id/concept/570020704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thuin"@nl.
+<https://stad.gent/id/concept/570008754> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tertre"@nl.
+<https://stad.gent/id/concept/570016793> <http://www.w3.org/2004/02/skos/core#prefLabel> "Orroir"@nl.
+<https://stad.gent/id/concept/570016129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moeskroen"@nl.
+<https://stad.gent/id/concept/570011786> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marcinelle"@nl.
+<https://stad.gent/id/concept/570015332> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marchienne-au-Pont"@nl.
+<https://stad.gent/id/concept/570023149> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manage"@nl.
+<https://stad.gent/id/concept/570023017> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lodelinsart (Charleroi)"@nl.
+<https://stad.gent/id/concept/570015195> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leval-Trahegnies"@nl.
+<https://stad.gent/id/concept/570008793> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leuze"@nl.
+<https://stad.gent/id/concept/570016764> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lessen"@nl.
+<https://stad.gent/id/concept/570014793> <http://www.w3.org/2004/02/skos/core#prefLabel> "La Louvière"@nl.
+<https://stad.gent/id/concept/570017740> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jumet"@nl.
+<https://stad.gent/id/concept/570016702> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jemappes"@nl.
+<https://stad.gent/id/concept/570015203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houdeng-Goegnies"@nl.
+<https://stad.gent/id/concept/570020033> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haine-Saint-Pierre"@nl.
+<https://stad.gent/id/concept/570016978> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gosselies"@nl.
+<https://stad.gent/id/concept/570016783> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ghlin"@nl.
+<https://stad.gent/id/concept/570016703> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frameries"@nl.
+<https://stad.gent/id/concept/570012158> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edingen"@nl.
+<https://stad.gent/id/concept/570012320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dottenijs"@nl.
+<https://stad.gent/id/concept/570018090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Doornik"@nl.
+<https://stad.gent/id/concept/570000771> <http://www.w3.org/2004/02/skos/core#prefLabel> "Charleroi"@nl.
+<https://stad.gent/id/concept/570017959> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boussu"@nl.
+<https://stad.gent/id/concept/570023169> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bois-d'Haine"@nl.
+<https://stad.gent/id/concept/570001436> <http://www.w3.org/2004/02/skos/core#prefLabel> "Binche"@nl.
+<https://stad.gent/id/concept/570005473> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergen"@nl.
+<https://stad.gent/id/concept/570009227> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baudour (Saint-Ghislain)"@nl.
+<https://stad.gent/id/concept/570017725> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ath"@nl.
+<https://stad.gent/id/concept/570023214> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aat"@nl.
+<https://stad.gent/id/concept/570023196> <http://www.w3.org/2004/02/skos/core#prefLabel> "'s-Gravenbrakel"@nl.
+<https://stad.gent/id/concept/570007402> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallonië"@nl.
+_:df_12172_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012866"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012866/2021-10-28T09:43:54.927Z>.
+<https://stad.gent/id/concept/570011807/2021-10-28T09:27:39.480Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011807>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:27:39.480Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014037>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12283_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "henequen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12283_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011807"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011807/2021-10-28T09:27:39.480Z>.
+<https://stad.gent/id/concept/570011808/2021-10-28T09:27:44.482Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011808>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:27:44.482Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014043>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12283_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hennep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570023697>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570023697> <http://www.w3.org/2004/02/skos/core#prefLabel> "plantaardige textielvezel"@nl.
+_:df_12283_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011808"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011808/2021-10-28T09:27:44.482Z>.
+<https://stad.gent/id/concept/550008925/2021-10-28T07:20:00.649Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008925>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:20:00.649Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_13150_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005683>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006079>, <https://stad.gent/id/concept/550001118>, <https://stad.gent/id/concept/550007653>, <https://stad.gent/id/concept/550005958>, <https://stad.gent/id/concept/550006424>, <https://stad.gent/id/concept/550004562>, <https://stad.gent/id/concept/550004568>, <https://stad.gent/id/concept/550007578>, <https://stad.gent/id/concept/550004561>, <https://stad.gent/id/concept/550009010>, <https://stad.gent/id/concept/550008965>, <https://stad.gent/id/concept/550007748>, <https://stad.gent/id/concept/550004667>, <https://stad.gent/id/concept/550007749>, <https://stad.gent/id/concept/550006391>, <https://stad.gent/id/concept/550006306>, <https://stad.gent/id/concept/550006504>, <https://stad.gent/id/concept/550006339>, <https://stad.gent/id/concept/550006331>, <https://stad.gent/id/concept/550006388>, <https://stad.gent/id/concept/550005287>, <https://stad.gent/id/concept/550009009>, <https://stad.gent/id/concept/550006712>, <https://stad.gent/id/concept/550008953>, <https://stad.gent/id/concept/550009016>, <https://stad.gent/id/concept/550008555>, <https://stad.gent/id/concept/550007529>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007529> <http://www.w3.org/2004/02/skos/core#prefLabel> "Warneton"@nl.
+<https://stad.gent/id/concept/550008555> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thulin"@nl.
+<https://stad.gent/id/concept/550009016> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spiennes"@nl.
+<https://stad.gent/id/concept/550008953> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spiennes"@nl.
+<https://stad.gent/id/concept/550006712> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seneffe"@nl.
+<https://stad.gent/id/concept/550009009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint-Symphorien"@nl.
+<https://stad.gent/id/concept/550005287> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nimy"@nl.
+<https://stad.gent/id/concept/550006388> <http://www.w3.org/2004/02/skos/core#prefLabel> "Morlanwelz-Mariemont"@nl.
+<https://stad.gent/id/concept/550006331> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mont-sur-Marchienne"@nl.
+<https://stad.gent/id/concept/550006339> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mons"@nl.
+<https://stad.gent/id/concept/550006504> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mariemont"@nl.
+<https://stad.gent/id/concept/550006306> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marcinelle"@nl.
+<https://stad.gent/id/concept/550006391> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marais"@nl.
+<https://stad.gent/id/concept/550007749> <http://www.w3.org/2004/02/skos/core#prefLabel> "La Louvière"@nl.
+<https://stad.gent/id/concept/550004667> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jumet"@nl.
+<https://stad.gent/id/concept/550007748> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jemappes"@nl.
+<https://stad.gent/id/concept/550008965> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haulchin"@nl.
+<https://stad.gent/id/concept/550009010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Harmignies"@nl.
+<https://stad.gent/id/concept/550004561> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gosselies"@nl.
+<https://stad.gent/id/concept/550007578> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feluy"@nl.
+<https://stad.gent/id/concept/550004568> <http://www.w3.org/2004/02/skos/core#prefLabel> "Doornik"@nl.
+<https://stad.gent/id/concept/550004562> <http://www.w3.org/2004/02/skos/core#prefLabel> "Charleroi"@nl.
+<https://stad.gent/id/concept/550006424> <http://www.w3.org/2004/02/skos/core#prefLabel> "Braine-le-Comte"@nl.
+<https://stad.gent/id/concept/550005958> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bouffioulx"@nl.
+<https://stad.gent/id/concept/550007653> <http://www.w3.org/2004/02/skos/core#prefLabel> "Binche"@nl.
+<https://stad.gent/id/concept/550001118> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergen"@nl.
+<https://stad.gent/id/concept/550006079> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ath"@nl.
+<https://stad.gent/id/concept/550005683> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wallonië"@nl, "Wallonië"@nl, "Wallonië"@nl.
+_:df_13150_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008925"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008925/2021-10-28T07:20:00.649Z>.
+<https://KasperZutterman.github.io///thesaurus/hen.ttl> <https://w3id.org/tree#relation> _:df_1_3781.
+_:df_1_3781 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/hend.ttl>;
+    <https://w3id.org/tree#value> "hend".
+<https://KasperZutterman.github.io///thesaurus/hen.ttl> <https://w3id.org/tree#relation> _:df_1_3782.
+_:df_1_3782 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/hene.ttl>;
+    <https://w3id.org/tree#value> "hene".
+<https://KasperZutterman.github.io///thesaurus/hen.ttl> <https://w3id.org/tree#relation> _:df_1_3783.
+_:df_1_3783 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/heng.ttl>;
+    <https://w3id.org/tree#value> "heng".
+<https://KasperZutterman.github.io///thesaurus/hen.ttl> <https://w3id.org/tree#relation> _:df_1_3784.
+_:df_1_3784 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/henr.ttl>;
+    <https://w3id.org/tree#value> "henr".
+<https://KasperZutterman.github.io///thesaurus/hen.ttl> <https://w3id.org/tree#relation> _:df_1_3785.
+_:df_1_3785 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/henn.ttl>;
+    <https://w3id.org/tree#value> "henn".
+<https://KasperZutterman.github.io///thesaurus/hen.ttl> <https://w3id.org/tree#relation> _:df_1_3786.
+_:df_1_3786 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/henl.ttl>;
+    <https://w3id.org/tree#value> "henl".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hen.ttl>.

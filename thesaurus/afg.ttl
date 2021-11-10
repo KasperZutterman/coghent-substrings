@@ -11,3 +11,132 @@ _:df_3631_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "550005977"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005977/2021-10-28T05:20:15.039Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/afg.ttl>.
+<https://stad.gent/id/concept/550008290/2021-10-31T19:28:30.983Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008290>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:28:30.983Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300121293>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4081_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afgeleide objecten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008291>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008289>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008289> <http://www.w3.org/2004/02/skos/core#prefLabel> "kopie (afgeleid object)"@nl, "kopie (afgeleid object)"@nl.
+<https://stad.gent/id/concept/550008291> <http://www.w3.org/2004/02/skos/core#prefLabel> "originelen en afgeleide objecten"@nl.
+_:df_4081_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008290"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008290> <http://www.w3.org/2004/02/skos/core#prefLabel> "afgeleide objecten"@nl, "afgeleide objecten"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008290/2021-10-31T19:28:30.983Z>.
+<https://stad.gent/id/concept/550005977/2021-10-31T18:06:21.766Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005977>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:06:21.766Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300047806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4663_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beeldhouwwerken of reproducties gemaakt door middel van gieten. Gebruik 'gietwerk' in de context van industrie en bouw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afgietsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4663_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005977"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005977/2021-10-31T18:06:21.766Z>.
+<https://stad.gent/id/concept/530008902/2021-10-31T14:08:05.946Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008902>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:08:05.946Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300121293>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6355_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afgeleid object"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008736>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005447>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005447> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstbloem"@nl.
+<https://stad.gent/id/concept/530008736> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenre"@nl.
+_:df_6355_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008902"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008902/2021-10-31T14:08:05.946Z>.
+<https://stad.gent/id/concept/530001280/2021-10-31T10:03:56.067Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:03:56.067Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300047806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8089_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beeldhouwwerken of reproducties gemaakt door middel van gieten. Gebruik 'gietwerk' in de context van industrie en bouw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afgietsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004716>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004716> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwwerk"@nl.
+_:df_8089_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001280/2021-10-31T10:03:56.067Z>.
+<https://stad.gent/id/concept/550008290/2021-10-28T06:47:07.958Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008290>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:47:07.958Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300121293>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13372_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afgeleide objecten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008291>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550008289>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008289> <http://www.w3.org/2004/02/skos/core#prefLabel> "kopie (afgeleid object)"@nl, "kopie (afgeleid object)"@nl.
+<https://stad.gent/id/concept/550008291> <http://www.w3.org/2004/02/skos/core#prefLabel> "originelen en afgeleide objecten"@nl.
+_:df_13372_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008290"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008290> <http://www.w3.org/2004/02/skos/core#prefLabel> "afgeleide objecten"@nl, "afgeleide objecten"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008290/2021-10-28T06:47:07.958Z>.
+<https://stad.gent/id/concept/550005977/2021-10-28T05:20:15.039Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550005977>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:20:15.039Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300047806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13954_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beeldhouwwerken of reproducties gemaakt door middel van gieten. Gebruik 'gietwerk' in de context van industrie en bouw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afgietsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_13954_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550005977"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550005977/2021-10-28T05:20:15.039Z>.
+<https://stad.gent/id/concept/530008902/2021-10-28T01:05:59.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008902>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:05:59.310Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300121293>;
+    <http://www.w3.org/ns/adms#identifier> _:df_15646_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afgeleid object"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008736>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005447>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530005447> <http://www.w3.org/2004/02/skos/core#prefLabel> "kunstbloem"@nl.
+<https://stad.gent/id/concept/530008736> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenre"@nl.
+_:df_15646_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008902"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008902/2021-10-28T01:05:59.310Z>.
+<https://stad.gent/id/concept/530001280/2021-10-27T20:48:12.167Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:48:12.167Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300047806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_17380_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beeldhouwwerken of reproducties gemaakt door middel van gieten. Gebruik 'gietwerk' in de context van industrie en bouw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afgietsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004716>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004716> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwwerk"@nl.
+_:df_17380_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001280/2021-10-27T20:48:12.167Z>.
+<https://stad.gent/id/concept/470005540/2021-10-27T17:24:41.600Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005540>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:24:41.600Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300047806>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18802_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Beeldhouwwerken of reproducties gemaakt door middel van gieten. Gebruik 'gietwerk' in de context van industrie en bouw.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "afgietsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008821>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008821> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwwerk"@nl, "beeldhouwwerk"@nl.
+_:df_18802_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005540"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005540/2021-10-27T17:24:41.600Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/afg.ttl>.

@@ -1,0 +1,40 @@
+<https://stad.gent/id/concept/550004567/2021-10-28T04:32:07.649Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004567>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:32:07.649Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_14278_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldend kunstenaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_14278_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004567"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004567/2021-10-28T04:32:07.649Z>.
+<https://stad.gent/id/concept/530005496/2021-10-27T22:54:25.534Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005496>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:54:25.534Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054195>;
+    <http://www.w3.org/ns/adms#identifier> _:df_16522_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldende kunsten (ok)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004383>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009308>, <https://stad.gent/id/concept/530003705>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003705> <http://www.w3.org/2004/02/skos/core#prefLabel> "textielkunst"@nl.
+<https://stad.gent/id/concept/530009308> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekeningen"@nl.
+<https://stad.gent/id/concept/530004383> <http://www.w3.org/2004/02/skos/core#prefLabel> "schilderijen"@nl.
+_:df_16522_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005496"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005496/2021-10-27T22:54:25.534Z>.
+<https://stad.gent/id/concept/530000479/2021-10-27T20:17:08.159Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:17:08.159Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900025512>;
+    <http://www.w3.org/ns/adms#identifier> _:df_17593_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldengroep"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004716>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004716> <http://www.w3.org/2004/02/skos/core#prefLabel> "beeldhouwwerk"@nl.
+_:df_17593_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000479/2021-10-27T20:17:08.159Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/beelde.ttl>.

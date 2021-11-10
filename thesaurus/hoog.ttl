@@ -9,3 +9,267 @@ _:df_4129_24 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "670000009"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000009/2021-10-28T15:02:48.025Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hoog.ttl>.
+<https://stad.gent/id/concept/550002503/2021-10-31T16:48:19.673Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002503>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:48:19.673Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300184782>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5218_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor werken uitgevoerd in hoogreliëf.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoogreliëf"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005957>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005957> <http://www.w3.org/2004/02/skos/core#prefLabel> "reliëf (object)"@nl.
+_:df_5218_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002503"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002503/2021-10-31T16:48:19.673Z>.
+<https://stad.gent/id/concept/550001453/2021-10-31T16:31:37.373Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001453>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:31:37.373Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300019262>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5338_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoog-paleolithisch"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550001444>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001444> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paleolithisch"@nl, "Paleolithisch"@nl.
+_:df_5338_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001453"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001453/2021-10-31T16:31:37.373Z>.
+<https://stad.gent/id/concept/550000044/2021-10-31T16:14:09.596Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000044>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:14:09.596Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5461_44;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoogte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5461_44 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000044"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000044/2021-10-31T16:14:09.596Z>.
+<https://stad.gent/id/concept/530003468/2021-10-31T11:06:11.603Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003468>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:06:11.603Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026499>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7645_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoogstraten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002920>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_7645_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003468"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003468/2021-10-31T11:06:11.603Z>.
+<https://stad.gent/id/concept/530000032/2021-10-31T09:12:51.655Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000032>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:12:51.655Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055644>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8452_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoogte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8452_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000032"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000032/2021-10-31T09:12:51.655Z>.
+<https://stad.gent/id/concept/470010944/2021-10-31T09:08:18.127Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470010944>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:08:18.127Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300182284>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8485_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Ultraviolette lampen die een belangrijk deel van hun stralingsvermogen uitstralen in de UV-A en de UV-B - spectrum.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoogtezon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8485_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010944"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470010944/2021-10-31T09:08:18.127Z>.
+<https://stad.gent/id/concept/470006874/2021-10-31T07:16:03.311Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470006874>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:16:03.311Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7239825>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9280_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoogboom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9280_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470006874"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470006874/2021-10-31T07:16:03.311Z>.
+<https://stad.gent/id/concept/670000307/2021-10-28T15:25:56.277Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000307>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:25:56.277Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_9814_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoogbaljuw"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9814_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000307"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000307/2021-10-28T15:25:56.277Z>.
+<https://stad.gent/id/concept/670000308/2021-10-28T15:26:01.278Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000308>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:26:01.278Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_9814_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoogpointer"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "beroep"@nl, "occupation"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9814_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000308"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000308/2021-10-28T15:26:01.278Z>.
+<https://stad.gent/id/concept/670000135/2021-10-28T15:11:21.426Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:11:21.426Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/2891>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9913_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoogpoort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9913_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000135/2021-10-28T15:11:21.426Z>.
+<https://stad.gent/id/concept/670000136/2021-10-28T15:11:26.427Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000136>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:11:26.427Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/themas/3050>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9913_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoogstraat"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9913_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000136"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000136/2021-10-28T15:11:26.427Z>.
+<https://stad.gent/id/concept/670000009/2021-10-28T15:02:48.025Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/670000009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T15:02:48.025Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_9973_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoogte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en, "eenheid"@nl, "unit"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9973_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/670000009/2021-10-28T15:02:48.025Z>.
+<https://stad.gent/id/concept/570020606/2021-10-28T13:01:25.290Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570020606>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:01:25.290Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7264207>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10798_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoogezand"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570003540>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570003540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_10798_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020606"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570020606/2021-10-28T13:01:25.290Z>.
+<https://stad.gent/id/concept/570018165/2021-10-28T12:01:19.517Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570018165>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:01:19.517Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300053285>;
+    <http://www.w3.org/ns/adms#identifier> _:df_11218_7;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor afdrukprocedés waarbij de niet afdrukkende delen van het blok of de plaat zijn uitgekerfd, gegraveerd of weggeëtst, zodat de afdruk bestaat uit wat er van het oorspronkelijke oppervlak overblijft. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoogdruk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570019124>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570025189>, <https://stad.gent/id/concept/570006362>;
+    <http://www.w3.org/2004/02/skos/core#note> "techniek"@nl, "technique"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570006362> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtsnede"@nl.
+<https://stad.gent/id/concept/570025189> <http://www.w3.org/2004/02/skos/core#prefLabel> "houtgravure"@nl.
+<https://stad.gent/id/concept/570019124> <http://www.w3.org/2004/02/skos/core#prefLabel> "grafische technieken"@nl.
+_:df_11218_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018165"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570018165/2021-10-28T12:01:19.517Z>.
+<https://stad.gent/id/concept/570017239/2021-10-28T11:32:24.569Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017239>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:32:24.569Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_11419_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoogdrukpers"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11419_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017239"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017239/2021-10-28T11:32:24.569Z>.
+<https://stad.gent/id/concept/570010675/2021-10-28T09:16:30.286Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570010675>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:16:30.286Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026498>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12358_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hooglede"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570018081>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570018081> <http://www.w3.org/2004/02/skos/core#prefLabel> "West-Vlaanderen (provincie)"@nl.
+_:df_12358_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570010675"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570010675/2021-10-28T09:16:30.286Z>.
+<https://stad.gent/id/concept/570008304/2021-10-28T08:12:15.233Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008304>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:12:15.233Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300055644>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12796_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoogte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "afmeting"@nl, "dimension"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12796_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008304"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008304/2021-10-28T08:12:15.233Z>.
+<https://stad.gent/id/concept/570006231/2021-10-28T08:01:09.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006231>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:01:09.481Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1026499>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12874_37;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoogstraten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020234>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl, "Antwerpen (provincie)"@nl.
+_:df_12874_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006231"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006231/2021-10-28T08:01:09.481Z>.
+<https://stad.gent/id/concept/570003083/2021-10-28T07:48:50.372Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570003083>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:48:50.372Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300006438>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12955_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Grote, verticale structuren voor het smelten van ijzer uit erts, met behulp van een vaste brandstof, zo ontworpen om een continue luchtstroom door de brandstof te sturen om zo om een hoog percentage van de verbranding te garanderen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoogoven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12955_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570003083"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570003083/2021-10-28T07:48:50.372Z>.
+<https://stad.gent/id/concept/570001617/2021-10-28T07:42:28.698Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570001617>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:42:28.698Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300182284>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13000_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hoogtezon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_13000_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001617"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570001617/2021-10-28T07:42:28.698Z>.
+<https://KasperZutterman.github.io///thesaurus/hoog.ttl> <https://w3id.org/tree#relation> _:df_1_3809.
+_:df_1_3809 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/hoogs.ttl>;
+    <https://w3id.org/tree#value> "hoogs".
+<https://KasperZutterman.github.io///thesaurus/hoog.ttl> <https://w3id.org/tree#relation> _:df_1_3810.
+_:df_1_3810 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/hoogr.ttl>;
+    <https://w3id.org/tree#value> "hoogr".
+<https://KasperZutterman.github.io///thesaurus/hoog.ttl> <https://w3id.org/tree#relation> _:df_1_3811.
+_:df_1_3811 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/hoog+p.ttl>;
+    <https://w3id.org/tree#value> "hoog", "p".
+<https://KasperZutterman.github.io///thesaurus/hoog.ttl> <https://w3id.org/tree#relation> _:df_1_3812.
+_:df_1_3812 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/hoogt.ttl>;
+    <https://w3id.org/tree#value> "hoogt".
+<https://KasperZutterman.github.io///thesaurus/hoog.ttl> <https://w3id.org/tree#relation> _:df_1_3813.
+_:df_1_3813 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/hoogb.ttl>;
+    <https://w3id.org/tree#value> "hoogb".
+<https://KasperZutterman.github.io///thesaurus/hoog.ttl> <https://w3id.org/tree#relation> _:df_1_3814.
+_:df_1_3814 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/hoogp.ttl>;
+    <https://w3id.org/tree#value> "hoogp".
+<https://KasperZutterman.github.io///thesaurus/hoog.ttl> <https://w3id.org/tree#relation> _:df_1_3815.
+_:df_1_3815 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/hoogd.ttl>;
+    <https://w3id.org/tree#value> "hoogd".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/hoog.ttl>.

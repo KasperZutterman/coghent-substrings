@@ -165,3 +165,228 @@ _:df_3655_18 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530000184"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000184/2021-10-27T20:01:42.676Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kos.ttl>.
+<https://stad.gent/id/concept/570017072/2021-11-01T00:01:39.308Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017072>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T00:01:39.308Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1450203>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2146_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kostprijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2146_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017072"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017072/2021-11-01T00:01:39.308Z>.
+<https://stad.gent/id/concept/570006732/2021-10-31T20:40:59.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006732>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T20:40:59.937Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178802>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3568_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3568_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006732"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006732/2021-10-31T20:40:59.937Z>.
+<https://stad.gent/id/concept/550007783/2021-10-31T18:46:35.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:46:35.333Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178802>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4378_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De wijze van mode van persoonlijke kledij en dracht met inbegrip van de manier van het dragen van het haar, de stijl van kleding, sieraden, kronen, scepters, en andere accessoires van persoonlijke versiering, behorend tot een bepaalde natie, klasse, periode, of speciale gelegenheid, met inbegrip van alle artikelen gedragen of door mensen voor warmte, bescherming, verfraaiing, of symbolische doeleinden uitgevoerd. In het Engels, in het algemeen uitgedrukt in het enkelvoud.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum (wijze van mode)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004876>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007850>, <https://stad.gent/id/concept/550007832>, <https://stad.gent/id/concept/550007782>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007782> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledingaccessoires"@nl, "kledingaccessoires"@nl.
+<https://stad.gent/id/concept/550007832> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding naar functie"@nl.
+<https://stad.gent/id/concept/550007850> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding"@nl.
+<https://stad.gent/id/concept/550004876> <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum"@nl, "kostuum"@nl.
+_:df_4378_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007783> <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum (wijze van mode)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007783/2021-10-31T18:46:35.333Z>.
+<https://stad.gent/id/concept/550004876/2021-10-31T17:32:39.152Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004876>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:32:39.152Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209261>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4903_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De hiërarchie Kleding bevat descriptoren voor objecten die worden gedragen om warmte of bescherming te bieden, als verfraaiing of voor symbolische doeleinden. De hiërarchie bevat descriptoren voor kledingstukken die als hoofdelement van de kleding worden beschouwd (bijvoorbeeld 'overhemden' of 'broeken'), descriptoren voor kleding die onder de hoofdkleding wordt gedragen (bijvoorbeeld 'onderhemden') en descriptoren voor kledingstukken die over de hoofdkleding worden gedragen (bijvoorbeeld 'parka's'). Daarnaast zijn descriptoren opgenomen voor: beschermende kledij, met inbegrip van soorten harnassen; liturgische gewaden en andere ceremoniële kledij; uniformen; plus een uitgebreide lijst accessoires, met inbegrip van accessoires die op het lichaam worden gedragen (bijvoorbeeld 'hoofddeksels', 'schoeisel') en accessoires die een persoon meedraagt (bijvoorbeeld 'avondtasjes', 'parasols'). Relatie met andere hiërarchieën: de descriptoren 'zakhorloges' en 'polshorloges', evenals andere soorten uurwerken, zijn opgenomen in de hiërarchie Meetinstrumenten. De descriptoren 'zakpistolen' en 'staatsiezwaarden' verschijnen naast andere wapentypen in de hiërarchie Wapens en Munitie. Descriptoren voor objecten die kunnen worden gebruikt voor het onderhoud van kleding of de verzorging van de persoon zelf (bijvoorbeeld 'kledingborstels', 'nagelknippers') verschijnen in de hiërarchie Gereedschap en Uitrusting. Descriptoren voor objecten die worden gebruikt voor de opslag of het vervoer van kleding of andere persoonlijke eigendommen (bijvoorbeeld 'handschoenendozen', 'koffers') verschijnen in de hiërarchie Houders. Samenstellende delen van kleding (bijvoorbeeld 'busks', 'taillebanden') zijn opgenomen in de hiërarchie Componenten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007784>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007783>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007783> <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum (wijze van mode)"@nl.
+<https://stad.gent/id/concept/550007784> <http://www.w3.org/2004/02/skos/core#prefLabel> "gebruiksartikelen en uitrusting"@nl.
+_:df_4903_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004876"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004876/2021-10-31T17:32:39.152Z>.
+<https://stad.gent/id/concept/530010030/2021-10-31T15:21:44.883Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010030>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:21:44.883Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1049166>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5833_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koszalin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000339>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000339> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polen"@nl.
+_:df_5833_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010030"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010030/2021-10-31T15:21:44.883Z>.
+<https://stad.gent/id/concept/530008901/2021-10-31T14:08:00.945Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008901>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:08:00.945Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209261>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6355_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De hiërarchie Kostuum bevat descriptoren voor objecten die worden gedragen om warmte of bescherming te bieden, als verfraaiing of voor symbolische doeleinden. De hiërarchie bevat descriptoren voor kledingstukken die als hoofdelement van de kleding worden beschouwd (bijvoorbeeld 'overhemden' of 'broeken'), descriptoren voor kleding die onder de hoofdkleding wordt gedragen (bijvoorbeeld 'onderhemden') en descriptoren voor kledingstukken die over de hoofdkleding worden gedragen (bijvoorbeeld 'parka's'). Daarnaast zijn descriptoren opgenomen voor: beschermende kledij, met inbegrip van soorten harnassen; liturgische gewaden en andere ceremoniële kledij; uniformen; plus een uitgebreide lijst accessoires, met inbegrip van accessoires die op het lichaam worden gedragen (bijvoorbeeld 'hoofddeksels', 'schoeisel') en accessoires die een persoon meedraagt (bijvoorbeeld 'avondtasjes', 'parasols'). Relatie met andere hiërarchieën: de descriptoren 'zakhorloges' en 'polshorloges', evenals andere soorten uurwerken, zijn opgenomen in de hiërarchie Meetinstrumenten. De descriptoren 'zakpistolen' en 'staatsiezwaarden' verschijnen naast andere wapentypen in de hiërarchie Wapens en Munitie. Descriptoren voor objecten die kunnen worden gebruikt voor het onderhoud van kleding of de verzorging van de persoon zelf (bijvoorbeeld 'kledingborstels', 'nagelknippers') verschijnen in de hiërarchie Gereedschap en Uitrusting. Descriptoren voor objecten die worden gebruikt voor de opslag of het vervoer van kleding of andere persoonlijke eigendommen (bijvoorbeeld 'handschoenendozen', 'koffers') verschijnen in de hiërarchie Houders. bestanddelen van kostuums(bijvoorbeeld 'baleinen (korsetten)', 'taillebanden') zijn opgenomen in de hiërarchie Componenten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000892>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003666>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003666> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding (objectnaam)"@nl.
+<https://stad.gent/id/concept/530000892> <http://www.w3.org/2004/02/skos/core#prefLabel> "textilia (objectnaam)"@nl.
+_:df_6355_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008901"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008901/2021-10-31T14:08:00.945Z>.
+<https://stad.gent/id/concept/530005267/2021-10-31T11:54:57.138Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:54:57.138Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011529>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7300_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kosice"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004235>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004235> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slowakije"@nl, "Slowakije"@nl.
+_:df_7300_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005267/2021-10-31T11:54:57.138Z>.
+<https://stad.gent/id/concept/530000184/2021-10-31T09:19:11.638Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:19:11.638Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1063243>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8407_26;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kosta"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006450>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweden"@nl.
+_:df_8407_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000184"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000184/2021-10-31T09:19:11.638Z>.
+<https://stad.gent/id/concept/570017072/2021-10-28T11:29:55.281Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017072>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:29:55.281Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1450203>;
+    <http://www.w3.org/ns/adms#identifier> _:df_11437_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kostprijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11437_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017072"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017072/2021-10-28T11:29:55.281Z>.
+<https://stad.gent/id/concept/570006732/2021-10-28T08:03:19.663Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570006732>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:03:19.663Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178802>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12859_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12859_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570006732"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570006732/2021-10-28T08:03:19.663Z>.
+<https://stad.gent/id/concept/550007783/2021-10-28T06:02:28.911Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:02:28.911Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300178802>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13669_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De wijze van mode van persoonlijke kledij en dracht met inbegrip van de manier van het dragen van het haar, de stijl van kleding, sieraden, kronen, scepters, en andere accessoires van persoonlijke versiering, behorend tot een bepaalde natie, klasse, periode, of speciale gelegenheid, met inbegrip van alle artikelen gedragen of door mensen voor warmte, bescherming, verfraaiing, of symbolische doeleinden uitgevoerd. In het Engels, in het algemeen uitgedrukt in het enkelvoud.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum (wijze van mode)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550004876>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007850>, <https://stad.gent/id/concept/550007832>, <https://stad.gent/id/concept/550007782>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007782> <http://www.w3.org/2004/02/skos/core#prefLabel> "kledingaccessoires"@nl.
+<https://stad.gent/id/concept/550007832> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding naar functie"@nl.
+<https://stad.gent/id/concept/550007850> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding"@nl.
+<https://stad.gent/id/concept/550004876> <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum"@nl, "kostuum"@nl.
+_:df_13669_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007783> <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum (wijze van mode)"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007783/2021-10-28T06:02:28.911Z>.
+<https://stad.gent/id/concept/550004876/2021-10-28T04:44:36.919Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004876>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:44:36.919Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209261>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14194_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De hiërarchie Kleding bevat descriptoren voor objecten die worden gedragen om warmte of bescherming te bieden, als verfraaiing of voor symbolische doeleinden. De hiërarchie bevat descriptoren voor kledingstukken die als hoofdelement van de kleding worden beschouwd (bijvoorbeeld 'overhemden' of 'broeken'), descriptoren voor kleding die onder de hoofdkleding wordt gedragen (bijvoorbeeld 'onderhemden') en descriptoren voor kledingstukken die over de hoofdkleding worden gedragen (bijvoorbeeld 'parka's'). Daarnaast zijn descriptoren opgenomen voor: beschermende kledij, met inbegrip van soorten harnassen; liturgische gewaden en andere ceremoniële kledij; uniformen; plus een uitgebreide lijst accessoires, met inbegrip van accessoires die op het lichaam worden gedragen (bijvoorbeeld 'hoofddeksels', 'schoeisel') en accessoires die een persoon meedraagt (bijvoorbeeld 'avondtasjes', 'parasols'). Relatie met andere hiërarchieën: de descriptoren 'zakhorloges' en 'polshorloges', evenals andere soorten uurwerken, zijn opgenomen in de hiërarchie Meetinstrumenten. De descriptoren 'zakpistolen' en 'staatsiezwaarden' verschijnen naast andere wapentypen in de hiërarchie Wapens en Munitie. Descriptoren voor objecten die kunnen worden gebruikt voor het onderhoud van kleding of de verzorging van de persoon zelf (bijvoorbeeld 'kledingborstels', 'nagelknippers') verschijnen in de hiërarchie Gereedschap en Uitrusting. Descriptoren voor objecten die worden gebruikt voor de opslag of het vervoer van kleding of andere persoonlijke eigendommen (bijvoorbeeld 'handschoenendozen', 'koffers') verschijnen in de hiërarchie Houders. Samenstellende delen van kleding (bijvoorbeeld 'busks', 'taillebanden') zijn opgenomen in de hiërarchie Componenten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007784>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007783>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007783> <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum (wijze van mode)"@nl.
+<https://stad.gent/id/concept/550007784> <http://www.w3.org/2004/02/skos/core#prefLabel> "gebruiksartikelen en uitrusting"@nl.
+_:df_14194_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004876"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004876/2021-10-28T04:44:36.919Z>.
+<https://stad.gent/id/concept/530010030/2021-10-28T02:24:08.571Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010030>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T02:24:08.571Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1049166>;
+    <http://www.w3.org/ns/adms#identifier> _:df_15124_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Koszalin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000339>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000339> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polen"@nl.
+_:df_15124_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010030"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010030/2021-10-28T02:24:08.571Z>.
+<https://stad.gent/id/concept/530008901/2021-10-28T01:05:54.309Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008901>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:05:54.309Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300209261>;
+    <http://www.w3.org/ns/adms#identifier> _:df_15646_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "De hiërarchie Kostuum bevat descriptoren voor objecten die worden gedragen om warmte of bescherming te bieden, als verfraaiing of voor symbolische doeleinden. De hiërarchie bevat descriptoren voor kledingstukken die als hoofdelement van de kleding worden beschouwd (bijvoorbeeld 'overhemden' of 'broeken'), descriptoren voor kleding die onder de hoofdkleding wordt gedragen (bijvoorbeeld 'onderhemden') en descriptoren voor kledingstukken die over de hoofdkleding worden gedragen (bijvoorbeeld 'parka's'). Daarnaast zijn descriptoren opgenomen voor: beschermende kledij, met inbegrip van soorten harnassen; liturgische gewaden en andere ceremoniële kledij; uniformen; plus een uitgebreide lijst accessoires, met inbegrip van accessoires die op het lichaam worden gedragen (bijvoorbeeld 'hoofddeksels', 'schoeisel') en accessoires die een persoon meedraagt (bijvoorbeeld 'avondtasjes', 'parasols'). Relatie met andere hiërarchieën: de descriptoren 'zakhorloges' en 'polshorloges', evenals andere soorten uurwerken, zijn opgenomen in de hiërarchie Meetinstrumenten. De descriptoren 'zakpistolen' en 'staatsiezwaarden' verschijnen naast andere wapentypen in de hiërarchie Wapens en Munitie. Descriptoren voor objecten die kunnen worden gebruikt voor het onderhoud van kleding of de verzorging van de persoon zelf (bijvoorbeeld 'kledingborstels', 'nagelknippers') verschijnen in de hiërarchie Gereedschap en Uitrusting. Descriptoren voor objecten die worden gebruikt voor de opslag of het vervoer van kleding of andere persoonlijke eigendommen (bijvoorbeeld 'handschoenendozen', 'koffers') verschijnen in de hiërarchie Houders. bestanddelen van kostuums(bijvoorbeeld 'baleinen (korsetten)', 'taillebanden') zijn opgenomen in de hiërarchie Componenten.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "kostuum"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000892>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530003666>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530003666> <http://www.w3.org/2004/02/skos/core#prefLabel> "kleding (objectnaam)"@nl.
+<https://stad.gent/id/concept/530000892> <http://www.w3.org/2004/02/skos/core#prefLabel> "textilia (objectnaam)"@nl.
+_:df_15646_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008901"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008901/2021-10-28T01:05:54.309Z>.
+<https://stad.gent/id/concept/530005267/2021-10-27T22:44:11.544Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005267>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:44:11.544Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7011529>;
+    <http://www.w3.org/ns/adms#identifier> _:df_16591_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kosice"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004235>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004235> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slowakije"@nl, "Slowakije"@nl.
+_:df_16591_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005267"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005267/2021-10-27T22:44:11.544Z>.
+<https://stad.gent/id/concept/530000184/2021-10-27T20:01:42.676Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000184>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:01:42.676Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1063243>;
+    <http://www.w3.org/ns/adms#identifier> _:df_17698_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kosta"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006450>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530006450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zweden"@nl.
+_:df_17698_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000184"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000184/2021-10-27T20:01:42.676Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/kos.ttl>.

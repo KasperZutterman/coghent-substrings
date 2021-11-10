@@ -1,0 +1,24 @@
+<https://stad.gent/id/concept/530006371/2021-10-27T23:33:38.924Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006371>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:33:38.924Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_16261_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekovertrek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_16261_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006371"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006371/2021-10-27T23:33:38.924Z>.
+<https://stad.gent/id/concept/530006272/2021-10-27T23:29:46.919Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006272>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:29:46.919Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1125338>;
+    <http://www.w3.org/ns/adms#identifier> _:df_16285_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "boekomslag"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008669>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008669> <http://www.w3.org/2004/02/skos/core#prefLabel> "omslag"@nl.
+_:df_16285_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006272"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006272/2021-10-27T23:29:46.919Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/boeko.ttl>.

@@ -76,3 +76,122 @@ _:df_3679_34 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530000105"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000105/2021-10-27T19:58:28.561Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/wek.ttl>.
+<https://stad.gent/id/concept/570015586/2021-10-31T23:18:05.285Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:18:05.285Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195766>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2455_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wekker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2455_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015586/2021-10-31T23:18:05.285Z>.
+<https://stad.gent/id/concept/530004490/2021-10-31T11:31:48.071Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004490>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:31:48.071Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031860>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7465_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Radio's die een weksignaal geven of gaan spelen op een vooraf ingesteld tijdstip.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wekkerradio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000429>, <https://stad.gent/id/concept/530000105>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000105> <http://www.w3.org/2004/02/skos/core#prefLabel> "wekker"@nl.
+<https://stad.gent/id/concept/530000429> <http://www.w3.org/2004/02/skos/core#prefLabel> "radio"@nl.
+_:df_7465_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004490"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004490/2021-10-31T11:31:48.071Z>.
+<https://stad.gent/id/concept/530000105/2021-10-31T09:15:58.843Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000105>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:15:58.843Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195766>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8428_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Klokken met een bel of een zoemer die kan worden ingesteld om op een bepaalde tijd af te gaan, bijvoorbeeld om iemand te wekken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wekker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001699>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006459>, <https://stad.gent/id/concept/530004490>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004490> <http://www.w3.org/2004/02/skos/core#prefLabel> "wekkerradio"@nl.
+<https://stad.gent/id/concept/530006459> <http://www.w3.org/2004/02/skos/core#prefLabel> "kookwekker"@nl.
+<https://stad.gent/id/concept/530001699> <http://www.w3.org/2004/02/skos/core#prefLabel> "klok (uurwerk)"@nl.
+_:df_8428_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000105"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000105/2021-10-31T09:15:58.843Z>.
+<https://stad.gent/id/concept/570015586/2021-10-28T10:45:35.138Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570015586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:45:35.138Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195766>;
+    <http://www.w3.org/ns/adms#identifier> _:df_11746_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wekker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11746_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570015586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570015586/2021-10-28T10:45:35.138Z>.
+<https://stad.gent/id/concept/530004490/2021-10-27T22:19:53.728Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004490>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:19:53.728Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900031860>;
+    <http://www.w3.org/ns/adms#identifier> _:df_16756_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Radio's die een weksignaal geven of gaan spelen op een vooraf ingesteld tijdstip.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wekkerradio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530000429>, <https://stad.gent/id/concept/530000105>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000105> <http://www.w3.org/2004/02/skos/core#prefLabel> "wekker"@nl.
+<https://stad.gent/id/concept/530000429> <http://www.w3.org/2004/02/skos/core#prefLabel> "radio"@nl.
+_:df_16756_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004490"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004490/2021-10-27T22:19:53.728Z>.
+<https://stad.gent/id/concept/530000105/2021-10-27T19:58:28.561Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000105>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T19:58:28.561Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195766>;
+    <http://www.w3.org/ns/adms#identifier> _:df_17722_34;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Klokken met een bel of een zoemer die kan worden ingesteld om op een bepaalde tijd af te gaan, bijvoorbeeld om iemand te wekken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wekker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530001699>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006459>, <https://stad.gent/id/concept/530004490>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004490> <http://www.w3.org/2004/02/skos/core#prefLabel> "wekkerradio"@nl.
+<https://stad.gent/id/concept/530006459> <http://www.w3.org/2004/02/skos/core#prefLabel> "kookwekker"@nl.
+<https://stad.gent/id/concept/530001699> <http://www.w3.org/2004/02/skos/core#prefLabel> "klok (uurwerk)"@nl.
+_:df_17722_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000105"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000105/2021-10-27T19:58:28.561Z>.
+<https://stad.gent/id/concept/470005332/2021-10-27T17:21:14.816Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005332>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:21:14.816Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195766>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18826_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Klokken met een bel of een zoemer die kan worden ingesteld om op een bepaalde tijd af te gaan, bijvoorbeeld om iemand te wekken.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wekker"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008877>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470003031>, <https://stad.gent/id/concept/470000626>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470000626> <http://www.w3.org/2004/02/skos/core#prefLabel> "wekkerradio"@nl.
+<https://stad.gent/id/concept/470003031> <http://www.w3.org/2004/02/skos/core#prefLabel> "reiswekker"@nl.
+<https://stad.gent/id/concept/470008877> <http://www.w3.org/2004/02/skos/core#prefLabel> "klok (uurwerk)"@nl, "klok (uurwerk)"@nl, "klok (uurwerk)"@nl, "klok (uurwerk)"@nl.
+_:df_18826_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005332"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005332/2021-10-27T17:21:14.816Z>.
+<https://stad.gent/id/concept/470000626/2021-10-27T15:10:59.887Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470000626>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T15:10:59.887Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300195766>;
+    <http://www.w3.org/ns/adms#identifier> _:df_19705_23;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Radio's die een weksignaal geven of gaan spelen op een vooraf ingesteld tijdstip.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "wekkerradio"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470003127>, <https://stad.gent/id/concept/470005332>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470005332> <http://www.w3.org/2004/02/skos/core#prefLabel> "wekker"@nl.
+<https://stad.gent/id/concept/470003127> <http://www.w3.org/2004/02/skos/core#prefLabel> "radio-ontvanger"@nl.
+_:df_19705_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470000626"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470000626/2021-10-27T15:10:59.887Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/wek.ttl>.

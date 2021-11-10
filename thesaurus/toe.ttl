@@ -117,3 +117,250 @@ _:df_4153_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008788"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008788/2021-10-27T18:51:13.747Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/toe.ttl>.
+<https://stad.gent/id/concept/570017512/2021-11-01T00:14:25.564Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017512>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T00:14:25.564Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2056_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toerenteller"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2056_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017512"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017512/2021-11-01T00:14:25.564Z>.
+<https://stad.gent/id/concept/570014868/2021-10-31T23:02:22.635Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014868>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T23:02:22.635Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2566_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toelatingskaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2566_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014868"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014868/2021-10-31T23:02:22.635Z>.
+<https://stad.gent/id/concept/570014440/2021-10-31T22:51:02.045Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014440>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:51:02.045Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132466>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2647_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toerisme"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570020086>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020086> <http://www.w3.org/2004/02/skos/core#prefLabel> "kusttoerisme"@nl.
+_:df_2647_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014440"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014440/2021-10-31T22:51:02.045Z>.
+<https://stad.gent/id/concept/570012722/2021-10-31T22:16:11.134Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570012722>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T22:16:11.134Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q1183543>;
+    <http://www.w3.org/ns/adms#identifier> _:df_2890_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toestel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_2890_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570012722"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570012722/2021-10-31T22:16:11.134Z>.
+<https://stad.gent/id/concept/570009144/2021-10-31T21:13:59.165Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570009144>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:13:59.165Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300026671>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3334_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toespraak"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3334_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570009144"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570009144/2021-10-31T21:13:59.165Z>.
+<https://stad.gent/id/concept/550008672/2021-10-31T19:46:45.751Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008672>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:46:45.751Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3952_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toegangspenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3952_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008672"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008672/2021-10-31T19:46:45.751Z>.
+<https://stad.gent/id/concept/550008325/2021-10-31T19:31:28.631Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008325>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:31:28.631Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300234049>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4060_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toevoegsel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007907>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001076>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001076> <http://www.w3.org/2004/02/skos/core#prefLabel> "sierbeslag"@nl.
+<https://stad.gent/id/concept/550007907> <http://www.w3.org/2004/02/skos/core#prefLabel> "onderdelen naar algemene context"@nl.
+_:df_4060_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008325"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008325/2021-10-31T19:31:28.631Z>.
+<https://stad.gent/id/concept/550001799/2021-10-31T16:37:41.595Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001799>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:37:41.595Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300234049>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5293_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toebehoren"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5293_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001799"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001799/2021-10-31T16:37:41.595Z>.
+<https://stad.gent/id/concept/530008870/2021-10-31T14:07:00.301Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530008870>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:07:00.301Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6364_36;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Het toetsenbord of klavier (in Vlaanderen; in Nederland niet gebruikelijk) van een computer is een voorziening waarmee met de hand gegevens, meestal in de vorm van tekens, kunnen worden ingevoerd. Het wordt ook wel met de Engelse term keyboard aangeduid.\r\n\r\nEen fysiek toetsenbord heeft fysieke knoppen die men kan indrukken. Een virtueel toetsenbord op een elektronisch scherm heeft virtuele knoppen die men kan aanraken (als het een aanraakscherm is) met een vinger of speciale pen of met een computermuis kan bedienen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toetsenbord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008647>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008647> <http://www.w3.org/2004/02/skos/core#prefLabel> "randapparatuur"@nl.
+_:df_6364_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530008870"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530008870/2021-10-31T14:07:00.301Z>.
+<https://stad.gent/id/concept/470008788/2021-10-31T08:08:56.987Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008788>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:08:56.987Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300133073>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8905_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Papieren strookjes of kaartjes die aangeven dat de houder voor de toegang of entree heeft betaald of hier anderszins recht op heeft.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toegangsbewijs"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8905_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008788"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008788/2021-10-31T08:08:56.987Z>.
+<https://stad.gent/id/concept/570024785/2021-10-28T14:45:19.111Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:45:19.111Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300011149>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10093_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een fluweelzwarte variant van cryptokristallijnkwarts, kiezelschalie of een dergelijke stof die door juweliers wordt gebruikt voor het keuren van de zuiverheid van edelmetalen, voornamelijk goud. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toetssteen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10093_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024785/2021-10-28T14:45:19.111Z>.
+<https://stad.gent/id/concept/570024485/2021-10-28T14:34:23.359Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024485>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:34:23.359Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_10168_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toestellen op vloeibare brandstoffen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10168_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024485"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024485/2021-10-28T14:34:23.359Z>.
+<https://stad.gent/id/concept/570023542/2021-10-28T13:45:42.871Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023542>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:45:42.871Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_10498_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toestellen op spiritus"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10498_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023542"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023542/2021-10-28T13:45:42.871Z>.
+<https://stad.gent/id/concept/570023498/2021-10-28T13:43:56.240Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023498>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:43:56.240Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_10510_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toestellen op elektriciteit"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10510_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023498"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023498/2021-10-28T13:43:56.240Z>.
+<https://stad.gent/id/concept/570023499/2021-10-28T13:44:01.241Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:44:01.241Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_10510_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toestellen op gas"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "motief"@nl, "motif"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10510_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023499"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023499/2021-10-28T13:44:01.241Z>.
+<https://stad.gent/id/concept/570023500/2021-10-28T13:44:06.243Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570023500>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:44:06.243Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_10510_32;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toestellen op kolen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10510_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023500"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570023500/2021-10-28T13:44:06.243Z>.
+<https://stad.gent/id/concept/570022763/2021-10-28T13:12:35.750Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022763>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:12:35.750Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300422212>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10723_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toetsenbord"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "inscriptie positie"@nl, "inscription position"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10723_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022763"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022763/2021-10-28T13:12:35.750Z>.
+<https://stad.gent/id/concept/570017512/2021-10-28T11:42:57.091Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017512>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:42:57.091Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_11347_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toerenteller"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "motief"@nl, "motif"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11347_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017512"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017512/2021-10-28T11:42:57.091Z>.
+<https://stad.gent/id/concept/570014868/2021-10-28T10:29:33.578Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014868>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:29:33.578Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_11857_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toelatingskaart"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11857_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014868"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014868/2021-10-28T10:29:33.578Z>.
+<https://stad.gent/id/concept/570014440/2021-10-28T10:17:53.655Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570014440>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:17:53.655Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300132466>;
+    <http://www.w3.org/ns/adms#identifier> _:df_11938_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "toerisme"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570020086>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "motief"@nl, "motif"@en, "objectnaam"@nl, "object name"@en, "associatie"@nl, "association"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020086> <http://www.w3.org/2004/02/skos/core#prefLabel> "kusttoerisme"@nl.
+_:df_11938_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014440"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570014440/2021-10-28T10:17:53.655Z>.
+<https://KasperZutterman.github.io///thesaurus/toe.ttl> <https://w3id.org/tree#relation> _:df_1_3560.
+_:df_1_3560 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/toes.ttl>;
+    <https://w3id.org/tree#value> "toes".
+<https://KasperZutterman.github.io///thesaurus/toe.ttl> <https://w3id.org/tree#relation> _:df_1_3561.
+_:df_1_3561 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/toeg.ttl>;
+    <https://w3id.org/tree#value> "toeg".
+<https://KasperZutterman.github.io///thesaurus/toe.ttl> <https://w3id.org/tree#relation> _:df_1_3562.
+_:df_1_3562 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/toev.ttl>;
+    <https://w3id.org/tree#value> "toev".
+<https://KasperZutterman.github.io///thesaurus/toe.ttl> <https://w3id.org/tree#relation> _:df_1_3563.
+_:df_1_3563 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/toeb.ttl>;
+    <https://w3id.org/tree#value> "toeb".
+<https://KasperZutterman.github.io///thesaurus/toe.ttl> <https://w3id.org/tree#relation> _:df_1_3564.
+_:df_1_3564 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/toet.ttl>;
+    <https://w3id.org/tree#value> "toet".
+<https://KasperZutterman.github.io///thesaurus/toe.ttl> <https://w3id.org/tree#relation> _:df_1_3565.
+_:df_1_3565 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/toer.ttl>;
+    <https://w3id.org/tree#value> "toer".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/toe.ttl>.

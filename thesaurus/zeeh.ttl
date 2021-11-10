@@ -1,0 +1,24 @@
+<https://stad.gent/id/concept/570013151/2021-10-28T09:50:27.827Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013151>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:50:27.827Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q15310171>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12127_18;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zeehaven"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12127_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013151"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013151/2021-10-28T09:50:27.827Z>.
+<https://stad.gent/id/concept/470001845/2021-10-27T16:00:21.633Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:00:21.633Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q25587>;
+    <http://www.w3.org/ns/adms#identifier> _:df_19390_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "zeehond"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470008564>;
+    <http://www.w3.org/2004/02/skos/core#note> "dier"@nl, "animal"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470008564> <http://www.w3.org/2004/02/skos/core#prefLabel> "dier"@nl, "dier"@nl.
+_:df_19390_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001845/2021-10-27T16:00:21.633Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/zeeh.ttl>.

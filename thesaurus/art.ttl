@@ -167,3 +167,273 @@ _:df_4330_14 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470007930"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007930/2021-10-27T18:26:10.238Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/art.ttl>.
+<https://stad.gent/id/concept/570008962/2021-10-31T21:07:33.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008962>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:07:33.950Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300048715>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3379_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "artikel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3379_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008962"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008962/2021-10-31T21:07:33.950Z>.
+<https://stad.gent/id/concept/550008188/2021-10-31T19:20:08.682Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008188>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T19:20:08.682Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204066>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4141_44;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "artilleriemunitie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007583>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006155>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006155> <http://www.w3.org/2004/02/skos/core#prefLabel> "kanonskogel"@nl.
+<https://stad.gent/id/concept/550007583> <http://www.w3.org/2004/02/skos/core#prefLabel> "munitie"@nl.
+_:df_4141_44 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008188"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008188/2021-10-31T19:20:08.682Z>.
+<https://stad.gent/id/concept/550001432/2021-10-31T16:30:46.820Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001432>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:30:46.820Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300117127>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5344_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In algemene zin, objecten die zijn gemaakt of bewerkt door mensen, gewoonlijk handgereedschap, gebruiksvoorwerpen, sieraden of kunst. In de archeologie is een artefact een object dat is vervaardigd door een menselijke cultuur en wordt onderscheiden van natuurlijke resten, en later is aangetroffen bij archeologische werkzaamheden. Zie ook 'culturele artefacten' voor de context van objecten die specifiek worden verzameld door musea. Gebruik de term niet in de technische en medische betekenis, dat wil zeggen voor een product of effect dat niet aanwezig is in de natuurlijke toestand van een organisme of een systeem, maar optreedt wegens het onderzoek zelf of het gevolg is van een andere externe activiteit.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "artefact"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007760>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007760> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres"@nl.
+_:df_5344_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001432"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001432/2021-10-31T16:30:46.820Z>.
+<https://stad.gent/id/concept/530009747/2021-10-31T14:58:26.420Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009747>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:58:26.420Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5998_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "artistiek directeur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5998_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009747"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009747/2021-10-31T14:58:26.420Z>.
+<https://stad.gent/id/concept/530009750/2021-10-31T14:58:42.274Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009750>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:58:42.274Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_5998_19;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "artistiek duo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_5998_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009750"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009750/2021-10-31T14:58:42.274Z>.
+<https://stad.gent/id/concept/530005218/2021-10-31T11:53:15.876Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:53:15.876Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300048715>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7312_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Teksten die zijn gemaakt om gepubliceerd te worden als een onafhankelijk deel van een tijdschrift, krant, encyclopedie of ander werk.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "artikel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008662>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008662> <http://www.w3.org/2004/02/skos/core#prefLabel> "document"@nl.
+_:df_7312_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005218"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005218/2021-10-31T11:53:15.876Z>.
+<https://stad.gent/id/concept/530003856/2021-10-31T11:13:07.199Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003856>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:13:07.199Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300021426>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7597_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar de stijl, voornamelijk in de architectuur en beeldende kunst, die wijd verspreid was in Europa en de Verenigde Staten in de jaren 20 en 30 van de 20ste eeuw. De stijl werd populair na de Exposition Internationale des Arts Décoratifs et Industriels Modernes in Parijs in 1925. De stijl kenmerkt zich door een synthese van industriële en kunstzinnige materialen waarmee veel verschillende handgemaakte en industrieel vervaardigde voorwerpen werden gemaakt, vaak met de nadruk op rechtlijnige motieven, opvallende kleuren en elegante, abstracte en vereenvoudigde vormen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Art Deco"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009881>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en, "onderwerp"@nl, "subject"@en, "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009881> <http://www.w3.org/2004/02/skos/core#prefLabel> "moderne Europese stijlen en stromingen"@nl.
+_:df_7597_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003856"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003856/2021-10-31T11:13:07.199Z>.
+<https://stad.gent/id/concept/530002202/2021-10-31T10:33:49.222Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002202>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:33:49.222Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266319>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7876_15;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een esthetische en sociale beweging in de late 19de eeuw, ontstaan in Engeland en later uitgebreid naar de Verenigde Staten, Duitsland en Noord-Europa. De beweging was een reactie op de industrialisatie en de kwaliteit van de in fabrieken vervaardigde goederen en streefde naar een herleving van het vakmanschap dat werd geassocieerd met de traditionele kunsten. Zij kenmerkte zich door het aanhangen van de filosofie ‘vorm volgt functie’ en een geïdealiseerd beeld van de Middeleeuwse gilden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Arts and Crafts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009267>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en, "onderwerp"@nl, "subject"@en, "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009267> <http://www.w3.org/2004/02/skos/core#prefLabel> "2de helft 19de eeuw"@nl.
+_:df_7876_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002202"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002202/2021-10-31T10:33:49.222Z>.
+<https://stad.gent/id/concept/530000098/2021-10-31T09:15:38.837Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000098>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:15:38.837Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300021430>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8431_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst in het algemeen naar de stijl in de schilderkunst, architectuur en kunst die in Europa en de Verenigde Staten bloeide van circa 1890 tot 1910. De stijl kenmerkt zich door de nadruk op vloeiende, golvende en kronkelende lijnen of contouren op basis van organische vormen, en door het gebruik van moderne materialen als ijzer en glas.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "art nouveau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009275>, <https://stad.gent/id/concept/530009270>, <https://stad.gent/id/concept/530009881>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en, "onderwerp"@nl, "subject"@en, "periode"@nl, "period"@en, "concept"@nl, "concept"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009881> <http://www.w3.org/2004/02/skos/core#prefLabel> "moderne Europese stijlen en stromingen"@nl.
+<https://stad.gent/id/concept/530009270> <http://www.w3.org/2004/02/skos/core#prefLabel> "4de kwart 19de eeuw"@nl.
+<https://stad.gent/id/concept/530009275> <http://www.w3.org/2004/02/skos/core#prefLabel> "1ste kwart 20ste eeuw"@nl.
+_:df_8431_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000098"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000098/2021-10-31T09:15:38.837Z>.
+<https://stad.gent/id/concept/470008185/2021-10-31T07:51:13.539Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008185>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:51:13.539Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300117127>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9031_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "artefact"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9031_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008185"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008185/2021-10-31T07:51:13.539Z>.
+<https://stad.gent/id/concept/470007929/2021-10-31T07:43:59.206Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007929>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:43:59.206Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300021426>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9082_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Art Deco"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9082_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007929"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007929/2021-10-31T07:43:59.206Z>.
+<https://stad.gent/id/concept/470007930/2021-10-31T07:44:04.207Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007930>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:44:04.207Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300021430>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9082_17;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Art Nouveau"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9082_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007930"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007930/2021-10-31T07:44:04.207Z>.
+<https://stad.gent/id/concept/570008962/2021-10-28T08:31:00.496Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008962>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:31:00.496Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300048715>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12670_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "artikel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12670_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008962"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008962/2021-10-28T08:31:00.496Z>.
+<https://stad.gent/id/concept/550008188/2021-10-28T06:38:15.499Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008188>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:38:15.499Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300204066>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13432_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "artilleriemunitie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007583>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006155>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006155> <http://www.w3.org/2004/02/skos/core#prefLabel> "kanonskogel"@nl.
+<https://stad.gent/id/concept/550007583> <http://www.w3.org/2004/02/skos/core#prefLabel> "munitie"@nl.
+_:df_13432_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008188"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008188/2021-10-28T06:38:15.499Z>.
+<https://stad.gent/id/concept/550001432/2021-10-28T03:38:29.588Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001432>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:38:29.588Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300117127>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14635_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "In algemene zin, objecten die zijn gemaakt of bewerkt door mensen, gewoonlijk handgereedschap, gebruiksvoorwerpen, sieraden of kunst. In de archeologie is een artefact een object dat is vervaardigd door een menselijke cultuur en wordt onderscheiden van natuurlijke resten, en later is aangetroffen bij archeologische werkzaamheden. Zie ook 'culturele artefacten' voor de context van objecten die specifiek worden verzameld door musea. Gebruik de term niet in de technische en medische betekenis, dat wil zeggen voor een product of effect dat niet aanwezig is in de natuurlijke toestand van een organisme of een systeem, maar optreedt wegens het onderzoek zelf of het gevolg is van een andere externe activiteit.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "artefact"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007760>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007760> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenres"@nl.
+_:df_14635_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001432"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001432/2021-10-28T03:38:29.588Z>.
+<https://stad.gent/id/concept/530009750/2021-10-28T01:59:25.229Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009750>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:59:25.229Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_15289_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "artistiek duo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_15289_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009750"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009750/2021-10-28T01:59:25.229Z>.
+<https://stad.gent/id/concept/530009747/2021-10-28T01:59:10.224Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009747>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:59:10.224Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_15292_25;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "artistiek directeur"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "associatie"@nl, "association"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_15292_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009747"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009747/2021-10-28T01:59:10.224Z>.
+<https://stad.gent/id/concept/530005218/2021-10-27T22:42:25.570Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:42:25.570Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300048715>;
+    <http://www.w3.org/ns/adms#identifier> _:df_16603_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Teksten die zijn gemaakt om gepubliceerd te worden als een onafhankelijk deel van een tijdschrift, krant, encyclopedie of ander werk.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "artikel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008662>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaalsoort"@nl, "document type"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008662> <http://www.w3.org/2004/02/skos/core#prefLabel> "document"@nl.
+_:df_16603_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005218"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005218/2021-10-27T22:42:25.570Z>.
+<https://stad.gent/id/concept/530003856/2021-10-27T22:00:12.628Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530003856>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:00:12.628Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300021426>;
+    <http://www.w3.org/ns/adms#identifier> _:df_16888_11;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar de stijl, voornamelijk in de architectuur en beeldende kunst, die wijd verspreid was in Europa en de Verenigde Staten in de jaren 20 en 30 van de 20ste eeuw. De stijl werd populair na de Exposition Internationale des Arts Décoratifs et Industriels Modernes in Parijs in 1925. De stijl kenmerkt zich door een synthese van industriële en kunstzinnige materialen waarmee veel verschillende handgemaakte en industrieel vervaardigde voorwerpen werden gemaakt, vaak met de nadruk op rechtlijnige motieven, opvallende kleuren en elegante, abstracte en vereenvoudigde vormen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Art Deco"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009881>;
+    <http://www.w3.org/2004/02/skos/core#note> "school / stijl"@nl, "school / style"@en, "onderwerp"@nl, "subject"@en, "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009881> <http://www.w3.org/2004/02/skos/core#prefLabel> "moderne Europese stijlen en stromingen"@nl.
+_:df_16888_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530003856"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530003856/2021-10-27T22:00:12.628Z>.
+<https://stad.gent/id/concept/530002202/2021-10-27T21:19:20.051Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002202>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T21:19:20.051Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300266319>;
+    <http://www.w3.org/ns/adms#identifier> _:df_17167_9;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een esthetische en sociale beweging in de late 19de eeuw, ontstaan in Engeland en later uitgebreid naar de Verenigde Staten, Duitsland en Noord-Europa. De beweging was een reactie op de industrialisatie en de kwaliteit van de in fabrieken vervaardigde goederen en streefde naar een herleving van het vakmanschap dat werd geassocieerd met de traditionele kunsten. Zij kenmerkte zich door het aanhangen van de filosofie ‘vorm volgt functie’ en een geïdealiseerd beeld van de Middeleeuwse gilden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Arts and Crafts"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009267>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en, "onderwerp"@nl, "subject"@en, "school / stijl"@nl, "school / style"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009267> <http://www.w3.org/2004/02/skos/core#prefLabel> "2de helft 19de eeuw"@nl.
+_:df_17167_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002202"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002202/2021-10-27T21:19:20.051Z>.
+<https://KasperZutterman.github.io///thesaurus/art.ttl> <https://w3id.org/tree#relation> _:df_1_4335.
+_:df_1_4335 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/art+n.ttl>;
+    <https://w3id.org/tree#value> "art", "n".
+<https://KasperZutterman.github.io///thesaurus/art.ttl> <https://w3id.org/tree#relation> _:df_1_4336.
+_:df_1_4336 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/arte.ttl>;
+    <https://w3id.org/tree#value> "arte".
+<https://KasperZutterman.github.io///thesaurus/art.ttl> <https://w3id.org/tree#relation> _:df_1_4337.
+_:df_1_4337 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/art+d.ttl>;
+    <https://w3id.org/tree#value> "art", "d".
+<https://KasperZutterman.github.io///thesaurus/art.ttl> <https://w3id.org/tree#relation> _:df_1_4338.
+_:df_1_4338 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/arti.ttl>;
+    <https://w3id.org/tree#value> "arti".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/art.ttl>.

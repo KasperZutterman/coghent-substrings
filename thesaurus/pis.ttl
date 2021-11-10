@@ -12,3 +12,114 @@ _:df_2431_35 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530005658"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005658/2021-10-27T23:01:44.566Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pis.ttl>.
+<https://stad.gent/id/concept/550001505/2021-10-31T16:32:37.968Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001505>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:32:37.968Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037160>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5329_8;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vuistvuurwapens, waarbij de patroonkamer een deel is van de loop en die zijn ontworpen om met één hand te worden gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pistool"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008300>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008300> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuistvuurwapen"@nl.
+_:df_5329_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001505"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001505/2021-10-31T16:32:37.968Z>.
+<https://stad.gent/id/concept/530010557/2021-10-31T16:02:15.881Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010557>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:02:15.881Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003166>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5545_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pisa (provincie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009346>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010541>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010541> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pisa"@nl.
+<https://stad.gent/id/concept/530009346> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toscane (regio)"@nl.
+_:df_5545_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010557"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010557/2021-10-31T16:02:15.881Z>.
+<https://stad.gent/id/concept/530010541/2021-10-31T16:01:05.232Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010541>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:01:05.232Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006082>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5554_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pisa"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010557>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010557> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pisa (provincie)"@nl.
+_:df_5554_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010541"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010541/2021-10-31T16:01:05.232Z>.
+<https://stad.gent/id/concept/530005658/2021-10-31T12:11:35.606Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005658>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:11:35.606Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005060>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7183_45;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pistoia"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_7183_45 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005658"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005658/2021-10-31T12:11:35.606Z>.
+<https://stad.gent/id/concept/550001505/2021-10-28T03:40:30.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001505>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:40:30.747Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037160>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14620_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Vuistvuurwapens, waarbij de patroonkamer een deel is van de loop en die zijn ontworpen om met één hand te worden gebruikt.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "pistool"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008300>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008300> <http://www.w3.org/2004/02/skos/core#prefLabel> "vuistvuurwapen"@nl.
+_:df_14620_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001505"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001505/2021-10-28T03:40:30.747Z>.
+<https://stad.gent/id/concept/530010557/2021-10-28T03:07:10.398Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010557>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:07:10.398Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003166>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14836_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pisa (provincie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009346>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530010541>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010541> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pisa"@nl.
+<https://stad.gent/id/concept/530009346> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toscane (regio)"@nl.
+_:df_14836_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010557"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010557/2021-10-28T03:07:10.398Z>.
+<https://stad.gent/id/concept/530010541/2021-10-28T03:05:52.974Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010541>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:05:52.974Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006082>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14845_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pisa"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530010557>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530010557> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pisa (provincie)"@nl.
+_:df_14845_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010541"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010541/2021-10-28T03:05:52.974Z>.
+<https://stad.gent/id/concept/530005658/2021-10-27T23:01:44.566Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530005658>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T23:01:44.566Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005060>;
+    <http://www.w3.org/ns/adms#identifier> _:df_16474_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pistoia"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl, "Italië"@nl.
+_:df_16474_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530005658"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530005658/2021-10-27T23:01:44.566Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/pis.ttl>.

@@ -78,3 +78,171 @@ _:df_4411_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470007366"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007366/2021-10-27T18:14:29.942Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/rep.ttl>.
+<https://stad.gent/id/concept/570019954/2021-11-01T01:20:16.924Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019954>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T01:20:16.924Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300311961>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1588_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reprografie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007023>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007023> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukkerij"@nl.
+_:df_1588_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019954"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019954/2021-11-01T01:20:16.924Z>.
+<https://stad.gent/id/concept/570011557/2021-10-31T21:59:47.567Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011557>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T21:59:47.567Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015643>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3007_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor kopieën van kunstafbeeldingen, kunstobjecten of andere gewaardeerde afbeeldingen of objecten, die zijn gemaakt zonder de bedoeling te misleiden; heeft betrekking op kunstafbeeldingen, ook fotografische reproducties.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reproductie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_3007_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011557"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011557/2021-10-31T21:59:47.567Z>.
+<https://stad.gent/id/concept/550006141/2021-10-31T18:12:16.587Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006141>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:12:16.587Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015643>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4621_42;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor kopieën van kunstafbeeldingen, kunstobjecten of andere gewaardeerde afbeeldingen of objecten, die zijn gemaakt zonder de bedoeling te misleiden; heeft betrekking op kunstafbeeldingen, ook fotografische reproducties; duidt op een meer precieze en getrouwe imitatie dan de term 'kopiedn (afgeleide objecten)'. Gebruik de term 'vervalsingen (1)' of 'vervalsingen (2)' als er sprake is van misleiding.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reproductie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008289>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008289> <http://www.w3.org/2004/02/skos/core#prefLabel> "kopie (afgeleid object)"@nl.
+_:df_4621_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006141"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006141/2021-10-31T18:12:16.587Z>.
+<https://stad.gent/id/concept/550000195/2021-10-31T16:16:11.372Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:16:11.372Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/8698309>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5446_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Republiek der zeven Verenigde Nederlanden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "nationaliteit"@nl, "nationality"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_5446_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000195/2021-10-31T16:16:11.372Z>.
+<https://stad.gent/id/concept/530010471/2021-10-31T15:56:36.569Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T15:56:36.569Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015643>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5587_25;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor kopieën van kunstafbeeldingen, kunstobjecten of andere gewaardeerde afbeeldingen of objecten, die zijn gemaakt zonder de bedoeling te misleiden; heeft betrekking op kunstafbeeldingen, ook fotografische reproducties; duidt op een meer precieze en getrouwe imitatie dan de term 'kopiedn (afgeleide objecten)'. Gebruik de term 'vervalsingen (1)' of 'vervalsingen (2)' als er sprake is van misleiding.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reproductie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008736>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008736> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenre"@nl.
+_:df_5587_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010471/2021-10-31T15:56:36.569Z>.
+<https://stad.gent/id/concept/470007366/2021-10-31T07:32:29.720Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007366>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:32:29.720Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015643>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9163_5;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reproductie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9163_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007366"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007366/2021-10-31T07:32:29.720Z>.
+<https://stad.gent/id/concept/570022701/2021-10-28T13:09:46.612Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022701>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:09:46.612Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7255275>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10741_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reppel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570001061>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570001061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Limburg (provincie)"@nl.
+_:df_10741_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022701"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022701/2021-10-28T13:09:46.612Z>.
+<https://stad.gent/id/concept/570019954/2021-10-28T12:49:43.534Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570019954>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T12:49:43.534Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300311961>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10879_23;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reprografie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570007023>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "collectie"@nl, "collection"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570007023> <http://www.w3.org/2004/02/skos/core#prefLabel> "drukkerij"@nl.
+_:df_10879_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019954"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570019954/2021-10-28T12:49:43.534Z>.
+<https://stad.gent/id/concept/570011557/2021-10-28T09:25:18.514Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570011557>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T09:25:18.514Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015643>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12298_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor kopieën van kunstafbeeldingen, kunstobjecten of andere gewaardeerde afbeeldingen of objecten, die zijn gemaakt zonder de bedoeling te misleiden; heeft betrekking op kunstafbeeldingen, ook fotografische reproducties.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reproductie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12298_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570011557"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570011557/2021-10-28T09:25:18.514Z>.
+<https://stad.gent/id/concept/550006141/2021-10-28T05:26:22.143Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550006141>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:26:22.143Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015643>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13912_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor kopieën van kunstafbeeldingen, kunstobjecten of andere gewaardeerde afbeeldingen of objecten, die zijn gemaakt zonder de bedoeling te misleiden; heeft betrekking op kunstafbeeldingen, ook fotografische reproducties; duidt op een meer precieze en getrouwe imitatie dan de term 'kopiedn (afgeleide objecten)'. Gebruik de term 'vervalsingen (1)' of 'vervalsingen (2)' als er sprake is van misleiding.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reproductie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008289>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008289> <http://www.w3.org/2004/02/skos/core#prefLabel> "kopie (afgeleid object)"@nl.
+_:df_13912_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550006141"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550006141/2021-10-28T05:26:22.143Z>.
+<https://stad.gent/id/concept/550000195/2021-10-28T03:21:56.579Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550000195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:21:56.579Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/8698309>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14737_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Republiek der zeven Verenigde Nederlanden"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550005045>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "nationaliteit"@nl, "nationality"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550005045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europa"@nl.
+_:df_14737_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550000195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550000195/2021-10-28T03:21:56.579Z>.
+<https://stad.gent/id/concept/530010471/2021-10-28T03:01:11.005Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010471>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:01:11.005Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015643>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14878_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Wordt gebruikt voor kopieën van kunstafbeeldingen, kunstobjecten of andere gewaardeerde afbeeldingen of objecten, die zijn gemaakt zonder de bedoeling te misleiden; heeft betrekking op kunstafbeeldingen, ook fotografische reproducties; duidt op een meer precieze en getrouwe imitatie dan de term 'kopiedn (afgeleide objecten)'. Gebruik de term 'vervalsingen (1)' of 'vervalsingen (2)' als er sprake is van misleiding.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reproductie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008736>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008736> <http://www.w3.org/2004/02/skos/core#prefLabel> "objectgenre"@nl.
+_:df_14878_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010471"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010471/2021-10-28T03:01:11.005Z>.
+<https://stad.gent/id/concept/470007366/2021-10-27T18:14:29.942Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470007366>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:14:29.942Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300015643>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18454_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "reproductie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_18454_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470007366"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470007366/2021-10-27T18:14:29.942Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/rep.ttl>.

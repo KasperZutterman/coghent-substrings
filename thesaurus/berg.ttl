@@ -35,3 +35,302 @@ _:df_4147_11 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008832"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008832/2021-10-27T18:52:10.865Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/berg.ttl>.
+<https://stad.gent/id/concept/550004403/2021-10-31T17:15:35.445Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004403>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:15:35.445Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006822>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5023_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergen op Zoom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl, "Nederland"@nl, "Nederland"@nl.
+_:df_5023_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004403"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004403/2021-10-31T17:15:35.445Z>.
+<https://stad.gent/id/concept/550001118/2021-10-31T16:26:28.896Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001118>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:26:28.896Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007961>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5374_21;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008925>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+_:df_5374_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001118"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001118/2021-10-31T16:26:28.896Z>.
+<https://stad.gent/id/concept/530010589/2021-10-31T16:04:47.937Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010589>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:04:47.937Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038860>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5527_10;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Meubilair dat een ruimte omsluit en meestal ongeveer de constructie van een kist of doos heeft en dient voor opslag of vertoning van voorwerpen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bergmeubel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006321>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005153>, <https://stad.gent/id/concept/530008876>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008876> <http://www.w3.org/2004/02/skos/core#prefLabel> "kist"@nl.
+<https://stad.gent/id/concept/530005153> <http://www.w3.org/2004/02/skos/core#prefLabel> "kastmeubel"@nl, "kastmeubel"@nl.
+<https://stad.gent/id/concept/530006321> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair (objectnaam)"@nl, "meubilair (objectnaam)"@nl.
+_:df_5527_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010589"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010589/2021-10-31T16:04:47.937Z>.
+<https://stad.gent/id/concept/530009545/2021-10-31T14:42:19.381Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009545>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:42:19.381Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7248276>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6112_16;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergen (Antwerpen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002920>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antwerpen (provincie)"@nl.
+_:df_6112_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009545"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009545/2021-10-31T14:42:19.381Z>.
+<https://stad.gent/id/concept/530009419/2021-10-31T14:33:22.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009419>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:33:22.363Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006822>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6175_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergen-op-zoom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009317>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009317> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord-Brabant"@nl.
+_:df_6175_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009419"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009419/2021-10-31T14:33:22.363Z>.
+<https://stad.gent/id/concept/530009420/2021-10-31T14:33:27.365Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009420>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:33:27.365Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7008455>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6175_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergues"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6175_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009420"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009420/2021-10-31T14:33:27.365Z>.
+<https://stad.gent/id/concept/530007002/2021-10-31T13:04:27.369Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:04:27.369Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007961>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6808_35;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergen (Henegouwen)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008347>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530008026>, <https://stad.gent/id/concept/530008337>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008337> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nimy"@nl.
+<https://stad.gent/id/concept/530008026> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jemappes"@nl.
+<https://stad.gent/id/concept/530008347> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+_:df_6808_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007002/2021-10-31T13:04:27.369Z>.
+<https://stad.gent/id/concept/530006635/2021-10-31T12:54:03.670Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530006635>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T12:54:03.670Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005025>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6880_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergamo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004292>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_6880_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530006635"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530006635/2021-10-31T12:54:03.670Z>.
+<https://stad.gent/id/concept/530004617/2021-10-31T11:37:52.873Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004617>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:37:52.873Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/1047646>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7420_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergeijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009317>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009317> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noord-Brabant"@nl.
+_:df_7420_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004617"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004617/2021-10-31T11:37:52.873Z>.
+<https://stad.gent/id/concept/530002998/2021-10-31T10:47:56.124Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530002998>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T10:47:56.124Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_7777_37;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Bergkristal is de kleurloze en meest voorkomende variant van het mineraal kwarts (siliciumdioxide, SiO2) De naam 'bergkristal' is afgeleid van het Griekse woord \"Krustallos\" dat ijs betekent. Men geloofde dat bergkristal door de goden vormgegeven ijs was.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bergkristal"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "materiaal"@nl, "material"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_7777_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530002998"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530002998/2021-10-31T10:47:56.124Z>.
+<https://stad.gent/id/concept/530000992/2021-10-31T09:54:59.508Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530000992>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T09:54:59.508Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037801>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8152_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Gestoffeerde leunstoelen die verschillen van andere leunstoelen omdat ze tussen de armleuning en de zitting zijn gestoffeerd.\r\n";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bergère (stoel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530002956>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530002956> <http://www.w3.org/2004/02/skos/core#prefLabel> "armstoel"@nl.
+_:df_8152_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000992"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530000992/2021-10-31T09:54:59.508Z>.
+<https://stad.gent/id/concept/470009450/2021-10-31T08:26:14.942Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470009450>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:26:14.942Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7248257>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8782_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergen op Zoom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8782_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470009450"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470009450/2021-10-31T08:26:14.942Z>.
+<https://stad.gent/id/concept/470008832/2021-10-31T08:09:52.704Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008832>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:09:52.704Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300411358>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8899_16;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een voorstelling van een landschap waarin bergen, heuvels en dalen het hoofdbestanddeel vormen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "berglandschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8899_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008832"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008832/2021-10-31T08:09:52.704Z>.
+<https://stad.gent/id/concept/570016113/2021-10-28T10:57:00.018Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570016113>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:57:00.018Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7012390>;
+    <http://www.w3.org/ns/adms#identifier> _:df_11668_31;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergisch Gladbach"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570000948>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570000948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duitsland"@nl.
+_:df_11668_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570016113"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570016113/2021-10-28T10:57:00.018Z>.
+<https://stad.gent/id/concept/570013639/2021-10-28T10:01:26.019Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570013639>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T10:01:26.019Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7005025>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12049_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergamo"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570020612>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570020612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italië"@nl.
+_:df_12049_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013639"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570013639/2021-10-28T10:01:26.019Z>.
+<https://stad.gent/id/concept/570005473/2021-10-28T07:55:45.855Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570005473>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:55:45.855Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007961>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12910_29;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012866>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570025118>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570025118> <http://www.w3.org/2004/02/skos/core#prefLabel> "Havré"@nl.
+<https://stad.gent/id/concept/570012866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen (provincie)"@nl.
+_:df_12910_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570005473"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570005473/2021-10-28T07:55:45.855Z>.
+<https://stad.gent/id/concept/550008596/2021-10-28T07:00:52.894Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008596>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:00:52.894Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300037801>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13279_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "\t\r\nGestoffeerde leunstoelen die verschillen van andere leunstoelen omdat ze tussen de armleuning en de zitting zijn gestoffeerd.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bergère (stoel)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007833>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550007833> <http://www.w3.org/2004/02/skos/core#prefLabel> "leunstoel"@nl.
+_:df_13279_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008596"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008596/2021-10-28T07:00:52.894Z>.
+<https://stad.gent/id/concept/550004403/2021-10-28T04:26:27.069Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004403>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:26:27.069Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006822>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14317_28;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergen op Zoom"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl, "Nederland"@nl.
+_:df_14317_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004403"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004403/2021-10-28T04:26:27.069Z>.
+<https://stad.gent/id/concept/550001118/2021-10-28T03:33:57.023Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550001118>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:33:57.023Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7007961>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14665_15;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bergen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008925>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henegouwen"@nl.
+_:df_14665_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550001118"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550001118/2021-10-28T03:33:57.023Z>.
+<https://stad.gent/id/concept/530010589/2021-10-28T03:09:53.114Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530010589>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T03:09:53.114Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300038860>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14818_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Meubilair dat een ruimte omsluit en meestal ongeveer de constructie van een kist of doos heeft en dient voor opslag of vertoning van voorwerpen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "bergmeubel"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006321>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530005153>, <https://stad.gent/id/concept/530008876>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530008876> <http://www.w3.org/2004/02/skos/core#prefLabel> "kist"@nl.
+<https://stad.gent/id/concept/530005153> <http://www.w3.org/2004/02/skos/core#prefLabel> "kastmeubel"@nl, "kastmeubel"@nl.
+<https://stad.gent/id/concept/530006321> <http://www.w3.org/2004/02/skos/core#prefLabel> "meubilair (objectnaam)"@nl, "meubilair (objectnaam)"@nl.
+_:df_14818_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530010589"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530010589/2021-10-28T03:09:53.114Z>.
+<https://stad.gent/id/concept/470005940/2021-10-27T17:33:02.542Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005940>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:33:02.542Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300008795>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18745_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Prominente landvormen die aanzienlijk boven het omringende gebied uitsteken, vaak met steile hellingen, een scherp topgebied en een grote massa. Bergen komen zelden afzonderlijk voor; in de meeste gevallen zijn ze te vinden in gebergten of bergketens. ";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "berg"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_18745_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005940"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005940/2021-10-27T17:33:02.542Z>.
+<https://KasperZutterman.github.io///thesaurus/berg.ttl> <https://w3id.org/tree#relation> _:df_1_4087.
+_:df_1_4087 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/berge.ttl>;
+    <https://w3id.org/tree#value> "berge".
+<https://KasperZutterman.github.io///thesaurus/berg.ttl> <https://w3id.org/tree#relation> _:df_1_4088.
+_:df_1_4088 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/bergu.ttl>;
+    <https://w3id.org/tree#value> "bergu".
+<https://KasperZutterman.github.io///thesaurus/berg.ttl> <https://w3id.org/tree#relation> _:df_1_4089.
+_:df_1_4089 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/berga.ttl>;
+    <https://w3id.org/tree#value> "berga".
+<https://KasperZutterman.github.io///thesaurus/berg.ttl> <https://w3id.org/tree#relation> _:df_1_4090.
+_:df_1_4090 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/bergk.ttl>;
+    <https://w3id.org/tree#value> "bergk".
+<https://KasperZutterman.github.io///thesaurus/berg.ttl> <https://w3id.org/tree#relation> _:df_1_4091.
+_:df_1_4091 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://KasperZutterman.github.io///thesaurus/bergl.ttl>;
+    <https://w3id.org/tree#value> "bergl".
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/berg.ttl>.

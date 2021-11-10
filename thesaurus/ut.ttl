@@ -50,3 +50,129 @@ _:df_2623_2 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530004766"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004766/2021-10-27T22:32:59.695Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ut.ttl>.
+<https://stad.gent/id/concept/550004375/2021-10-31T17:14:44.854Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:14:44.854Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006926>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5029_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Utrecht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl, "Nederland"@nl.
+_:df_5029_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004375"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004375/2021-10-31T17:14:44.854Z>.
+<https://stad.gent/id/concept/530009331/2021-10-31T14:26:16.575Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:26:16.575Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003627>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6226_45;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Utrecht (provincie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006470>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006650>, <https://stad.gent/id/concept/530009358>, <https://stad.gent/id/concept/530006625>, <https://stad.gent/id/concept/530006664>, <https://stad.gent/id/concept/530005279>, <https://stad.gent/id/concept/530006054>, <https://stad.gent/id/concept/530006397>, <https://stad.gent/id/concept/530009830>, <https://stad.gent/id/concept/530004766>, <https://stad.gent/id/concept/530007034>, <https://stad.gent/id/concept/530006603>, <https://stad.gent/id/concept/530009509>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009509> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houten"@nl.
+<https://stad.gent/id/concept/530006603> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zeist"@nl.
+<https://stad.gent/id/concept/530007034> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veenendaal"@nl.
+<https://stad.gent/id/concept/530004766> <http://www.w3.org/2004/02/skos/core#prefLabel> "Utrecht (stad)"@nl.
+<https://stad.gent/id/concept/530009830> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rijsenburg"@nl.
+<https://stad.gent/id/concept/530006397> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maarssen"@nl.
+<https://stad.gent/id/concept/530006054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leusden"@nl.
+<https://stad.gent/id/concept/530005279> <http://www.w3.org/2004/02/skos/core#prefLabel> "De Meern"@nl.
+<https://stad.gent/id/concept/530006664> <http://www.w3.org/2004/02/skos/core#prefLabel> "De Bilt"@nl.
+<https://stad.gent/id/concept/530006625> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baarn"@nl.
+<https://stad.gent/id/concept/530009358> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amersfoort"@nl.
+<https://stad.gent/id/concept/530006650> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amerongen"@nl.
+<https://stad.gent/id/concept/530006470> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_6226_45 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009331/2021-10-31T14:26:16.575Z>.
+<https://stad.gent/id/concept/530004766/2021-10-31T11:44:17.880Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004766>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:44:17.880Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006926>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7375_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Utrecht (stad)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009331>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530002922>, <https://stad.gent/id/concept/530007447>, <https://stad.gent/id/concept/530009599>, <https://stad.gent/id/concept/530009939>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009939> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soest"@nl.
+<https://stad.gent/id/concept/530009599> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schalkwijk (Utrecht)"@nl.
+<https://stad.gent/id/concept/530007447> <http://www.w3.org/2004/02/skos/core#prefLabel> "Harmelen"@nl.
+<https://stad.gent/id/concept/530002922> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groenekan"@nl.
+<https://stad.gent/id/concept/530009331> <http://www.w3.org/2004/02/skos/core#prefLabel> "Utrecht (provincie)"@nl.
+_:df_7375_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004766"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004766/2021-10-31T11:44:17.880Z>.
+<https://stad.gent/id/concept/550004375/2021-10-28T04:25:34.784Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:25:34.784Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006926>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14323_45;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Utrecht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550006121>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_14323_45 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004375"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004375/2021-10-28T04:25:34.784Z>.
+<https://stad.gent/id/concept/530009331/2021-10-28T01:25:14.418Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009331>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:25:14.418Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7003627>;
+    <http://www.w3.org/ns/adms#identifier> _:df_15517_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Utrecht (provincie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530006470>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530006650>, <https://stad.gent/id/concept/530009358>, <https://stad.gent/id/concept/530006625>, <https://stad.gent/id/concept/530006664>, <https://stad.gent/id/concept/530005279>, <https://stad.gent/id/concept/530006054>, <https://stad.gent/id/concept/530006397>, <https://stad.gent/id/concept/530009830>, <https://stad.gent/id/concept/530004766>, <https://stad.gent/id/concept/530007034>, <https://stad.gent/id/concept/530006603>, <https://stad.gent/id/concept/530009509>;
+    <http://www.w3.org/2004/02/skos/core#note> "plaats"@nl, "place"@en, "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009509> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houten"@nl.
+<https://stad.gent/id/concept/530006603> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zeist"@nl.
+<https://stad.gent/id/concept/530007034> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veenendaal"@nl.
+<https://stad.gent/id/concept/530004766> <http://www.w3.org/2004/02/skos/core#prefLabel> "Utrecht (stad)"@nl.
+<https://stad.gent/id/concept/530009830> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rijsenburg"@nl.
+<https://stad.gent/id/concept/530006397> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maarssen"@nl.
+<https://stad.gent/id/concept/530006054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leusden"@nl.
+<https://stad.gent/id/concept/530005279> <http://www.w3.org/2004/02/skos/core#prefLabel> "De Meern"@nl.
+<https://stad.gent/id/concept/530006664> <http://www.w3.org/2004/02/skos/core#prefLabel> "De Bilt"@nl.
+<https://stad.gent/id/concept/530006625> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baarn"@nl.
+<https://stad.gent/id/concept/530009358> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amersfoort"@nl.
+<https://stad.gent/id/concept/530006650> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amerongen"@nl.
+<https://stad.gent/id/concept/530006470> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nederland"@nl.
+_:df_15517_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009331"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009331/2021-10-28T01:25:14.418Z>.
+<https://stad.gent/id/concept/530004766/2021-10-27T22:32:59.695Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004766>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:32:59.695Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006926>;
+    <http://www.w3.org/ns/adms#identifier> _:df_16666_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Utrecht (stad)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009331>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530002922>, <https://stad.gent/id/concept/530007447>, <https://stad.gent/id/concept/530009599>, <https://stad.gent/id/concept/530009939>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009939> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soest"@nl.
+<https://stad.gent/id/concept/530009599> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schalkwijk (Utrecht)"@nl.
+<https://stad.gent/id/concept/530007447> <http://www.w3.org/2004/02/skos/core#prefLabel> "Harmelen"@nl.
+<https://stad.gent/id/concept/530002922> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groenekan"@nl.
+<https://stad.gent/id/concept/530009331> <http://www.w3.org/2004/02/skos/core#prefLabel> "Utrecht (provincie)"@nl.
+_:df_16666_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004766"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004766/2021-10-27T22:32:59.695Z>.
+<https://stad.gent/id/concept/470003195/2021-10-27T16:39:44.119Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470003195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:39:44.119Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7006926>;
+    <http://www.w3.org/ns/adms#identifier> _:df_19114_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Utrecht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_19114_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470003195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470003195/2021-10-27T16:39:44.119Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ut.ttl>.

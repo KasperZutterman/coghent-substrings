@@ -1,0 +1,30 @@
+<https://stad.gent/id/concept/530004404/2021-10-27T22:16:45.380Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004404>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:16:45.380Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_16777_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dekbedset"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530008637>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530001610>, <https://stad.gent/id/concept/530000174>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530000174> <http://www.w3.org/2004/02/skos/core#prefLabel> "kussensloop"@nl.
+<https://stad.gent/id/concept/530001610> <http://www.w3.org/2004/02/skos/core#prefLabel> "dekbedovertrek"@nl.
+<https://stad.gent/id/concept/530008637> <http://www.w3.org/2004/02/skos/core#prefLabel> "beddengoed"@nl.
+_:df_16777_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004404"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004404/2021-10-27T22:16:45.380Z>.
+<https://stad.gent/id/concept/530001610/2021-10-27T20:59:01.698Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530001610>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T20:59:01.698Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300197365>;
+    <http://www.w3.org/ns/adms#identifier> _:df_17305_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwisselbaar omhulsel voor een dekbed.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "dekbedovertrek"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530004404>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004404> <http://www.w3.org/2004/02/skos/core#prefLabel> "dekbedset"@nl.
+_:df_17305_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001610"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530001610/2021-10-27T20:59:01.698Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/dekb.ttl>.

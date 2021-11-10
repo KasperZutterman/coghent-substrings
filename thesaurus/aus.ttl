@@ -22,3 +22,140 @@ _:df_4309_22 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008049"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008049/2021-10-27T18:29:18.638Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/aus.ttl>.
+<https://stad.gent/id/concept/550008936/2021-10-31T20:00:33.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008936>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T20:00:33.355Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3853_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Australië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008937>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006819>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006819> <http://www.w3.org/2004/02/skos/core#prefLabel> "Melbourne"@nl.
+<https://stad.gent/id/concept/550008937> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oceanië"@nl.
+_:df_3853_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008936"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008936> <http://www.w3.org/2004/02/skos/core#prefLabel> "Australië"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008936/2021-10-31T20:00:33.355Z>.
+<https://stad.gent/id/concept/530009578/2021-10-31T14:44:56.330Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009578>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T14:44:56.330Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_6094_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Australisch"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_6094_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009578"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009578/2021-10-31T14:44:56.330Z>.
+<https://stad.gent/id/concept/530004758/2021-10-31T11:43:52.874Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004758>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T11:43:52.874Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000490>;
+    <http://www.w3.org/ns/adms#identifier> _:df_7378_10;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Australië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009351>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009440>, <https://stad.gent/id/concept/530007076>, <https://stad.gent/id/concept/530004242>, <https://stad.gent/id/concept/530007366>, <https://stad.gent/id/concept/530004243>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "land"@nl, "country"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004243> <http://www.w3.org/2004/02/skos/core#prefLabel> "Melbourne"@nl.
+<https://stad.gent/id/concept/530007366> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yarralumla"@nl.
+<https://stad.gent/id/concept/530004242> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sydney"@nl.
+<https://stad.gent/id/concept/530007076> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glen Maye"@nl.
+<https://stad.gent/id/concept/530009440> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canberra"@nl.
+<https://stad.gent/id/concept/530009351> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oceanië"@nl.
+_:df_7378_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004758"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004758/2021-10-31T11:43:52.874Z>.
+<https://stad.gent/id/concept/470008049/2021-10-31T07:47:10.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008049>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T07:47:10.885Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q781156>;
+    <http://www.w3.org/ns/adms#identifier> _:df_9058_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Austin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_9058_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008049"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008049/2021-10-31T07:47:10.885Z>.
+<https://stad.gent/id/concept/570008306/2021-10-28T08:12:25.236Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008306>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:12:25.236Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000490>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12796_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Australië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/570016057>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en, "land"@nl, "country"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570016057> <http://www.w3.org/2004/02/skos/core#prefLabel> "Melbourne"@nl.
+_:df_12796_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008306"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008306/2021-10-28T08:12:25.236Z>.
+<https://stad.gent/id/concept/550008936/2021-10-28T07:20:49.370Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550008936>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:20:49.370Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_13144_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Australië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008937>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550006819>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550006819> <http://www.w3.org/2004/02/skos/core#prefLabel> "Melbourne"@nl.
+<https://stad.gent/id/concept/550008937> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oceanië"@nl.
+_:df_13144_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550008936"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550008936> <http://www.w3.org/2004/02/skos/core#prefLabel> "Australië"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550008936/2021-10-28T07:20:49.370Z>.
+<https://stad.gent/id/concept/530009578/2021-10-28T01:45:17.782Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530009578>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T01:45:17.782Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_15385_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Australisch"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "nationaliteit"@nl, "nationality"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_15385_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530009578"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530009578/2021-10-28T01:45:17.782Z>.
+<https://stad.gent/id/concept/530004758/2021-10-27T22:32:32.229Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530004758>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T22:32:32.229Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000490>;
+    <http://www.w3.org/ns/adms#identifier> _:df_16669_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Australië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009351>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/530009440>, <https://stad.gent/id/concept/530007076>, <https://stad.gent/id/concept/530004242>, <https://stad.gent/id/concept/530007366>, <https://stad.gent/id/concept/530004243>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en, "onderwerp"@nl, "subject"@en, "geografisch trefwoord"@nl, "geographical keyword"@en, "land"@nl, "country"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530004243> <http://www.w3.org/2004/02/skos/core#prefLabel> "Melbourne"@nl.
+<https://stad.gent/id/concept/530007366> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yarralumla"@nl.
+<https://stad.gent/id/concept/530004242> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sydney"@nl.
+<https://stad.gent/id/concept/530007076> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glen Maye"@nl.
+<https://stad.gent/id/concept/530009440> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canberra"@nl.
+<https://stad.gent/id/concept/530009351> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oceanië"@nl.
+_:df_16669_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530004758"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530004758/2021-10-27T22:32:32.229Z>.
+<https://stad.gent/id/concept/470008049/2021-10-27T18:29:18.638Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008049>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:29:18.638Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q781156>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18352_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Austin"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_18352_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008049"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008049/2021-10-27T18:29:18.638Z>.
+<https://stad.gent/id/concept/470001951/2021-10-27T16:03:19.061Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470001951>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T16:03:19.061Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/tgn/7000490>;
+    <http://www.w3.org/ns/adms#identifier> _:df_19369_22;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Australië"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/470002698>;
+    <http://www.w3.org/2004/02/skos/core#note> "geografisch trefwoord"@nl, "geographical keyword"@en, "plaats"@nl, "place"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470002698> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oceanië"@nl.
+_:df_19369_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470001951"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470001951/2021-10-27T16:03:19.061Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/aus.ttl>.

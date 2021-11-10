@@ -35,3 +35,205 @@ _:df_4150_7 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "470008816"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008816/2021-10-27T18:51:33.752Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/opt.ttl>.
+<https://stad.gent/id/concept/550007551/2021-10-31T18:40:49.900Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007551>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:40:49.900Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4420_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "opticien"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_4420_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007551"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007551/2021-10-31T18:40:49.900Z>.
+<https://stad.gent/id/concept/550004691/2021-10-31T17:26:48.357Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004691>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T17:26:48.357Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900032085>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4945_35;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Met de hand gekleurde prent in koperdruk, bestemd om in een optica (soort camera obscura) bekeken te worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "opticaprent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008275>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008275> <http://www.w3.org/2004/02/skos/core#prefLabel> "prenten naar vorm"@nl.
+_:df_4945_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004691"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004691/2021-10-31T17:26:48.357Z>.
+<https://stad.gent/id/concept/550002764/2021-10-31T16:52:12.314Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T16:52:12.314Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024585>;
+    <http://www.w3.org/ns/adms#identifier> _:df_5191_20;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten die oorspronkelijk waren gemaakt voor het observeren en vastleggen van licht. Tevens optische uitrusting voor algemene doeleinden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optisch instrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008344>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001426>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001426> <http://www.w3.org/2004/02/skos/core#prefLabel> "telescoop"@nl.
+<https://stad.gent/id/concept/550008344> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrustingen voor wetenschap en technologie"@nl.
+_:df_5191_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002764/2021-10-31T16:52:12.314Z>.
+<https://stad.gent/id/concept/470008889/2021-10-31T08:11:54.516Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008889>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:11:54.516Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069283>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8884_19;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor grote openbare, feestelijke optochten, vaak met wagens en fanfares, die ter ere van een gedenkdag, persoon of gebeurtenis worden gehouden. Gebruik 'processies' voor een groep mensen, die ordelijk in formeel ceremonieel verband achter elkaar lopen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optocht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470006858>, <https://stad.gent/id/concept/470009702>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470009702> <http://www.w3.org/2004/02/skos/core#prefLabel> "processie"@nl.
+<https://stad.gent/id/concept/470006858> <http://www.w3.org/2004/02/skos/core#prefLabel> "bloemencorso"@nl.
+_:df_8884_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008889"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008889/2021-10-31T08:11:54.516Z>.
+<https://stad.gent/id/concept/470008816/2021-10-31T08:09:17.694Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008816>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T08:09:17.694Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024585>;
+    <http://www.w3.org/ns/adms#identifier> _:df_8902_12;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optisch instrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_8902_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008816"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008816/2021-10-31T08:09:17.694Z>.
+<https://stad.gent/id/concept/570024280/2021-10-28T14:22:20.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570024280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T14:22:20.245Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/q378499>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10252_27;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optische telegrafie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/570012269>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/570012269> <http://www.w3.org/2004/02/skos/core#prefLabel> "telegrafie"@nl, "telegrafie"@nl.
+_:df_10252_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570024280/2021-10-28T14:22:20.245Z>.
+<https://stad.gent/id/concept/570022741/2021-10-28T13:11:23.477Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022741>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:11:23.477Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300054570>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10732_24;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optica"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10732_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022741"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022741/2021-10-28T13:11:23.477Z>.
+<https://stad.gent/id/concept/570017516/2021-10-28T11:43:14.526Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570017516>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T11:43:14.526Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024585>;
+    <http://www.w3.org/ns/adms#identifier> _:df_11344_9;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optische instrumenten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_11344_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570017516"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570017516/2021-10-28T11:43:14.526Z>.
+<https://stad.gent/id/concept/570008803/2021-10-28T08:25:15.203Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570008803>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T08:25:15.203Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069283>;
+    <http://www.w3.org/ns/adms#identifier> _:df_12709_14;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optochten"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "motief"@nl, "motif"@en, "trefwoord"@nl, "keyword"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_12709_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570008803"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570008803/2021-10-28T08:25:15.203Z>.
+<https://stad.gent/id/concept/550007551/2021-10-28T05:56:18.242Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007551>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T05:56:18.242Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_13711_20;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "opticien"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "rol"@nl, "role"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_13711_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007551"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007551/2021-10-28T05:56:18.242Z>.
+<https://stad.gent/id/concept/550004691/2021-10-28T04:38:20.584Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550004691>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:38:20.584Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/900032085>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14236_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Met de hand gekleurde prent in koperdruk, bestemd om in een optica (soort camera obscura) bekeken te worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "opticaprent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008275>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008275> <http://www.w3.org/2004/02/skos/core#prefLabel> "prenten naar vorm"@nl.
+_:df_14236_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550004691"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550004691/2021-10-28T04:38:20.584Z>.
+<https://stad.gent/id/concept/550002764/2021-10-28T04:01:23.531Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550002764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T04:01:23.531Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024585>;
+    <http://www.w3.org/ns/adms#identifier> _:df_14482_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Instrumenten die oorspronkelijk waren gemaakt voor het observeren en vastleggen van licht. Tevens optische uitrusting voor algemene doeleinden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optisch instrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008344>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550001426>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550001426> <http://www.w3.org/2004/02/skos/core#prefLabel> "telescoop"@nl.
+<https://stad.gent/id/concept/550008344> <http://www.w3.org/2004/02/skos/core#prefLabel> "uitrustingen voor wetenschap en technologie"@nl.
+_:df_14482_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550002764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550002764/2021-10-28T04:01:23.531Z>.
+<https://stad.gent/id/concept/470008889/2021-10-27T18:54:12.796Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008889>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:54:12.796Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300069283>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18175_14;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Te gebruiken voor grote openbare, feestelijke optochten, vaak met wagens en fanfares, die ter ere van een gedenkdag, persoon of gebeurtenis worden gehouden. Gebruik 'processies' voor een groep mensen, die ordelijk in formeel ceremonieel verband achter elkaar lopen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optocht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/470006858>, <https://stad.gent/id/concept/470009702>;
+    <http://www.w3.org/2004/02/skos/core#note> "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/470009702> <http://www.w3.org/2004/02/skos/core#prefLabel> "processie"@nl.
+<https://stad.gent/id/concept/470006858> <http://www.w3.org/2004/02/skos/core#prefLabel> "bloemencorso"@nl.
+_:df_18175_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008889"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008889/2021-10-27T18:54:12.796Z>.
+<https://stad.gent/id/concept/470008816/2021-10-27T18:51:33.752Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470008816>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T18:51:33.752Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300024585>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18193_7;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optisch instrument"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_18193_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008816"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470008816/2021-10-27T18:51:33.752Z>.
+<https://stad.gent/id/concept/470005201/2021-10-27T17:19:51.124Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470005201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:19:51.124Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300378989>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18835_12;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Met de hand gekleurde prent in koperdruk, bestemd om in een optica bekeken te worden.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "opticaprent"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_18835_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470005201/2021-10-27T17:19:51.124Z>.
+<https://stad.gent/id/concept/470004268/2021-10-27T17:05:48.665Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/470004268>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-27T17:05:48.665Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300211119>;
+    <http://www.w3.org/ns/adms#identifier> _:df_18931_2;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "optisch speelgoed"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectcategorie"@nl, "object category"@en, "onderwerp"@nl, "subject"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_18931_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004268"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/470004268/2021-10-27T17:05:48.665Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/opt.ttl>.

@@ -129,3 +129,129 @@ _:df_1936_22 a <http://www.w3.org/ns/adms#Identifier>;
     <http://www.w3.org/2004/02/skos/core#notation> "530007973"^^<https://stad.gent/id/identificatiesysteem/priref>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007973/2021-10-28T00:16:04.822Z>.
 <https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ae.ttl>.
+<https://stad.gent/id/concept/570022799/2021-11-01T01:44:08.839Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022799>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-11-01T01:44:08.839Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014612>;
+    <http://www.w3.org/ns/adms#identifier> _:df_1417_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een colloïdaal systeem zoals een mist of nevel, met een gas als dispersiemedium.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aerosol"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_1417_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022799"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022799/2021-11-01T01:44:08.839Z>.
+<https://stad.gent/id/concept/550009062/2021-10-31T20:02:40.369Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009062>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T20:02:40.369Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300190947>;
+    <http://www.w3.org/ns/adms#identifier> _:df_3838_13;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aerofoononderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008368>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009061>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009061> <http://www.w3.org/2004/02/skos/core#prefLabel> "mondstuk"@nl.
+<https://stad.gent/id/concept/550008368> <http://www.w3.org/2004/02/skos/core#prefLabel> "geluidsapparatuuronderdelen"@nl.
+_:df_3838_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009062"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550009062> <http://www.w3.org/2004/02/skos/core#prefLabel> "aerofoononderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009062/2021-10-31T20:02:40.369Z>.
+<https://stad.gent/id/concept/550007873/2021-10-31T18:54:01.293Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007873>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T18:54:01.293Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041622>;
+    <http://www.w3.org/ns/adms#identifier> _:df_4324_2;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geluidsmiddelen die geluid voortbrengen door lucht in beweging te brengen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aerofoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007822>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007872>, <https://stad.gent/id/concept/550002882>, <https://stad.gent/id/concept/550006216>, <https://stad.gent/id/concept/550008069>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008069> <http://www.w3.org/2004/02/skos/core#prefLabel> "riet (aërofoon)"@nl.
+<https://stad.gent/id/concept/550006216> <http://www.w3.org/2004/02/skos/core#prefLabel> "orgel"@nl.
+<https://stad.gent/id/concept/550002882> <http://www.w3.org/2004/02/skos/core#prefLabel> "fluit (aërofoon)"@nl.
+<https://stad.gent/id/concept/550007872> <http://www.w3.org/2004/02/skos/core#prefLabel> "blaasinstrumenten, bespeeld door lipspanning"@nl.
+<https://stad.gent/id/concept/550007822> <http://www.w3.org/2004/02/skos/core#prefLabel> "geluidsmiddelen naar akoestische kenmerken"@nl.
+_:df_4324_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007873"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007873/2021-10-31T18:54:01.293Z>.
+<https://stad.gent/id/concept/530007973/2021-10-31T13:21:21.659Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007973>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-31T13:21:21.659Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300018124>;
+    <http://www.w3.org/ns/adms#identifier> _:df_6688_30;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een Britse beweging die van invloed was op de kunst en architectuur in de jaren 70 en 80 van de 19de eeuw. Na de filosofie van l'art pour l'art achtte de aesthetische beweging de schoonheid en de autonome waarde van de kunst hoger dan didactische doeleinden, verhalende inhoud of betekenisvolle onderwerpen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Aesthetic Movement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009881>, <https://stad.gent/id/concept/530009267>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009267> <http://www.w3.org/2004/02/skos/core#prefLabel> "2de helft 19de eeuw"@nl.
+<https://stad.gent/id/concept/530009881> <http://www.w3.org/2004/02/skos/core#prefLabel> "moderne Europese stijlen en stromingen"@nl.
+_:df_6688_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007973"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007973/2021-10-31T13:21:21.659Z>.
+<https://stad.gent/id/concept/570022799/2021-10-28T13:14:25.819Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/570022799>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T13:14:25.819Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300014612>;
+    <http://www.w3.org/ns/adms#identifier> _:df_10711_28;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Een colloïdaal systeem zoals een mist of nevel, met een gas als dispersiemedium.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aerosol"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+_:df_10711_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022799"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/570022799/2021-10-28T13:14:25.819Z>.
+<https://stad.gent/id/concept/550009062/2021-10-28T07:23:00.989Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550009062>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T07:23:00.989Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300190947>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13129_8;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aerofoononderdelen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550008368>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550009061>;
+    <http://www.w3.org/2004/02/skos/core#note> "gidsterm"@nl, "guide term"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550009061> <http://www.w3.org/2004/02/skos/core#prefLabel> "mondstuk"@nl.
+<https://stad.gent/id/concept/550008368> <http://www.w3.org/2004/02/skos/core#prefLabel> "geluidsapparatuuronderdelen"@nl.
+_:df_13129_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550009062"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550009062> <http://www.w3.org/2004/02/skos/core#prefLabel> "aerofoononderdelen"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550009062/2021-10-28T07:23:00.989Z>.
+<https://stad.gent/id/concept/550007873/2021-10-28T06:10:30.203Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/550007873>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T06:10:30.203Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300041622>;
+    <http://www.w3.org/ns/adms#identifier> _:df_13618_32;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Geluidsmiddelen die geluid voortbrengen door lucht in beweging te brengen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "aerofoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/550007822>;
+    <http://www.w3.org/2004/02/skos/core#narrower> <https://stad.gent/id/concept/550007872>, <https://stad.gent/id/concept/550002882>, <https://stad.gent/id/concept/550006216>, <https://stad.gent/id/concept/550008069>;
+    <http://www.w3.org/2004/02/skos/core#note> "objectnaam"@nl, "object name"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/550008069> <http://www.w3.org/2004/02/skos/core#prefLabel> "riet (aërofoon)"@nl.
+<https://stad.gent/id/concept/550006216> <http://www.w3.org/2004/02/skos/core#prefLabel> "orgel"@nl.
+<https://stad.gent/id/concept/550002882> <http://www.w3.org/2004/02/skos/core#prefLabel> "fluit (aërofoon)"@nl.
+<https://stad.gent/id/concept/550007872> <http://www.w3.org/2004/02/skos/core#prefLabel> "blaasinstrumenten, bespeeld door lipspanning"@nl, "blaasinstrumenten, bespeeld door lipspanning"@nl.
+<https://stad.gent/id/concept/550007822> <http://www.w3.org/2004/02/skos/core#prefLabel> "geluidsmiddelen naar akoestische kenmerken"@nl.
+_:df_13618_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "550007873"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://stad.gent/id/concept/550007873> <http://www.w3.org/2004/02/skos/core#prefLabel> "aerofoon"@nl.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/550007873/2021-10-28T06:10:30.203Z>.
+<https://stad.gent/id/concept/530007973/2021-10-28T00:16:04.822Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/concept/530007973>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-10-28T00:16:04.822Z";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/aat/300018124>;
+    <http://www.w3.org/ns/adms#identifier> _:df_15979_22;
+    <http://www.w3.org/2004/02/skos/core#scopeNote> "Verwijst naar een Britse beweging die van invloed was op de kunst en architectuur in de jaren 70 en 80 van de 19de eeuw. Na de filosofie van l'art pour l'art achtte de aesthetische beweging de schoonheid en de autonome waarde van de kunst hoger dan didactische doeleinden, verhalende inhoud of betekenisvolle onderwerpen.";
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Aesthetic Movement"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/concept>;
+    <http://www.w3.org/2004/02/skos/core#broader> <https://stad.gent/id/concept/530009881>, <https://stad.gent/id/concept/530009267>;
+    <http://www.w3.org/2004/02/skos/core#note> "periode"@nl, "period"@en;
+    a <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://stad.gent/id/concept/530009267> <http://www.w3.org/2004/02/skos/core#prefLabel> "2de helft 19de eeuw"@nl.
+<https://stad.gent/id/concept/530009881> <http://www.w3.org/2004/02/skos/core#prefLabel> "moderne Europese stijlen en stromingen"@nl.
+_:df_15979_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530007973"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <https://w3id.org/tree#member> <https://stad.gent/id/concept/530007973/2021-10-28T00:16:04.822Z>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/thesaurus> <http://rdfs.org/ns/void#subset> <https://KasperZutterman.github.io///thesaurus/ae.ttl>.
